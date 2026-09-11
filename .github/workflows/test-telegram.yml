@@ -1,0 +1,27 @@
+name: Test Telegram
+
+on:
+  workflow_dispatch: {}  # ruleaza manual din tab-ul Actions, ca sa confirmi ca secretele sunt corecte
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instaleaza dependinte
+        run: pip install -r requirements.txt
+
+      - name: Trimite mesaj de test pe Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python -c "
+          import notify_telegram
+          notify_telegram.send_message('Test radar licitatii - daca vezi acest mesaj, TELEGRAM_BOT_TOKEN si TELEGRAM_CHAT_ID sunt configurate corect.')
+          "
