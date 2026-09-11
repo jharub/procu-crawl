@@ -105,6 +105,11 @@ exista nicio dependinta de GitHub Pages in cod.
 ## Personalizare
 
 - **Coduri CPV / cuvinte cheie**: editeaza `config.py`.
+- **Notificari Telegram doar din SICAP (fara TED)**: seteaza `NOTIFY_TED_ON_TELEGRAM = False`
+  in `config.py`. TED ramane colectat si vizibil pe pagina web (poti filtra dupa sursa
+  acolo) - doar notificarea pe Telegram e oprita. Util daca esti o firma mica pentru care
+  licitatiile peste pragul UE sunt rareori realiste, dar tot vrei sa le poti verifica
+  ocazional pe site.
 - **Frecventa**: editeaza linia `cron` din `.github/workflows/radar.yml`
   ([crontab.guru](https://crontab.guru) te ajuta sa scrii expresia). O rulare de 1-2
   ori pe zi e suficienta - sursele sunt in timp real, nu exporturi periodice.

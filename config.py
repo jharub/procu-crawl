@@ -56,5 +56,12 @@ KEYWORDS = [
 # Tara pentru filtrul TED (Romania)
 TED_BUYER_COUNTRY = "ROU"
 
+# Daca vrei sa primesti pe Telegram doar achizitii directe si anunturi de participare
+# (SICAP), nu si licitatiile mari de pe TED, pune False. TED ramane oricum colectat si
+# vizibil pe pagina web (poti filtra dupa sursa acolo oricand) - doar notificarea pe
+# Telegram e oprita, ca sa nu iti aglomereze conversatia cu oportunitati mai putin
+# potrivite pentru o firma mica.
+NOTIFY_TED_ON_TELEGRAM = False
+
 # Fisierul in care se tine evidenta anunturilor deja notificate (nu trimitem de doua ori)
 STATE_FILE = "state/seen.json"

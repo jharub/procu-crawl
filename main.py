@@ -18,7 +18,7 @@ import notify_telegram
 import sicap_api
 import site_data
 import ted_client
-from config import STATE_FILE
+from config import NOTIFY_TED_ON_TELEGRAM, STATE_FILE
 
 
 def _load_seen() -> set[str]:
@@ -88,6 +88,8 @@ def run(days_back: int = 3) -> None:
             if item["source"].startswith("SICAP"):
                 item = sicap_api.enrich_item(item)
                 new_items[idx] = item
+            if item["source"] == "TED" and not NOTIFY_TED_ON_TELEGRAM:
+                continue
             notify_telegram.send_message(_format_item(item))
         site_data.merge_new_items(new_items)
 
