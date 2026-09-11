@@ -103,14 +103,22 @@ def normalize(notice: dict) -> dict:
     html_links = links.get("html") or {}
     url = html_links.get("ROU") or html_links.get("ENG") or next(iter(html_links.values()), "")
 
+    cpv_list = notice.get("classification-cpv") or []
+    # TED e interogat direct pe codurile din CPV_CODES (vezi _build_query), deci
+    # orice rezultat s-a potrivit prin CPV - nu exista filtrare pe cuvinte cheie
+    # aici. Retinem totusi care anume coduri din anunt sunt cele care ne intereseaza,
+    # pentru afisarea motivului potrivirii pe pagina web.
+    matched_cpv = [c for c in cpv_list if any(code in c for code in CPV_CODES)]
+
     return {
         "source": "TED",
         "id": notice.get("publication-number"),
         "title": first("notice-title") or "(fara titlu)",
         "authority": first("buyer-name") or "",
-        "cpv": notice.get("classification-cpv") or [],
+        "cpv": cpv_list,
         "published": first("publication-date") or "",
         "deadline": first("deadline-receipt-tender-date-lot") or first("deadline") or "",
         "value": first("estimated-value-proc") or first("estimated-value-lot") or "",
         "url": url or f"https://ted.europa.eu/en/notice/-/detail/{notice.get('publication-number')}",
+        "match_reason": {"cpv": matched_cpv, "keywords": []},
     }

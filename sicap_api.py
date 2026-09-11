@@ -75,18 +75,28 @@ def _normalize_ro(text: str) -> str:
     return text.translate(_DIACRITICS).lower()
 
 
-def _keyword_match(text: str, keywords: list[str]) -> bool:
+def _matched_keywords(text: str, keywords: list[str]) -> list[str]:
     """Potrivire pe cuvant intreg (nu substring), ca sa evitam false-pozitive
     de genul cuvantul cheie "dali" (DALI) gasit in brandul de cascaval "Dalia"."""
     norm = _normalize_ro(text)
-    return any(re.search(rf"\b{re.escape(_normalize_ro(kw))}\b", norm) for kw in keywords)
+    return [kw for kw in keywords if re.search(rf"\b{re.escape(_normalize_ro(kw))}\b", norm)]
 
 
-def _match_relevant(cpv_and_name: str, title: str) -> tuple[bool, list[str]]:
+def _match_relevant(cpv_and_name: str, title: str) -> tuple[bool, list[str], dict]:
+    """Intoarce (e_relevant, cpv_gasit_in_anunt, motivul_potrivirii). Motivul
+    arata explicit daca anuntul a fost prins prin cod CPV din lista noastra,
+    prin cuvant cheie, sau ambele - util pe pagina web, pentru ca des se
+    intampla ca autoritatea sa completeze CPV-ul gresit si anuntul sa fie
+    relevant doar datorita textului."""
     cpv_code = (cpv_and_name or "").split(" - ")[0].strip()
-    cpv_match = any(code in cpv_code for code in CPV_CODES)
-    keyword_match = _keyword_match(title or "", KEYWORDS) or _keyword_match(cpv_and_name or "", KEYWORDS)
-    return (cpv_match or keyword_match), ([cpv_code] if cpv_code else [])
+    matched_cpv_codes = [code for code in CPV_CODES if code in cpv_code]
+    kw_from_title = _matched_keywords(title or "", KEYWORDS)
+    kw_from_cpv_name = _matched_keywords(cpv_and_name or "", KEYWORDS)
+    matched_keywords = list(dict.fromkeys(kw_from_title + kw_from_cpv_name))
+
+    match_reason = {"cpv": matched_cpv_codes, "keywords": matched_keywords}
+    matched = bool(matched_cpv_codes) or bool(matched_keywords)
+    return matched, ([cpv_code] if cpv_code else []), match_reason
 
 
 def _iso(dt: datetime) -> str:
@@ -143,7 +153,7 @@ def fetch_participation_notices(days_back: int = 3) -> list[dict]:
 def normalize_adv_notice(item: dict) -> dict | None:
     cpv_and_name = item.get("cpvCode") or ""
     title = item.get("contractObject") or ""
-    matched, cpv_list = _match_relevant(cpv_and_name, title)
+    matched, cpv_list, match_reason = _match_relevant(cpv_and_name, title)
     if not matched:
         return None
 
@@ -158,6 +168,7 @@ def normalize_adv_notice(item: dict) -> dict | None:
         "deadline": item.get("tenderReceiptDeadline") or "",
         "value": str(item.get("estimatedValue") or ""),
         "url": f"https://e-licitatie.ro/pub/notices/adv-notices/view/{adv_id}",
+        "match_reason": match_reason,
         "_adv_notice_id": adv_id,
     }
 
@@ -168,7 +179,7 @@ def normalize_notice(item: dict) -> dict | None:
 
     cpv_and_name = item.get("cpvCodeAndName") or ""
     title = item.get("contractTitle") or ""
-    matched, cpv_list = _match_relevant(cpv_and_name, title)
+    matched, cpv_list, match_reason = _match_relevant(cpv_and_name, title)
     if not matched:
         return None
 
@@ -192,6 +203,7 @@ def normalize_notice(item: dict) -> dict | None:
         "deadline": item.get("maxTenderReceiptDeadline") or item.get("minTenderReceiptDeadline") or "",
         "value": item.get("estimatedValueExport") or str(item.get("estimatedValueRon") or ""),
         "url": url,
+        "match_reason": match_reason,
         "_procedure_id": procedure_id,
     }
 

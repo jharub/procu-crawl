@@ -29,6 +29,8 @@ CPV_CODES = {
     "71321000": "Servicii de proiectare tehnica pentru instalatii mecanice si electrice",
     "71322000": "Servicii de proiectare tehnica pentru constructia de lucrari publice",
     "71322500": "Servicii de proiectare tehnica pentru infrastructuri de transport",
+    "71319000": "Servicii de expertiza",
+    "71313410": "Evaluare a riscurilor sau a pericolelor pentru constructii",
     "71354000": "Servicii de cartografiere",
     "71400000": "Servicii de urbanism",
     "71410000": "Servicii de urbanism (planificare urbana)",
@@ -45,12 +47,21 @@ KEYWORDS = [
     "documentatie tehnico-economica",
     "studiu de fezabilitate",
     "dali",
+    "d.a.l.i",  # unele anunturi scriu abrevierea punctata: "D.A.L.I."
+    "documentatie de avizare a lucrarilor de interventie",  # DALI scris in clar
     "expertiza tehnica",
     "asistenta tehnica din partea proiectantului",
     "faza pt",
     "faza de",
     "certificat de urbanism",
     "plan urbanistic",
+    # Nota: nu am adaugat "sf" simplu (abrevierea pentru "studiu de fezabilitate") -
+    # e prea scurt si s-ar potrivi si cu "Sf." (Sfantu/Sfantul), foarte frecvent in
+    # denumiri de biserici/monumente aflate in reparatie ("Biserica Sf. Nicolae" etc).
+    # Folosim in schimb variantele compuse, sigure, care apar des in titluri reale:
+    "actualizare sf",
+    "elaborare sf",
+    "faza sf",
 ]
 
 # Tara pentru filtrul TED (Romania)

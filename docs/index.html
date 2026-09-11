@@ -259,6 +259,12 @@
     border-radius: 999px;
     font-size: 0.72rem;
   }
+  .match-reason {
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-style: italic;
+    align-self: center;
+  }
   .detail {
     display: none;
     margin-top: 14px;
@@ -529,6 +535,29 @@ function renderDocuments(docs) {
   return `<section-title>Documente atasate</section-title><div class="docs-list">${rows}</div>`;
 }
 
+function renderMatchReason(item) {
+  const reason = item.match_reason;
+  // TED e interogat direct pe codurile configurate (cautare ierarhica pe server),
+  // deci orice rezultat e prin definitie un potrivire CPV - chiar daca API-ul TED
+  // nu ne mai arata explicit care cod anume din anunt a declansat potrivirea.
+  if (item.source === "TED") {
+    const codes = (reason && reason.cpv) || [];
+    return codes.length
+      ? `<span class="match-reason">Potrivit prin cod CPV (${codes.join(", ")})</span>`
+      : `<span class="match-reason">Potrivit prin cautarea TED (filtrata pe codurile CPV configurate)</span>`;
+  }
+  if (!reason) return "";
+  const parts = [];
+  if (reason.cpv && reason.cpv.length) {
+    parts.push(`cod CPV (${reason.cpv.join(", ")})`);
+  }
+  if (reason.keywords && reason.keywords.length) {
+    parts.push(`cuvant cheie (${reason.keywords.join(", ")})`);
+  }
+  if (!parts.length) return "";
+  return `<span class="match-reason">Potrivit prin ${parts.join(" si ")}</span>`;
+}
+
 function renderCard(item, idx) {
   const days = daysUntil(item.deadline);
   const dClass = deadlineClass(days);
@@ -552,7 +581,7 @@ function renderCard(item, idx) {
         <span class="deadline ${dClass}">${deadlineText}</span>
         ${value ? `<span>&middot; ${value}</span>` : ""}
       </div>
-      <div class="meta-row">${cpvPills}</div>
+      <div class="meta-row">${cpvPills}${renderMatchReason(item)}</div>
       <div class="detail">
         ${description}
         ${renderRequirements(item.requirements)}

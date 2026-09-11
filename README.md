@@ -94,9 +94,13 @@ licitatiile noi si relevante, si actualizeaza pagina web cu toate detaliile.
 `docs/index.html` e un site static (HTML/CSS/JS simplu, fara build, fara dependinte) care
 citeste `docs/data.json` - o baza de date mica, actualizata de radar la fiecare rulare cu
 toate anunturile active din ultimele 60 de zile. Arata: titlu, autoritate, termen de
-depunere (colorat dupa urgenta), valoare estimata, coduri CPV, si - la click pe un anunt -
-descrierea completa, cerintele/criteriile de evaluare (cu punctaj, pentru anunturile
-SICAP) si un link direct catre pagina oficiala (SEAP sau TED).
+depunere (colorat dupa urgenta), valoare estimata, coduri CPV, **motivul potrivirii**
+("Potrivit prin cod CPV" si/sau "cuvant cheie", cu detaliile aferente - util pentru ca
+autoritatile completeaza des gresit codul CPV, iar anuntul chiar poate fi relevant doar
+datorita textului), si - la click pe un anunt - descrierea completa, cerintele/criteriile
+de evaluare (cu punctaj, pentru anunturile SICAP) si un link direct catre pagina oficiala
+(SEAP sau TED). Are si un filtru de coduri CPV (bifezi/debifezi ce vrei sa vezi) si un
+comutator light/dark mode, ambele in coltul din dreapta sus.
 
 E gazduit gratuit prin GitHub Pages (vezi pasul 5 de mai jos). Daca vrei sa muti site-ul
 pe alt hosting (Vercel, Netlify etc.) mai tarziu, poti - sunt doar fisiere statice, nu
