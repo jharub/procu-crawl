@@ -29,10 +29,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
 
-      - name: Salveaza evidenta anunturilor vazute
+      - name: Salveaza evidenta anunturilor si datele site-ului
         run: |
           git config user.name "seap-radar-bot"
           git config user.email "actions@github.com"
-          git add state/seen.json
-          git diff --staged --quiet || git commit -m "Actualizare evidenta anunturi [skip ci]"
+          git add state/seen.json docs/data.json
+          git diff --staged --quiet || git commit -m "Actualizare anunturi [skip ci]"
           git push

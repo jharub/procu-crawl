@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Radar licitatii - arhitectura / urbanism</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f7f7f5;
+    --panel: #ffffff;
+    --border: #e3e2de;
+    --text: #1f1e1c;
+    --text-muted: #6b6a66;
+    --accent: #8a5a3a;
+    --accent-soft: #f1e6dd;
+    --danger: #b3432b;
+    --danger-soft: #fbe9e4;
+    --warn: #a3791f;
+    --warn-soft: #faf1de;
+    --ok: #3d7a4f;
+    --ok-soft: #e6f2e9;
+    --radius: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161513;
+      --panel: #201f1c;
+      --border: #34322d;
+      --text: #eeece7;
+      --text-muted: #a29e96;
+      --accent: #d99a6c;
+      --accent-soft: #3a2c22;
+      --danger: #e08067;
+      --danger-soft: #3a2420;
+      --warn: #dcb35a;
+      --warn-soft: #3a3320;
+      --ok: #7fc493;
+      --ok-soft: #223424;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.45;
+  }
+  header {
+    padding: 28px 20px 18px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  header h1 {
+    font-size: 1.5rem;
+    margin: 0 0 4px;
+  }
+  header p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.92rem;
+  }
+  .stats {
+    display: flex;
+    gap: 18px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+  }
+  .stat {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 10px 16px;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+  .stat strong {
+    display: block;
+    font-size: 1.3rem;
+    color: var(--text);
+  }
+  .controls {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px 16px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .controls input[type="search"] {
+    flex: 1 1 220px;
+    padding: 9px 12px;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    font-size: 0.9rem;
+  }
+  .chip {
+    padding: 8px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  .chip.active {
+    background: var(--accent-soft);
+    border-color: var(--accent);
+    color: var(--accent);
+    font-weight: 600;
+  }
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px 60px;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    margin-bottom: 12px;
+    cursor: pointer;
+  }
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: flex-start;
+  }
+  .card h3 {
+    margin: 0 0 6px;
+    font-size: 1.02rem;
+    font-weight: 600;
+  }
+  .meta-row {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+    font-size: 0.8rem;
+  }
+  .badge {
+    padding: 3px 9px;
+    border-radius: 999px;
+    font-size: 0.74rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .badge.source-ted { background: var(--accent-soft); color: var(--accent); }
+  .badge.source-da { background: var(--ok-soft); color: var(--ok); }
+  .badge.source-cn { background: var(--warn-soft); color: var(--warn); }
+  .deadline { font-weight: 600; }
+  .deadline.urgent { color: var(--danger); }
+  .deadline.soon { color: var(--warn); }
+  .deadline.ok { color: var(--ok); }
+  .authority { color: var(--text-muted); font-size: 0.85rem; }
+  .cpv-pill {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: 0.72rem;
+  }
+  .detail {
+    display: none;
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+    font-size: 0.9rem;
+  }
+  .card.open .detail { display: block; }
+  .detail p { white-space: pre-wrap; }
+  .req {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+  }
+  .req .req-name { font-weight: 600; margin-bottom: 3px; }
+  .req .req-desc { color: var(--text-muted); font-size: 0.85rem; white-space: pre-wrap; }
+  .weight-tag {
+    float: right;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+  }
+  .docs-list a { display: block; margin-bottom: 4px; font-size: 0.85rem; }
+  .external-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  .empty {
+    text-align: center;
+    color: var(--text-muted);
+    padding: 60px 20px;
+  }
+  section-title {
+    display: block;
+    font-weight: 600;
+    font-size: 0.82rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--text-muted);
+    margin: 14px 0 8px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Radar licitatii publice - arhitectura / urbanism</h1>
+  <p>Achizitii directe, anunturi de participare (SICAP) si licitatii peste pragul UE (TED), colectate automat.</p>
+  <div class="stats" id="stats"></div>
+</header>
+
+<div class="controls">
+  <input type="search" id="search" placeholder="Cauta dupa titlu sau autoritate..." />
+  <div class="chip active" data-source="all">Toate</div>
+  <div class="chip" data-source="TED">TED</div>
+  <div class="chip" data-source="SICAP (achizitie directa)">Achizitii directe</div>
+  <div class="chip" data-source="SICAP (anunt de participare)">Anunturi participare</div>
+</div>
+
+<main id="list"></main>
+
+<script>
+const state = { items: [], search: "", source: "all" };
+
+function daysUntil(iso) {
+  if (!iso) return null;
+  const d = new Date(iso);
+  if (isNaN(d)) return null;
+  return Math.ceil((d - new Date()) / (1000 * 60 * 60 * 24));
+}
+
+function fmtDate(iso) {
+  if (!iso) return null;
+  const d = new Date(iso);
+  if (isNaN(d)) return iso;
+  return d.toLocaleString("ro-RO", { day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" });
+}
+
+function fmtValue(v) {
+  const n = parseFloat(v);
+  if (!v || isNaN(n)) return null;
+  return n.toLocaleString("ro-RO", { maximumFractionDigits: 2 }) + " RON";
+}
+
+function sourceBadgeClass(source) {
+  if (source === "TED") return "source-ted";
+  if (source.includes("achizitie directa")) return "source-da";
+  return "source-cn";
+}
+
+function sourceLabel(source) {
+  if (source === "TED") return "TED";
+  if (source.includes("achizitie directa")) return "Achizitie directa";
+  return "Anunt de participare";
+}
+
+function deadlineClass(days) {
+  if (days === null) return "";
+  if (days < 0) return "";
+  if (days <= 3) return "urgent";
+  if (days <= 10) return "soon";
+  return "ok";
+}
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function renderStats(items) {
+  const withDeadline = items.filter((i) => {
+    const d = daysUntil(i.deadline);
+    return d !== null && d >= 0 && d <= 7;
+  });
+  document.getElementById("stats").innerHTML = `
+    <div class="stat"><strong>${items.length}</strong>anunturi active</div>
+    <div class="stat"><strong>${withDeadline.length}</strong>cu termen in 7 zile</div>
+  `;
+}
+
+function renderRequirements(reqs) {
+  if (!reqs || !reqs.length) return "";
+  const rows = reqs.map((r) => `
+    <div class="req">
+      ${r.weight != null ? `<span class="weight-tag">${r.weight} pct</span>` : ""}
+      <div class="req-name">${escapeHtml(r.name)}</div>
+      ${r.description ? `<div class="req-desc">${escapeHtml(r.description)}</div>` : ""}
+    </div>
+  `).join("");
+  return `<section-title>Cerinte / criterii de evaluare</section-title>${rows}`;
+}
+
+function renderDocuments(docs) {
+  if (!docs || !docs.length) return "";
+  const rows = docs.map((d) => `<a href="${escapeHtml(d.url)}" target="_blank" rel="noopener">${escapeHtml(d.name)}</a>`).join("");
+  return `<section-title>Documente atasate</section-title><div class="docs-list">${rows}</div>`;
+}
+
+function renderCard(item, idx) {
+  const days = daysUntil(item.deadline);
+  const dClass = deadlineClass(days);
+  const deadlineText = item.deadline
+    ? `Termen: ${fmtDate(item.deadline)}${days !== null && days >= 0 ? ` (${days} zile)` : ""}`
+    : "Fara termen specificat";
+  const value = fmtValue(item.value);
+  const cpvPills = (item.cpv || []).slice(0, 4).map((c) => `<span class="cpv-pill">${escapeHtml(c)}</span>`).join("");
+  const description = item.description && item.description !== item.title ? `<p>${escapeHtml(item.description)}</p>` : "";
+
+  return `
+    <div class="card" data-idx="${idx}">
+      <div class="card-top">
+        <div>
+          <h3>${escapeHtml(item.title)}</h3>
+          <div class="authority">${escapeHtml(item.authority || "")}</div>
+        </div>
+        <span class="badge ${sourceBadgeClass(item.source)}">${sourceLabel(item.source)}</span>
+      </div>
+      <div class="meta-row">
+        <span class="deadline ${dClass}">${deadlineText}</span>
+        ${value ? `<span>&middot; ${value}</span>` : ""}
+      </div>
+      <div class="meta-row">${cpvPills}</div>
+      <div class="detail">
+        ${description}
+        ${renderRequirements(item.requirements)}
+        ${renderDocuments(item.documents)}
+        <a class="external-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">Vezi pe ${item.source === "TED" ? "TED" : "SEAP"}</a>
+      </div>
+    </div>
+  `;
+}
+
+function applyFilters() {
+  const q = state.search.trim().toLowerCase();
+  return state.items.filter((item) => {
+    if (state.source !== "all" && item.source !== state.source) return false;
+    if (!q) return true;
+    return (item.title || "").toLowerCase().includes(q) || (item.authority || "").toLowerCase().includes(q);
+  });
+}
+
+function render() {
+  const filtered = applyFilters();
+  renderStats(filtered);
+  const list = document.getElementById("list");
+  if (!filtered.length) {
+    list.innerHTML = `<div class="empty">Niciun anunt gasit.</div>`;
+    return;
+  }
+  list.innerHTML = filtered.map((item, idx) => renderCard(item, idx)).join("");
+  list.querySelectorAll(".card").forEach((card) => {
+    card.addEventListener("click", () => card.classList.toggle("open"));
+  });
+}
+
+document.getElementById("search").addEventListener("input", (e) => {
+  state.search = e.target.value;
+  render();
+});
+
+document.querySelectorAll(".chip").forEach((chip) => {
+  chip.addEventListener("click", () => {
+    document.querySelectorAll(".chip").forEach((c) => c.classList.remove("active"));
+    chip.classList.add("active");
+    state.source = chip.dataset.source;
+    render();
+  });
+});
+
+fetch("data.json?_=" + Date.now())
+  .then((r) => r.json())
+  .then((data) => {
+    state.items = data.sort((a, b) => {
+      const da = daysUntil(a.deadline);
+      const db = daysUntil(b.deadline);
+      if (da === null) return 1;
+      if (db === null) return -1;
+      return da - db;
+    });
+    render();
+  })
+  .catch(() => {
+    document.getElementById("list").innerHTML = `<div class="empty">Nu am putut incarca data.json.</div>`;
+  });
+</script>
+
+</body>
+</html>

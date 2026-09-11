@@ -1,9 +1,11 @@
 # Radar licitatii publice - arhitectura / urbanism
 
 Monitorizeaza automat licitatiile publice din Romania relevante pentru firma ta
-(arhitectura, urbanism, inginerie, studii de fezabilitate, asistenta tehnica) si
-trimite notificare pe Telegram cand apare ceva nou. Ruleaza gratuit pe GitHub Actions,
-nu tine niciun calculator pornit.
+(arhitectura, urbanism, inginerie, studii de fezabilitate, asistenta tehnica),
+trimite notificare pe Telegram cand apare ceva nou, si tine o pagina web (gratuita,
+prin GitHub Pages) cu toate anunturile active, termene de depunere si cerinte/criterii
+de evaluare pentru fiecare. Ruleaza gratuit pe GitHub Actions, nu tine niciun calculator
+pornit.
 
 ## Surse de date
 
@@ -68,11 +70,33 @@ In tab-ul **Actions** al repository-ului, selecteaza workflow-ul "Radar licitati
 apasa **Run workflow** (buton manual, nu trebuie sa astepti programarea automata).
 Verifica log-ul rularii ca sa vezi ce a gasit.
 
-### 5. Gata
+### 5. Activeaza pagina web (GitHub Pages, gratuit)
+
+In repository-ul tau: **Settings -> Pages -> Build and deployment -> Source: "Deploy
+from a branch"**, apoi la **Branch** alege `main` si folderul `/docs`, si **Save**.
+
+Dupa cateva minute, pagina va fi disponibila la
+`https://<user-ul-tau>.github.io/<numele-repo-ului>/`. Se actualizeaza automat de
+fiecare data cand workflow-ul ruleaza si gaseste ceva nou.
+
+### 6. Gata
 
 De acum, workflow-ul ruleaza singur de 3 ori pe zi (poti schimba frecventa in
-`.github/workflows/radar.yml`, linia cu `cron`) si iti trimite pe Telegram doar
-licitatiile noi si relevante.
+`.github/workflows/radar.yml`, linia cu `cron`), iti trimite pe Telegram doar
+licitatiile noi si relevante, si actualizeaza pagina web cu toate detaliile.
+
+## Pagina web
+
+`docs/index.html` e un site static (HTML/CSS/JS simplu, fara build, fara dependinte) care
+citeste `docs/data.json` - o baza de date mica, actualizata de radar la fiecare rulare cu
+toate anunturile active din ultimele 60 de zile. Arata: titlu, autoritate, termen de
+depunere (colorat dupa urgenta), valoare estimata, coduri CPV, si - la click pe un anunt -
+descrierea completa, cerintele/criteriile de evaluare (cu punctaj, pentru anunturile
+SICAP) si un link direct catre pagina oficiala (SEAP sau TED).
+
+E gazduit gratuit prin GitHub Pages (vezi pasul 5 de mai jos). Daca vrei sa muti site-ul
+pe alt hosting (Vercel, Netlify etc.) mai tarziu, poti - sunt doar fisiere statice, nu
+exista nicio dependinta de GitHub Pages in cod.
 
 ## Personalizare
 
@@ -127,6 +151,14 @@ oficiala - a fost reverse-engineerit prin inspectarea cererilor trimise chiar de
   "Dalia", aparut des in achizitiile de alimente - mii de rezultate false. Filtrarea
   foloseste acum potrivire pe cuvant intreg, cu normalizare de diacritice (unele
   seturi de date SEAP scriu "Achizitii", altele "Achiziții").
+- **Pagina de detaliu a unui anunt**: link-ul construit initial pentru anunturile de
+  participare (`/pub/notices/ca-notices/view-c/{noticeId}`) era gresit - acel URL e
+  pentru anunturile de ATRIBUIRE (alt tabel, cu ID-uri care coincid accidental cu
+  cele ale anunturilor de participare). Link-ul corect, gasit navigand efectiv pe
+  site si urmarind cererile retelei, e `/pub/procedure/view/{procedureId}/`.
+  Aceeasi investigatie a scos la iveala si endpoint-urile de detaliu folosite pentru
+  pagina web (`PUBLICProcedure/GetProcedureEvaluationCriterias`,
+  `PUBLICProcedure/GetProcedureLots`, `PublicDirectAcquisition/getView`).
 
 ## Limitari cunoscute
 
@@ -134,9 +166,7 @@ oficiala - a fost reverse-engineerit prin inspectarea cererilor trimise chiar de
 - API-ul SICAP nu e documentat oficial - daca site-ul e-licitatie.ro isi schimba
   structura interna, `sicap_api.py` se poate strica fara avertisment. Verifica periodic
   log-ul rularilor din GitHub Actions.
-- Link-ul generat pentru anunturile de participare (`noticeId`) nu a putut fi verificat
-  100% ca duce exact la pagina corecta a anuntului (ambiguitate intre `noticeId` si
-  `cNoticeId` in raspunsul API-ului) - daca observi ca link-ul nu se potriveste cu
-  anuntul, spune-mi si ajustez.
+- Nu toate anunturile de participare au criterii de evaluare populate prin API (unele
+  proceduri vechi/speciale intorc lista goala) - pagina web arata doar ce ofera API-ul.
 - Pentru achizitii foarte urgente/mici, publicate azi si care nu au ajuns inca in
   fereastra de interogare, tot merita o verificare manuala ocazionala pe e-licitatie.ro.

@@ -5,7 +5,8 @@ Ruleaza periodic (vezi .github/workflows/radar.yml), aduna anunturi noi din:
   - TED (API oficial UE, licitatii peste pragul UE)
   - API-ul intern SICAP/e-licitatie.ro (achizitii directe + anunturi de participare,
     sub si peste prag, in timp real - vezi sicap_api.py)
-retine ce a mai trimis deja (state/seen.json) si notifica prin Telegram doar noutatile.
+retine ce a mai trimis deja (state/seen.json), notifica prin Telegram doar noutatile,
+si actualizeaza baza de date a site-ului static (docs/data.json - vezi site_data.py).
 """
 
 from __future__ import annotations
@@ -15,6 +16,7 @@ import os
 
 import notify_telegram
 import sicap_api
+import site_data
 import ted_client
 from config import STATE_FILE
 
@@ -80,9 +82,13 @@ def run(days_back: int = 3) -> None:
     if not new_items:
         print("[info] nimic nou de notificat.")
     else:
-        print(f"[info] {len(new_items)} anunturi noi - trimit notificari...")
-        for item in new_items:
+        print(f"[info] {len(new_items)} anunturi noi - iau detalii si trimit notificari...")
+        for idx, item in enumerate(new_items):
+            if item["source"].startswith("SICAP"):
+                item = sicap_api.enrich_item(item)
+                new_items[idx] = item
             notify_telegram.send_message(_format_item(item))
+        site_data.merge_new_items(new_items)
 
     _save_seen(seen)
 

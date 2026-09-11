@@ -185,6 +185,7 @@ def normalize_direct_acquisition(item: dict) -> dict | None:
         "deadline": item.get("supplierDecisionDeadline") or item.get("caDecisionDeadline") or "",
         "value": str(item.get("estimatedValueRon") or ""),
         "url": f"https://e-licitatie.ro/pub/direct-acquisition/view/{da_id}",
+        "_da_id": da_id,
     }
 
 
@@ -199,6 +200,15 @@ def normalize_notice(item: dict) -> dict | None:
         return None
 
     notice_id = item.get("noticeId") or item.get("cNoticeId")
+    procedure_id = item.get("procedureId")
+    # Pagina de detaliu foloseste procedureId (verificat live), NU noticeId/cNoticeId -
+    # acelea apartin altor tabele si pot coincide accidental cu ID-uri complet
+    # nelegate. Fara procedureId (rar, dar posibil) trimitem catre cautarea
+    # generala dupa numarul anuntului, ca sa nu link-uim gresit.
+    if procedure_id:
+        url = f"https://e-licitatie.ro/pub/procedure/view/{procedure_id}/"
+    else:
+        url = f"https://e-licitatie.ro/pub/notices/contract-notices/list/0/0?search={item.get('noticeNo', '')}"
     return {
         "source": "SICAP (anunt de participare)",
         "id": item.get("noticeNo") or str(notice_id),
@@ -208,8 +218,100 @@ def normalize_notice(item: dict) -> dict | None:
         "published": item.get("noticeStateDate") or "",
         "deadline": item.get("maxTenderReceiptDeadline") or item.get("minTenderReceiptDeadline") or "",
         "value": item.get("estimatedValueExport") or str(item.get("estimatedValueRon") or ""),
-        "url": f"https://e-licitatie.ro/pub/notices/ca-notices/view-c/{notice_id}",
+        "url": url,
+        "_procedure_id": procedure_id,
     }
+
+
+def fetch_direct_acquisition_detail(da_id: int) -> dict:
+    """Descriere completa + reperele achizitionate (echivalentul 'cerintelor'
+    pentru o achizitie directa - nu are criterii de evaluare, e cumparare simpla)."""
+    resp = requests.get(f"{BASE_URL}/PublicDirectAcquisition/getView/{da_id}", headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+
+    requirements = [
+        {
+            "name": it.get("catalogItemName") or "",
+            "description": it.get("catalogItemDescription") or "",
+        }
+        for it in (data.get("directAcquisitionItems") or [])
+    ]
+    documents = [
+        {"name": d.get("name") or "document", "url": d.get("url") or ""}
+        for d in (data.get("documents") or [])
+    ]
+    return {
+        "description": data.get("directAcquisitionDescription") or "",
+        "requirements": requirements,
+        "documents": documents,
+    }
+
+
+def fetch_procedure_detail(procedure_id: int) -> dict:
+    """Termenul real de depunere (per lot) + criteriile de evaluare (cerintele
+    specifice, cu descriere si algoritm de punctaj) + documentele atasate."""
+    detail: dict = {"requirements": [], "documents": [], "deadline": None}
+
+    try:
+        resp = requests.post(f"{BASE_URL}/PUBLICProcedure/GetProcedureLots/{procedure_id}",
+                              json={}, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        deadlines = [lot.get("offerDeadline") for lot in (resp.json().get("items") or []) if lot.get("offerDeadline")]
+        if deadlines:
+            detail["deadline"] = min(deadlines)
+    except requests.RequestException as exc:
+        print(f"  [avertisment] nu am putut lua loturile procedurii {procedure_id}: {exc}")
+
+    try:
+        resp = requests.get(
+            f"{BASE_URL}/PUBLICProcedure/GetProcedureEvaluationCriterias/",
+            params={"procedureId": procedure_id, "procedureLotId": "undefined"},
+            headers=HEADERS, timeout=30,
+        )
+        resp.raise_for_status()
+        detail["requirements"] = [
+            {
+                "name": c.get("procEvalCriteriaName") or "",
+                "description": c.get("procEvalCriteriaDescription") or "",
+                "weight": c.get("weight"),
+            }
+            for c in (resp.json().get("items") or [])
+        ]
+    except requests.RequestException as exc:
+        print(f"  [avertisment] nu am putut lua criteriile procedurii {procedure_id}: {exc}")
+
+    try:
+        resp = requests.post(f"{BASE_URL}/NoticeDocument/GetAll/",
+                              json={"procedureId": procedure_id}, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        detail["documents"] = [
+            {"name": d.get("name") or "document", "url": d.get("url") or ""}
+            for d in (resp.json().get("items") or [])
+        ]
+    except requests.RequestException as exc:
+        print(f"  [avertisment] nu am putut lua documentele procedurii {procedure_id}: {exc}")
+
+    return detail
+
+
+def enrich_item(item: dict) -> dict:
+    """Adauga descriere/cerinte/documente unui item deja normalizat, apeland
+    API-ul de detaliu corespunzator sursei. Folosit doar pentru anunturile
+    NOI (dupa deduplicare), ca sa nu multiplicam cererile inutil."""
+    try:
+        if item.get("_da_id"):
+            detail = fetch_direct_acquisition_detail(item["_da_id"])
+            return {**item, **detail}
+        if item.get("_procedure_id"):
+            detail = fetch_procedure_detail(item["_procedure_id"])
+            enriched = {**item, "requirements": detail["requirements"], "documents": detail["documents"]}
+            if detail.get("deadline"):
+                enriched["deadline"] = detail["deadline"]
+            return enriched
+    except requests.RequestException as exc:
+        print(f"  [avertisment] nu am putut lua detalii pentru {item.get('id')}: {exc}")
+    return item
 
 
 def fetch_relevant_items(days_back: int = 3) -> list[dict]:
