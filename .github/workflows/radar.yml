@@ -1,0 +1,38 @@
+name: Radar licitatii
+
+on:
+  schedule:
+    # 06:00, 12:00 si 18:00 UTC = 08:00, 14:00, 20:00 ora Romaniei (vara);
+    # ajusteaza orele daca vrei alta frecventa
+    - cron: "0 6,12,18 * * *"
+  workflow_dispatch: {}  # iti permite sa il rulezi manual din tab-ul Actions, pentru test
+
+permissions:
+  contents: write  # necesar ca sa poata salva state/seen.json inapoi in repo
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instaleaza dependinte
+        run: pip install -r requirements.txt
+
+      - name: Ruleaza radarul
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      - name: Salveaza evidenta anunturilor vazute
+        run: |
+          git config user.name "seap-radar-bot"
+          git config user.email "actions@github.com"
+          git add state/seen.json
+          git diff --staged --quiet || git commit -m "Actualizare evidenta anunturi [skip ci]"
+          git push
