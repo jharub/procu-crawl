@@ -153,6 +153,58 @@
     color: var(--accent);
     font-weight: 600;
   }
+  .cpv-filter {
+    position: relative;
+  }
+  .cpv-panel {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 6px);
+    width: min(360px, 88vw);
+    max-height: 360px;
+    overflow-y: auto;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+    z-index: 20;
+  }
+  .cpv-panel-actions {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .cpv-panel-actions button {
+    font-size: 0.76rem;
+    color: var(--accent);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 2px 0;
+  }
+  .cpv-item {
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+    padding: 6px 4px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    border-radius: 6px;
+  }
+  .cpv-item:hover {
+    background: var(--bg);
+  }
+  .cpv-item input {
+    margin-top: 3px;
+    flex-shrink: 0;
+  }
+  .cpv-item strong {
+    color: var(--text-muted);
+    font-weight: 600;
+  }
   main {
     max-width: 1000px;
     margin: 0 auto;
@@ -273,10 +325,20 @@
 
 <div class="controls">
   <input type="search" id="search" placeholder="Cauta dupa titlu sau autoritate..." />
-  <div class="chip active" data-source="all">Toate</div>
-  <div class="chip" data-source="TED">TED</div>
-  <div class="chip" data-source="SICAP (achizitie directa)">Achizitii directe</div>
-  <div class="chip" data-source="SICAP (anunt de participare)">Anunturi participare</div>
+  <div class="chip source-chip active" data-source="all">Toate</div>
+  <div class="chip source-chip" data-source="TED">TED</div>
+  <div class="chip source-chip" data-source="SICAP (achizitie directa)">Achizitii directe</div>
+  <div class="chip source-chip" data-source="SICAP (anunt de participare)">Anunturi participare</div>
+  <div class="cpv-filter">
+    <button id="cpv-toggle" class="chip" type="button">Coduri CPV</button>
+    <div id="cpv-panel" class="cpv-panel" hidden>
+      <div class="cpv-panel-actions">
+        <button type="button" id="cpv-select-all">Selecteaza tot</button>
+        <button type="button" id="cpv-select-none">Deselecteaza tot</button>
+      </div>
+      <div id="cpv-list"></div>
+    </div>
+  </div>
 </div>
 
 <main id="list"></main>
@@ -309,7 +371,81 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 
 initTheme();
 
-const state = { items: [], search: "", source: "all" };
+const CPV_KEY = "seap-radar-cpv";
+let cpvCodesRef = {};
+const state = { items: [], search: "", source: "all", selectedCpv: new Set() };
+
+function saveCpvSelection() {
+  try { localStorage.setItem(CPV_KEY, JSON.stringify([...state.selectedCpv])); } catch (e) { /* private mode etc. */ }
+}
+
+function loadCpvSelection(allCodes) {
+  let saved = null;
+  try { saved = JSON.parse(localStorage.getItem(CPV_KEY)); } catch (e) { /* private mode etc. */ }
+  if (Array.isArray(saved) && saved.length) {
+    return new Set(saved.filter((c) => allCodes.includes(c)));
+  }
+  return new Set(allCodes);
+}
+
+function updateCpvButtonLabel() {
+  const total = Object.keys(cpvCodesRef).length;
+  const selected = state.selectedCpv.size;
+  document.getElementById("cpv-toggle").textContent =
+    selected === total ? "Coduri CPV (toate)" : `Coduri CPV (${selected}/${total})`;
+}
+
+function renderCpvList() {
+  const list = document.getElementById("cpv-list");
+  list.innerHTML = Object.entries(cpvCodesRef).map(([code, desc]) => `
+    <label class="cpv-item">
+      <input type="checkbox" value="${code}" ${state.selectedCpv.has(code) ? "checked" : ""} />
+      <span><strong>${code}</strong> - ${escapeHtml(desc)}</span>
+    </label>
+  `).join("");
+  list.querySelectorAll("input[type=checkbox]").forEach((cb) => {
+    cb.addEventListener("change", () => {
+      if (cb.checked) state.selectedCpv.add(cb.value);
+      else state.selectedCpv.delete(cb.value);
+      saveCpvSelection();
+      updateCpvButtonLabel();
+      render();
+    });
+  });
+}
+
+function cpvMatches(item) {
+  const codes = item.cpv || [];
+  const allCodes = Object.keys(cpvCodesRef);
+  const known = codes.filter((c) => allCodes.some((code) => c.includes(code)));
+  if (!known.length) return true; // potrivit doar prin cuvant cheie, nu prin CPV - nu il filtram
+  return known.some((c) => [...state.selectedCpv].some((code) => c.includes(code)));
+}
+
+document.getElementById("cpv-toggle").addEventListener("click", (e) => {
+  e.stopPropagation();
+  const panel = document.getElementById("cpv-panel");
+  panel.hidden = !panel.hidden;
+});
+
+document.getElementById("cpv-select-all").addEventListener("click", () => {
+  state.selectedCpv = new Set(Object.keys(cpvCodesRef));
+  saveCpvSelection();
+  updateCpvButtonLabel();
+  renderCpvList();
+  render();
+});
+
+document.getElementById("cpv-select-none").addEventListener("click", () => {
+  state.selectedCpv = new Set();
+  saveCpvSelection();
+  updateCpvButtonLabel();
+  renderCpvList();
+  render();
+});
+
+document.getElementById("cpv-panel").addEventListener("click", (e) => e.stopPropagation());
+document.addEventListener("click", () => { document.getElementById("cpv-panel").hidden = true; });
 
 function daysUntil(iso) {
   if (!iso) return null;
@@ -422,6 +558,7 @@ function applyFilters() {
   const q = state.search.trim().toLowerCase();
   return state.items.filter((item) => {
     if (state.source !== "all" && item.source !== state.source) return false;
+    if (!cpvMatches(item)) return false;
     if (!q) return true;
     return (item.title || "").toLowerCase().includes(q) || (item.authority || "").toLowerCase().includes(q);
   });
@@ -446,18 +583,25 @@ document.getElementById("search").addEventListener("input", (e) => {
   render();
 });
 
-document.querySelectorAll(".chip").forEach((chip) => {
+document.querySelectorAll(".source-chip").forEach((chip) => {
   chip.addEventListener("click", () => {
-    document.querySelectorAll(".chip").forEach((c) => c.classList.remove("active"));
+    document.querySelectorAll(".source-chip").forEach((c) => c.classList.remove("active"));
     chip.classList.add("active");
     state.source = chip.dataset.source;
     render();
   });
 });
 
-fetch("data.json?_=" + Date.now())
-  .then((r) => r.json())
-  .then((data) => {
+Promise.all([
+  fetch("data.json?_=" + Date.now()).then((r) => r.json()),
+  fetch("cpv_codes.json?_=" + Date.now()).then((r) => r.json()).catch(() => ({})),
+])
+  .then(([data, cpvCodes]) => {
+    cpvCodesRef = cpvCodes;
+    state.selectedCpv = loadCpvSelection(Object.keys(cpvCodes));
+    updateCpvButtonLabel();
+    renderCpvList();
+
     state.items = data.sort((a, b) => {
       const da = daysUntil(a.deadline);
       const db = daysUntil(b.deadline);

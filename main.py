@@ -54,6 +54,7 @@ def _format_item(item: dict) -> str:
 def run(days_back: int = 3) -> None:
     seen = _load_seen()
     new_items: list[dict] = []
+    site_data.write_cpv_reference()
 
     print("[info] interogare TED...")
     try:

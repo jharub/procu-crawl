@@ -33,6 +33,6 @@ jobs:
         run: |
           git config user.name "seap-radar-bot"
           git config user.email "actions@github.com"
-          git add state/seen.json docs/data.json
+          git add state/seen.json docs/data.json docs/cpv_codes.json
           git diff --staged --quiet || git commit -m "Actualizare anunturi [skip ci]"
           git push

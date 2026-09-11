@@ -14,7 +14,10 @@ import json
 import os
 from datetime import datetime, timedelta, timezone
 
+from config import CPV_CODES
+
 DATA_FILE = os.path.join("docs", "data.json")
+CPV_CODES_FILE = os.path.join("docs", "cpv_codes.json")
 
 # Cat timp pastram un anunt in site dupa ce a fost publicat, chiar daca
 # termenul lui de depunere a trecut - util ca istoric recent, fara sa lasam
@@ -77,3 +80,11 @@ def merge_new_items(new_items: list[dict]) -> None:
 
     _save_items(kept)
     print(f"[info] site: {len(kept)} anunturi in {DATA_FILE} ({len(new_items)} noi adaugate acum)")
+
+
+def write_cpv_reference() -> None:
+    """Publica lista de coduri CPV configurate (config.py), ca pagina web sa
+    poata arata un filtru cu denumirile lor, fara sa duplicam lista manual."""
+    os.makedirs(os.path.dirname(CPV_CODES_FILE), exist_ok=True)
+    with open(CPV_CODES_FILE, "w", encoding="utf-8") as f:
+        json.dump(CPV_CODES, f, ensure_ascii=False, indent=2)
