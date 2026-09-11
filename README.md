@@ -15,7 +15,11 @@ pornit.
    foloseste chiar formularul de cautare de pe site. Nu e documentat oficial, dar e
    folosit public de site, fara autentificare si fara sa ocolim vreo protectie (nu e
    nevoie de CAPTCHA sau login - vezi `sicap_api.py` pentru detalii). Acopera:
-   - **achizitiile directe** (cumparari sub prag, catalogul electronic)
+   - **anunturile de intentie pentru achizitii directe** ("Publicitate anunturi") -
+     publicate INAINTE ca achizitia sa apara in catalogul electronic, cu caiet de
+     sarcini/documentatie atasata si conditii de participare. Le preferam in locul
+     catalogului electronic propriu-zis pentru ca, pana ajunge o achizitie acolo, e
+     adesea deja decisa - anuntul de intentie e stadiul la care chiar mai poti aplica.
    - **anunturile de participare** (CN) si **anunturile de participare simplificate**
      (SCN) - licitatiile propriu-zise, publicate inainte de atribuire, indiferent de
      valoare
@@ -131,21 +135,25 @@ oficiala - a fost reverse-engineerit prin inspectarea cererilor trimise chiar de
   extrage textul corect (preferand romana).
 - **SICAP**: initial am incercat exportul CKAN de pe data.gov.ro (fisiere Excel/ODS de
   ~60MB, actualizate doar trimestrial) - functional, dar greoi si cu date invechite.
-  L-am inlocuit cu API-ul intern al e-licitatie.ro, care da acces in timp real la
-  aceleasi date plus la licitatiile mari (nu doar achizitii directe). Detalii tehnice:
-  - Endpoint-urile (`DirectAcquisitionCommon/GetDirectAcquisitionList`,
-    `NoticeCommon/GetCNoticeList`) resping cererile fara un header Referer/Origin
-    ("Access Denied: Referrer cannot be null") - `sicap_api.py` trimite headere care
-    imita un browser obisnuit.
-  - Numele campurilor de filtrare pe data **difera** intre cele doua endpoint-uri:
-    `publicationDateStart`/`publicationDateEnd` la achizitii directe, dar
-    `startPublicationDate`/`endPublicationDate` la anunturi.
-  - Achizitiile directe au un volum foarte mare la nivel de tara (mii/zi, toate
-    categoriile) - peste ~1 zi in fereastra de cautare API-ul incepe sa dea rezultate
-    plafonate/incomplete (`searchTooLong: true`). De-aia le interogam in bucati de
-    maxim 20 de ore, cu suprapunere, indiferent cat de mare e `days_back`.
+  L-am inlocuit cu API-ul intern al e-licitatie.ro, care da acces in timp real. Detalii
+  tehnice:
+  - Endpoint-urile (`AdvNoticeCommon/GetAdvNoticeList`, `NoticeCommon/GetCNoticeList`)
+    resping cererile fara un header Referer/Origin ("Access Denied: Referrer cannot be
+    null") - `sicap_api.py` trimite headere care imita un browser obisnuit.
+  - Numele campurilor de filtrare pe data **difera** intre endpoint-uri:
+    `publicationDateStart`/`publicationDateEnd` la anunturile de intentie, dar
+    `startPublicationDate`/`endPublicationDate` la anunturile de participare.
   - `sysNoticeTypeIds: [2, 17]` = anunt de participare (CN) + anunt de participare
     simplificat (SCN) - identificate live, nu din documentatie.
+  - Am incercat initial catalogul electronic de achizitii directe
+    (`DirectAcquisitionCommon/GetDirectAcquisitionList`) in loc de anunturile de
+    intentie. Avea doua probleme: volum foarte mare la nivel de tara (mii/zi, toate
+    categoriile), cu rezultate plafonate/incomplete peste ~1 zi in fereastra de cautare
+    (`searchTooLong: true`); si, mai important - cum a semnalat si utilizatorul dupa ce
+    a testat pagina web - pana ajunge o achizitie in catalog e adesea deja decisa, fara
+    informatii utile. Anunturile de intentie (`AdvNoticeCommon`) nu au niciuna din
+    problemele astea (verificat pana la o fereastra de 7 zile, fara plafon) si sunt
+    publicate la stadiul la care chiar mai poti aplica (cu caiet de sarcini atasat).
 - **Filtrare cuvinte cheie**: potrivirea initiala pe substring facea ca certul cheie
   "dali" (DALI, un document tehnic) sa se potriveasca si cu brandul de cascaval
   "Dalia", aparut des in achizitiile de alimente - mii de rezultate false. Filtrarea
@@ -158,7 +166,14 @@ oficiala - a fost reverse-engineerit prin inspectarea cererilor trimise chiar de
   site si urmarind cererile retelei, e `/pub/procedure/view/{procedureId}/`.
   Aceeasi investigatie a scos la iveala si endpoint-urile de detaliu folosite pentru
   pagina web (`PUBLICProcedure/GetProcedureEvaluationCriterias`,
-  `PUBLICProcedure/GetProcedureLots`, `PublicDirectAcquisition/getView`).
+  `PUBLICProcedure/GetProcedureLots`, `PUBLICAdvNotice/getForView`).
+- **Documentele atasate anunturilor de intentie**: link-ul direct catre fisier
+  (`api-pub/files/advnot/...`) nu functioneaza in afara sesiunii de browser care il
+  genereaza pe site - un GET simplu catre acel URL, chiar cu Referer si cookie-uri
+  corecte, raspunde cu eroare ("fisierul nu se regaseste pe server"), pentru ca site-ul
+  face intern un POST+GET legate inainte sa serveasca fisierul. De-aia pagina web
+  trimite catre pagina anuntului pe SEAP (unde documentul chiar se poate descarca),
+  nu direct la fisier.
 
 ## Limitari cunoscute
 
@@ -168,5 +183,7 @@ oficiala - a fost reverse-engineerit prin inspectarea cererilor trimise chiar de
   log-ul rularilor din GitHub Actions.
 - Nu toate anunturile de participare au criterii de evaluare populate prin API (unele
   proceduri vechi/speciale intorc lista goala) - pagina web arata doar ce ofera API-ul.
+- Documentele atasate (caiete de sarcini) se descarca de pe pagina SEAP a anuntului,
+  nu direct din pagina noastra - vezi explicatia de mai sus.
 - Pentru achizitii foarte urgente/mici, publicate azi si care nu au ajuns inca in
   fereastra de interogare, tot merita o verificare manuala ocazionala pe e-licitatie.ro.

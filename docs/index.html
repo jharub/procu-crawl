@@ -516,7 +516,9 @@ function renderRequirements(reqs) {
 
 function renderDocuments(docs) {
   if (!docs || !docs.length) return "";
-  const rows = docs.map((d) => `<a href="${escapeHtml(d.url)}" target="_blank" rel="noopener">${escapeHtml(d.name)}</a>`).join("");
+  // Linkul duce la pagina anuntului pe SEAP (nu direct la fisier) - descarcarea
+  // directa a documentului necesita sesiunea de browser a site-ului SEAP.
+  const rows = docs.map((d) => `<a href="${escapeHtml(d.url)}" target="_blank" rel="noopener">${escapeHtml(d.name)} (descarca de pe SEAP)</a>`).join("");
   return `<section-title>Documente atasate</section-title><div class="docs-list">${rows}</div>`;
 }
 
