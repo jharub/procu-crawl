@@ -24,7 +24,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
       --bg: #161513;
       --panel: #201f1c;
       --border: #34322d;
@@ -40,6 +40,21 @@
       --ok-soft: #223424;
     }
   }
+  :root[data-theme="dark"] {
+    --bg: #161513;
+    --panel: #201f1c;
+    --border: #34322d;
+    --text: #eeece7;
+    --text-muted: #a29e96;
+    --accent: #d99a6c;
+    --accent-soft: #3a2c22;
+    --danger: #e08067;
+    --danger-soft: #3a2420;
+    --warn: #dcb35a;
+    --warn-soft: #3a3320;
+    --ok: #7fc493;
+    --ok-soft: #223424;
+  }
   * { box-sizing: border-box; }
   body {
     margin: 0;
@@ -52,6 +67,12 @@
     max-width: 1000px;
     margin: 0 auto;
   }
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+  }
   header h1 {
     font-size: 1.5rem;
     margin: 0 0 4px;
@@ -60,6 +81,24 @@
     margin: 0;
     color: var(--text-muted);
     font-size: 0.92rem;
+  }
+  .theme-toggle {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    font-size: 1.15rem;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .theme-toggle:hover {
+    border-color: var(--accent);
   }
   .stats {
     display: flex;
@@ -222,8 +261,13 @@
 <body>
 
 <header>
-  <h1>Radar licitatii publice - arhitectura / urbanism</h1>
-  <p>Achizitii directe, anunturi de participare (SICAP) si licitatii peste pragul UE (TED), colectate automat.</p>
+  <div class="header-top">
+    <div>
+      <h1>Radar licitatii publice - arhitectura / urbanism</h1>
+      <p>Achizitii directe, anunturi de participare (SICAP) si licitatii peste pragul UE (TED), colectate automat.</p>
+    </div>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Comuta intre light si dark mode" title="Comuta tema"></button>
+  </div>
   <div class="stats" id="stats"></div>
 </header>
 
@@ -238,6 +282,33 @@
 <main id="list"></main>
 
 <script>
+const THEME_KEY = "seap-radar-theme";
+
+function currentTheme() {
+  return document.documentElement.getAttribute("data-theme") ||
+    (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+}
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute("data-theme", theme);
+  const btn = document.getElementById("theme-toggle");
+  btn.textContent = theme === "dark" ? "☀️" : "🌙";
+}
+
+function initTheme() {
+  let saved = null;
+  try { saved = localStorage.getItem(THEME_KEY); } catch (e) { /* private mode etc. */ }
+  applyTheme(saved === "light" || saved === "dark" ? saved : currentTheme());
+}
+
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  const next = currentTheme() === "dark" ? "light" : "dark";
+  applyTheme(next);
+  try { localStorage.setItem(THEME_KEY, next); } catch (e) { /* private mode etc. */ }
+});
+
+initTheme();
+
 const state = { items: [], search: "", source: "all" };
 
 function daysUntil(iso) {
