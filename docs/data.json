@@ -1,6 +1,50 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1547688",
+    "title": "Servicii de elaborare Plan Urbanistic Zonal (PUZ) pentru introducerea în intravilan a terenurilor aferente obiectivului „Stație de epurare”, comuna Dumbrăvița, județul Brașov",
+    "authority": "4777132 COMUNA DUMBRAVITA",
+    "cpv": [
+      "71410000-5"
+    ],
+    "published": "2026-09-12T12:18:42+03:00",
+    "deadline": "2026-09-18T12:17:09+03:00",
+    "value": "20661.16",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734216",
+    "match_reason": {
+      "cpv": [
+        "71410000"
+      ],
+      "keywords": [
+        "plan urbanistic",
+        "urbanism"
+      ]
+    },
+    "description": "Achiziția are ca obiect prestarea serviciilor de elaborare a Planului Urbanistic Zonal (PUZ) în vederea introducerii în intravilan și reglementării urbanistice a două terenuri situate în extravilanul comunei Dumbrăvița, județul Brașov, în suprafață de 1.500 mp, respectiv 3.000 mp, suprafața totală fiind de 4.500 mp, aferente obiectivului de investiții „Stație de epurare”.\n\nServiciile vor cuprinde elaborarea documentației PUZ, inclusiv piesele scrise și desenate, documentațiile necesare obținerii avizelor și acordurilor, asistența pe perioada procedurii de avizare, efectuarea completărilor și modificărilor necesare și aducerea documentației în forma completă necesară aprobării prin Hotărârea Consiliului Local, conform cerințelor Caietului de sarcini.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Pot participa operatorii economici care au dreptul legal de a presta serviciile ce fac obiectul achiziției.\n\nDocumentația PUZ va fi elaborată și asumată prin specialiști cu drept de semnătură corespunzător, în conformitate cu legislația aplicabilă documentațiilor de urbanism.\n\nOferta va cuprinde cel puțin:\n– propunerea tehnică, din care să rezulte asumarea integrală a cerințelor Caietului de sarcini;\n– propunerea financiară, exprimată în lei fără TVA și cu TVA evidențiat distinct;\n– indicarea expresă a studiilor și documentațiilor de specialitate incluse în prețul ofertat;\n– datele de identificare ale operatorului economic.\n\nOferta financiară nu poate depăși valoarea estimată a achiziției."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata contractului este de 7 luni de la data semnării contractului de către ambele părți.\n\nPrestatorul va asigura elaborarea documentației, parcurgerea demersurilor de avizare și asistența tehnică necesară, în condițiile prevăzute în Caietul de sarcini.\n\nNu se acordă avans și nu se efectuează plăți intermediare/parțiale. Plata se va efectua integral, într-o singură tranșă, la finalizarea serviciilor, după predarea documentației complete și recepționarea acesteia de către Achizitor, în baza procesului-verbal de recepție și a facturii emise de Prestator.\n\nCelelalte condiții contractuale sunt cele prevăzute în Caietul de sarcini."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut.\n\nContractul va fi atribuit ofertantului care prezintă oferta admisibilă, care îndeplinește toate cerințele Caietului de sarcini și care are prețul total cel mai scăzut, fără TVA, cu încadrarea în valoarea estimată a achiziției.\n\nOfertele care nu îndeplinesc cerințele Caietului de sarcini nu vor fi luate în considerare la stabilirea ofertei câștigătoare."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CAIET DE SARCINI.docx",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734216"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1547688"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1547044",
     "title": "Expertiză tehnică clădire Secția de Rafinare (secția E)",
     "authority": "RO44958790 FABRICA DE PRELUCRARE A CONCENTRATELOR DE URANIU - FELDIOARA S.R.L.",
