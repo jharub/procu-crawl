@@ -1,6 +1,54 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1179821",
+    "title": "Servicii de asistentă tehnică din partea proiectantului pentru obiectivul \"Modernizare școală Criciova - eficientizare corp clădire C1, construire corp clădire nou școală și construire sală de sport\"",
+    "authority": "4357937 - COMUNA CRICIOVA",
+    "cpv": [
+      "71356200-0"
+    ],
+    "published": "2026-09-14T15:36:44+03:00",
+    "deadline": "2026-09-25T15:00:00+03:00",
+    "value": "150000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100331811/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "”Experiența profesionala a personalului desemnat”  - I) Manager proiect/ sef proiect",
+        "description": "Experienta specifică in pozitia de Manager proiect/ sef proiect, înseamnă participarea în calitatea solicitată în minimum 1 (un) contract de asistență tehnica sau servicii de proiectare si asistentă tehnica pentru lucrări de construire si/sau de modernizare si/sau reabilitare a clădirilor civile sau similare din punct de vedere al complexității sau utilității ca cele pe care urmează să le îndeplinească în prezentul contract, cuprinse cel puțin din categoria de importanță C, în conformitate cu prevederile H.G. nr. 766/ 1997 pentru aprobarea unor regulamente privind calitatea în construcții, cu modificările și completările ulterioare, sau superioare din punct de vedere al complexității și scopului prezentei proceduri.",
+        "weight": 10.0
+      },
+      {
+        "name": "”Experiența profesionala a personalului desemnat” -  II) Expert/ specialist - inginer proiectant constructii civile",
+        "description": "Experienta specifică in pozitia de Expert/ specialist - inginer proiectant constructii civile, înseamnă participarea în calitatea solicitată în minimum 1 (un) contract de asistență tehnica sau servicii de proiectare si asistentă tehnica pentru lucrări de construire si/sau de modernizare si/sau reabilitare a clădirilor civile sau similare din punct de vedere al complexității sau utilității ca cele pe care urmează să le îndeplinească în prezentul contract, cuprinse cel puțin din categoria de importanță C, în conformitate cu prevederile H.G. nr. 766/ 1997 pentru aprobarea unor regulamente privind calitatea în construcții, cu modificările și completările ulterioare, sau superioare din punct de vedere al complexității și scopului prezentei proceduri.",
+        "weight": 5.0
+      },
+      {
+        "name": "”Experiența profesionala a personalului desemnat” - III) Expert/ specialist - inginer proiectant instalatii electrice",
+        "description": "Experienta specifică in pozitia de Expert/ specialist - inginer proiectant instalatii electrice, înseamnă participarea în calitatea solicitată în minimum 1 (un) contract de asistență tehnica sau servicii de proiectare si asistentă tehnica pentru lucrări de construire si/sau de modernizare si/sau reabilitare a clădirilor civile sau similare din punct de vedere al complexității sau utilității ca cele pe care urmează să le îndeplinească în prezentul contract, cuprinse cel puțin din categoria de importanță C, în conformitate cu prevederile H.G. nr. 766/ 1997 pentru aprobarea unor regulamente privind calitatea în construcții, cu modificările și completările ulterioare, sau superioare din punct de vedere al complexității și scopului prezentei proceduri.",
+        "weight": 5.0
+      },
+      {
+        "name": ". “Propunerea tehnică - Demonstrarea unei metodologii adecvate de implementare a contractului precum și o planificare adecvată a resurselor umane și a activităților”",
+        "description": "Componenta tehnica",
+        "weight": 40.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1179821"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1179818",
     "title": "Achizitie servicii de proiectare, asistenta tehnica si executie lucrari a obiectivului de investiții  “ ASFALTARE STRADA SCOLII SI STRADA PRUNULUI , SAT LACU SARAT, COMUNA CHISCANI, JUDETUL BRAILA”",
     "authority": "4342669 - COMUNA CHISCANI",
