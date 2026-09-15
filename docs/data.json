@@ -1,6 +1,49 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1548083",
+    "title": "Servicii  de expertiză tehnică extrajudiciară cadastrală și de reconstituire a trasabilității juridico-cadastrale pentru imobilul situat în București,Sector 1 str.Aviator Radu Beller nr.5-7( fost nr.3-5),.",
+    "authority": "RO 4505359 Sector 1 (Sectorul 1 al municipiului Bucuresti)",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-15T14:57:01+03:00",
+    "deadline": "2026-09-18T23:59:00+03:00",
+    "value": "25000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734708",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Servicii  de expertiză tehnică extrajudiciară cadastrală și de reconstituire a trasabilității juridico-cadastrale pentru imobilul situat în București,Sector 1 str.Aviator Radu Beller nr.5-7 (fost nr.3-5), conform Caietului de sarcini",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform Caiet de sarcini."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Plata se va efectua prin ordin de plată, în termen de maximum 30 de zile de la data transmiterii facturii electronice prin sistemul RO e-Factura și înregistrarea acesteia la sediul achizitorului, în baza procesului-verbal de recepție semnat de ambele părți."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "caiet de sarcini.docx",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734708"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548083"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1546770",
     "title": "Servicii de proiectare și lucrari executie ptaforma beton obiectiv de investitii  la Șoseaua Vitan Barzești nr. 22, sector 4, București",
     "authority": "4221160 Directia Generala de Politie a Municipiului Bucuresti",
