@@ -1,6 +1,358 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1548267",
+    "title": "Elaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” si  elaborare expertiză tehnică în domeniul Af. pentru pavilionul B din cazarma 1000 București",
+    "authority": "12859080 Ministerul Apararii - Centrul de Studii si Proiectare Constructii Militare",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-16T15:39:15+03:00",
+    "deadline": "2026-09-28T10:00:00+03:00",
+    "value": "26488.59",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734955",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "-\tExpertiza tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilionul B din cazarma 1000 București va respecta P100-3/2019 - Cod de proiectare seismică - Partea a III-a - Prevederi pentru evaluarea seismică a clădirilor existente.\n-\tExpertiza tehnică în domeniul Af pentru pavilionul B din cazarma 1000 București va fi elaborată și va respecta întocmai conținutul cadru al expertizei geotehnice stabilit prin NP074-2022 - Normativ privind documentațiile geotehnice pentru constructii. Se va identifica sursa infiltrațiilor existente în pavilionul B și se vor prevedea măsuri pentru eliminarea acestora.\nSe va realiza o probă pe materiale la fiecare 500,00 mp, conform P100-3/2019 pct. 4.2), printre care se vor folosi atât încercări distructive cât și nedistructive (probe pe care expertul tehnic le consideră necesare).\n- Prezența obligatorie a expertului tehnic în amplasament.\n- Elaboratorul are obligația de a realiza relevee în conformitate cu situația reală din amplasament.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Respectarea condițiilor din caietul de sarcini și anexele acestuia."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "•\tPerioada de prestare: 40 zile\n•\tTermen de plată: maxim 30 zile calendaristice de la primirea facturii electronice, transmisă prin sistemul național privind factura electronică RO e-Factura conform Legii nr.139/2022 art.II pentru aprobarea O.U.G. nr. 120/2021, care cuprinde codurile CPV corespunzătoare prevăzute în nomenclatorul de referinţă în domeniul achiziţiilor publice, conform O.U.G. nr.138/2024, după receptia serviciilor;\n•\tGaranția de bună execuție: 10% din valoarea totală a contractului fara T.V.A.;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "•\tprețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_si_anexe_ cazarma 1000 Bucuresti.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734955"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548267"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1548262",
+    "title": "Elaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru împrejmuirea perimetrală pe latura de sud-est din cazarma 3604 Alba-Iulia",
+    "authority": "12859080 Ministerul Apararii - Centrul de Studii si Proiectare Constructii Militare",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-16T15:32:34+03:00",
+    "deadline": "2026-09-25T10:00:00+03:00",
+    "value": "12000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734950",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "-\tExpertiza tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru împrejmuirea perimetrală pe latura de sud-est din cazarma 3604 Alba-Iulia va respecta P100-3/2019 - Cod de proiectare seismică - Partea a III-a - Prevederi pentru evaluarea seismică a clădirilor existente.  Se va ține cont de prevederile P100-3/2019 doar în măsura în care nu contravin conceptelor, abordărilor și procedurilor cuprinse în Legea 422/2001 privind protejarea monumentelor istorice. Se vor face probe pe materiale precum și dezvelire de fundații.\nImobilul face parte din Ansamblul fortificației “Cetatea Albă Carolina” cu toate componentele: ziduri, bastioane, curtine, raveline, contragărzi, terase bastionare, șanțuri interioare și exterioare, contraescarpe, cod LMI 2015 AB-II-a-00088, situl arheologic de la Alba Iulia - Castrul Legiunii a XIII-a Gemina cod 2015 AB-I-m-00001.01.\nEste obligatorie prezența expertului/experților tehnici în amplasament pentru verificarea stării tehnice a împrejmuirii perimetrale, întocmirea/verificarea releveelor, în momentul efectuării probelor și la ședința inițială de progres.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Respectarea condițiilor din caietul de sarcini și anexele acestuia."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "•\tPerioada de prestare: 35 zile\n•\tTermen de plată: maxim 30 zile calendaristice de la primirea facturii electronice, transmisă prin sistemul național privind factura electronică RO e-Factura conform Legii nr.139/2022 art.II pentru aprobarea O.U.G. nr. 120/2021, care cuprinde codurile CPV corespunzătoare prevăzute în nomenclatorul de referinţă în domeniul achiziţiilor publice, conform O.U.G. nr.138/2024, după receptia serviciilor;\n•\tGaranția de bună execuție: 10% din valoarea totală a contractului fara T.V.A.;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "•\tprețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_si_anexe_3604 Alba Iulia.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734950"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548262"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1179916",
+    "title": "Proiectare si Executie \"Scoala Gimnaziala sat Mologesti comuna Lalosu judetul Vâlcea, corp C1”.",
+    "authority": "2541711 - COMUNA LALOSU",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-09-16T15:19:03+03:00",
+    "deadline": "2026-10-05T15:00:00+03:00",
+    "value": "7136449,4 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332004/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "P2 – TERMENUL DE PROIECTARE ȘI EXECUȚIE",
+        "description": "Componentă tehnică.\nTermenul de finalizare a contractului va fi exprimat în luni.\nTermenul maxim acceptat pentru proiectarea și execuția lucrărilor este de 14 luni, din care maximum 2 luni pentru proiectare și 12 luni pentru execuția lucrărilor.\nTermenul minim luat în considerare pentru acordarea punctajului este de 8 luni.\nOfertele care prevăd un termen de proiectare și execuție mai mare de 14 luni vor fi declarate neconforme.\nPentru un termen ofertat mai mic de 8 luni nu se acordă punctaj suplimentar față de punctajul maxim de 10 puncte.",
+        "weight": 10.0
+      },
+      {
+        "name": "P3 – TERMENUL DE GARANȚIE ACORDAT LUCRĂRILOR",
+        "description": "Componentă tehnică.\nTermenul minim de garanție acceptat pentru lucrările executate este de 36 luni, calculat de la data recepției la terminarea lucrărilor, fără obiecțiuni.\nOfertele care prevăd o perioadă de garanție mai mică de 36 luni vor fi declarate neconforme.\nTermenul maxim luat în considerare pentru acordarea punctajului este de 60 luni. Pentru perioade de garanție mai mari de 60 luni nu se acordă punctaj suplimentar.",
+        "weight": 15.0
+      },
+      {
+        "name": "P4 – EXPERIENȚA MANAGERULUI DE CONTRACT/MANAGERULUI DE PROIECT",
+        "description": "Componentă tehnică.\n  Experiența specifică a Managerului de contract/Managerului de proiect reprezintă participarea persoanei propuse, în calitatea de Manager de contract/Manager de proiect/coordonator al tuturor activităților/director de contract/șef contract sau o poziție echivalentă, în cadrul unor contracte care au avut ca obiect proiectare și execuție de lucrări și/sau execuție de lucrări de construire/extindere/reabilitare/modernizare a construcțiilor civile.",
+        "weight": 10.0
+      },
+      {
+        "name": "P5 – EXPERIENȚA PROIECTANTULUI ȘEF/ȘEFULUI ECHIPEI DE PROIECTARE",
+        "description": "Componentă tehnică.\n   Experiența specifică reprezintă participarea expertului propus în poziția de Proiectant șef/Șef echipă de proiectare în cadrul unor contracte de servicii de proiectare și/sau contracte de lucrări care au inclus proiectarea și care au avut ca obiect elaborarea și/sau actualizarea și/sau revizuirea unor documentații tehnico-economice, respectiv:\n•\tstudiu de fezabilitate și/sau;\n•\tproiect pentru autorizarea executării lucrărilor și/sau;\n•\tdocumentație de avizare a lucrărilor de intervenții și/sau;\n•\tproiect tehnic de execuție,\npentru lucrări de construire/extindere/reabilitare/modernizare a construcțiilor civile.",
+        "weight": 10.0
+      },
+      {
+        "name": "P6 – GESTIONAREA DEȘEURILOR DE PE ȘANTIER",
+        "description": "Componentă tehnică – protecția mediului.\nCerința minimă de conformitate este ca minimum 70% în greutate din deșeurile nepericuloase provenite din activități de construcții și demolări și generate pe șantier, cu excepția materialelor geologice naturale menționate la categoria 17 05 04 din lista europeană a deșeurilor, să fie pregătite pentru reutilizare, reciclare și alte operațiuni de valorificare a materialelor, inclusiv operațiuni de rambleiaj care utilizează deșeuri pentru a înlocui alte materiale.",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1179916"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1548256",
+    "title": "Elaborare expertiza tehnica privind cerinta fundamentala rezistenta mecanica si stabilitate pentru pavilioanele R4, R5, R6, R7, E1 din cazarma 1281 Bucuresti",
+    "authority": "12859080 Ministerul Apararii - Centrul de Studii si Proiectare Constructii Militare",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-16T15:15:54+03:00",
+    "deadline": "2026-09-24T10:00:00+03:00",
+    "value": "37753.7",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734941",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "-\telaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilionul R4 din cazarma 1281 București;\n-\telaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilionul R5 din cazarma 1281 București;\n-\telaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilionul R6 din cazarma 1281 București;\n-\telaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilionul R7 din cazarma 1281 București;\n-\telaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilionul E1 din cazarma 1281 București.\nExpertizele tehnice privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilioanele R4, R5, R6, R7, E1 din cazarma 1281 București va respecta P100-3/2019 - Cod de proiectare seismică - Partea a III-a - Prevederi pentru evaluarea seismică a clădirilor existente. Se va realiza o probă pe materiale la fiecare 500,00 mp, conform P100-3/2019 pct. 4.2), cu încercări nedistructive (pahometrie și sclerometrie). \nPrezența obligatorie a expertului tehnic în amplasament. \nReleveele anexate sunt orientative, elaboratorul având obligația de a realiza relevee în conformitate cu situația reală din amplasament. Pentru pavilioanele R4, R5, R6, R7 se va analiza posibilitatea modificării dimensiunii golurilor corespunzătoare porților de intrare în vederea accesului autocamioanelor de 3,60 m la 4,00 m.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Respectarea condițiilor din caietul de sarcini și anexele acestuia."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "•\tPerioada de prestare: 45 zile\n•\tTermen de plată: maxim 30 zile calendaristice de la primirea facturii electronice, transmisă prin sistemul național privind factura electronică RO e-Factura conform Legii nr.139/2022 art.II pentru aprobarea O.U.G. nr. 120/2021, care cuprinde codurile CPV corespunzătoare prevăzute în nomenclatorul de referinţă în domeniul achiziţiilor publice, conform O.U.G. nr.138/2024, după receptia serviciilor;\n•\tGaranția de bună execuție: 10% din valoarea totală a contractului fara T.V.A.;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "•\tprețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_si_anexe_1281 Bucuresti.PDF",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734941"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548256"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1548251",
+    "title": "Proiectare și execuție Modernizare străzi în Orașul Târgu Frumos, jud. Iași, obiectiv 1: strada Petru Rareș -  Tronson 1",
+    "authority": "4541068 ORASUL TARGU FRUMOS",
+    "cpv": [
+      "45233142-6"
+    ],
+    "published": "2026-09-16T14:56:09+03:00",
+    "deadline": "2026-09-21T14:00:00+03:00",
+    "value": "576209.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734932",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Proiectare și execuție Modernizare străzi în Orașul Târgu Frumos, jud. Iași, obiectiv 1: strada Petru Rareș -  Tronson 1, conform caiet de sarcini nr.32476815.09.2026",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "conform caiet de sarcini nr.32476815.09.2026"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform caiet de sarcini nr.32476815.09.2026"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734932"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548251"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1523466",
+    "title": "Servicii de proiectare si executie a sursei de alimentare laser fibra optica de mare putere",
+    "authority": "RO 9052135 INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE PENTRU FIZICA LASERILOR, PLASMEI SI RADIATIEI",
+    "cpv": [
+      "71300000-1"
+    ],
+    "published": "2026-09-16T14:31:18+03:00",
+    "deadline": "2026-09-22T12:00:00+03:00",
+    "value": "150000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734843",
+    "match_reason": {
+      "cpv": [
+        "71300000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Obiectul prezentei achizitii  îl reprezintă achiziția Serviciilor de cercetare-dezvoltare privind proiectarea, realizarea, integrarea și testarea unui sistem de drivere de curent constant pentru diode laser cu fibră optică, destinat realizării modelului funcțional al sursei laser în cadrul proiectului LASER-FO (SMIS 329264).\nServiciile se vor desfasura in 3 (trei) etape:\n- Etapa 1 — Proiectul tehnic complet (termen finalizare - maxim 4 luni de la semnarea contractului);\n- Etapa 2 — Prototipuri pilot funcționale (termen finalizare - maxim 8 luni de la semnarea contractului);\n- Etapa 3 — Sistem integrat complet (termen finalizare - maxim 12 luni de la semnarea contractului).",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertele vor fi transmise prin fax la nr. 021.457.49.23 sau prin e-mail ionut.ioan@inflpr.ro pana marti, 22.09.2026, ora 12:00."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata contractului: 365 de zile de la semnarea contractului. Pretul serviciilor de proiectare, pieselor, consumabilelor, manoperei, transportului si alte taxe, cu exceptia TVA, vor fi incluse in pretul ofertei. Modalitate si termen de plata: \nPlatile aferente celor 3 etape, respectiv:\n- Etapa 1 — Proiectul tehnic complet (30% din valoarea contractului);\n- Etapa 2 — Prototipuri pilot funcționale (40% din valoarea contractului);\n- Etapa 3 — Sistem integrat complet (30% din valoarea contractului),\n vor fi efectuate in termen de 60 de zile de la data emiterii facturilor, in baza  proceselor verbale / documentelor care atesta indeplinirea obligatiilor contractantului."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de Sarcini Servicii executie sursa alimentare.docx",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734843"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1523466"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1179914",
+    "title": "Proiectare, verificarea tehnică de calitate a proiectului, execuție lucrări și asistență tehnică din partea proiectantului pe perioada execuției lucrărilor pentru obiectivul de investiții «Modernizare și dotare Centru de Sănătate Mintală pentru Prevenirea și Tratarea Adicțiilor pentru Adulți”",
+    "authority": "4613342 - Spitalul Judetean de Urgenta Alba Iulia",
+    "cpv": [
+      "45215140-0"
+    ],
+    "published": "2026-09-16T14:29:55+03:00",
+    "deadline": "2026-10-12T15:00:00+03:00",
+    "value": "2390047,6 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332002/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "a) Demonstrarea unei\nmetodologii adecvate de\nimplementare a contractului,\nprecum și o planificare adecvată a\nresurselor umane și activităților",
+        "description": "Componenta tehnica",
+        "weight": 30.0
+      },
+      {
+        "name": "Manager de proiect (contract)",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      },
+      {
+        "name": "Șef/coordonator/director proiect",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1179914"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1548225",
+    "title": "SERVICII DE PROIECTARE (FAZA SF, PT) ȘI ASISTENȚĂ TEHNICĂ PENTRU OBIECTIVUL „ACHIZIȚIE, MONTAJ ȘI PUNERE ÎN FUNCȚIUNE CENTRALE TERMICE PENTRU INSTITUȚIILE ADMINISTRAȚIEI PUBLICE MOTRU”",
+    "authority": "5455844 MUNICIPIUL MOTRU",
+    "cpv": [
+      "71321200-6"
+    ],
+    "published": "2026-09-16T13:58:34+03:00",
+    "deadline": "2026-09-23T11:00:00+03:00",
+    "value": "70000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734895",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "faza sf"
+      ]
+    },
+    "description": "Întocmire documentație tehnică (studiu de fezabilitate, documentații pentru obținerea avizelor, studiu geotehnic, proiect tehnic, detalii de execuție, DTAC, caiete de sarcini, verificator în conformitate cu Legea 10/1995, avizare ISCIR) pentru realizarea de centrale termice (agent termic și apă caldă menajeră) la instituțiile de învățământ de pe raza municipiului Motru, precum și aistență tehnică pe parcursul derulării achiziției de lucrări/produse și pe perioada de realizare a investiției. Achiziția este structurată pe 5 loturi, după cum urmează: ** LOTUL 1: CENTRALĂ TERMICĂ LA SEDIUL PRIMĂRIEI – 20.000 lei fără TVA ** LOTUL 2: CENTRALĂ TERMICĂ LA SEDIUL ITL – valoare estimată 20.000 lei fără TVA ** LOTUL 3: CENTRALĂ TERMICĂ LA SEDIUL POLIȚIEI LOCALE – valoare estimată 10.000 lei fără TVA ** LOTUL 4: CENTRALĂ TERMICĂ LA CASA MULTICULTURALĂ – valoare estimată 10.000 lei fără TVA ** LOTUL 5: CENTRALĂ TERMICĂ LA SALA DE SPORT – valoare estimată 10.000 lei fără TVA.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "conform documentației atașate prezentului anunț"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform draftului de contract din documentația atașată prezentului anunț"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "prețul cel mai scăzut, indiferent de lotul pentru care se depune ofertă"
+      }
+    ],
+    "documents": [
+      {
+        "name": "DA PROIECTARE CENTRALE TERMICE SEDII INSTITUTII.zip.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100734895"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548225"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1548183",
     "title": "Studiu de Fezabilitate pentru Instalarea unui sistem fotovoltaic pentru producerea și stocarea energiei electrice în autoconsum, pe sistem carport și pompe de căldură- la sediul S.T.P.F. Teleorman",
     "authority": "4201295 Inspectoratul Teritorial al Politiei de Frontiera Giurgiu",
