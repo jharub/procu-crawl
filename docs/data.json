@@ -1,6 +1,173 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1179974",
+    "title": "Servicii de proiectare faza SF, DTAC, PT+DE, asistenta tehnica din partea proiectantului, inclusiv implementare metodologie BIM in cadrul investitiei: ”Regenerarea unor spatii urbane in orasul Beclean”",
+    "authority": "4548821 - ORASUL BECLEAN",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-17T16:46:12+03:00",
+    "deadline": "2026-10-05T15:00:00+03:00",
+    "value": "395000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332102/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului",
+        "faza sf"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența Sefului de proiect",
+        "description": "Se punctează cu maxim 30 pct experiența deținută de Sefului de proiect prin implicarea in doua sau mai multe proiecte multidisciplinare pentru spații publice, regenerare urbană, amenajări urbane, infrastructură urbană, dovedita cu documente de confirmare (extrase din proiecte tehnice verificate / procese verbale de receptie).",
+        "weight": 30.0
+      },
+      {
+        "name": "Experiența Managerului BIM",
+        "description": "Se punctează cu maxim 30 pct experiența deținută de Managerul BIM in management/coordonare BIM in doua sau mai multe proiecte, dovedita cu documente de confirmare emise de beneficiar din care rezultă proiectul, beneficiarul/contractul, perioada și rolul efectiv.",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1179974"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1179973",
+    "title": "Servicii de proiectare faza DTAC, PT+DE, asistenta tehnica din partea proiectantului, inclusiv implementare metodologie BIM in cadrul investitiei: ”Reabilitarea, modernizarea si extinderea Scolii Gimnaziale „Grigore Silasi”, Piata Libertatii nr. 19, oras Beclean”",
+    "authority": "4548821 - ORASUL BECLEAN",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-17T16:45:07+03:00",
+    "deadline": "2026-10-05T15:00:00+03:00",
+    "value": "680000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332101/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența Sefului de proiect",
+        "description": "Se punctează cu maxim 30 pct experiența deținută de Sefului de proiect prin implicarea in doua sau mai multe proiecte de construire/ reabilitare/ modernizare/extindere cladiri, dovedita cu documente de confirmare (extrase din proiecte tehnice verificate / procese verbale de receptie).",
+        "weight": 30.0
+      },
+      {
+        "name": "Experiența Managerului BIM",
+        "description": "Se punctează cu maxim 30 pct experiența deținută de Managerul BIM in management/coordonare BIM in doua sau mai multe proiecte, dovedita cu documente de confirmare emise de beneficiar din care rezultă proiectul, beneficiarul/contractul, perioada și rolul efectiv.",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1179973"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1548485",
+    "title": "Servicii de expertiză tehnică auto extrajudiciară pentru evaluarea daunelor materiale și determinarea prejudiciului total extins",
+    "authority": "20741726 APIA - Centrul judetean Suceava",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-17T16:34:37+03:00",
+    "deadline": "2026-09-22T12:00:00+03:00",
+    "value": "5000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735227",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Achiziția are ca obiect servicii de expertiză tehnică auto extrajudiciară necesare evaluării integrale și exhaustive a prejudiciului patrimonial produs instituției ca urmare a unui accident rutier produs la data de 18.05.2026, în care a fost implicat un autoturism marca Dacia Duster Comfort Blue dCi 115 4WD, nr. înmatriculare SV 16 RWM, aflat în proprietatea instituției.\n\nExpertul desemnat va răspunde în cadrul Raportului de Expertiză la următoarele obiective:\n- Obiectivul 1: Evaluarea tehnică a avariilor și costul reparației (identificarea avariilor, calcularea costurilor de reparație utilizând exclusiv piese OEM și baremele oficiale ale producătorului prin sisteme Audatex/Eurotax, stabilirea valorii de circulație a autovehiculului anterior accidentului);\n- Obiectivul 2: Determinarea stării de daună totală și a valorii reziduale, după caz;\n- Obiectivul 3: Calculul prejudiciului generat de lipsa de folosință a vehiculului;\n- Obiectivul 4: Calculul primelor de asigurare CASCO și RCA neutilizate, precum și al ITP, rovinietei și taxelor locale aferente perioadei de imobilizare;\n- Obiectivul 5: Concluzii privind valoarea totală consolidată a prejudiciului.\n\nTermen de execuție: 10 (zece) zile lucrătoare de la data atribuirii serviciului în SEAP/SICAP și punerii la dispoziție a documentației de către autoritatea contractantă.   Caiet de sarcini atasat 7847 din 17.09.2026",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantul trebuie să îndeplinească următoarele criterii:\n- Să fie Expert Tehnic Judiciar autorizat de Ministerul Justiției (specializarea Autovehicule, transporturi rutiere sau similar) SAU expert tehnic autorizat înscris în organisme profesionale recunoscute la nivel național;\n- Să dețină licențe valide pentru utilizarea software-urilor de reparații și evaluări daune recunoscute la nivel european (Audatex sau DAT);\n- Să nu se afle în conflict de interese în raport cu părțile implicate în dosarul penal."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Raportul de expertiză tehnică va fi livrat autorității contractante în 2 (două) exemplare pe suport de hârtie, semnate și ștampilate, și 1 (un) exemplar în format digital (PDF securizat sau semnat electronic).\n\nPlata serviciilor se va efectua prin virament bancar în contul de Trezorerie al prestatorului, doar după recepția calitativă și cantitativă, fără obiecțiuni, a livrabilelor.\n\nRaportul va fi redactat clar, cu fundamentări matematice, tehnice și economice, și va include în anexe extrasele din programele specializate de calcul al daunelor (Audatex/Eurotax/echivalent) și analizele de piață comparative utilizate."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, cu condiția îndeplinirii cerințelor minime din caietul de sarcini."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_7847_17.09.2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735227"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548485"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1548418",
+    "title": "Proiectare și execuție priză de pământ locală – Centrul de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități Ionaș Vârfu Câmpului.",
+    "authority": "17093020 DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI BOTOSANI",
+    "cpv": [
+      "45310000-3"
+    ],
+    "published": "2026-09-17T13:44:14+03:00",
+    "deadline": "2026-09-24T13:00:00+03:00",
+    "value": "4132.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735148",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Proiectare și execuție priză de pământ locală – Centrul de Îngrijire și Asistență pentru Persoane Adulte cu Dizabilități Ionaș Vârfu Câmpului., conform cerintelor din Caietul de sarcini nr. 58.691/08.09.2026, atasat prezentului anunt",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Executantul trebuie sa facă  dovada deținerii de personal specializat pentru execuția lucrării solicitate. În acest sens, va face dovada că deţine categoriile de muncitori calificaţi, conform tipurilor de lucrări necesare a fi executate. Dovada deţinerii personalului specializat, enumerat mai sus, se va face, fără a se limita la acestea, prin atașarea la propunerea  tehnică a următoarelor documente: copie după diploma de studii atestate/specializări, contractul individual de muncă, acord de disponibilitate etc."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Termenul de proiectare, execuție și predare a lucrării este de 30 zile calendaristice de la data emiterii comenzii și a constituirii garanției de bună execuție, în cuantum de 10% din valoarea contractului."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut fara TVA."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Scanned-image.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735148"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548418"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "CN1096459",
     "title": "Proiectare și execuție de lucrări aferente obiectivului de investiții Centrul integrat de diagnostic și tratament de zi în oncologie al Spitalului Clinic de Urgență „Prof. Dr. Agrippa Ionescu”, vizat spre finanțare prin Programul Sănătate 2021 - 2027",
     "authority": "13624359 - UM 0929 Bucuresti",
