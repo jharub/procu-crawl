@@ -1,6 +1,49 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1548687",
+    "title": "Servicii de elaborare a studiului de fundamentare a notei conceptuale si temei de proiectare a ob de investitii-„Restaurarea, modernizarea si extinderea Operei Nationale Romane din Bucuresti”",
+    "authority": "4221314 OPERA NATIONALA BUCURESTI",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-09-18T18:39:20+03:00",
+    "deadline": "2026-09-24T11:00:00+03:00",
+    "value": "145000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735477",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Se vor achizitiona de catre ONB -Servicii de elaborare a studiului de fundamentare a notei conceptuale si temei de proiectare a obiectivului de investitii-„Restaurarea, modernizarea si extinderea Operei Nationale Romane din Bucuresti”, servicii descrise in Caietul de sarcini nr. 615\n3/ 07.09.2026, atasat la prezentul anunt",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatori economici de profil. Ofertantii nu trebuie sa se regaseasca în:\n- situatiile prevazute la art.164, 165, 167 din Legea nr. 98/2016.\n-  situatiile prevazute la art. 59-60 din Legea nr. 98/2016. \nAceștia vor completa o declarație.\nOfertantii vor depune :\n-Certificate constatatoare privind plata impozitelor, taxelor și a contribuțiilor la bugetul general consolidat (bugetul local, buget de stat, etc), valabile la momentul transmiterii ofertei;\n-Certificatului constatator emis de Oficiul Registrului Comertului în raza caruia este situat sediul ofertantului. Din certificatul constatator trebuie sa reiasa obiectul contractului care trebuie sa aiba corespondent în codul CAEN din certificatul constatator emis de ONRC. \n-Propunerea tehnică care trebuie sa fie intocmita repectand cerinţele din Caietul de sarcini nr. 6153/ 07.09.2026 și Hotărârea nr. 1116/2023 pentru modificarea și completarea Hotărârii Guvernului nr. 907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice\n- Propunerea financiară, exprimată în lei fără TVA şi cu TVA"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform clauzelor contractuale"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini 6153 DIN 07.09.2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735477"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1548687"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1548685",
     "title": "Achiziția serviciilor de proiectare (PT) și execuție a lucrărilor pentru obiectivul de investiții \"Imbunatatirea conditiilor de pastrare a vehiculelor indisponibilizate la IPJ Buzau\", sistuat in Mun. Buzau, Strada Chiristigii, Nr. 8-10, Judetul Buzau",
     "authority": "4299615 Inspectoratul de Politie al Judetului Buzau",
