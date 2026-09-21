@@ -1,6 +1,54 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180072",
+    "title": "Execuție lucrări în cadrul proiectului “ITP Pasaj Basarab ” Categoria de lucrari intretinere retele,  faza reabilitare iluminat general, functional si de accent/iluminatul arhitectural Pasaj Basarab ”",
+    "authority": "37992692 - TRUSTUL DE CLADIRI METROPOLITANE BUCURESTI S.A",
+    "cpv": [
+      "45316110-9"
+    ],
+    "published": "2026-09-21T22:23:42+03:00",
+    "deadline": "2026-10-01T15:00:00+03:00",
+    "value": "4500000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332303/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectural"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "DEMONSTRAREA UNEI METODOLOGII ADECVATE DE IMPLEMENTARE A CONTRACTULUI-, PRECUM ȘI O PLANIFICARE ADECVATĂ A RESURSELOR UMANE ȘI A ACTIVITĂTILOR",
+        "description": "Subfactor 1: Metodologie activitate INSTALARE LA INALTIME -10 puncte maxim\nSubfactor 2: - Metodologie activitate INLOCUIREA APARATELOR DE ILUMINAT AFLATE IN ZONA DE SIGURANTA CFR- 10 puncte maxim",
+        "weight": 20.0
+      },
+      {
+        "name": "2.\tTermen de livrare",
+        "description": "Factorul evaluează capacitatea ofertantului de a asigura aprovizionarea integrală a aparatelor de iluminat într-un termen care garantează finalizarea in termenul cel mai scurt.",
+        "weight": 20.0
+      },
+      {
+        "name": "4.\tEXISTENȚA LA NIVEL DE ORGANIZAȚIE A CONTRACTULUI COLECTIV DE MUNCĂ",
+        "description": "Autoritatea contractantă va avea în vedere la acordarea punctajului aferent existenta la nivelul organizației ofertantului a contractului colectiv de muncă încheiat cu o organizație sindicală sau a contractului colectiv de muncă la nivel de sector de negociere colectivă\tPunctaj maxim: 10 maxim",
+        "weight": 10.0
+      },
+      {
+        "name": "5.\tAmbalaj din material reciclat",
+        "description": "Se urmărește utilizarea de ambalaje care sunt în deplină corelaţie cu conservarea şi dezvoltarea mediului. pondere 10 puncte MAXIM",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180072"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1180070",
     "title": "„AMENAJAREA MALULUI TÂRNAVEI MARI ÎN ZONA PARCULUI CENTRAL-ZONA BUDVÁR, PISTĂ DE BICICLETE ȘI ALEE PIETONALE – Cod SMIS 363555”",
     "authority": "4367558 - MUNICIPIUL ODORHEIU SECUIESC (PRIMARIA MUNICIPIULUI ODORHEIU SECUIESC)",
