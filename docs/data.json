@@ -1,5 +1,203 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180108",
+    "title": "Servicii de proiectare-faza  S.F pentru obiectivul de investitii ,,Construire și dotare cu cameră hiperbarică- spațiu pentru servicii de recuperare pacienți oncologici,,",
+    "authority": "4278728 - SPITALUL JUDETEAN DE URGENTA BACAU",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-09-22T17:36:09+03:00",
+    "deadline": "2026-10-12T15:00:00+03:00",
+    "value": "82000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332380/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "studiu de fezabilitate"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 85.0
+      },
+      {
+        "name": "Durata de execuție a contractului",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180108"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180107",
+    "title": "Proiectare si executie infrastructura de reincarcare autovehicule electrice",
+    "authority": "4283635 - SERVICIUL DE PROTECTIE SI PAZA – U.M. 0149 F BUCURESTI",
+    "cpv": [
+      "45317000-2"
+    ],
+    "published": "2026-09-22T17:03:44+03:00",
+    "deadline": "2026-10-15T15:00:00+03:00",
+    "value": "3054000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332379/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Perioada de garanție a stațiilor acordată suplimentar",
+        "description": "Perioada de garanție a stațiilor acordată suplimentar față de cerința minimă  impusă prin caietul de sarcini P(g)",
+        "weight": 10.0
+      },
+      {
+        "name": "Puterea stației ofertată suplimentar",
+        "description": "Puterea stației ofertată suplimentar față de cerința minimă din caietul de sarcini P(putere)",
+        "weight": 10.0
+      },
+      {
+        "name": "Numărul de stații de încărcare furnizate suplimentar",
+        "description": "Numărul de stații de încărcare furnizate suplimentar față de cerința minimă din caietul de sarcini P(st)",
+        "weight": 40.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180107"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549175",
+    "title": "Servicii elaborare studiu de fezabilitate",
+    "authority": "9524980 Institutul Național de Boli Infecțioase \"Prof. Dr. Matei Balș\"",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-09-22T15:17:14+03:00",
+    "deadline": "2026-09-24T15:10:55+03:00",
+    "value": "65000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736075",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Servicii elaborare studiu de fezabilitate pentru implementarea unui sistem de panouri fotovoltaice cu solutii de stocare",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta va contine descrierea cat mai amanuntita a serviciilor ofertate. Oferta va fi exprimată în lei, cu și fără T.V.A., acesta având un caracter ferm. Serviciile ofertate trebuie să respecte toate cerintele stabilite in prezentul anunt, respectand cerintele din caietul de sarcini. In cazul in care ofertantii nu respecta cerintele, oferta nu va fi luată in considerare."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Prestarea se va realiza la sediul Institutului. Obligatia de plata a Autoritatii contractante este afectata de o conditie suspensiva: pretul contractului devine eligibil numai dupa aprobarea spre finantare a cererii de finantare si incasarea de catre Autoritatea contractanta a primei sume din finantarea nerambursabila(prefinantare, cerere de plata sau cerere de rambursare, dupa caz). Plata se va efectua în 60 de zile de la data primirii facturii electronice și recepționării serviciilor. Prezenta nu constituie un angajament de cumpărare din partea noastră."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scazut, incluzând toate costurile asociate. Nu se admit la plată alte costuri suplimentare în afara celor precizate ca reprezentând contravaloarea serviciilor. Pentru stabilirea ofertei castigatoare se va avea in vedere pretul, urmand a fi declarat castigator, ofertantul cu cel mai mic pret a carei oferta indeplineste cerintele stabilite in prezentul anunt."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CAIET DE SARCINI.pdf.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736075"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549175"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549128",
+    "title": "Proiectare și execuție platforme carosabile acces clădire  Centrul de servicii de recuperare neuromotorie de tip ambulatoriu pentru persoane adulte  cu dizabilități Botoșan",
+    "authority": "17093020 DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI BOTOSANI",
+    "cpv": [
+      "45233222-1"
+    ],
+    "published": "2026-09-22T14:01:07+03:00",
+    "deadline": "2026-10-01T13:00:00+03:00",
+    "value": "173553.72",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736019",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Proiectare și execuție platforme carosabile acces clădire  Centrul de servicii de recuperare neuromotorie de tip ambulatoriu pentru persoane adulte  cu dizabilități Botoșan. Scrisoarea de intentie, Caietul de sarcini si documentele solicitate de catre autoritatea contractanta, le regasiti atasate prezentului anunt.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertele pot fi depuse de catre orice operator economi, care are ca obiect de activitate, efectuarea lucrarilor socilitate prin prezentul anunt."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut fara TVA"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736019"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549128"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549110",
+    "title": "Servicii de proiectare - verificator proiecte: la obiectivul de investiții « Viabilizare teren locuințe Cartier Lacu Dulce, Str. Dorului – Cazasului,  CF București – Brăila, etapa II Sud » (etapa a II-a)",
+    "authority": "4205670 MUNICIPIUL BRAILA",
+    "cpv": [
+      "71330000-0"
+    ],
+    "published": "2026-09-22T13:31:47+03:00",
+    "deadline": "2026-10-01T23:59:00+03:00",
+    "value": "15000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735998",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Obiectul contractului este reprezentat de verificarea proiectelor: Documentație Tehnică în vederea obținerii Autorizației de Construire (DTAC), Proiect Tehnic și Detalii de execuție (PT + DE), la obiectivul de investiții « Viabilizare teren locuințe Cartier Lacu Dulce, Str. Dorului – Cazasului, CF București – Brăila, etapa II Sud » (etapa a II-a), inclusiv verificarea modificărilor de soluții tehnice pe parcursul execuției, în conformitate cu prevederile Hotărârii nr. 742/2018 privind modificarea HG nr. 925/1995 pentru aprobarea Regulamentului de verificare și expertizare tehnică de calitate a proiectelor, a execuției lucrărilor și a construcțiilor, cu modificările și completările ulterioare și cu prevederile Legii nr.10/1995, privind calitatea în construcții, cu modificările și completările ulterioare.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta trebuie să cuprindă următoarele:\n-\tDocument din care să reiasă o formă de înregistrare a ofertantului în concordanță cu obiectul contractului.\n-\tFormularul de ofertă anexat ce cuprinde valoarea în lei fără TVA \n-\tFormularul A- declarație privind conflictul de interese;\n-\tPropunerea tehnică                                             \n-\tModelul de contract “semnat”, cu mențiunea “de acord cu propunerea de contract” sau declarație pe propria răspundere privind acceptarea clauzelor contractuale."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata contractului\n\tTermenul de prestare a serviciilor de verificare proiecte este de 15 zile calendaristice, de la data emiterii Ordinului de începere. \n\t Contractul intră în vigoare la data semnării acestuia, de către ultima parte și este valabil până la îndeplinirea, integral și corespunzător, a obligațiilor de către ambele părți. \n\t\tContractul opereaza valabil între părți, potrivit legii, ofertei și documentației de atribuire, de la data intrării sale în vigoare, până la epuizarea convențională sau legală a oricarui efect pe care îl produce."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "INVITATIE DE PARTICIPARE VERIFICATOR VIABILIZARE TEREN ANL ETAPA II.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735998"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549110"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1549101",
     "title": "Servicii de elaborare a expertizei tehnice si a studiului geotehnic pentru obiectivul de investiții: ”Reabilitarea/modernizarea drum comunal DC4 Ion Roată – Valea Măcrișului, jud. Ialomița”",
