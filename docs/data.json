@@ -1,6 +1,212 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180148",
+    "title": "PROIECTARE ȘI EXECUȚIE A UNUI SISTEM TEHNOLOGIC DE DRENAJ PE TERMEN LUNG AL APELOR SUBTERANE DIN DEALUL ACOPERITOR VESTIC AL SALINEI TURDA",
+    "authority": "RO26128977 - SOCIETATEA SALINA TURDA SA",
+    "cpv": [
+      "45232452-5"
+    ],
+    "published": "2026-09-23T16:44:45+03:00",
+    "deadline": "2026-10-09T15:00:00+03:00",
+    "value": "6397876,46 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332469/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența în execuția de lucrări similare",
+        "description": "Componenta tehnica P1\nPrezentarea unui contract având ca obiect execuţia de foraje orizontale dirijate paralele cu traiectorie ascendenta, lungimea minima cumulata a conductelor instalate sa fie de minim 2.000m, finalizat în ultimii 5 ani.",
+        "weight": 30.0
+      },
+      {
+        "name": "Deținerea și alocarea, pentru această investiție, a instalației / instalațiilor de foraj de minimum 80 Tf.",
+        "description": "Componenta tehnica P1 Prezentarea, ca dotare tehnică obligatorie alocată acestor lucrări de instalații pentru realizare foraj orizontal dirijat, o instalatie de minimum 80 Tf  dotata cu sistem de ghidare de tip wire line/beacon sau echivalent",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180148"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549435",
+    "title": "Servicii de concepere, machetare, realizare și instalare a unui Colț expozițional referitor la IAS (Specii Invazive) din Marea Neagră în Centrul de vizitare Sulina”din cadrul proiectului IASON+",
+    "authority": "3722040 ADMINISTRATIA REZERVATIEI BIOSFEREI DELTA DUNARII",
+    "cpv": [
+      "79932000-6"
+    ],
+    "published": "2026-09-23T16:06:55+03:00",
+    "deadline": "2026-10-06T13:30:00+03:00",
+    "value": "82266.12",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736413",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cerințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza evaluării ofertelor.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cer ințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza ev aluării ofertelor."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cer ințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza ev aluării ofertelor."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cer ințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza ev aluării ofertelor."
+      }
+    ],
+    "documents": [
+      {
+        "name": "0. Documentatia de atribuire.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736413"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549435"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549411",
+    "title": "Elaborare expertiza tehnica a sectorului DN65F : km 4+278 – km 4+700 si a sectorului DJ643F km 17+184 – 17+424”pentru obiectivul de investitii „Construire drum de interes judetean pentru conectarea Spitalului Regional Craiova la DJ643F, Dex Craiova-Pitesti si DN65F (Centura de Nord a mun Craiova)",
+    "authority": "4417150 CONSILIUL JUDETEAN DOLJ",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-23T15:27:20+03:00",
+    "deadline": "2026-09-28T12:00:00+03:00",
+    "value": "3305.79",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736385",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Elaborare expertiza tehnica a sectorului DN65F : km 4+278 – km 4+700 si a sectorului DJ643F km 17+184 – 17+424”pentru obiectivul de investitii „Construire drum de interes judetean pentru conectarea Spitalului Regional Craiova la DJ643F, Dex Craiova-Pitesti si DN65F (Centura de Nord a mun. Craiova)",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "I. Oferta depusă la sediul autoritătii contractante, trebuie sa cuprindă in mod obligatoriu:\n•\tDocumente de calificare\n•\tOferta tehnica \n•\tOferta financiara\nLipsa oricareia dintre componentele obligatorii ale ofertei  determina declararea acesteia ca inacceptabila.\n\nII.Documente de calificare:\nSe vor prezenta obligatoriu urmatoarele documente:\n - Certificatul constatator emis de Oficiul National al Registrului Comerţului (in original sau in copie cu mentiunea conform cu originalul). Obiectul contractului trebuie să aibă corespondent  în codurile CAEN autorizate conform pevederilor legale. Informaţiile cuprinse în certificatul constatator trebuie să fie reale/actuale la momentul prezentării acestuia.\n - Formularul 3 - Declaraţie privind  neîncadrarea in situatiile prevazute la art. 59 si 60 din Legea 98/2016 privind achiziţiile publice."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "III. Modul de prezentare a propunerii tehnice:\nPropunerea tehnica se va elabora astfel încât aceasta să permită identificarea cu ușurintă, punct cu punct  a corespondentei acesteia cu cerintele din caietul de sarcini. Dacă propunerea tehnică nu satisface cerintele caietului de sarcini, oferta va fi considerată neconformă. \nPropunerea tehnica va contine obligatoriu urmatoarele documente:\n-\tasumarea draftului de contract de catre ofertant (printr-o declaratie pe propria raspundere ca a luat la cunostinta de prevederile contractuale si este de acord cu acestea- Formular 5).  \n-\tPentru personalul utilizat în îndeplinirea contractului vor fi prezentate documente suport relevante pentru demonstrarea calificărilor şi experienţei solicitate (diplome/ atestate, legitimaţii în valabilitate, orice alte documente considerate a fi relevante)\nPropunerea tehnică  va fi semnată de persoana împuternicita a operatorului economic – va avea un caracter ferm si obligatoriu din punct de vedere al continutului pe toata perioada de valabilitate stabilită de autoritatea contractantă.\n\n\nIV. Modul de prezentare a propunerii financiare:\n\tOferta financiara constituie pret ferm iar pretul ofertei se va exprima in lei, fără TVA. \n\tPropunerea financiară va contine  obligatoriu Formularul de ofertă – Formularul nr. 2. TVA se va evidentia distinct. Propunerea financiara va fi semnată de persoana împuternicita a operatorului economic."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "DOCUMENTATIE DE ATRIBUIRE EXPERTIZA TEHNICA.rar.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736385"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549411"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549403",
+    "title": "\"Lucrari de integrare a instalatiei panourilor solare in instalatia Centralei Termice – proiectare si executie, str.Marchian nr.11 \"",
+    "authority": "4557951 Spitalul Judetan de Urgenta \"Mavromati\" Botosani",
+    "cpv": [
+      "50721000-5"
+    ],
+    "published": "2026-09-23T15:12:04+03:00",
+    "deadline": "2026-10-01T10:00:00+03:00",
+    "value": "225619.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736377",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Conform documentatiei de atribuire atasate",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform documentatiei de atribuire atasate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform documentatiei de atribuire atasate"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "D.A. P.E.Lucr.de integrare panouri 2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736377"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549403"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180142",
+    "title": "Reabilitare strada Cronicar Neculce (proiectare si executie)",
+    "authority": "4240677 - Municipiul Medias",
+    "cpv": [
+      "45233000-9"
+    ],
+    "published": "2026-09-23T13:44:20+03:00",
+    "deadline": "2026-10-28T15:00:00+02:00",
+    "value": "2147253,07 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332462/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Garanția suplimentară (extragaranția)",
+        "description": "Stabilirea ofertei câştigătoare se va realiza numai prin compararea punctajelor ofertelor admisibile, fără să fie cuantificate alte elemente de natură tehnică sau alte avantaje care rezultă din modul de îndeplinire a contractului de către operatorii economici participanţi la procedura de atribuire. În urma acordării punctajelor fiecărei oferte, se va stabili clasamentul în ordinea descrescătoare a punctajelor. Punctajul final al fiecărei oferte va fi stabilit prin calcularea sumei punctajelor aferente fiecărui factor de evaluare, calculate conform algoritmului de calcul prezentat.\nSe acordă un punctaj intermediar pentru o perioadă cuprinsă între 36 ÷ 60 luni.",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența specifică a Șefului de proiect/managerului de proiect",
+        "description": "Experiența similară specifică - participarea managerului de proiect/șefului de proiect în cel puțin 2 (două) proiecte/contracte în care a desfășurat activități similare sau de o complexitate cel puțin egală cu cea supusă prezentei proceduri.\nInginer proiectant de drumuri și poduri - Persoana responsabilă cu coordonarea și controlul activitatilor desfasurate in procesul de proiectare, respectarea normelor de proiectare in vigoare, fiind responsabil de corectă și bună elaborare a proiectului tehnic.\nCerințe minime: diploma de inginer proiectant drumuri, CV, prezentare atestat specific și modalitatea de acces la serviciile acestuia.\nExperiența specifică a managerului de proiect/șefului de proiect (punctată față de cerințele minime solicitate prin Caietul de sarcini) exprimată în număr de proiecte similare la care a participat expertul propus poate primi un punctaj de maxim 15 puncte.",
+        "weight": 15.0
+      },
+      {
+        "name": "Experiența specifică a Inginerului de proiectare rețele tehnico-edilitare",
+        "description": "Inginer proiectant de rețele tehnico-edilitare - Persoana responsabilă cu coordonarea și controlul activitatilor desfasurate in procesul de proiectare, respectarea normelor de proiectare in vigoare, fiind responsabil de corectă și bună elaborare a proiectului tehnic.\nExperiența similară specifică - participarea inginerului proiectant în cel puțin 2 (două) proiecte/contracte în care a desfășurat activități similare sau de o complexitate cel puțin egală cu cea supusă prezentei proceduri.\nCerințe minime: diploma de inginer proiectant de rețele tehnico-edilitare, CV, prezentare atestat specific și modalitatea de acces la serviciile acestuia.\nExperiența specifică a inginerului proiectant de rețele tehnic-edilitare (punctată față de cerintele minime solicitate prin Caietul de sarcini) exprimată în număr de proiecte similare la care a participat expertul propus poate primi un punctaj de maxim 5 puncte.",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180142"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "CN1096697",
     "title": "Achiziția publică de lucrări (proiectare, verificare și execuție) pentru realizarea obiectivului de investiții „Reabilitare clădire sediu Consiliul Județean Vâlcea în vederea creșterii eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie”",
     "authority": "2540929 - JUDETUL VALCEA",
