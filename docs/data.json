@@ -1,6 +1,129 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1549678",
+    "title": "Servicii de proiectare pentru elaborarea documentatiei tehnico-economice (SF-studiu de fezabilitate+DTAC-documentatie tehnica pentru autorizarea executarii lucrarii+PT-proiect tehnic+DDE-detalii de   executie  pentru realizarea obiectivului de investiţii „ Parc fotovoltaic tip CARPORT in parcarile (",
+    "authority": "2844308 CASA DE CULTURA \"I.L. CARAGIALE\" A MUNICIPIULUI PLOIESTI",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-24T17:26:07+03:00",
+    "deadline": "2026-09-30T16:00:00+03:00",
+    "value": "165280.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736686",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Servicii de proiectare cu intocmirea documentatiei tehnico-economice (SF-studiu de fezabilitate+DTAC-documentatie tehnica pentru autorizarea executarii lucrarii+PT-proiect tehnic+DDE-detalii de        executie conform cerintelor caietului de sarcini atasat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Pot participa toti operatorii economici inscrisi in SICAP care au ca domeniu de activitate cuprins in CAEN, obiectul achizitiei. Operatorii economici vor prezenta oferta financiar si oferta tehnica, conform cerintelor din caietul de sarcini, Certificatul unic de inregistrare, in copie lizibila, semnata si stampilata cu mentiunea “conform cu originalul” precum  si Certificatul constatator eliberat de ONRC din care sa rezulte ca obiectul achizitiei are corespondent in codul CAEN autorizat."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata contractului: contractul intra in vigoare de la data semnarii de catre ambele parti si produce efecte pana la incheierea procesului verbal de receptie finală a lucrărilor. Durata de prestare a serviciilor: conform caietului de sarcini atasat. Pretul final al contractului va fi pretul ofertei castigatoare. -Platile se vor efectua dupa predarea documentatiilor tehnice si obtinerea tuturor rapoartelor favorabile intocmite de verificatorii tehnici pe specialitati in cadrul verificarii tehnice a proiectului;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai mic pentru ofertele admisibile Autoritatea contractanta va selecta oferta cu pretul cel mai scazut, care va deveni castigatoare dupa prezentarea si indeplinirea conditiilor de participare mentionate.In situatia in care ofertantul cu pretul cel mai scazut nu va indeplini conditiile de participare/ refuza incheierea contractului, poate fi selectat/contactat ofertantul clasat pe locul doi."
+      }
+    ],
+    "documents": [
+      {
+        "name": "img20260924_16543888.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736686"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549678"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549675",
+    "title": "Servicii de expertizare tehnică și studiu geotehnic, pentru evaluarea stării tehnice a unei construcții din cadrul imobilului Câmpina",
+    "authority": "7977151 INSPECTORATUL DE JANDARMI JUDETEAN PRAHOVA",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-24T17:11:40+03:00",
+    "deadline": "2026-09-29T10:00:00+03:00",
+    "value": "20661.16",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736684",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": []
+    },
+    "description": "Prestare  serviciu de expertizare tehnică și studiu geotehnic, pentru evaluarea stării tehnice a construcției cu numărul de cadastru intern   45-18-31 situat în incinta imobilului din municipiul Câmpina, b-dul N. Bălcescu nr. 43-45, județul Prahova aflată în administrarea Ministerului Afacerilor Interne prin Inspectoratul de Jandarmi Județean Prahova/ U.M. 0756 Ploiești, în conformitate cu  cerințele caietului de sarcini.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Propunerea tehnică va fi întocmită astfel încât să rezulte că sunt îndeplinite și asumate în totalitate toate cerințele documentației de atribuire. Aceasta va include: Memoriul tehnic care va conține: obiectivele contractului, sarcinile stabilite prin caietul de sarcini precum și modalitatea de întocmire/respectare a acestora în totalitate, personalul utilizat  pentru îndeplinirea contractului,  precum si termenul de prestare al serviciului\nOferta financiara va cuprinde valoare fara TVA si valoare cu TVA\nOfertantul va transmite alaturi de oferta tehnica si financiara:\n1.\tCurriculum Vitae și declarație de disponibilitate pentru expertul tehnic, inginerul geotehnician, pentru verificatorul de proiecte cerința Af;\n2.\tCertificat de atestare tehnico-profesională pentru competența de expert tehnic atestat M.D.R.A.P.;\n3.\tasigurarea de răspundere civilă profesională cu valabilitate pe durata exercitării dreptului de practică, potrivit responsabilității – pentru expertul tehnic;\n4.\tdiploma inginerului  geolog  care va întocmi studiul geotehnic;\n5.\tatestatul verificatorului de proiecte, vizat la zi;\n6    Modelul de contract anexat, ce va fi semnat si stampilat in vederea asumarii acestuia sau adresa prin care mentionati ca sunteti de acord cu modelul de contract propus."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform model contract atasat"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie atribuire  expertiza  tehnica si studiu geotehnic.doc",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736684"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549675"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096757",
+    "title": "Servicii de proiectare, pentru montare supape de siguranta pe echipamente ISCIR",
+    "authority": "RO 13267213 - SPEEH HIDROELECTRICA SA",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-09-24T15:30:55+03:00",
+    "deadline": "2026-10-26T15:00:00+02:00",
+    "value": "58380 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332546/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Termen de prestare",
+        "description": "Componenta tehnica",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența profesionala a personalului cheie (proiectant), specialist in elaborarea a minim 1 proiect",
+        "description": "Componeneta tehnica",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096757"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1549563",
     "title": "Contract de executie lucrari de instalatii electrice ,proiectare, furnizare si montaj tablou electric",
     "authority": "4701371 Spitalul Municipal de Urgenta Pascani",
