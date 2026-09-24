@@ -1,5 +1,446 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549563",
+    "title": "Contract de executie lucrari de instalatii electrice ,proiectare, furnizare si montaj tablou electric",
+    "authority": "4701371 Spitalul Municipal de Urgenta Pascani",
+    "cpv": [
+      "45310000-3"
+    ],
+    "published": "2026-09-24T12:08:54+03:00",
+    "deadline": "2026-10-05T10:00:00+03:00",
+    "value": "330578.51",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736509",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Contract de executie lucrari de instalatii electrice ,proiectare, furnizare si montaj tablou electric conform invitatiei nr.26167/23.09.2026. Valoarea estimata a achizitiei este fara TVA. Toti ofertantii se vor deplasa la sediul spitalului, pentru a vedea incinta spitalului si se va intocmi un proces verbal de vizualizare asa cum este mentionat in caietul de sarcini.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatorul economic trebuie sa fie inscris in SEAP cu acest tip de lucrare. Lucrarea va fi de tip \"la cheie\". Intrucat achizitia directa nu este o procedura de atribuire, in derularea ei nu se desfasoara o sedinta publica de deschidere a ofertelor. Daca este cazul se vor solicita completari si clarificari ale documentelor lipsa sau neclare la care ofertantii trebuie sa raspunda in termenul precizat in solicitare. limba de redactare a ofertei este limba romana.Autoritatea contractanta pune la dispozitia tuturor operatorilor economici interesati modele de formulare  si model de contract care vor fi completate pana la data depunerii ofertelor."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Spitalul Municipal de Urgenta Pascani, cu sediul in str.Gradinitei nr.5, loc.Pascani, jud.Iasi este interesat in executia lucrarii mentionate. Lucrarea va fi de tip \"la cheie:. Oferta financiara va avea o perioada de valabilitate de 60 zile. Factura fiscala va fi achitata cu ordin de plata in cont de Trezorerie , in maxim 30 zile de la receptia lucrarii, semnarea procesului verbal de terminarea lucrarilor, predarea si acceptarea situatiilor de lucrari. Termenul de finalizare a lucrarilor va fi maxim 30.11.2026."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut cu conditia indeplinirii tuturor conditiilor prevazute in caietul de sarcini si in invitatia de participare ."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Invitatie depunere oferta Lucrari de instalatii electrice, furnizare, proiectare si montaj tablou electric 2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736509"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549563"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096681",
+    "title": "Servicii de elaborare a documentațiilor tehnico-economice aferente proiectului „Reabilitare/modernizare poduri pe drumuri județene”",
+    "authority": "3627315 - JUDETUL MARAMURES (CONSILIUL JUDETEAN MARAMURES)",
+    "cpv": [
+      "71322300-4"
+    ],
+    "published": "2026-09-24T09:04:04+03:00",
+    "deadline": "2026-10-30T15:00:00+02:00",
+    "value": "1254733,33 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332513/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Componenta tehnică",
+        "description": "Componenta tehnică se evaluează pe o scară proprie de maximum 100 de puncte. Punctajul tehnic obținut se ponderează ulterior cu 60% pentru stabilirea aportului său la punctajul total al ofertei. Componenta tehnică este alcătuită din cinci subfactori, repartizați astfel:\nSubfactor\n2.1\tAbordarea și metodologia pentru realizarea activităților și obținerea rezultatelor\n2.2\tGradul de adecvare al planului de lucru\n2.3\tCorelația dintre datele de intrare (resurse) și rezultatele intermediare și finale\n2.4\tExperiența profesională specifică a expertului 1 - Șef de proiect\n2.5\tExperiența profesională specifică a expertului 2 - Inginer proiectant de poduri\nDescrierea detaliată se regăsește în fișierul S_I_factori de evaluare.pdf.",
+        "weight": 60.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096681"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096674",
+    "title": "Servicii de proiectare, execuție lucrări și dotări pentru obiectivul de investitii „Construire, dotare si amenajare a Spitalului de Obstetrica-Ginecologie Buftea si desfiintare constructii existente (C1-C15), relocarea statiei de oxigen si relocare gospodarie de apa”",
+    "authority": "4192545 - JUDETUL ILFOV - CONSILIUL JUDETEAN",
+    "cpv": [
+      "45215140-0"
+    ],
+    "published": "2026-09-24T09:03:55+03:00",
+    "deadline": "2026-10-29T15:00:00+02:00",
+    "value": "444591972,6 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332504/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Componenta tehnică a ofertei",
+        "description": "Experiența Profesională a specialiștilor - Manager de contract",
+        "weight": 6.0
+      },
+      {
+        "name": "Componenta tehnică a ofertei",
+        "description": "Experiența Profesională a specialiștilor - Arhitect șef de proiect",
+        "weight": 6.0
+      },
+      {
+        "name": "Componenta tehnică a ofertei",
+        "description": "Experiența Profesională a specialiștilor - Inginer proiectant pentru specialitatea structuri",
+        "weight": 6.0
+      },
+      {
+        "name": "Componenta tehnică a ofertei",
+        "description": "Experiența Profesională a specialiștilor - Inginer proiectant instalații de ventilatie și climatizare (HVAC)",
+        "weight": 6.0
+      },
+      {
+        "name": "Componenta tehnică a ofertei",
+        "description": "Perioada de garanție a lucrărilor",
+        "weight": 10.0
+      },
+      {
+        "name": "Componenta tehnică a ofertei",
+        "description": "Autoritatea contractantă a stabilit următorul factor de evaluare, ce punctează parte din echipamentele medicale din cadrul achiziției care intră sub incidența prevederilor Ordinului ANAP nr. 1946/2024 pentru aprobarea criteriilor ecologice aplicabile următoarelor dotari/echipamente , care au impact asupra mediului pe durata întregului ciclu de viaţă:\n33111000-1 Aparat de radiologie (Rev. 2) (RX SCOPIE complet și Braț-C)\n33111650-2 Aparate de mamografie (Rev. 2) (Mamograf tomosinteza cu biopsie și Mamograf tomosinteza)\n33113000-5 Echipament de imagistică cu rezonanţă magnetică (Rev. 2)\n33115000-9 Aparate de tomografie (Rev. 2)  \n33112200-0 Ecograf (Rev. 2)\n33123200-0 Aparate de electrocardiografie (Rev. 2)",
+        "weight": 5.0
+      },
+      {
+        "name": "Componenta tehnică a ofertei",
+        "description": "Organizarea și metodologia de implementare a contractului - Planul de organizare a implementării contractului – succesiunea activităților și coordonarea etapelor de proiectare, execuție și furnizare/montaj a dotărilor",
+        "weight": 21.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096674"
+  },
+  {
+    "source": "TED",
+    "id": "657583-2026",
+    "title": "România – Lucrări de protecţie a malurilor – Servicii de elaborare a proiectului tehnic și a detaliilor de execuție, verificare tehnică de calitate a proiectului tehnic, asistență tehnică și execuție de lucrări aferente obiectivului de investiții „PROMENADA VERDE” – Obiectul nr. 2 - Renovarea, reabilitarea și consolidarea malurilor lacului Grivița",
+    "authority": "Sector 1 (Sectorul 1 al municipiului Bucuresti)",
+    "cpv": [
+      "45246200",
+      "45246200",
+      "45111291",
+      "45112700",
+      "45112711",
+      "45221100",
+      "45221113",
+      "45233161",
+      "45233162",
+      "45233220",
+      "45233300",
+      "45240000",
+      "45246500",
+      "45262210",
+      "45316100",
+      "45317000",
+      "71242000",
+      "71300000",
+      "71322000",
+      "71328000",
+      "71356200",
+      "77310000"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "2026-10-07+03:00",
+    "value": "269090089",
+    "url": "https://ted.europa.eu/en/notice/-/detail/657583-2026",
+    "match_reason": {
+      "cpv": [
+        "71242000",
+        "71300000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::657583-2026"
+  },
+  {
+    "source": "TED",
+    "id": "657857-2026",
+    "title": "România – Lucrări pentru conducte de alimentare cu apă – ATM-CL-07 Reabilitare captare rau, conducte de aductiune in comuna Arpasu de Jos si extindere front de captare si aductiune in orasul Dumbraveni, judetul Sibiu",
+    "authority": "APA TARNAVEI MARI SA",
+    "cpv": [
+      "45232150",
+      "45232150",
+      "45231300",
+      "45232152",
+      "45252126",
+      "45262220",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/657857-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::657857-2026"
+  },
+  {
+    "source": "TED",
+    "id": "657964-2026",
+    "title": "România – Lucrări de instalaţii electrice – Proiectare (PT+DDE) și execuție instalații de utilizare și racordare la rețeaua de distribuție a energiei electrice a obiectivului de investiții „Construire secții la Spitalul nr. 2 Vaslui”",
+    "authority": "JUDETUL VASLUI",
+    "cpv": [
+      "45310000",
+      "45310000",
+      "45232220",
+      "45311200",
+      "71323100",
+      "71520000"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "1300595.51",
+    "url": "https://ted.europa.eu/en/notice/-/detail/657964-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::657964-2026"
+  },
+  {
+    "source": "TED",
+    "id": "658282-2026",
+    "title": "România – Servicii de monitorizare a sistemelor de alarmă – ,,Servicii de monitorizare video la cele 43 de locații ale Registrului Auto Român – R.A., inclusiv elaborare proiect tehnic, furnizare și instalare sistem de supraveghere, testare, punere în funcțiune, dispecerat, controlul iluminatului exterior și mentenanță”",
+    "authority": "REGISTRUL AUTO ROMAN - R.A.",
+    "cpv": [
+      "79711000",
+      "79711000",
+      "35120000",
+      "50343000",
+      "71300000"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/658282-2026",
+    "match_reason": {
+      "cpv": [
+        "71300000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::658282-2026"
+  },
+  {
+    "source": "TED",
+    "id": "658382-2026",
+    "title": "România – Lucrări de terasament – Lucrari de linii necesare pentru redeschiderea circulatiei feroviare pe linia CF 703 Galati-Barlad, afectata de calamitatile naturale din perioada 14-15 septembrie 2024 (proiectare şi execuție)",
+    "authority": "C.N.C.F. \"C.F.R.\" S.A. - SUCURSALA REGIONALĂ C.F. GALAŢI – UNITATE OPERAŢIONALĂ",
+    "cpv": [
+      "45112500",
+      "45112500",
+      "45234100",
+      "71319000",
+      "71322500"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/658382-2026",
+    "match_reason": {
+      "cpv": [
+        "71319000",
+        "71322500"
+      ],
+      "keywords": []
+    },
+    "key": "TED::658382-2026"
+  },
+  {
+    "source": "TED",
+    "id": "658703-2026",
+    "title": "România – Servicii de supraveghere a lucrărilor – Contract de servicii de supervizare lucrari - dirigentie de santier pentru proiectul ˝Reabilitarea sistemului de termoficare al municipiului Bucuresti˝ Cod SMIS 2014+ 138142",
+    "authority": "MUNICIPIUL BUCURESTI",
+    "cpv": [
+      "71520000",
+      "71520000",
+      "71313000",
+      "71322000",
+      "71356200",
+      "71521000",
+      "79421100"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/658703-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::658703-2026"
+  },
+  {
+    "source": "TED",
+    "id": "658805-2026",
+    "title": "România – Servicii de proiectare tehnică pentru construcţia de lucrări publice – Servicii de proiectare pentru implementarea măsurilor de intervenție necesare asigurării performanței în exploatare a Stadionului Arena Națională",
+    "authority": "MUNICIPIUL BUCURESTI",
+    "cpv": [
+      "71322000",
+      "71322000"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "2096250",
+    "url": "https://ted.europa.eu/en/notice/-/detail/658805-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::658805-2026"
+  },
+  {
+    "source": "TED",
+    "id": "658898-2026",
+    "title": "România – Staţie electrică de transformare – „PROIECT PILOT RETEHNOLOGIZARE STAŢIA 220/110/20 KV ALBA IULIA ÎN CONCEPT DE STAȚIE DIGITALĂ” 3",
+    "authority": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" S.A.",
+    "cpv": [
+      "45232221",
+      "45232221",
+      "30211300",
+      "31600000",
+      "48921000",
+      "71323100",
+      "71356200"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "414342925.53",
+    "url": "https://ted.europa.eu/en/notice/-/detail/658898-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::658898-2026"
+  },
+  {
+    "source": "TED",
+    "id": "659208-2026",
+    "title": "România – Servicii de proiectare a podurilor – Servicii de elaborare a documentațiilor tehnico-economice aferente proiectului „Reabilitare/modernizare poduri pe drumuri județene”",
+    "authority": "JUDETUL MARAMURES (CONSILIUL JUDETEAN MARAMURES)",
+    "cpv": [
+      "71322300",
+      "71322300",
+      "71322000",
+      "71328000",
+      "71356200"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "2026-10-30+02:00",
+    "value": "1254733.33",
+    "url": "https://ted.europa.eu/en/notice/-/detail/659208-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::659208-2026"
+  },
+  {
+    "source": "TED",
+    "id": "659230-2026",
+    "title": "România – Studii de fezabilitate, servicii de consultanţă, analize – Marirea gradului de siguranta a acumularii Colibita, judetul Bistrita Nasaud - Servicii de proiectare - faza DALI",
+    "authority": "ADMINISTRATIA BAZINALA DE APA SOMES TISA",
+    "cpv": [
+      "71241000",
+      "71241000"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/659230-2026",
+    "match_reason": {
+      "cpv": [
+        "71241000",
+        "71241000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::659230-2026"
+  },
+  {
+    "source": "TED",
+    "id": "659676-2026",
+    "title": "România – Servicii de reparare şi de întreţinere a autovehiculelor şi a echipamentelor conexe – Acord cadru privind serviciile de reparare și întreținere, inclusiv ITP, pentru autovehiculele multimarcă din dotarea parcului auto al Curții de Conturi - Zona 2",
+    "authority": "Curtea de Conturi a Romaniei",
+    "cpv": [
+      "50110000",
+      "50110000",
+      "71356100"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "2026-11-10+02:00",
+    "value": "6186432",
+    "url": "https://ted.europa.eu/en/notice/-/detail/659676-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::659676-2026"
+  },
+  {
+    "source": "TED",
+    "id": "660137-2026",
+    "title": "România – Lucrări de construcţii de unităţi spitaliceşti – Servicii de proiectare, execuție lucrări și dotări pentru obiectivul de investitii „Construire, dotare si amenajare a Spitalului de Obstetrica-Ginecologie Buftea si desfiintare constructii existente (C1-C15), relocarea statiei de oxigen si relocare gospodarie de apa”",
+    "authority": "JUDETUL ILFOV - CONSILIUL JUDETEAN",
+    "cpv": [
+      "45215140",
+      "45215140",
+      "33100000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-09-24+02:00",
+    "deadline": "2026-10-29+02:00",
+    "value": "444591972.6",
+    "url": "https://ted.europa.eu/en/notice/-/detail/660137-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::660137-2026"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "SCN1180148",
     "title": "PROIECTARE ȘI EXECUȚIE A UNUI SISTEM TEHNOLOGIC DE DRENAJ PE TERMEN LUNG AL APELOR SUBTERANE DIN DEALUL ACOPERITOR VESTIC AL SALINEI TURDA",
