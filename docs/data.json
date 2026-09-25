@@ -1,6 +1,122 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180253",
+    "title": "Contract execuție lucrări, servicii de proiectare și asistență tehnică din partea proiectantului pentru investitia ”Conformare pentru cerintele de securitate la incendiu- Complexul pentru Servicii Prichindelul Pavilion 2\"",
+    "authority": "9753096 - DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SIBIU",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-09-25T14:32:11+03:00",
+    "deadline": "2026-10-15T15:00:00+03:00",
+    "value": "1410700 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332661/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Factor 1 (PtB) – Calificarea și experiența profesională a personalului desemnat pentru executarea contractului (experți cheie propuși) pentru realizarea activităților în cadrul Contractului – 50 puncte",
+        "description": "Pentru factorul de evaluare 1 (PtB) „Calificarea și experiența profesională a personalului desemnat pentru executarea contractului (experți cheie propuși) pentru realizarea activităților în cadrul Contractului” comisia de evaluare va acorda punctaje pentru experiența profesională specifică a experților cheie propuși luând în considerare numărul de contracte în care aceștia au desfășurat activități similare, raportat la activitățile descrise în Caietul de sarcini.\n        Dovada privind experienţa similară se va face prin prezentarea de documente-suport relevante care atestă experienţa generală/specifică respectiv contracte de proiectare, fişa de post, contractul de muncă, sau orice alte documente similare, din cadrul cărora să reiasă experienţa cu privire la serviciile prestate.",
+        "weight": 50.0
+      },
+      {
+        "name": "Factor 2 (PtC) – Perioada de garanție acordată lucrărilor (exprimată în luni calendaristice) – 10 puncte",
+        "description": "Perioada de garanție acordată lucrărilor (exprimată în luni calendaristice)\nAlgoritm de calcul: Pentru perioadă de garanție de maxim 60 de luni acordată lucrărilor (PG) ofertată, se acordă maximum de punctaj. Pentru o perioadă de garanție ce depășeste 60 de luni nu se acordă punctaj suplimentar peste punctajul maxim. Pentru o perioada de garantie de 36 luni, se acordă 0 puncte. Pentru o perioadă de garanție a execuției lucrărilor sub 36 de luni, oferta va fi declarată neconformă\nSubfactor 1.1  Cerința minimă: \n             1 contract 0 puncte\n            5 contracte 25 puncte\nSubfactor 1.2  Cerința minimă: \n          1 contract 0 puncte\n         5 contracte 25 puncte\n\nMinim 36 luni 0 puncte \n            60 luni   10 puncte",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180253"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180249",
+    "title": "Servicii de elaborare documentatii tehnice D.A.L.I cu elemente S.F. pentru obiectivul: „Extindere DN13 la câte două benzi pe sens - tronson între km 6+100 până la km 9+732”",
+    "authority": "4384206 - MUNICIPIUL BRASOV",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-09-25T14:17:11+03:00",
+    "deadline": "2026-10-08T15:00:00+03:00",
+    "value": "268339,81 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332657/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "d.a.l.i",
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Componenta tehnică - Subfactor P2.1.",
+        "description": "Demonstrarea unei metodologii adecvate de implementare a contractului, precum şi o planificare adecvată a resurselor umane şi a activităţilor",
+        "weight": 36.0
+      },
+      {
+        "name": "Componenta tehnică - Subfactor P2.2.",
+        "description": "Experienta experților cheie implicați în derularea contractului",
+        "weight": 24.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180249"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180241",
+    "title": "Execuție lucrări, servicii de proiectare (DTAC, DTOE, PT+DE, Proiecte de restaurare a Componentelor Artistice) și asistență tehnică pentru consolidarea, restaurarea și punerea în valoare a Bisericii „Schimbarea la Față” - Cuțitul de Argint, str. Cuțitul de Argint nr. 1, sector 4, București\nCod LMI B-II-m-A-18517",
+    "authority": "10444949 - Institutul National al Patrimoniului",
+    "cpv": [
+      "45454100-5"
+    ],
+    "published": "2026-09-25T13:52:33+03:00",
+    "deadline": "2026-10-15T15:00:00+03:00",
+    "value": "15709201,19 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332648/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 28.0
+      },
+      {
+        "name": "Experiența profesională a personalului-cheie",
+        "description": "1.2 Manager de proiect–studii superioare finalizate în domeniul tehnic (inginerie civilă sau arhitectură)  - 14p\n2.2 Coordonare: 1 Arhitect cu drept de semnătură, specialist/expert atestat MC, domeniul de atestare 1 – restaurare arhitectură, specializarea C – șef de proiect complex sau D – șef de proiect de specialitate – 11p\n2.3    Șef de Șantier: 1 specialist și/sau expert atestat MC (conform art. 35 din Ordinul nr. 2495/2010), specializarea E, domeniul 1 – restaurare arhitectură sau domeniul 4 – consolidare/restaurare structuri istorice – 11p",
+        "weight": 36.0
+      },
+      {
+        "name": "Propunerea tehnică",
+        "description": "Demonstrarea unei metodologii adecvate de implementare a contractului, planificarea adecvată a resurselor umane și a activităților",
+        "weight": 36.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180241"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "CN1096707",
     "title": "Echipamente didactice specifice pentru bitumuri necesare derularii proiectului  UPGRADE - UPT – Modernizarea și echiparea infrastructurii educaționale pentru îmbunătățirea accesului la educație în cadrul UPT, Facultatea de Construcții și Facultatea de Arhitectură și Urbanism;",
     "authority": "4269282 - UNIVERSITATEA POLITEHNICA TIMISOARA",
