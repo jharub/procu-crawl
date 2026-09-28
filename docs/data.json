@@ -1,5 +1,1604 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550081",
+    "title": "Supervizare proiectare și execuție lucrări pentru obiectivul de investiții „Modernizare DJ 653, lim. jud. Olt - Crângeni, km 66+120 - 73+845”",
+    "authority": "4652686 JUDETUL TELEORMAN",
+    "cpv": [
+      "71520000-9"
+    ],
+    "published": "2026-09-28T14:35:11+03:00",
+    "deadline": "2026-10-06T16:00:00+03:00",
+    "value": "20000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736701",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Se vor achiziționa servicii de Supervizare proiectare și execuție lucrări pentru obiectivul de investiții „Modernizare DJ 653, lim. jud. Olt - Crângeni, km 66+120 - 73+845”, conform caietului de sarcini, atașat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta se va depune pentru serviciile solicitate în caietul de sarcini."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform caietului de sarcini."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet_de_sarcini_Anexe.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736701"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550081"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550060",
+    "title": "”Servicii de proiectare pentru elaborare documentații S.F. (cu elemente D.A.L.I.) si P.T. ”Reconfigurare spațiu urban Piațetă Str. Paris intersecție cu Str. Washington”",
+    "authority": "4267117 MUNICIPIUL BUCURESTI",
+    "cpv": [
+      "71220000-6"
+    ],
+    "published": "2026-09-28T14:03:40+03:00",
+    "deadline": "2026-10-01T23:30:00+03:00",
+    "value": "210000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737140",
+    "match_reason": {
+      "cpv": [
+        "71220000"
+      ],
+      "keywords": [
+        "proiectare",
+        "d.a.l.i"
+      ]
+    },
+    "description": "Servicii de proiectare pentru elaborare documentații S.F. (cu elemente D.A.L.I.) si P.T. ”Reconfigurare spațiu urban Piațetă Str. Paris intersecție cu Str. Washington - Conform cerințelor din Caietul de sarcini, Formulare și a Proiectului de contract atașate",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform cerințelor din Caietul de sarcini, Formulare și a Proiectului de contract atașate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform cerințelor din Caietul de sarcini, Formulare și a Proiectului de contract atașate"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS+Formulare+ProiectContract Servicii de proiectare pentru elaborare documentatii S F si P T  Reconfigurare spatiu urban Piateta Str. Paris intersectie cu Str. Washington 2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737140"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550060"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550044",
+    "title": "Achizitie de echipamente si servicii de proiectare, instalare si punere in functiune a unui sistem de alarma antiefractie dotat cu buton de panica pt. corpul A din cadrul Liceului Tehnologic grigore Antipa Bacau",
+    "authority": "4278450 LICEUL TEHNOLOGIC GRIGORE ANTIPA BACAU",
+    "cpv": [
+      "31625300-6"
+    ],
+    "published": "2026-09-28T13:43:34+03:00",
+    "deadline": "2026-10-05T13:23:42+03:00",
+    "value": "8000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737118",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Sistemul trebuie sa asigure securitatea spatiului si sa includa cel putin: centrala de alarma cu acumulator pentru back-up energie , tastatura de control pentru armare/dezarmare, senzori de miscare (10 buc.), buton de panica (2buc.: unul fix si unul mobil), sirena de exterior cu flash si sirena de interior",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "La selectia de oferte pot participa operatorii economici licentiati de Politia Romana pt activitati de proiectare si instalare sisteme de alarmare ."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut (dintre ofertele care indeplinesc integral cerintele tehnice minimale)"
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (achizitie directa)::ADV1550044"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096765",
+    "title": "Servicii de proiectare, verificare tehnică, asistență tehnică din partea proiectantului pe durata execuției lucrărilor și execuția lucrărilor de construcții-montaj aferente proiectului ”Eficientizare energetică Școala Gimnazială Alexandru Davila - Corp C1”",
+    "authority": "4317967 - MUNICIPIUL PITESTI - CONSILIUL LOCAL AL MUNICIPIULUI PITESTI",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-09-28T13:01:06+03:00",
+    "deadline": "2026-11-03T15:00:00+02:00",
+    "value": "8919668,89 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332766/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența experților cheie",
+        "description": "Componenta calitativă",
+        "weight": 30.0
+      },
+      {
+        "name": "Garanția extinsă a lucrării",
+        "description": "Componenta calitativă",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096765"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096781",
+    "title": "Servicii de supervizare pentru execuția lucrărilor aferente obiectivului de investiții  Proiectare și execuție “MODERNIZARE STRAZI – STRADA NARCISELOR,   UAT - Municipiul BRAȘOV",
+    "authority": "4384206 - MUNICIPIUL BRASOV",
+    "cpv": [
+      "71520000-9"
+    ],
+    "published": "2026-09-28T13:00:13+03:00",
+    "deadline": "2026-10-30T15:00:00+02:00",
+    "value": "1189886,83 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332729/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "P.2.1. Experienta deținuta de Inginer Rezident",
+        "description": "Algoritm de calcul\nExperienţa deţinută în poziţia de Inginer Rezident, in cadrul unor contracte având ca obiect  supervizarea execuției lucrărilor de construcție nouă și/sau reabilitare și/sau modernizare și/sau lărgire de drumuri județene, naționale, drumuri expres și/sau autostrăzi și/sau consolidări, contract care a inclus și lucrări de execuție poduri/lucrări de artă.",
+        "weight": 15.0
+      },
+      {
+        "name": "P.2.2. Experienta detinuta de Inginerul de cantităţi",
+        "description": "Experienţa deţinută în poziţia de Inginer de cantităţi în cadrul unor contracte care a avut ca obiect supervizarea execuţiei lucrărilor de construcţie nouă şi/sau reabilitare şi/sau modernizare şi /sau lărgire de drumuri judeţene şi/sau drumuri naţionale şi/sau drumuri expres şi/sau autostrăzi și/sau consolidări în cadrul cărora sau regăsit și lucrări de execuție poduri/lucrări de artă.",
+        "weight": 10.0
+      },
+      {
+        "name": "P.2.3.Experienta detinuta de Diriginte de șantier –Specialitataea  drumuri și poduri Domeniul 3.2",
+        "description": "Experienţa deţinută în poziţia de Inspector drumuri și poduri în cadrul unor contracte care a avut ca obiect supervizarea execuţiei lucrărilor de construcţie nouă şi/sau reabilitare şi/sau modernizare şi/sau lărgire de drumuri judeţene şi/sau drumuri naţionale şi/sau autostrăzi şi/sau drumuri expres și/sau consolidări în cadrul cărora sau regăsit și lucrări de execuție poduri/lucrări de artă.",
+        "weight": 15.0
+      },
+      {
+        "name": "P3 – Componenta tehnica\nEvaluarea Metodologiei de implementare a Propunerii tehnice",
+        "description": "Subfactor 1. Abordarea propusă pentru implementarea contractului \nSubfactor 2. Resursele (umane și materiale) și realizările corespunzătoare fiecărei activități \nSubfactor 3. Atribuțiile membrilor echipei în implementarea activităților contractului și, dacă este cazul, contribuția fiecărui membru al grupului de operatori economici, precum și distribuirea și interacțiunea sarcinilor și responsabilităților dintre ei",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096781"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096795",
+    "title": "Servicii de proiectare, verificare tehnică, asistență tehnică din partea proiectantului pe durata execuției lucrărilor și execuția lucrărilor de construcții-montaj aferente proiectului ”Eficientizare energetică Școala Gimnazială Mihai Eminescu”",
+    "authority": "4317967 - MUNICIPIUL PITESTI - CONSILIUL LOCAL AL MUNICIPIULUI PITESTI",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-09-28T13:00:07+03:00",
+    "deadline": "2026-11-24T15:00:00+02:00",
+    "value": "11197551,45 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332726/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența experților cheie",
+        "description": "Componenta calitativă",
+        "weight": 30.0
+      },
+      {
+        "name": "Garanția extinsă a lucrării",
+        "description": "Componenta calitativă",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096795"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180308",
+    "title": "Servicii de proiectare pentru elaborare SF, DTAC, PT+DE inclusiv studiile, expertizele, documentațiile pentru avize/acorduri și verificările tehnice necesare, cu utilizarea metodologiei BIM/openBIM sau a unei metode echivalente, pentru obiectivul de investiții „Punerea în valoare a Cetății Piatra Șoimului din Aleșd prin conservare, reabilitare și asigurarea accesului”",
+    "authority": "4348920 - ORASUL ALESD",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-28T12:01:50+03:00",
+    "deadline": "2026-10-19T15:00:00+03:00",
+    "value": "407752 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332723/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "elaborare sf"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "F2 – Metodologia de prestare și planificarea fazelor",
+        "description": "F2.1 – Mobilizare, documentarea situației existente și investigații – 5 pct.\nF2.2 – Elaborarea și validarea SF – 5 pct.\nF2.3 – Flux DTAC / avize / autorizare – 5 pct.\nF2.4 – Dezvoltarea PT+DE, coordonarea interdisciplinară și verificarea tehnică independentă – 5 pct.",
+        "weight": 20.0
+      },
+      {
+        "name": "F3 – Experiența specialistului/coordonatorului pentru patrimoniu-restaurare",
+        "description": "Se punctează experiența suplimentară a persoanei desemnate pentru executarea contractului, distinct de drepturile/atestările minime impuse de lege. Proiect relevant: participarea în rol de proiectare și/sau coordonare de specialitate la elaborarea unor documentații tehnice pentru intervenții asupra monumentelor istorice și/sau ansamblurilor/siturilor construite protejate, documentații recepționate/acceptate de beneficiar.",
+        "weight": 20.0
+      },
+      {
+        "name": "F4 – Experiența specialistului coordonator structuri/consolidări",
+        "description": "Se punctează experiența suplimentară a persoanei desemnate pentru executarea contractului. Proiect relevant: participarea în rol de proiectant/coordonator structură la documentații tehnice pentru consolidarea, punerea în siguranță sau intervenția asupra construcțiilor existente cu structură/zidării complexe și/sau asupra monumentelor istorice, documentații recepționate/acceptate de beneficiar.",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180308"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549987",
+    "title": "SERVICII DE PROIECTARE   Studii de teren, expertiză, SF, PT, DTAC, detalii de execuție și verificarea tehnica a proiectarii pentru proiectul   ,, Construire creșa și grădinița în orașul Șomcuta Mare”",
+    "authority": "3694829 ORASUL SOMCUTA MARE",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-28T11:51:53+03:00",
+    "deadline": "2026-10-08T14:00:00+03:00",
+    "value": "214710.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737066",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Obiectul contractului îl constituie elaborarea integrată a studiilor de teren, expertizei și documentațiilor tehnico-economice pentru construire creșă și grădinița în Orașul Șomcuta Mare, județul Maramureș,  inclusiv verificarea tehnică a proiectului.\nProiect finantat prin : Contract de finantare 564/14.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Infrastructură educațională\" – cod SMIS 365427 depusă în cadrul apelului PRNV/2026/624/1 pentru domeniile Infrastructură educațională",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatorii economici care depun ofertă trebuie să dovedească o formă de înregistrare în condiţiile legii din ţara de rezidenţă, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situaţiile de anulare a constituirii sale precum şi faptul că are capacitatea profesională de a realiza activităţile care fac obiectul contractului. \nOfertantii vor respecta cerințele asumate prin fișele de proiect, în special: \n- realizarea proiectării în sistem BIM – Building Information Modelling; \n- integrarea și respectarea principiilor NEB – Noul Bauhaus European, NZEB\n - respectarea principiului DNSH"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Proiect finantat prin : Contract de finantare 564/14.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Infrastructură educațională\" – cod SMIS 365427 depusă în cadrul apelului PRNV/2026/624/1 pentru domeniile Infrastructură educațională.\nOfertantul declarant castigator va întocmi documentatiile tehnice în conformitate cu prevederile legale in vigoare, se vor respecta cerintele prevazute in caietul de sarcini atasat."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_ infrastructura educationala.pdf.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737066"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549987"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549968",
+    "title": "Expertiza tehnica dig Maraloiu – Gradistea – Sutesti  - 11  km – jud. Braila",
+    "authority": "23706189 Administratia Bazinala de Apa Buzau Ialomita",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-28T11:04:30+03:00",
+    "deadline": "2026-10-09T15:00:00+03:00",
+    "value": "20000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737039",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Contract de servicii – Expertiza tehnica dig Maraloiu – Gradistea – Sutesti  - 11  km – jud. Braila\n\nSe vor respecta conditiile obligatorii impuse de Autoritatea Contractanta in caietul de sarcini",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Termen limită primire oferte:\nPana la data de 09.10.2026, ora 15:00.\n\nTermen limita primire solicitari de clarificare:\nPana la data de 02.10.2026, ora 12:00.\n\nTermen limita răspuns clarificari:\nRaspunsurile la eventualele solicitări de clarificări se vor publica pana la data de 06.10.2026, ora 13:00 pe site-ul Administrației Bazinale de Apă Buzău-Ialomița, sectiunea Achizitii Publice.\n\nConditii de participare: \nOferta va fi întocmită în conformitate cu cerințele din Caietul de Sarcini anexat anunțului publicitar. Se vor completa si formularele anexate, dupa caz. Operatorii economici ce depun oferta trebuie să dovedească o formă de înregistrare în condițiile legii din țara de rezidență, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situațiile de anulare a constituirii. Modalitate de îndeplinire: Ofertantii vor prezenta Certificat constatator eliberat de Oficiul Registrului Comerțului sau un document echivalent."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "- Conform specificațiilor din Caietul de Sarcini;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, cu respectarea cerințelor tehnice din Caietul de Sarcini."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS expertiza tehnica dig Maraloiu-Gradistea-Sutesti.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737039"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549968"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549966",
+    "title": "SERVICII DE PROIECTARE Studiu de Fezabilitate (SF)/Documentatie de avizare a lucrarilor de interventie (DALI), studii de teren, expertiză  pentru proiectul   ,, Înființare piste de biciclete și  amenajare zone pietonale  în Orașul Șomcuta Mare, județul Maramureș ”",
+    "authority": "3694829 ORASUL SOMCUTA MARE",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-28T10:58:47+03:00",
+    "deadline": "2026-10-09T10:50:08+03:00",
+    "value": "210000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737040",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "studiu de fezabilitate",
+        "dali",
+        "documentatie de avizare a lucrarilor de interventie"
+      ]
+    },
+    "description": "Obiectul contractului îl constituie elaborarea integrată a studiilor de teren, expertizei și documentațiilor tehnico-economice faza SF/DALI pentru înființare piste de biciclete și  amenajare zone pietonale în Orașul Șomcuta Mare, județul Maramureș .\nProiect finantat prin : Contract de finantare 571/14.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Mobilitate urbană\" – cod SMIS 365425, depusă în cadrul apelului PRNV/2026/482/1 pentru domeniile Mobilitate urbană",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatorii economici care depun ofertă trebuie să dovedească o formă de înregistrare în condiţiile legii din ţara de rezidenţă, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situaţiile de anulare a constituirii sale precum şi faptul că are capacitatea profesională de a realiza activităţile care fac obiectul contractului. \nOfertantii vor respecta cerințele asumate prin fișele de proiect, în special: \n- realizarea proiectării în sistem BIM – Building Information Modelling; \n- integrarea și respectarea principiilor NEB – Noul Bauhaus European, NZEB\n - respectarea principiului DNSH"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Proiect finantat prin : Contract de finantare 571/14.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Mobilitate urbană\" – cod SMIS 365425, depusă în cadrul apelului PRNV/2026/482/1 pentru domeniile Mobilitate urbană\nOfertantul declarant castigator va întocmi documentatiile tehnice în conformitate cu prevederile legale in vigoare, conform cerintelor prevazute in caietul de sarcini atasat."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini mobilitate urbana.pdf.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737040"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549966"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549957",
+    "title": "Servicii de elaborare studiu de fezabilitate  pentru obiectivul de investitii  Infiintare parc public sat Cornetu, comuna Cornetu, judetul Ilfov -Tarlaua 16, parcela 43/2",
+    "authority": "4364470 PRIMARIA COMUNEI CORNETU",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-09-28T10:40:42+03:00",
+    "deadline": "2026-10-05T10:00:00+03:00",
+    "value": "88429.75",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737029",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Servicii de elaborare studiu de fezabilitate  pentru obiectivul de investitii  Infiintare parc public sat Cornetu, comuna Cornetu, judetul Ilfov -Tarlaua 16, parcela 43/2",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "conform documentatiei de atribuire"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform documentatiei de atribuire"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Infiintare parc public sat Cornetu, comuna Cornetu, judetul Ilfov Tarla 16, parcela 43_2.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737029"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549957"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549954",
+    "title": "SERVICII DE PROIECTARE  Studii de teren, expertiză, SF, PT, DTAC, detalii de execuție și verificarea tehnica a proiectarii pentru proiectul   ,, Creșterea eficientei energetice a clădirii administrative, str. Cornului , nr. 20 din  Orașul Șomcuta Mare, județul Maramureș ”",
+    "authority": "3694829 ORASUL SOMCUTA MARE",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-28T10:34:30+03:00",
+    "deadline": "2026-10-08T15:00:00+03:00",
+    "value": "270000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737015",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Obiectul contractului îl constituie elaborarea integrată a studiilor de teren, expertizei și documentațiilor tehnico-economice pentru creșterea eficientei energetice a clădirii administrative, str. Cornului , nr. 20 din  Orașul Șomcuta Mare, județul Maramureș,  inclusiv verificarea tehnică a proiectului.Investiția este inclusă în proiectul de pregătire a documentațiilor tehnico-economice pentru eficienta energetica, Proiect finantat prin : Contract de finantare 575/14.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Eficiență energetică\" – cod SMIS 365250, depusă în cadrul apelului PRNV/2026/313/1 pentru domeniul Eficiență energetică",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatorii economici care depun ofertă trebuie să dovedească o formă de înregistrare în condiţiile legii din ţara de rezidenţă, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situaţiile de anulare a constituirii sale precum şi faptul că are capacitatea profesională de a realiza activităţile care fac obiectul contractului. \nOfertantii vor respecta cerințele asumate prin fișele de proiect, în special:\n -      realizarea proiectării în sistem BIM – Building Information Modelling;\n - \tintegrarea și respectarea principiilor NEB – Noul Bauhaus European, NZEB \n -      respectarea principiului DNSH"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Proiect  finantat prin :Contract de finantare 575/14.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Eficiență energetică\" – cod SMIS 365250, depusă în cadrul apelului PRNV/2026/313/1 pentru domeniul Eficiență energetică\nOfertantul declarant castigator va întocmi documentatiile tehnice în conformitate cu prevederile legale in vigoare"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_eficienta energetica.pdf.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737015"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549954"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549952",
+    "title": "Expertiza tehnica Dig VARSATURA",
+    "authority": "23706189 Administratia Bazinala de Apa Buzau Ialomita",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-28T10:32:23+03:00",
+    "deadline": "2026-10-09T15:00:00+03:00",
+    "value": "15000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737025",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Expertiza tehnica dig Varsatura – 2.5  km – jud. Braila",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Termen limită primire oferte:\nPana la data de 09.10.2026, ora 15:00.\n\nTermen limita primire solicitari de clarificare:\nPana la data de 02.10.2026, ora 12:00.\n\nTermen limita răspuns clarificari:\nRaspunsurile la eventualele solicitări de clarificări se vor publica pana la data de 06.10.2026, ora 13:00 pe site-ul Administrației Bazinale de Apă Buzău-Ialomița, sectiunea Achizitii Publice.\n\nConditii de participare: \nOferta va fi întocmită în conformitate cu cerințele din Caietul de Sarcini anexat anunțului publicitar. Se vor completa si formularele anexate, dupa caz. Operatorii economici ce depun oferta trebuie să dovedească o formă de înregistrare în condițiile legii din țara de rezidență, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situațiile de anulare a constituirii. Modalitate de îndeplinire: Ofertantii vor prezenta Certificat constatator eliberat de Oficiul Registrului Comerțului sau un document echivalent."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "- Conform specificațiilor din Caietul de Sarcini;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, cu respectarea cerințelor tehnice din Caietul de Sarcini."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS expertiza tehnica dig Varsatura -Braila.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737025"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549952"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1549945",
+    "title": "Servicii de elaborare studiu de fezabilitate  pentru obiectivul de investitii Amenajare parc public strada Arges,sat Buda,comuna Cornetu, judetul Ilfov",
+    "authority": "4364470 PRIMARIA COMUNEI CORNETU",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-09-28T10:16:22+03:00",
+    "deadline": "2026-10-05T10:00:00+03:00",
+    "value": "41322.31",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737016",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Servicii de elaborare studiu de fezabilitate  pentru obiectivul de investitii Amenajare parc public strada Arges,sat Buda,comuna Cornetu, judetul Ilfov",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "conform documentatiei de atribuire"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform documentatiei de atribuire"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai mic"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Amenajare parc public strada Arges, sat Buda.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737016"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1549945"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180295",
+    "title": "Proiectare și execuție - „Reconfigurare rețea transport energie termică pe domeniul public zona Centrul Civic” situată în intravilanul Municipiului Brașov.",
+    "authority": "36560173 - Serviciul Public Local de Termoficare Brasov",
+    "cpv": [
+      "45232140-5"
+    ],
+    "published": "2026-09-28T09:56:19+03:00",
+    "deadline": "2026-10-15T15:00:00+03:00",
+    "value": "2881606,36 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332710/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Factorul 1-Experiența Specifică a Experților Cheie \nSubfactor 1.1. Experiență Șef Proiect / Manager de Proiect",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "Factorul 1-Experiența Specifică a Experților Cheie\n Subfactor 1.2.Experiență Inginer Proiectant Instalații Termice",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "Factorul 1-Experiența Specifică a Experților Cheie Subfactor 1.3.Experiență Inginer Mecanic de Execuție",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "Factor. 2 -Metodologia, Abordarea Tehnică și Corelarea Resurselor •\tSubfactor 2.1. Metodologia și Abordarea Propuse",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "Factor. 2 -Metodologia, Abordarea Tehnică și Corelarea Resurselor •\tSubfactor 2.2. Gradul de adecvare  al Graficului Gantt preliminar în raport cu resursele umane alocate",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "Factorul 3: Perioada de Garanție Extinsă a Lucrărilor",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180295"
+  },
+  {
+    "source": "TED",
+    "id": "663898-2026",
+    "title": "România – Servicii de proiectare tehnică pentru construcţia de lucrări publice – Servicii de proiectare (documentații pentru obținerea avizelor și acordurilor, autorizatiei de construire, DTAC, DTOE, DTAD, după caz, PT+DE și caiete de sarcini pe specialități) și asistență tehnică din partea proiectantului pentru obiectivul de investiții „REPARAȚII CAPITALE CLĂDIRI ȘI ANEXE FERMA ZOOTEHNICĂ NR. 2 ERNEI”",
+    "authority": "SCDCB TG. MURES",
+    "cpv": [
+      "71322000",
+      "71322000",
+      "71220000",
+      "71356200"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-10-15+03:00",
+    "value": "802500",
+    "url": "https://ted.europa.eu/en/notice/-/detail/663898-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000",
+        "71220000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::663898-2026"
+  },
+  {
+    "source": "TED",
+    "id": "664004-2026",
+    "title": "România – Servicii de cadastru – Servicii de înregistrare sistematică în Sistemul Integrat de Cadastru și Carte Funciară a imobilelor - 297 UAT- uri, prin Programul Operațional Regional - Proiectul major privind „Creșterea gradului de acoperire și incluziune a sistemului de înregistrare a proprietăților în zonele rurale din România”",
+    "authority": "AGENTIA NATIONALA DE CADASTRU SI PUBLICITATE IMOBILIARA",
+    "cpv": [
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/664004-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::664004-2026"
+  },
+  {
+    "source": "TED",
+    "id": "664040-2026",
+    "title": "România – Servicii de cadastru – Servicii de înregistrare sistematică în Sistemul Integrat de Cadastru și Carte Funciară a imobilelor din 92 UAT- uri, prin Programul Operațional Regional - Proiectul major privind „Creșterea gradului de acoperire și incluziune a sistemului de înregistrare a proprietăților în zonele rurale din România”",
+    "authority": "AGENTIA NATIONALA DE CADASTRU SI PUBLICITATE IMOBILIARA",
+    "cpv": [
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/664040-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::664040-2026"
+  },
+  {
+    "source": "TED",
+    "id": "664110-2026",
+    "title": "România – Lucrări de construcţii – Servicii de proiectare, verificare tehnică, asistență tehnică din partea proiectantului pe durata execuției lucrărilor și execuția lucrărilor de construcții-montaj aferente proiectului ”Eficientizare energetică Școala Gimnazială Mihai Eminescu”",
+    "authority": "MUNICIPIUL PITESTI - CONSILIUL LOCAL AL MUNICIPIULUI PITESTI",
+    "cpv": [
+      "45000000",
+      "45000000",
+      "09331200",
+      "42520000",
+      "45210000",
+      "45310000",
+      "45321000",
+      "45332400",
+      "71315400",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-11-24+02:00",
+    "value": "11197551.45",
+    "url": "https://ted.europa.eu/en/notice/-/detail/664110-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::664110-2026"
+  },
+  {
+    "source": "TED",
+    "id": "664372-2026",
+    "title": "România – Servicii de cadastru – Servicii de înregistrare sistematică în Sistemul Integrat de Cadastru și Carte Funciară a imobilelor în 261 UAT- uri prin Programul Operațional Regional - Proiectul major privind „Creșterea gradului de acoperire și incluziune a sistemului de înregistrare a proprietăților în zonele rurale din România”",
+    "authority": "AGENTIA NATIONALA DE CADASTRU SI PUBLICITATE IMOBILIARA",
+    "cpv": [
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/664372-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::664372-2026"
+  },
+  {
+    "source": "TED",
+    "id": "664560-2026",
+    "title": "România – Lucrări de construcţii – Servicii de proiectare, verificare tehnică, asistență tehnică din partea proiectantului pe durata execuției lucrărilor și execuția lucrărilor de construcții-montaj aferente proiectului ”Eficientizare energetică Școala Gimnazială Alexandru Davila - Corp C1”",
+    "authority": "MUNICIPIUL PITESTI - CONSILIUL LOCAL AL MUNICIPIULUI PITESTI",
+    "cpv": [
+      "45000000",
+      "45000000",
+      "09331200",
+      "42520000",
+      "45210000",
+      "45310000",
+      "45321000",
+      "45332400",
+      "71315400",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-11-03+02:00",
+    "value": "8919668.89",
+    "url": "https://ted.europa.eu/en/notice/-/detail/664560-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::664560-2026"
+  },
+  {
+    "source": "TED",
+    "id": "664992-2026",
+    "title": "România – Servicii de cadastru – Servicii de înregistrare sistematică în Sistemul Integrat de Cadastru și Carte Funciară a imobilelor - 10 UAT- uri, prin Programul Operațional Creștere Inteligentă, Digitalizare și Instrumente Financiare - Proiectul major privind „Creșterea gradului de acoperire și incluziune a sistemului de înregistrare a proprietăților în zonele rurale din România”",
+    "authority": "AGENTIA NATIONALA DE CADASTRU SI PUBLICITATE IMOBILIARA",
+    "cpv": [
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/664992-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::664992-2026"
+  },
+  {
+    "source": "TED",
+    "id": "665198-2026",
+    "title": "România – Servicii de supraveghere a lucrărilor – Servicii de supervizare pentru execuția lucrărilor aferente obiectivului de investiții Proiectare și execuție “MODERNIZARE STRAZI – STRADA NARCISELOR, UAT - Municipiul BRAȘOV",
+    "authority": "MUNICIPIUL BRASOV",
+    "cpv": [
+      "71520000",
+      "71520000"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-10-30+02:00",
+    "value": "1189886.83",
+    "url": "https://ted.europa.eu/en/notice/-/detail/665198-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::665198-2026"
+  },
+  {
+    "source": "TED",
+    "id": "665284-2026",
+    "title": "România – Servicii de asistenţă tehnică – CV-CS-01 - ASISTENŢĂ TEHNICĂ PENTRU MANAGEMENTUL PROIECTULUI, SUPERVIZAREA LUCRĂRILOR SI PUBLICITATEA DIN CADRUL “PROIECTULUI REGIONAL DE DEZVOLTARE A INFRASTRUCTURII DE APĂ ŞI APĂ UZATĂ DIN JUDEŢUL COVASNA”",
+    "authority": "HYDROKOV S. A.",
+    "cpv": [
+      "71356200",
+      "71356200",
+      "71313000",
+      "71520000",
+      "71521000",
+      "79341100",
+      "79411000",
+      "79421100"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-10-12+03:00",
+    "value": "25789796.31",
+    "url": "https://ted.europa.eu/en/notice/-/detail/665284-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::665284-2026"
+  },
+  {
+    "source": "TED",
+    "id": "665378-2026",
+    "title": "România – Servicii de cadastru – Servicii de înregistrare sistematică în Sistemul Integrat de Cadastru și Carte Funciară a imobilelor Etapa 3 - 246 UAT- uri, prin Programul Operațional Regional - Proiectul major privind „Creșterea gradului de acoperire și incluziune a sistemului de înregistrare a proprietăților în zonele rurale din România”",
+    "authority": "AGENTIA NATIONALA DE CADASTRU SI PUBLICITATE IMOBILIARA",
+    "cpv": [
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300",
+      "71354300"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/665378-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::665378-2026"
+  },
+  {
+    "source": "TED",
+    "id": "666139-2026",
+    "title": "România – Servicii de cadastru – Acord-cadru de servicii cadastrale privind întocmirea documentației cadastrale în vederea înscrierii în evidențele de carte funciară a imobilelor aparținând patrimoniului public și privat al Municipiului Arad/Statului Român - UAT Arad",
+    "authority": "MUNICIPIUL ARAD",
+    "cpv": [
+      "71354300",
+      "71354300"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "8000000",
+    "url": "https://ted.europa.eu/en/notice/-/detail/666139-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::666139-2026"
+  },
+  {
+    "source": "TED",
+    "id": "666172-2026",
+    "title": "România – Servicii de asistenţă tehnică – BC-CS-01-Asistenta Tehnica pentru Managementul Proiectului, Publicitate si Supervizarea Contractelor de Lucrari pentru ”Proiectul Regional de Dezvoltare a Infrastructurii de apa si apă uzată din Judeţul Bacău, in perioada 2014-2020”- Lot 2 – Asistenta Tehnica pentru Supervizarea Lucrarilor",
+    "authority": "SC COMPANIA REGIONALA DE APA BACAU SA",
+    "cpv": [
+      "71356200",
+      "71356200",
+      "71520000",
+      "71521000",
+      "79421100"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/666172-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::666172-2026"
+  },
+  {
+    "source": "TED",
+    "id": "666355-2026",
+    "title": "România – Servicii de asistenţă tehnică – GR-CS-04 Asistenta tehnica pentru managementul proiectului, supervizarea lucrarilor si asistenta tehnica acordata de proiectant pe durata executiei lucrarilor din cadrul “Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Giurgiu”",
+    "authority": "APA SERVICE SA",
+    "cpv": [
+      "71356200",
+      "71356200",
+      "71313000",
+      "71520000",
+      "79411000",
+      "79421100"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-10-12+03:00",
+    "value": "19414650",
+    "url": "https://ted.europa.eu/en/notice/-/detail/666355-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::666355-2026"
+  },
+  {
+    "source": "TED",
+    "id": "666586-2026",
+    "title": "România – Servicii de reparare şi de întreţinere a autovehiculelor şi a echipamentelor conexe – Acord cadru de Servicii de reparare si de intretinere a autovehiculelor si a echipamentelor conexe; Piese si accesorii pentru vehicule si pentru motoare de vehicule; Servicii de reparare a pneurilor, inclusiv montare si echilibrare; Servicii de inspectie tehnica a automobilelor",
+    "authority": "Serviciul de Ambulanta Judetean Arad",
+    "cpv": [
+      "50110000",
+      "50110000",
+      "34300000",
+      "50116500",
+      "71631200"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-11-02+02:00",
+    "value": "5096587.8",
+    "url": "https://ted.europa.eu/en/notice/-/detail/666586-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::666586-2026"
+  },
+  {
+    "source": "TED",
+    "id": "666679-2026",
+    "title": "România – Servicii de proiectare tehnică pentru construcţia de lucrări publice – Servicii de proiectare pentru obținerea autorizației de securitate la incendiu pentru clădirile BNR",
+    "authority": "Banca Nationala a Romaniei",
+    "cpv": [
+      "71322000",
+      "71322000",
+      "71322000"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "2238010",
+    "url": "https://ted.europa.eu/en/notice/-/detail/666679-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::666679-2026"
+  },
+  {
+    "source": "TED",
+    "id": "666876-2026",
+    "title": "România – Instalaţii de tensiune medie – „Cresterea sigurantei in alimentare a L.20 Kv Manasia, Jud. Ialomita Fondul de modernizare - 3 Modernizarea si constructia de noi tronsoane de infrastructura energetica Infrastructură energetică- Sprijin pentru extinderea și modernizarea rețelei de distribuție a energiei electrice, contract de finantare nr 40/14.02.2024\"",
+    "authority": "Retele Electrice Muntenia S.A.",
+    "cpv": [
+      "45315500",
+      "45315500",
+      "45315600",
+      "71323100"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/666876-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::666876-2026"
+  },
+  {
+    "source": "TED",
+    "id": "666914-2026",
+    "title": "România – Lucrări de construcţii de drumuri – Lucrari de executie pentru obiectivul de investiții: „FLUIDIZAREA TRAFICULUI RUTIER PRIN MĂSURI DE MOBILITATE URBANĂ DURABILĂ – CONSTRUIRE ARTERĂ CU ROL DE CULOAR VERDE DE MOBILITATE PE LATURA DE SUD-VEST A MUNICIPIULUI ALBA IULIA” - Cod SMIS: 349615 finanţat prin PROGRAMUL “REGIUNEA CENTRU” 2021 – 2027",
+    "authority": "MUNICIPIUL ALBA IULIA",
+    "cpv": [
+      "45233120",
+      "45233120",
+      "34928400",
+      "45112730",
+      "45221111",
+      "45231100",
+      "45231400",
+      "45232220",
+      "45310000",
+      "45315500",
+      "45315600",
+      "71323100",
+      "71351914"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-10-19+03:00",
+    "value": "90641642.5",
+    "url": "https://ted.europa.eu/en/notice/-/detail/666914-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::666914-2026"
+  },
+  {
+    "source": "TED",
+    "id": "667015-2026",
+    "title": "România – Staţie electrică de transformare – „Proiect pilot DigiTEL Green - Retehnologizare stația 220/110/20 kV Mostiștea în concept de stație digitală și cu impact redus asupra mediului” – Achiziția 1",
+    "authority": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" S.A.",
+    "cpv": [
+      "45232221",
+      "45232221",
+      "30211300",
+      "31600000",
+      "48921000",
+      "71323100",
+      "71356200"
+    ],
+    "published": "2026-09-28+02:00",
+    "deadline": "2026-11-16+02:00",
+    "value": "278862486",
+    "url": "https://ted.europa.eu/en/notice/-/detail/667015-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::667015-2026"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "SCN1180253",
     "title": "Contract execuție lucrări, servicii de proiectare și asistență tehnică din partea proiectantului pentru investitia ”Conformare pentru cerintele de securitate la incendiu- Complexul pentru Servicii Prichindelul Pavilion 2\"",
