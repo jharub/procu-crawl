@@ -1,6 +1,50 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180371",
+    "title": "Servicii de proiectare (faza DTAC, PT, DE), asistență tehnică din partea proiectantului și execuție lucrări pentru obiectivul de investiții «Construire sală multifuncțională de sport, evenimente, festivități, zonă de servire masă și spații conexe aferente Școlii Gimnaziale Sfinții Constantin și Elena»",
+    "authority": "44801922 - Directia Generala Pentru Administrarea Patrimoniului Imobiliar Sector 6",
+    "cpv": [
+      "45210000-2"
+    ],
+    "published": "2026-09-29T20:52:30+03:00",
+    "deadline": "2026-11-04T15:00:00+02:00",
+    "value": "13639286,35 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332875/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 60.0
+      },
+      {
+        "name": "P2- Demonstrarea unei metodologii adecvate de implementare a contractului, precum şi o planificare adecvată a resurselor umane şi a activitătilor",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      },
+      {
+        "name": "P3 - Experienta specifica a expertilor cheie - implicaţi",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      },
+      {
+        "name": "P4 - Factorul puterea instalată a sistemului fotovoltaic",
+        "description": "Componenta mediu",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180371"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "CN1096910",
     "title": "Racordare separatoare de ulei și clădire stație 220/110/20 kV Grădiște la rețeaua de canalizare a localității (Proiectare)",
     "authority": "RO13328043 - COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" S.A.",
