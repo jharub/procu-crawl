@@ -1,6 +1,257 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "CN1096910",
+    "title": "Racordare separatoare de ulei și clădire stație 220/110/20 kV Grădiște la rețeaua de canalizare a localității (Proiectare)",
+    "authority": "RO13328043 - COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" S.A.",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-09-29T18:43:51+03:00",
+    "deadline": "2026-11-02T15:00:00+02:00",
+    "value": "21500 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332874/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Durata ofertată pentru întocmirea documentațiilor",
+        "description": "Durata ofertată pentru întocmirea documentațiilor\nComponentă calitativă",
+        "weight": 20.0
+      },
+      {
+        "name": "Experienta experților-cheie",
+        "description": "Componentă calitativă",
+        "weight": 40.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096910"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550319",
+    "title": "Proiectare și execuție extindere rețea canalizare menajeră",
+    "authority": "4374270 COMUNA BACIA",
+    "cpv": [
+      "45232400-6"
+    ],
+    "published": "2026-09-29T15:49:29+03:00",
+    "deadline": "2026-09-30T15:48:53+03:00",
+    "value": "403382.91",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736943",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Proiectare și execuție extindere canalizare menajeră Sat Totia, Comuna Băcia",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatori economici cu experiență în executarea acestui tip de lucrări, autorizați conform normelor legale aplicațile și personal cheie autorizat în vederea elaborării studiilor specifice obiectului contractului."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Contract de achiziții publice finanțat din bugetul local. Acesta presupune proiectarea tehnică, documentație tehnică aferentă obținerii autorizației de construire (DTAC), asistentă tehnică din partea proiectantului, verificarea tehnică de calitate a PT și execuția lucrărilor aferente. Menționăm că plata se va face în funcție de disponibilitățile bugetare, cel mai probabil în cursul exercițiului financiar 2027."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "SF nr. 402 din 2026 extindere canalizare Totia compl.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100736943"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550319"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550314",
+    "title": "Elaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru împrejmuirea perimetrală pe latura de sud-est din cazarma 3604 Alba-Iulia",
+    "authority": "12859080 Ministerul Apararii - Centrul de Studii si Proiectare Constructii Militare",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-29T15:42:14+03:00",
+    "deadline": "2026-10-07T10:00:00+03:00",
+    "value": "12000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737453",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "- Expertiza tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru împrejmuirea perimetrală pe latura de sud-est din cazarma 3604 Alba-Iulia va respecta P100-3/2019 - Cod de proiectare seismică - Partea a III-a - Prevederi pentru evaluarea seismică a clădirilor existente. Se va ține cont de prevederile P100-3/2019 doar în măsura în care nu contravin conceptelor, abordărilor și procedurilor cuprinse în Legea 422/2001 privind protejarea monumentelor istorice. Se vor face probe pe materiale precum și dezvelire de fundații. Imobilul face parte din Ansamblul fortificației “Cetatea Albă Carolina” cu toate componentele: ziduri, bastioane, curtine, raveline, contragărzi, terase bastionare, șanțuri interioare și exterioare, contraescarpe, cod LMI 2015 AB-II-a-00088, situl arheologic de la Alba Iulia - Castrul Legiunii a XIII-a Gemina cod 2015 AB-I-m-00001.01. Este obligatorie prezența expertului/experților tehnici în amplasament pentru verificarea stării tehnice a împrejmuirii perimetrale, întocmirea/verificarea releveelor, în momentul efectuării probelor și la ședința inițială de progres.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Respectarea condițiilor din caietul de sarcini și anexele acestuia."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Perioada de prestare: 35 zile • Termen de plată: maxim 30 zile calendaristice de la primirea facturii electronice, transmisă prin sistemul național privind factura electronică RO e-Factura conform Legii nr.139/2022 art.II pentru aprobarea O.U.G. nr. 120/2021, care cuprinde codurile CPV corespunzătoare prevăzute în nomenclatorul de referinţă în domeniul achiziţiilor publice, conform O.U.G. nr.138/2024, după receptia serviciilor; • Garanția de bună execuție: 10% din valoarea totală a contractului fara T.V.A.;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "• prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_si_anexe_3604 Alba Iulia.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737453"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550314"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550312",
+    "title": "Elaborare expertiză tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” si elaborare expertiză tehnică în domeniul Af. pentru pavilionul B din cazarma 1000 București",
+    "authority": "12859080 Ministerul Apararii - Centrul de Studii si Proiectare Constructii Militare",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-09-29T15:38:04+03:00",
+    "deadline": "2026-10-06T11:00:00+03:00",
+    "value": "26488.59",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737451",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "- Expertiza tehnică privind cerința fundamentală “rezistență mecanică și stabilitate” pentru pavilionul B din cazarma 1000 București va respecta P100-3/2019 - Cod de proiectare seismică - Partea a III-a - Prevederi pentru evaluarea seismică a clădirilor existente. - Expertiza tehnică în domeniul Af pentru pavilionul B din cazarma 1000 București va fi elaborată și va respecta întocmai conținutul cadru al expertizei geotehnice stabilit prin NP074-2022 - Normativ privind documentațiile geotehnice pentru constructii. Se va identifica sursa infiltrațiilor existente în pavilionul B și se vor prevedea măsuri pentru eliminarea acestora. Se va realiza o probă pe materiale la fiecare 500,00 mp, conform P100-3/2019 pct. 4.2), printre care se vor folosi atât încercări distructive cât și nedistructive (probe pe care expertul tehnic le consideră necesare). - Prezența obligatorie a expertului tehnic în amplasament. - Elaboratorul are obligația de a realiza relevee în conformitate cu situația reală din amplasament.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Respectarea condițiilor din caietul de sarcini și anexele acestuia."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "• Perioada de prestare: 40 zile • Termen de plată: maxim 30 zile calendaristice de la primirea facturii electronice, transmisă prin sistemul național privind factura electronică RO e-Factura conform Legii nr.139/2022 art.II pentru aprobarea O.U.G. nr. 120/2021, care cuprinde codurile CPV corespunzătoare prevăzute în nomenclatorul de referinţă în domeniul achiziţiilor publice, conform O.U.G. nr.138/2024, după receptia serviciilor; • Garanția de bună execuție: 10% din valoarea totală a contractului fara T.V.A.;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "• prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini_si_anexe_ cazarma 1000 Bucuresti.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737451"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550312"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550292",
+    "title": "SERVICII PROIECTARE STUDIU FEZABILITATE OBIECTIV ITPF TIMISOARA",
+    "authority": "4250638 INSPECTORATUL TERITORIAL AL POLITIEI DE FRONTIERA TIMISOARA",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-09-29T14:49:47+03:00",
+    "deadline": "2026-10-02T12:00:00+03:00",
+    "value": "260000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737389",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "SERVICII STUDIU DE FEZABILITATE PENTRU OBIECTUIVUL DE INVESTITII *CAPACITATI NOI DE PRODUCERE A ENERGIEI ELECTRICE PRODUSE DIN SURSE REGENERABILE DE ENERGIE SOLARA CU CAPACITATI DE STOCARE INTEGRATA, PENTRU AUTOCONSUM LA NIVELUL ITPF TIMISOARA,  \nCONFORM DOCUMENTELOR ATASATE: caiet de sarcini nr.4150931/28.09.2026, anexa privind criterii si factori de evaluare nr.4150930/28.09.2026,  proiect contract nr.4189869/21.09.2026, tema de proiectare nr.4150886/22.09.2026. \nOfertantul castigator va posta serviciul in SICAP la codul CPV specificat in anunt.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform cerintelor din documentele anexate. Operatorul economic sa detina un cont deschis la trezoreria statului. Oferta trebuie sa fie valabila minim 40 de zile. Oferta de pret care nu respecta cerintele din documentele atasate va fi considerata neconforma. OFERTA VA CONTINE: PROPUNEREA FINANCIARA, PROPUNEREA TEHNICA, PROIECTUL DE CONTRACT SEMNAT, DOVADA EXPERIENTEI SIMILARE PENTRU OFERTANT SI DOVADA EXPERIENTEI PROFESIONALE PENTRU PROIECTANT."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Se vor respecta toate cerintele din documentele atasate. Oferta va fi insotita de proiectul de contract semnat si stampilat pe fiecare pagina reprezentand acceptarea de catre ofertant a clauzelor contractuale. Propunerea tehnică se va prezenta conform cerintelor din caiet de sarcini nr.4150931/28.09.2026,   proiect contract nr.4189869/21.09.2026 si tema de proiectare nr.4150886/22.09.2026. Se solicita experienta similara, pentru ofertant, conform cap.III din caietul de sarcini, in valoare cumulata de minim 50.000 lei fara TVA in cadrul a maxim doua contracte.\nCondiţii de plată: autoritatea contractantă execută obligaţia de plată a sumelor de bani prin virament, din fonduri bugetare, cu OP, cel târziu la 45 de zile calendaristice de la data primirii facturii si receptiei. Termen de prestare: 40 de zile conform cerinte caiet de sarcini."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "CEL MAI BUN RAPORT CALITATE PRET.- FACTOR DE EVALUARE COMPONENTA FINANCIARA: 40 PUNCTE -PRETUL OFERTAT; FACTOR DE EVALUARE COMPONENTA TEHNICA: 60 PUNCTE - EXPERIENTA PROFESIONALA DETINUT DE CATRE PROIECTANT. DETALII PRIVIND APLICAREA FACTORILOR DE EVALUARE SUNT PREZENTATE IN DOCUMENTUL ANEXA CRITERII SI FACTORI DE EVALUARE NR.4150930/28.09.2026."
+      }
+    ],
+    "documents": [
+      {
+        "name": "caiet sarcini plus anexe.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737389"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550292"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550290",
+    "title": "SERVICII DE PROIECTARE   Studii (topografic si geotehnic), expertiza tehnica, SF, PT, DTAC, detalii de executie (DE),verificare tehnica a proiectarii pentru proiectul   ,, Regenerarea integrata a unor spații publice reprezentative   din Orașul Șomcuta Mare, județul Maramureș ”",
+    "authority": "3694829 ORASUL SOMCUTA MARE",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-29T14:45:57+03:00",
+    "deadline": "2026-10-09T14:00:00+03:00",
+    "value": "270000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737425",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Obiectul contractului îl constituie elaborarea documentațiilor tehnico-economice: studii, S.F, PT, DTAC, DE, si verificarea tehnica a proiectarii pentru regenerarea integrata a unor spații publice reprezentative din Orașul Șomcuta Mare, județul Maramureș.Proiect finantat prin : Contract de finantare 576/20.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Regiune atractiva urban\" – cod SMIS 365428, depusă în cadrul apelului PRNV/2026/716/1 pentru domeniile Regenerare urbana",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatorii economici care depun ofertă trebuie să dovedească o formă de înregistrare în condiţiile legii din ţara de rezidenţă, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situaţiile de anulare a constituirii sale precum şi faptul că are capacitatea profesională de a realiza activităţile care fac obiectul contractului. \nOfertantii vor respecta cerințele asumate prin fișele de proiect, în special: \n- realizarea proiectării în sistem BIM – Building Information Modelling; \n- integrarea și respectarea principiilor NEB – Noul Bauhaus European, NZEB \n- respectarea principiului DNSH"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Proiect finantat prin :Contract de finantare 576/20.08.2026 aferent cererii de finanțare cu titlul ,, Sprijin pentru pregatirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioada de programare – Regiune atractiva urban\" – cod SMIS 365428, depusă în cadrul apelului PRNV/2026/716/1 pentru domeniile Regenerare urbana.\nOfertantul declarat castigator va întocmi documentatiile tehnice în conformitate cu prevederile legale in vigoare si cu respectarea cerintelor prevazute in caietul de sarcini atasat"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini -regenerare urbana.pdf.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737425"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550290"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1180354",
     "title": "Servicii de actualizare/elaborare DTAC, DTOE, Proiect tehnic de execuție,Detalii de execuție, caiete de sarcini, documentații pentru avize și asistență tehnică din partea proiectantuluipentru proiectul «Mobilitate urbană în stațiunea Venus, Municipiul Mangalia», cod SMIS 340981",
     "authority": "4515255 - MUNICIPIUL MANGALIA",
