@@ -1,5 +1,388 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180426",
+    "title": "Servicii de proiectare și asistență tehnică pentru proiectul SPRIJIN PENTRU PREGĂTIREA DOCUMENTAȚIILOR TEHNICO-ECONOMICE PENTRU PROIECTE CARE VIZEAZĂ URMĂTOAREA PERIOADĂ DE PROGRAMARE -  REGIUNE ATRACTIVĂ URBAN-SMIS 365428",
+    "authority": "3627765 - Orasul Seini",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-30T17:28:57+03:00",
+    "deadline": "2026-10-15T15:00:00+03:00",
+    "value": "590334,75 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332982/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 76.0
+      },
+      {
+        "name": "P2 – Experiența personalului-cheie – arhitect",
+        "description": "Se punctează experiența specifică a persoanei nominalizate pentru poziția de arhitect, dobândită în cadrul unor contracte de proiectare similare cu cele din procedura",
+        "weight": 8.0
+      },
+      {
+        "name": "P3 – Experiența personalului-cheie – inginer structură",
+        "description": "Se punctează experiența specifică a persoanei nominalizate pentru poziția de inginer structura, dobândită în cadrul unor contracte de proiectare similare cu cele din procedura",
+        "weight": 8.0
+      },
+      {
+        "name": "P4 – Experiența personalului-cheie – inginer instalații",
+        "description": "Se punctează experiența specifică a persoanei nominalizate pentru poziția de inginer instalatii, dobândită în cadrul unor contracte de proiectare similare cu cele din procedura",
+        "weight": 8.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180426"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180425",
+    "title": "Servicii de proiectare și asistență tehnică pentru proiectul “Sprijin pentru pregătirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioadă de programare - Eficiență energetică” - SMIS 365250",
+    "authority": "3627765 - Orasul Seini",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-09-30T17:26:39+03:00",
+    "deadline": "2026-10-12T15:00:00+03:00",
+    "value": "365923,55 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332981/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 76.0
+      },
+      {
+        "name": "P2. Experiența personalului-cheie – arhitect",
+        "description": "Se punctează experiența specifică a persoanei nominalizate pentru poziția de arhitect, dobândită în cadrul unor contracte de proiectare similare cu cele din procedura",
+        "weight": 8.0
+      },
+      {
+        "name": "P3. Experiența personalului-cheie – inginer structura",
+        "description": "Se punctează experiența specifică a persoanei nominalizate pentru poziția de inginer structura, dobândită în cadrul unor contracte de proiectare similare cu cele din procedura",
+        "weight": 8.0
+      },
+      {
+        "name": "P4. Experiența personalului-cheie – inginer instalatii",
+        "description": "P4. Experiența personalului-cheie – inginer instalatii",
+        "weight": 8.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180425"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180423",
+    "title": "Proiectare si executie lucrări pentru investitia “CREAREA UNEI INFRASTRUCTURI EDUCATIONALE-RECREATIVE (TABARA SCOLARA) PENTRU COPII SI TINERI IN COMUNA PARVA”",
+    "authority": "4512240 - COMUNA PARVA (Consiliul Local al comunei Parva)",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-09-30T17:08:36+03:00",
+    "deadline": "2026-10-20T15:00:00+03:00",
+    "value": "6383020,5 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332979/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "2.1 Coordonator proiectare",
+        "description": "Participarea expertului propus pe o poziție similară –coordonator activități proiectare/sef de proiect - in cadrul unor contracte de proiectare (oricare din fazele de proiectare SF/DALI/PT/PT +DE) si/ sau contracte  de proiectare și execuție lucrari construire/reabilitare/modernizare/extindere  aferente unor construcții civile care se încadreaza cel puțin în categoria de importanță C sau superior, similare sau superioare din punct de vedere al complexității",
+        "weight": 12.0
+      },
+      {
+        "name": "Inginer Proiectant Structuri de Rezistență pentru Construcții Civile",
+        "description": "Participarea expertului propus pe o poziție similară – Participarea expertului propus pe o poziție similară –  Proiectant Structuri de Rezistență pentru Construcții Civile in cadrul unor contracte de proiectare (oricare din fazele de proiectare SF/DALI/PT/PT +DE) si/ sau contracte  de proiectare și execuție lucrari construire/reabilitare/modernizare/extindere  aferente unor construcții civile care se încadreaza cel puțin în categoria de importanță C sau superior, similare sau superioare din punct de vedere al complexității",
+        "weight": 10.0
+      },
+      {
+        "name": "Inginer Proiectant instalatii  pentru Construcții",
+        "description": "Participarea expertului propus pe o poziție similară – Participarea expertului propus pe o poziție similară –  Proiectant instalatii pentru Construcții Civile in cadrul unor contracte de proiectare (oricare din fazele de proiectare SF/DALI/PT/PT +DE) si/ sau contracte  de proiectare și execuție lucrari construire/reabilitare/modernizare/extindere  aferente unor construcții civile care se încadreaza cel puțin în categoria de importanță C sau superior, similare sau superioare din punct de vedere al complexității",
+        "weight": 6.0
+      },
+      {
+        "name": "Experienta Teamleader / Manager de proiect / Reprezentant al Antreprenorului",
+        "description": "Participarea expertului propus pe o poziție similară – Manager de proiect / Reprezentant al Antreprenorului - in cadrul unor contract/proiect de construire /reabilitare/modernizare/extindere  aferente unor construcții civile care se încadreaza cel puțin în categoria de importanță C sau superior, similare sau superioare din punct de vedere al complexității",
+        "weight": 12.0
+      },
+      {
+        "name": "Garanție tehnică a lucrărilor suplimentare ofertate",
+        "description": "Garantia va fi fundamentata din punct de vedere tehnic, logistic și a resurselor prevăzute în ofertă, de natură să asigure satisfacerea cerințelor din caietul de sarcini. În aceste sens, autoritatea contractantă își rezervă dreptul de a analiza și verifica conformitatea termenului ofertat din punctul de vedere al asigurării îndeplinirii de către operatorii economici a cerințelor solicitate prin Caietul de sarcini, cu scopul protejării acesteia împotriva ofertelor care prevăd termene nesustenabile/care nu pot fi fundamentate. Nedemonstrarea si neargumentarea (prin prezentarea unui plan de asigurare a garantiei), va duce la acordarea unui punctaj 0 la acest criteriu",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180423"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180420",
+    "title": "PROIECTARE, EXECUȚIE LUCRĂRI, TESTARE ȘI PUNERE ÎN FUNCȚIUNE A CONSTRUCȚIEI ȘI INSTALAȚIILOR FIXE AFERENTE OBIECTIVULUI “EXTINDERE ȘI DEZVOLTARE FUNCȚIONALĂ A AMBULATORIULUI EXISTENT PRIN REALIZAREA UNEI CLĂDIRI NOI P+2 DESTINATĂ IMAGISTICII MEDICALE PET-CT, BĂNCII DE CELULE, LABORATOARELOR MEDICALE SPECIALIZATE ȘI SPAȚIILOR MEDICALE SUPORT”",
+    "authority": "4283570 - SPITALUL UNIVERSITAR DE URGENTA BUCURESTI",
+    "cpv": [
+      "45215140-0"
+    ],
+    "published": "2026-09-30T16:59:49+03:00",
+    "deadline": "2026-11-05T15:00:00+02:00",
+    "value": "18988322,76 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332975/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Metodologia de proiectare si coordonarea interdisciplinara",
+        "description": "Componenta proiectare",
+        "weight": 7.0
+      },
+      {
+        "name": "Programarea, controlul calitatii si managementul documentatiei",
+        "description": "Componenta proiectare",
+        "weight": 3.0
+      },
+      {
+        "name": "Managementul modificarilor si asistenta tehnica a proiectantului",
+        "description": "Componenta proiectare",
+        "weight": 3.0
+      },
+      {
+        "name": "Experienta expertilor-cheie desemnati pentru proiectare",
+        "description": "Componenta proiectare",
+        "weight": 7.0
+      },
+      {
+        "name": "Metodologia de organizare si executie a lucrarilor",
+        "description": "Componenta executie",
+        "weight": 10.0
+      },
+      {
+        "name": "Graficul de executie, etapizarea si managementul termenului",
+        "description": "Componenta executie",
+        "weight": 9.0
+      },
+      {
+        "name": "Organizarea lucrarilor fata de ambulatoriul existent si managementul interfetelor",
+        "description": "Componenta executie",
+        "weight": 7.0
+      },
+      {
+        "name": "Managementul calitatii si controlul executiei",
+        "description": "Componenta executie",
+        "weight": 7.0
+      },
+      {
+        "name": "Managementul riscurilor, probele, testarea si pregatirea pentru receptie",
+        "description": "Componenta executie",
+        "weight": 7.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180420"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180419",
+    "title": "Servicii de proiectare, asistenta tehnica din partea proiectantului pe parcursul desfasurarii lucrarilor si executie lucrari pentru obiectivul de investitii:   „ ÎNFIINȚARE RETEA CANALIZARE ÎN COMUNA CALINEȘTI, SAT VALENI, JUDEȚUL MARAMUREȘ”",
+    "authority": "3694837 - COMUNA CALINESTI (CONSILIUL LOCAL CALINESTI,JUDETUL MARAMURES)",
+    "cpv": [
+      "45232400-6"
+    ],
+    "published": "2026-09-30T16:57:08+03:00",
+    "deadline": "2026-10-16T15:00:00+03:00",
+    "value": "18875125 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100332974/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "2.1.1. Experienta expertului - Șef/coordonator/director de proiect",
+        "description": "2.1.1. Experienta expertului - Șef/coordonator/director de proiect cu experiență – Inginer Instalatii, care face parte din echipa de proiectare, cu rol de coordonare tehnică a echipei de proiectare si care contribuie la întocmirea documentațiilor – PT, PAC, POE, se solicita experienta prin implicarea în calitate de șef/coordonator/director de proiect în cadrul a minim 1 proiect/contract ce presupun proiectare de lucrări de construire /reabilitare /modernizare /extindere rețele de apă/canalizare și/sau aducțiuni de apă și/sau rețele de fluide / lucrări de rețele tehnice edilitare supraterane/subterane.",
+        "weight": 5.0
+      },
+      {
+        "name": "2.1.2. Experienta expertului - Manager/coordonator/director proiect cu experiență",
+        "description": "2.1.2. Experienta expertului - Manager/coordonator/director proiect cu experiență – inginer care detine certificat de absolvire pentru ocupatia de manager de proiect, care face parte din echipa de executie a lucrarilor, cu rol de coordonare tehnică a echipei de executie si care contribuie la executia lucrarilor, se solicita experienta prin implicarea în calitate de manager/coordonator/director de proiect în cadrul a minim 1 proiect/contract ce presupun executia de lucrari de construire /reabilitare /modernizare /extindere rețele de apă/canalizare și/sau aducțiuni de apă și/sau rețele de fluide / lucrări de rețele tehnice edilitare supraterane/subterane.",
+        "weight": 5.0
+      },
+      {
+        "name": "2.1.3. Experienta expertului – sef santier cu experiență",
+        "description": "2.1.3. Experienta expertului – sef santier cu experiență – inginer instalatii, care face parte din echipa de executie a lucrarilor, cu rol de gestionare a echipei de executie si care contribuie la executia lucrarilor, se solicita experienta prin implicarea în calitate de sef santier în cadrul a minim 1 proiect/contract ce presupun executia de lucrari de construire /reabilitare /modernizare /extindere rețele de apă/canalizare și/sau aducțiuni de apă și/sau rețele de fluide / lucrări de rețele tehnice edilitare supraterane/subterane.",
+        "weight": 5.0
+      },
+      {
+        "name": "2.1.4. Experienta expertului – proiectant instalatii cu experiență",
+        "description": "2.1.4. Experienta expertului – proiectant instalatii cu experiență – Inginer Instalatii, care face parte din echipa de proiectare, cu rol de elaborare a solutiilor tehnice de specialitate pentru instalatiile de alimentare cu apa, canalizare si instalatii tehnologice si care contribuie la întocmirea documentațiilor – PT, PAC, POE, se solicita experienta prin implicarea în calitate de proiectant în cadrul minim 1 contracte de proiectare/proiectare si executie de lucrari de lucrări de construire /reabilitare /modernizare /extindere rețele de apă/canalizare și/sau aducțiuni de apă și/sau rețele de fluide / lucrări de rețele tehnice edilitare supraterane/subterane.",
+        "weight": 5.0
+      },
+      {
+        "name": "2.3. Durata de garantie acordata lucrarilor, pondere 5%",
+        "description": "2.3. Durata de garantie acordata lucrarilor, pondere 5%",
+        "weight": 5.0
+      },
+      {
+        "name": "2.4. Gradul de adecvare al graficului general de realizare a lucrarilor",
+        "description": "Durata, succesiunea activităților și inter-relaționarea acestora, inclusiv drumul critic,  identificarea punctelor cheie de control (jaloanelor), resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia de executare a lucrărilor- max 14 puncte\nSubfactorul de evaluare va fi apreciat in functie de calificativul ,,foarte bine/ bine/acceptabil\". Comisia de evaluare va acorda calificativul luand in considerare liniile directoare prezentate in tabelul de mai jos. \nFiecarui calificativ ii corespunde o nota. Nota pentru calificativul ,,foarte bine\" este 14, nota pentru calificativul ,,bine\" este 9, nota pentru calificativul ,,acceptabil\" este 5. \nPunctajul aferent unui subfactor de evaluare va fi obtinut prin acordarea notei corespunzatoare calificativului obtinut de oferta respectiva la evaluarea acelui subfactor.Punctajul total maxim ce poate fi acordat pentru acest factor de evaluare este de 14 puncte, detaliat in tabelul de mai jos.",
+        "weight": 14.0
+      },
+      {
+        "name": "2.5. Utilizarea echipamentelor cu emisii reduse",
+        "description": "Criteriul „Utilizarea echipamentelor conforme STAGE V” evalueaza impactul asupra mediului generat de utilajele utilizate in executia lucrarilor de infrastructura rutiera, prin raportare la nivelul emisiilor poluante produse pe durata santierului.\nLucrarile ce fac obiectul contractului presupun utilizarea intensa a echipamentelor de constructii, care reprezinta o sursa importanta de emisii de gaze cu efect de sera si alti poluanti. Standardul STAGE V, aplicabil echipamentelor mobile nerutiere, reprezinta in prezent cel mai avansat standard european privind limitarea emisiilor si este in vigoare la nivelul Uniunii Europene din perioada 2019–2020.\nPrin acest criteriu, Autoritatea Contractanta incurajeaza utilizarea echipamentelor moderne, cu emisii reduse, fara a introduce cerinte restrictive sau discriminatorii.",
+        "weight": 6.0
+      },
+      {
+        "name": "2.6. Distanta de transport a betonului (criteriu ecologic):",
+        "description": "2.6. Distanta de transport a betonului (criteriu ecologic):",
+        "weight": 5.0
+      },
+      {
+        "name": "2.7. Distanta de transport a nisipului (criteriu ecologic):",
+        "description": "2.7. Distanta de transport a nisipului (criteriu ecologic):",
+        "weight": 5.0
+      },
+      {
+        "name": "2.8. Utilizarea vehiculelor de transport cu emisii reduse (norma de poluare EURO):",
+        "description": "Criteriul „Utilizarea vehiculelor de transport cu emisii reduse (norma de poluare EURO)” evalueaza impactul asupra mediului generat de vehiculele rutiere utilizate efectiv pentru transportul materialelor necesare executiei lucrarilor, respectiv agregate, caramida, materiale pentru umpluturi, materiale pentru amenajari exterioare si alte materiale similare utilizate in executia contractului.\nAvand in vedere ca obiectivul de investitii presupune lucrari care implica transport repetat de materiale de constructii, autoritatea contractanta incurajeaza utilizarea unor vehicule conforme cu standarde superioare de emisii, in vederea reducerii emisiilor poluante (NOx, particule, CO2), a impactului asupra mediului si a imbunatatirii calitatii aerului.",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180419"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550513",
+    "title": "Servicii de proiectare specializata: Intocmire documentatie Tehnica in vederea obtinerii Autorizatiilor de Desfiintare",
+    "authority": "15603417 C.N.C.F. “C.F.R.” S.A. – SUCURSALA REGIONALA C.F. CRAIOVA – UNITATE OPERATIONALA",
+    "cpv": [
+      "71251000-2"
+    ],
+    "published": "2026-09-30T15:24:00+03:00",
+    "deadline": "2026-10-05T13:30:00+03:00",
+    "value": "111100.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737675",
+    "match_reason": {
+      "cpv": [
+        "71251000"
+      ],
+      "keywords": [
+        "proiectare",
+        "arhitectura"
+      ]
+    },
+    "description": "SRCF Craiova intentioneaza sa realizeze desfiintarea a 34 cladiri aflate pe raza sa de activitate care nu mai prezinta utilitate din punct de vedere al activitatii desfasurate, și sunt degradate fizic intr-o proportie care le face ireparabile. Conform prevederilor legale aceste documentatii trebuie executate de catre un proiectant autorizat care sa intocmeasca documentatiile tehnice pentru fiecare cladire in parte.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantul trebuie sa depuna: 1. Propunerea tehnica 2. Formularul de oferta insotit de centralizator. 3. Un model de contract semnat si stampilat/declaratie de acceptare a conditiilor contractuale. 4. Grafic de prestare al serviciului"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform model de contract atasat. Durata contract 6 luni"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut. In cazul in care doua sau mai multe oferte sunt clasate pe primul loc, in vederea departajarii, se va solicita ofetantilor o noua oferta de pret."
+      }
+    ],
+    "documents": [
+      {
+        "name": "documentatie.rar.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737675"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550513"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550496",
+    "title": "Achizitia serviciilor de de întocmire documentație Plan Urbanistic Zonal – PUZ Ansamblu zone recreative, parc multifunțional și funcțiuni conexe – parc Est cu configurare zone parcaje",
+    "authority": "4365352 Municipiul Slobozia",
+    "cpv": [
+      "71410000-5"
+    ],
+    "published": "2026-09-30T14:35:26+03:00",
+    "deadline": "2026-10-08T16:30:00+03:00",
+    "value": "90000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737681",
+    "match_reason": {
+      "cpv": [
+        "71410000"
+      ],
+      "keywords": [
+        "plan urbanistic",
+        "urbanism"
+      ]
+    },
+    "description": "Achizitia serviciilor de de întocmire documentație Plan Urbanistic Zonal – PUZ Ansamblu zone recreative, parc multifunțional și funcțiuni conexe – parc Est cu configurare zone parcaje",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Modul de transmitere a ofertelor: online la adresa de e-mail: petruta.diaconeasa@municipiulslobozia.ro\nDocumentele aferente achiziției publice sunt atașate prezentului anunț și pot fi descărcate de pe pagina de internet a autorității contractante, adresa www.municipiulslobozia.ro, la secțiunea Informații de interes Public/Achiziții Publice / Anunțuri Achiziții Publice și din SEAP secțiunea Publicitate Anunțuri;\nPrezentului anunț atașăm următoarele: Caiet de sarcini., Proiect de contract, Tema de Proiectare PUZ, formularele, care pot fi descărcate de pe pagina de internet a autorității contractante, adresa www.municipiulslobozia.ro, la secțiunea Informații de interes Public/Achiziții Publice / Anunțuri Achiziții Publice;\nhttps://municipiulslobozia.ro/achizitii/licitatii/2026/09/30/achizitie-intocmire-puz-parc-est/"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform clauze contractuale."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CAIET_SARCINI.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737681"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550496"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1550470",
     "title": "Servicii de proiectare - D.T.A.C.., D.T.O.E. și  (P.Th.)  ”Reabilitarea și îmbunătățirea eficienței energetice a imobilului Serviciului Public Comunitar de Pașapoarte Iași și Serviciului Public Comunitar Regim Permise de Conducere și Înmatriculări Vehicule Iași” - SMIS:352802,",
