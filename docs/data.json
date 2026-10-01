@@ -1,5 +1,130 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180495",
+    "title": "Reparatie galerie de aductiune CHE Scropoasa\nDocumentatie de avizare a lucrarilor de interventie (DALI)",
+    "authority": "RO 13267213 - SPEEH HIDROELECTRICA SA",
+    "cpv": [
+      "71242000-6"
+    ],
+    "published": "2026-10-01T15:58:31+03:00",
+    "deadline": "2026-10-13T15:00:00+03:00",
+    "value": "109944,37 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333094/",
+    "match_reason": {
+      "cpv": [
+        "71242000"
+      ],
+      "keywords": [
+        "dali",
+        "documentatie de avizare a lucrarilor de interventie",
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "1.p1 – expert atestat MDLPA pentru cerințele de calitate: A.7 -\nrezistenta mecanica si stabilitate pentru constructii si amenajari\nhidrotehnice",
+        "description": "Experienta personalului de specialitate in proiecte similare finalizate cu succes",
+        "weight": 30.0
+      },
+      {
+        "name": "2. p2 - expert atestat MDLPA pentru cerințele de calitate B.5 - siguranta in exploatare pentru constructii si amenajari hidrotehnice",
+        "description": "Experienta personalului de specialitate in proiecte similare finalizate cu succes",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180495"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550709",
+    "title": "Achiziția serviciilor de elaborare documentație tehnico-economică pentru investiția: Îmbunătățirea infrastructurii turistice în zonă obiectivului „Ansamblul Monumental Ștefan cel Mare Băcăoani",
+    "authority": "3394171 JUDETUL VASLUI",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-10-01T15:27:01+03:00",
+    "deadline": "2026-10-12T11:00:00+03:00",
+    "value": "78144.63",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737948",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "documentatie tehnico-economica",
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Județul Vaslui deține în domeniul public Ansamblul monumental „Statuia ecvestră a domnitorului Ștefan cel Mare”, amplasat în localitatea Băcăoani, comuna Muntenii de jos, Județul Vaslui, conform cărților funciare CF 70454 și 70455. Acesta este înscris în Lista Monumentelor istorice din județul Vaslui la poz. 420 - Cod LMI 2015 VS-IV-m-B-06903, având funcțiunea de monument de arhitectură de for public. La acest obiectiv au fost realizate lucrări de restaurare, consolidare și punere în valoare a ansamblului monumental Statuia ecvestră a lui Ștefan cel Mare, Băcăoani,prin implementarea proiectelor transfrontaliere „Pe urmele lui Ștefan cel Mare” și „Ștefan cel Mare - istorie comună, patrimoniu comun, Soroca - Vaslui”. De asemenea, pentru a asigura funcționalitatea acestui obiectiv, în anul 2025 s-au realizat „Lucrări de amenajare, în zonă obiectivului - Ansamblul Monumental Ștefan cel Mare, Băcăoani”, concretizate prin: - amenajarea de spatii verzi corespunzătoare funcționalității obiectivului; - instalarea unui sistem automatizat de irigații. În prezent, din cauza lipsei spațiului, obiectivul nu are amenajat un loc de agrement, de acces și parcare pentru vizitatori și grupuri sanitare corespunzătoare.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform invitației de participare nr. 41528/30.09.2026  și a Documentației de atribuire atașată invitației de participare (caiet de sarcini, clauze contractuale, formulare), publicate pe site-ul www.cjvs.eu, în data de 01.10.2026"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform clauzelor contractuale disponibile pe site ul wwww.cjvs.eu"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini Bacaoani.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737948"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550709"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550692",
+    "title": "Servicii de proiectare specializată",
+    "authority": "RO8296093 SOCIETATEA ROMANA DE RADIODIFUZIUNE",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-10-01T15:00:48+03:00",
+    "deadline": "2026-10-06T12:00:00+03:00",
+    "value": "9000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737928",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare specializată, în vederea întocmirii proiectului tehnic aferent sistemelor de securitate ale obiectivului de la sediu ST Radio Tg Mures, CONFORM SPECIFICATIILOR TEHNICE  SI CERINTELOR DIN CAIETUL DE SARCINI ATASAT.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Propunerea tehnica se va întocmi cu respectarea stricta a cerintelor din caietul de sarcini. Propunerea financiara va cuprinde pretul unitar si valoarea totala a ofertei, exprimata în lei  exclusiv TVA, fara a depasi valoarea estimata."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Clauzele contractuale vor fi negociate cu ofertantul declarat câstigator. Plata facturii se face in termen de maxim 60 zile de la emitere in platform RO e-factura."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Va fi selectata oferta care îndeplineste toate cerintele solicitate în caietul de sarcini si care are pretul total cel mai scazut, în lei exclusiv TVA. Valabilitate oferta 60 zile."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS Servicii de proiectare sistem de securitate.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100737928"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550692"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1550639",
     "title": "Servicii de proiectare și Studiu de Fezabilitate pentru obiectivul de investiții ”Amenajare străzi Cartier Minerva”",
