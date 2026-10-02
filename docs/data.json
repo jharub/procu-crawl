@@ -1,6 +1,262 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180542",
+    "title": "Proiectare și execuție Extindere alimentare cu apă și canalizare în zona de vest a orașului Baia Sprie",
+    "authority": "3694918 - Orasul Baia Sprie",
+    "cpv": [
+      "45232150-8"
+    ],
+    "published": "2026-10-02T16:17:24+03:00",
+    "deadline": "2026-10-19T15:00:00+03:00",
+    "value": "13521512 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333184/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 76.0
+      },
+      {
+        "name": "Garanția extinsă a lucrării",
+        "description": "Perioada minimă acceptată este 36 luni, iar perioada maximă luată în calcul la punctare este 72 luni",
+        "weight": 24.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180542"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180541",
+    "title": "Achiziție execuție lucrări inclusiv Org. de șantier la obiectivele de investiție „SENSE- Sensory Exploration for a Nature-based Sustainable Experience in Botoșani and Balti Cities” („SENSE- Explorare senzorială pentru o experiență durabilă bazată pe natură în orașele Botoșani și Bălți”), finanțat în cadrul Programului Interreg VI-A NEXT România-Republica Moldova 2021-2027, nr. de ref.  ROMD00658",
+    "authority": "3372882 - MUNICIPIUL BOTOSANI",
+    "cpv": [
+      "45112711-2"
+    ],
+    "published": "2026-10-02T15:46:32+03:00",
+    "deadline": "2026-10-19T15:00:00+03:00",
+    "value": "2524760,11 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333183/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Garanția extinsă acordată lucrărilor",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      },
+      {
+        "name": "Experienta similara a expertului-cheie 1 (Inginer Inginerie civila cu specializare in construcții civile, industriale și agricole)",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența expertului-cheie 2 (Inginer peisagist )",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "Recipiente și ambalaje pentru plante",
+        "description": "Componenta tehnica",
+        "weight": 16.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180541"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096937",
+    "title": "Proiectare, asistență tehnică și execuție lucrări pentru realizarea obiectivului de investiție „Extinderea infrastructurii care diagnostichează și tratează cancere cu localizare specifică în cadrul Institutului Național de Neurologie și Boli Neurovasculare București”",
+    "authority": "7548010 - Institutul National de Neurologie si Boli Neurovasculare",
+    "cpv": [
+      "45215140-0"
+    ],
+    "published": "2026-10-02T15:00:34+03:00",
+    "deadline": "2026-11-04T15:00:00+02:00",
+    "value": "80367704,08 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333173/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența personalului-cheie de proiectare (P2)",
+        "description": "Componentă tehnică — se punctează experiența specifică a celor 6 experți-cheie de proiectare, exprimată în număr de proiecte similare (unități spitalicești încadrate în clasa de consecințe minimum CC3, respectiv categoria de importanță minimum B); 1 proiect similar pentru fiecare expert = cerință minimă de conformitate, punctaj progresiv pentru 2–7 proiecte similare",
+        "weight": 24.0
+      },
+      {
+        "name": "Gradul de adecvare al graficului general de realizare a investiției publice, resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia de executare a lucrărilor (P3)",
+        "description": "Componentă tehnică — se evaluează realismul, coerența, nivelul de detaliere și corelarea graficului general de realizare a investiției publice cu metodologia de executare a lucrărilor și de prestare a serviciilor de proiectare și cu resursele (umane, materiale, echipamente) alocate, inclusiv Planul de execuție BIM (BEP), a cărui prezentare este opțională",
+        "weight": 18.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii corespunzătoare pentru obținerea asigurării că lucrările sunt realizate la parametrii calitativi solicitați (Planul de management al calității lucrărilor executate) (P4)",
+        "description": "Componentă tehnică — se evaluează Planul de management al calității lucrărilor executate (proceduri de control, puncte de verificare, plan de testări, responsabilități, tratarea neconformităților), pentru faza de proiectare, pentru faza de execuție și pentru furnizarea, montajul și punerea în funcțiune a echipamentelor medicale",
+        "weight": 18.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096937"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1096948",
+    "title": "Servicii de proiectare și execuție lucrări pentru obiectivul ”CONSTRUIRE AUTOBAZA DE TRANSPORT, ORAȘUL BUFTEA, JUDEȚUL ILFOV”",
+    "authority": "4434029 - Primaria Orasului Buftea",
+    "cpv": [
+      "45213310-9"
+    ],
+    "published": "2026-10-02T15:00:01+03:00",
+    "deadline": "2026-11-05T15:00:00+02:00",
+    "value": "29366591,07 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333149/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "I. Experiența profesională a experților — pondere totală 10%",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "II. Demonstrarea unei metodologii corespunzătoare pentru obținerea asigurării că lucrările sunt realizate la parametrii calitativi solicitați (Planul de management al calității lucrărilor)",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      },
+      {
+        "name": "III. Performanța energetică a soluției tehnice propuse",
+        "description": "Componenta tehnica",
+        "weight": 25.0
+      },
+      {
+        "name": "IV. Perioada de garanție suplimentară a lucrărilor",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1096948"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550907",
+    "title": "Servicii de verificare tehnica a documentatiei de proiectare, aferenta obiectivului de investitii  “ Sediu SGA Buzau “",
+    "authority": "23706189 Administratia Bazinala de Apa Buzau Ialomita",
+    "cpv": [
+      "71328000-3"
+    ],
+    "published": "2026-10-02T14:56:32+03:00",
+    "deadline": "2026-10-09T13:00:00+03:00",
+    "value": "22748.54",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738066",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de verificare tehnica a documentatiei de proiectare, aferenta obiectivului de investitii  “ Sediu SGA Buzau “",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Condiții contract:\n- Conform specificațiilor;\n\nGaranție de bună execuție\n Nu este cazul\n\nCriteriul de atribuire:\nPrețul cel mai scăzut, cu respectarea cerințelor tehnice.\n\nTermen limită primire oferte:\nPana la data de 09.10.2026, ora 13:00."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Condiții contract:\n- Conform specificațiilor;\n\nGaranție de bună execuție\n Nu este cazul\n\nCriteriul de atribuire:\nPrețul cel mai scăzut, cu respectarea cerințelor tehnice.\n\nTermen limită primire oferte:\nPana la data de 09.10.2026, ora 13:00."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, cu respectarea cerințelor tehnice."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS VERIFICARE PROIECT SEDIU SGA BZ.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738066"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550907"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1550906",
+    "title": "Servicii de proiectare pentru obiectivul: “Refacere infrastructură străzi, sistematizare verticală Str. Viilor, refacere covoare asfaltice carosabile și amenajări parcări Str. Frunzei, Str. Nordului, Str. Prosperității, reparații și așternere covor asfaltic carosabil Str. Rovine\"",
+    "authority": "4350645 MUNICIPIUL FOCSANI",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-02T14:35:28+03:00",
+    "deadline": "2026-10-08T14:00:00+03:00",
+    "value": "117398.42",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738214",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare pentru obiectivul: “Refacere infrastructură străzi, sistematizare verticală Str. Viilor, refacere covoare asfaltice carosabile și amenajări parcări Str. Frunzei, Str. Nordului, Str. Prosperității, reparații și așternere covor asfaltic carosabil Str. Rovine, din Municipiul Focșani”, respectiv:\n- Servicii de întocmire Proiect tehnic, Caiete de Sarcini și Detalii de execuție, Proiect pentru autorizarea lucrărilor de construcții, inclusiv Documentații tehnice necesare în vederea obținerii Avizelor/Acordurilor/Autorizațiilor, \n- Servicii de verificare tehnică a documentațiilor PAC/POE, PT,\n- Servicii de asistență din partrea proiectantului pe perioada de execuție a lucrărilor și pentru participarea la fazele incluse în Programul de control al lucrărilor de execuție, inclusiv actualizarea proiectului de execuție la faza As Build",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Se vor prezenta:\n- Declarație privind neîncadrarea în prevederile art. 58, art. 59, art. 60 din Legea 98/2016 privind achizițiile publice, \n- Declaratia Angajament Anti-Mita, \n- dovada asigurării personalului tehnic de specialitate corespunzator pentru îndeplinirea obligațiilor contractuale și documente suport pentru persoanele nominalizate, \n- Declaratie pe propria răspundere privind respectarea reglementărilor obligatorii în domeniile mediului, social și al relațiilor de muncă din care să rezulte că la elaborarea ofertei s-a ținut cont de obligațiile relevante din domeniile mediului, social și al relațiilor de muncă, \n- Declarație privind partea/părțile din propunerea tehnică și/sau propunerea financiară declarate confidențiale, clasificate sau protejate de un drept de proprietate intectuală(motivat),\n- Propunerea financiara: Formular de oferta si Anexa la Formularul de oferta(detaliere preț ofertat/serviciu).\nMențiune: la încheierea contractului se vor prezenta următoarele documente(valabile la data încheierii contractului): Certificatul de înregistrare; Certificatul constatator emis de către Oficiul Registrului Comerțului; Certificatele de atestare fiscală (care atestă lipsa datoriilor către bugetul de stat și bugetul local)."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Termenul de prestare a serviciilor de proiectare: 30 zile, respectiv:\n- Documentațiile necesare obținerii Avizelor/Acordurilor prevăzute în Certificatul de urbanism - în termen de 15 zile calendaristice de la data emiterii Ordinului de începere,\n- Documentațiile tehnice PT, PAC, POE - în termen de 30 zile calendaristice de la data emiterii Ordinului de începere;\nTermenul de prestare a serviciilor de asistență tehnică din partea proiectantului: 3 luni(perioada derulării lucrărilor)\n(termenele de prestare nu include perioadele de sistare)"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie atribuire.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738214"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1550906"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "CN1097036",
     "title": "PROIECTARE ȘI EXECUȚIE LUCRĂRI pentru obiectivul de investiții: „Reabilitare iluminat parcuri și grădini publice” din municipiul Vaslui",
     "authority": "R3337532 - MUNICIPIUL VASLUI",
