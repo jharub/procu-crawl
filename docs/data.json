@@ -1,6 +1,49 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180547",
+    "title": "Proiectare și execuție lucrări în cadrul Proiectului: “EXTINDEREA SISTEMULUI CENTRALIZAT DE COLECTARE A APELOR UZATE MENAJERE IN COMUNA MOVILENI JUDETUL OLT, 2024“",
+    "authority": "4867693 - Comuna Movileni",
+    "cpv": [
+      "45232411-6"
+    ],
+    "published": "2026-10-04T16:07:36+03:00",
+    "deadline": "2026-10-20T15:00:00+03:00",
+    "value": "9113328,56 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333211/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "2.\tExperienţa profesionala (Pep) - \nCoordonator colectiv de proiectare (sef de proiect).",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      },
+      {
+        "name": "2. Experienţa profesionala (Pep) - Manager de proiect",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      },
+      {
+        "name": "2. Experienţa profesionala (Pep) - Șef de lucrare/șantier",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180547"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1180542",
     "title": "Proiectare și execuție Extindere alimentare cu apă și canalizare în zona de vest a orașului Baia Sprie",
     "authority": "3694918 - Orasul Baia Sprie",
