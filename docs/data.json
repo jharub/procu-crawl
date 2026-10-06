@@ -1,5 +1,418 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180630",
+    "title": "Servicii de proiectare, asistență tehnică din partea proiectantului și execuție lucrări, inclusiv lucrări de demolare/desființare, pentru obiectivul de investiții „Demolare clădire existentă C1 și construire Școala Gimnazială «Gheorghe Țițeica», comuna Cilibia, județul Buzău”",
+    "authority": "3724423 - COMUNA CILIBIA JUD. BUZAU",
+    "cpv": [
+      "45214200-2"
+    ],
+    "published": "2026-10-06T14:47:49+03:00",
+    "deadline": "2026-10-22T15:00:00+03:00",
+    "value": "8297038,63 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333401/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența personalului desemnat pentru executarea contractului – P(exp):",
+        "description": "Experiența experților, concretizată în numărul de contracte aferente unor construcții similare/comparabile în care aceștia au îndeplinit același tip de activități ca cele pe care urmează să le îndeplinească în cadrul prezentului contract.",
+        "weight": 24.0
+      },
+      {
+        "name": "Organizarea și metodologia propusă – P(om)",
+        "description": "Se evaluează calitatea, coerența și adaptarea metodologiei de implementare la specificul obiectivului de investiții, precum și planificarea resurselor umane, tehnice și a activităților necesare realizării contractului.",
+        "weight": 36.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180630"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1551339",
+    "title": "SERVICII DE EXPERTIZA TEHNICA AFERENTE OBIECTIVULUI DE INVESTITII \" LUCRARI DE CONSOLIDARE A FALEZELOR IN ZONA LOCALITATII TUZLA, JUD. COSTANTA\"",
+    "authority": "RO 23877359 Administratia Bazinala de Apa Dobrogea  Litoral",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-06T14:04:17+03:00",
+    "deadline": "2026-10-20T16:30:00+03:00",
+    "value": "41314.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738764",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "SERVICII DE EXPERTIZA TEHNICA AFERENTE OBIECTIVULUI DE INVESTITII \" LUCRARI DE CONSOLIDARE A FALEZELOR IN ZONA LOCALITATII TUZLA, JUD. COSTANTA\"- CONFORM CAIETULUI DE SARCINI",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "OFERTA VA CONTINE PROPUNEREA TEHNICA SI FINANCIARA"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "CONFORM CONTRACT"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "PRETUL CEL MAI SCAZUT"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CAIET DE SARCINI + MODEL CONTRACT- LUCRARI DE CONSOLIDARE A FALEZELOR.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738764"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1551339"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1551313",
+    "title": "SERVICII DE RESPONSABIL CU PROTECTIA RADIOLOGICA PRESTATE DE UN MEDIC RADIOLOG CU PERMIS EXERCITARE NIVEL 2",
+    "authority": "9709368 PENITENCIARUL SPITAL DEJ",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-06T13:24:39+03:00",
+    "deadline": "2026-10-08T12:00:00+03:00",
+    "value": "11250.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738736",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": []
+    },
+    "description": "CONFORM INVITATIEI ATASATE",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "CONFORM INVITATIEI ATASATE"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "CONFORM INVITATIEI ATASATE"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "PRETUL CEL MAI SCAZUT"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Invitatie ASIGURARE SECURITATE RADIOLOGICA.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738736"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1551313"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1551305",
+    "title": "Achizitie servicii de expertiza tehnica",
+    "authority": "9671409 R.A. AEROPORTUL IASI",
+    "cpv": [
+      "71311240-5"
+    ],
+    "published": "2026-10-06T12:53:26+03:00",
+    "deadline": "2026-10-09T10:00:00+03:00",
+    "value": "70000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738720",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Achizitie servicii de expertiza tehnica MLPAT domeniul A4, B2, D - expertiza tehnica de specialitate pentru platforma de stationare a aeronavelor, pozitiile 01-06 de parcare, in vederea stabilirii cauzelor degradarilor, a solutiei tehnice de remediere si a responsabilitatii privind executarea lucrarilor de remediere. Ofertele ce vor fi transmise, vor respecta cerintele tehnice enumerate in Caietul de sarcini nr. 10315 din 14.09.2026 anexat la prezentul anunt.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatorii economici interesati, vor posta in propriul catalog SEAP, un produs care sa corespunda pachetului solicitat . In denumirea produsului (nu la numarul de referinta) , se va face OBLIGATORIU referire la prezentul anunt ADV (spre exemplu : produs conform ADV…) ATENTIE! Ofertele nepostate in SEAP pana la data limita de depunere, nu vor fi supuse evaluarii! Descrierea caracteristicilor serviciilor, care va face dovada faptului ca acestea corespund cerintelor, precum si oferta financiara, vor fi transmise pe e-mail iulian.onisoru@aeroport.ro;"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut dintre ofertele conforme"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS Servicii expertiza tehnica MLPAT A4, B2, D.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738720"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1551305"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180620",
+    "title": "Expertize tehnice, studii a imobilului in vederea elaborarii DALI pentru imobil Centrul Cultural REDUTA Brasov",
+    "authority": "4384141 - CENTRUL CULTURAL REDUTA",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-06T11:58:37+03:00",
+    "deadline": "2026-10-19T15:00:00+03:00",
+    "value": "132000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333390/",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "dali"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Manager de proiect - Pt 2.1.",
+        "description": "Componenta tehnică\n           Experiența deținută în poziția de Sef de proiect/coordonator echipă/ coordonator contract /manager de proiect minim în cadrul unui contract în al cărui obiect să se regăsească servicii de elaborare studii si expertize tehnice.\n               Cerința minimă de Calificare a „Manager de proiect”: studii superioare absolvite cu diplomă de licență sau echivalentă în domeniul tehnic (inginerie, arhitectură sau domenii conexe obiectului contractului). Se va prezenta CV-ul actualizat si Diploma de studii (copie).\n                Prin contract similar în contextul acestui factor de evaluare se înțelege un contract ce a avut ca obiect servicii de elaborare a unor studii tehnice din aceeași categorie sau complexitate cu obiectul prezentei proceduri. Contractele similare prezentate trebuiesc realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani.",
+        "weight": 12.0
+      },
+      {
+        "name": "Specialist restaurator atestat de Ministerul Culturii – \nPt 2.2.",
+        "description": "Componenta tehnică                    Cerința minimă de Calificare a „Specialist restaurator atestat de Ministerul Culturii”: studii superioare absolvite cu diplomă de licență sau echivalentă în domeniul tehnic (inginerie, arhitectură sau domenii conexe obiectului contractului). Se va prezenta CV-ul actualizat, Diploma de studii (copie) si atestat.\n                  Prin contract similar în contextul acestui factor de evaluare se înțelege un contract ce a avut ca obiect servicii de elaborare a unor studii tehnice din aceeași categorie sau complexitate cu obiectul prezentei proceduri. Contractele similare prezentate trebuiesc realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani.",
+        "weight": 8.0
+      },
+      {
+        "name": "Auditor energetic pentru clădiri de gradul I atestat de atestat de Ministerul Dezvoltării, Lucrărilor Publice și Administrației -  Pt 2.3.",
+        "description": "Componenta tehnică                     Cerința minimă de Calificare a „Auditor energetic pentru clădiri de gradul I atestat de atestat de Ministerul Dezvoltării, Lucrărilor Publice și Administrației”: studii superioare absolvite cu diplomă de licență sau echivalentă în domeniul tehnic (inginerie, arhitectură sau domenii conexe obiectului contractului). Se va prezenta CV-ul actualizat, Diploma de studii (copie) si atestat.\n                    Prin contract similar în contextul acestui factor de evaluare se înțelege un contract ce a avut ca obiect servicii de elaborare a unor studii tehnice din aceeași categorie sau complexitate cu obiectul prezentei proceduri. Contractele similare prezentate trebuiesc realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani.",
+        "weight": 8.0
+      },
+      {
+        "name": "Inginerul topograf autorizat ANCPI - Pt 2.4.",
+        "description": "Componenta tehnică                  Cerința minimă de Calificare a „Inginerul topograf autorizat ANCPI”: studii superioare absolvite cu diplomă de licență sau echivalentă în domeniul tehnic (inginerie, arhitectură sau domenii conexe obiectului contractului). Se va prezenta CV-ul actualizat, Diploma de studii (copie) si atestat.\n                    Prin contract similar în contextul acestui factor de evaluare se înțelege un contract ce a avut ca obiect servicii de elaborare a unor studii tehnice din aceeași categorie sau complexitate cu obiectul prezentei proceduri. Contractele similare prezentate trebuiesc realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani.",
+        "weight": 8.0
+      },
+      {
+        "name": "Inginer acustician - Pt 2.5.",
+        "description": "Componenta tehnică Cerința minimă de Calificare a „Inginer acustician”: studii superioare absolvite cu diplomă de licență sau echivalentă în domeniul tehnic. Se va prezenta CV-ul actualizat, Diploma de studii (copie).\n                    Prin contract similar în contextul acestui factor de evaluare se înțelege un contract ce a avut ca obiect servicii de elaborare a unor studii tehnice din aceeași categorie sau complexitate cu obiectul prezentei proceduri. Contractele similare prezentate trebuiesc realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani.",
+        "weight": 8.0
+      },
+      {
+        "name": "Inginer proiectant de instalații electrice - Pt 2.6.",
+        "description": "Componenta tehnică   Cerința minimă de Calificare a „Inginer proiectant de instalații electrice”: studii superioare absolvite cu diplomă de licență sau echivalentă în domeniul tehnic. Se va prezenta CV-ul actualizat, Diploma de studii (copie).\n                    Prin contract similar în contextul acestui factor de evaluare se înțelege un contract ce a avut ca obiect servicii de elaborare a unor studii tehnice din aceeași categorie sau complexitate cu obiectul prezentei proceduri. Contractele similare prezentate trebuiesc realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani.",
+        "weight": 8.0
+      },
+      {
+        "name": "Inginer mecanic - Pt 2.7.",
+        "description": "Componenta tehnică                     Cerința minimă de Calificare a „Inginer mecanic”: studii superioare absolvite cu diplomă de licență sau echivalentă în domeniul tehnic. Se va prezenta CV-ul actualizat, Diploma de studii (copie).\n                    Prin contract similar în contextul acestui factor de evaluare se înțelege un contract ce a avut ca obiect servicii de elaborare a unor studii tehnice din aceeași categorie sau complexitate cu obiectul prezentei proceduri. Contractele similare prezentate trebuiesc realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani.",
+        "weight": 8.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180620"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180619",
+    "title": "Servicii de elaborare a Proiectului Tehnic de execuție, a Caietelor de Sarcini pe specialități și a Detaliilor de Execuție (P.T. + C.S. + D.E.), inclusiv a documentației economice, de asigurare a verificării tehnice de calitate a documentațiilor de proiectare prin verificatori de proiecte atestați, precum și de asistență tehnică din partea proiectantului pe perioada execuției lucrărilor",
+    "authority": "4666126 - Orasul Novaci",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-06T11:33:24+03:00",
+    "deadline": "2026-10-19T15:00:00+03:00",
+    "value": "805000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333389/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Factorul F2 – Metodologia de prestare  - Subfactor 2.1 Înțelegerea obiectivului, a soluției autorizate și a constrângerilor de finanțare.",
+        "description": "Componenta tehnica",
+        "weight": 3.0
+      },
+      {
+        "name": "Factorul F2 – Metodologia de prestare  - Subfactor 2.2 Organizarea prestării și coordonarea interdisciplinară",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul F2 – Metodologia de prestare - Subfactor 2.3 Controlul calității și prevenirea erorilor de proiectare",
+        "description": "Componenta tehnica",
+        "weight": 6.0
+      },
+      {
+        "name": "Factorul F2 – Metodologia de prestare - Subfactor 2.4 Corelarea documentației economice cu piesele scrise și desenate",
+        "description": "Componenta tehnica",
+        "weight": 4.0
+      },
+      {
+        "name": "Factorul F2 – Metodologia de prestare - Subfactor 2.5 Integrarea cerințelor speciale",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul F2 – Metodologia de prestare - Subfactor 2.6 Managementul riscurilor specifice",
+        "description": "Componenta tehnica",
+        "weight": 2.0
+      },
+      {
+        "name": "Factorul F3 – Graficul Gantt",
+        "description": "Componenta tehnica",
+        "weight": 15.0
+      },
+      {
+        "name": "Factorul F4 – Experiența experților-cheie",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180619"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1097089",
+    "title": "SERVICII DE ELABORARE A DOCUMENTAȚIEI TEHNICO-ECONOMICE LA STADIUL PT + DDE, ASISTENȚĂ TEHNICĂ DIN PARTEA PROIECTANTULUI, EXECUȚIE LUCRĂRI ȘI FURNIZARE DOTĂRI ÎN CADRUL PROIECTULUI CU TITLUL „EXTINDERE CORP C2, MODIFICĂRI INTERIOARE ȘI EXTERIOARE, SUPRAETAJARE, MODERNIZARE FAȚADE ȘI AMENAJARE EXTERIOARĂ. MODIFICARE ȘI RELOCARE CORPURI C3 ȘI C4 – FAZA 1”",
+    "authority": "4192960 - SPITALUL CLINIC COLTEA",
+    "cpv": [
+      "45215140-0"
+    ],
+    "published": "2026-10-06T11:11:27+03:00",
+    "deadline": "2026-11-23T15:00:00+02:00",
+    "value": "100036311,68 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333365/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "a) Demonstrarea unei metodologii adecvate de implementare a contractului, precum și o planificare adecvată a resurselor umane și a activităților",
+        "description": "Componenta tehnica",
+        "weight": 40.0
+      },
+      {
+        "name": "b) Experiența experților – implicați – Manager de proiect (contract)",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "c) Experiența experților – implicați – Șef/coordonator/director proiect",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1097089"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1551176",
+    "title": "Imbunatatirea conditiilor de functionare in siguranta a lucrarilor hidrotehnice de pe raul Colentina (acumularile Plumbuita, Fundeni, Pantelimon I) si afluent de stanga Valea Saulei",
+    "authority": "RO24427093 ADMINISTRATIA NATIONALA APELE ROMANE ADMINISTRATIA BAZINALA DE APA ARGES VEDEA",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-10-06T07:54:58+03:00",
+    "deadline": "2026-10-16T13:00:00+03:00",
+    "value": "247933.9",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738352",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Se dorește incheierea unui contract de achizitie publica pentru proiectarea ( faza SF)  obiectivului de investitii: “Imbunatatirea conditiilor de functionare in siguranta a lucrarilor hidrotehnice de pe raul Colentina ( acumularile Plumbuita, Fundeni, Pantelimon I) si afluent de stanga Valea Saulei”  în conformitate cu prevederile documentatiei de atribuire, atașata prezentului anunț. Ofertantul trebuie sa respecte obligatiile relevante din domeniul mediului, social si al relatiilor de munca si sa utilizeze personal calificat./specializat. Valoarea totala, estimata, a investitiei este : 247.933,90  lei fara TVA",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Op economic trebuie sa elab oferta in conformitate cu toate cerintele din doc de atribuire, caietul de sarcini . Se solicita urmatoarele doc de calificare ACTUALIZATE: 1) Certificat constatator emis de ONRC; 2) Certificat constatator privind lipsa datoriilor restante, cu privire la plata impozitelor, taxelor sau a contributiilor la bugetul general consolidat ( bug local si bug de stat) la momentul prezentarii; 3) Op economic trebuie sa prezinte lista princ serv de proiectare, prestate in ultimii 3 ani , continand valori, perioada de prestare, beneficiari, indiferent daca acestia din urma sunt AC sau clienti privati. Se vor anexa copii de pe contracte,+ PV de receptie finala sau orice alte doc constatator din care sa reiasa prestarea serv similare, in valoare cum de min 247.000 lei fara TVA. 4) Prop tehnica va fi elaborata in conformitate cu cerintele caietului de sarcini/doc de atribuire, astfel incat sa se asigure posibilitatea verificarii conformitatii acesteia cu specificatiile tehnice prevazute in caietul de sarcini si sa rezulte ca sunt indeplinite in totalitate cerintele aferente caietului de sarcini; 5) Prop financiara este ferma si  va fi elaborata in conformitate cu cerintele caietului de sarcini si va cuprinde toate taxele legale si orice alte cheltuieli care vor fi angajate de prestator.  In vederea elaborarii unei oferte cat mai fundamentata atat din punct de vedere tehnic cat si financiar se recomanda vizitarea amplasamentului. Persoana de contact: Florin Ghita/tel: 0754.023.922"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata si executarea contractului: Prestatorul se obliga sa elaboreze si sa predea documentatia tehnico-economica la termenele precizate in caietul de sarcini, respectiv 2 luni de la data semnarii contractului de catre ambele parti. Contractul incheiat intre parti ramane valabil pana la obtinerea aprobarii indicatorilor tehnico-economici, respectiv 31.12.2026.   Valabilitatea ofertei: 120 zile de la data limita de depunere a acesteia.\n Se solicita constituirea unei Garantii de Buna Executie in conf. cu prevederile art 154 alin (4) din Lg nr.98/2016 care devine anexa la contract. \nCuantumul garantiei de buna executie va fi de 5% din pretul contractului incheiat ( fara TVA). Autoritatea contractanta are dreptul de a emite  pretentii asupra garantiei de buna executie in conformitate cu art 41 din HG 395/2016. Restituirea garantiei de buna executie se va face in conf cu prevederile art 154^2, alin.(3) lit.a) din Lg 98/2016, actualizata\nPretul ofertat se va exprima in lei, exclusiv TVA.  Plata se face in termen de 30 de zile de la emiterea si  acceptarea facturii  la plata, cu OP, prin Trezorerie. Facturarea se va face obligatoriu in sistemul national RO e-facturare. \nPentru serviciile prestate, platile datorate de achizitor prestatorului sunt cele declarate in propunerea financiara, anexa la contract, iar acestea sunt ferme pe toata perioada de derulare a contractului\nOrice modificare a contractului, in perioada sa de valabilitate, se poate face prin Act aditional, in conditiile prevazute de art 221-222 din Lg 98/2016"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Cel mai bun raport calitate-pret. Calculul punctajului, in vederea desemnarii ofertei castigatoare, se regaseste in cadrul art. 13 din caietul de sarcini,"
+      }
+    ],
+    "documents": [
+      {
+        "name": "doc atribuire( c sarcini, n conceptuala, tema proiectare,aviz cte, draft ctr).pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738352"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1551176"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180592",
+    "title": "Elaborare documentație tehnică pentru Închidere și monitorizare post-închidere depozit de zgură şi cenușă Cicani avarie la cota finală, din cadrul Sucursalei Electrocentrale Rovinari",
+    "authority": "RO30267310 - Societatea COMPLEXUL ENERGETIC OLTENIA SA",
+    "cpv": [
+      "71322400-5"
+    ],
+    "published": "2026-10-06T07:47:02+03:00",
+    "deadline": "2026-10-16T15:00:00+03:00",
+    "value": "135000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333328/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 80.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii\nadecvate de prestare a serviciilor",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180592"
+  },
+  {
     "source": "TED",
     "id": "685624-2026",
     "title": "România – Lucrări de construcţii de unităţi spitaliceşti – SERVICII DE ELABORARE A DOCUMENTAȚIEI TEHNICO-ECONOMICE LA STADIUL PT + DDE, ASISTENȚĂ TEHNICĂ DIN PARTEA PROIECTANTULUI, EXECUȚIE LUCRĂRI ȘI FURNIZARE DOTĂRI ÎN CADRUL PROIECTULUI CU TITLUL „EXTINDERE CORP C2, MODIFICĂRI INTERIOARE ȘI EXTERIOARE, SUPRAETAJARE, MODERNIZARE FAȚADE ȘI AMENAJARE EXTERIOARĂ. MODIFICARE ȘI RELOCARE CORPURI C3 ȘI C4 – FAZA 1”",
