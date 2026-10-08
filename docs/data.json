@@ -1,5 +1,365 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180729",
+    "title": "Servicii de proiectare, asistenta tehnica din partea proiectantului si executie lucrari in vederea realizarii proiectului „DEMOLARE SI CONSTRUIRE SCOALA GIMNAZIALA IAZU  NOU, COMUNA SIPOTE, JUDETUL IASI”",
+    "authority": "4540291 - Comuna Sipote",
+    "cpv": [
+      "45200000-9"
+    ],
+    "published": "2026-10-08T14:22:23+03:00",
+    "deadline": "2026-10-26T15:00:00+02:00",
+    "value": "4744500 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333600/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Expert E1: Manager de contract",
+        "description": "Experiență concretizată ca Manager de contract in cel putin 1 contract avand ca obiect executie/proiectare si executie constructii civile in care expertul a avut calitatea de manager de contract",
+        "weight": 10.0
+      },
+      {
+        "name": "Expert E2: Arhitect cu drept de semnatură",
+        "description": "Experiență concretizată ca Arhitect cu drept de semnatură in cel putin 1 contract avand ca obiect proiectare sau proiectare si executie constructii civile.",
+        "weight": 10.0
+      },
+      {
+        "name": "Expert E3: Inginer proiectant pentru specialitatea structură de rezistență",
+        "description": "Experiență concretizată ca Inginer proiectant pentru specialitatea structură de rezistență in cel putin 1 contract avand ca obiect proiectare sau proiectare si executie constructii civile",
+        "weight": 10.0
+      },
+      {
+        "name": "Expert E4: Inginer proiectant pentru specialitatea instalații HVAC",
+        "description": "Experiență concretizată ca Inginer proiectant pentru specialitatea instalații HVAC in cel putin 1 contract avand ca obiect proiectare  sau proiectare si executie constructii civile",
+        "weight": 10.0
+      },
+      {
+        "name": "Perioada de garanție a lucrărilor",
+        "description": "Autoritatea contractanta acorda punctaj pentru ofertele care prezintă o perioada suplimentara de garanție a lucrărilor (pana la 60 luni) față de garanția minim acceptata a lucrărilor de 36 de luni. Perioada de garanție suplimentara a lucrărilor se va prezenta obligatoriu in număr de luni.",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180729"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180728",
+    "title": "Servicii de proiectare, asistenta tehnica din partea proiectantului si executie lucrari in vederea realizarii proiectului „DEMOLARE SI CONSTRUIRE GRADINITA CU PROGRAM NORMAL IAZU - NOU, COMUNA SIPOTE, JUDETUL IASI”",
+    "authority": "4540291 - Comuna Sipote",
+    "cpv": [
+      "45200000-9"
+    ],
+    "published": "2026-10-08T14:21:28+03:00",
+    "deadline": "2026-10-26T15:00:00+02:00",
+    "value": "921691 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333599/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Expert E1: Manager de contract",
+        "description": "Experiență concretizată ca Manager de contract in cel putin 1 contract avand ca obiect executie/proiectare si executie constructii civile in care expertul a avut calitatea de manager de contract",
+        "weight": 10.0
+      },
+      {
+        "name": "Expert E2: Arhitect cu drept de semnatură",
+        "description": "Experiență concretizată ca Arhitect cu drept de semnatură in cel putin 1 contract avand ca obiect proiectare sau proiectare si executie constructii civile.",
+        "weight": 10.0
+      },
+      {
+        "name": "Expert E3: Inginer proiectant pentru specialitatea structură de rezistență",
+        "description": "Experiență concretizată ca Inginer proiectant pentru specialitatea structură de rezistență in cel putin 1 contract avand ca obiect proiectare sau proiectare si executie constructii civile",
+        "weight": 10.0
+      },
+      {
+        "name": "Expert E4: Inginer proiectant pentru specialitatea instalații HVAC",
+        "description": "Experiență concretizată ca Inginer proiectant pentru specialitatea instalații HVAC in cel putin 1 contract avand ca obiect proiectare  sau proiectare si executie constructii civile",
+        "weight": 10.0
+      },
+      {
+        "name": "Perioada de garanție a lucrărilor",
+        "description": "Autoritatea contractanta acorda punctaj pentru ofertele care prezintă o perioada suplimentara de garanție a lucrărilor (pana la 60 luni) față de garanția minim acceptata a lucrărilor de 36 de luni. Perioada de garanție suplimentara a lucrărilor se va prezenta obligatoriu in număr de luni.",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180728"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1551741",
+    "title": "Servicii de proiectare de site (WWW - World Wide Web)",
+    "authority": "RO8296093 SOCIETATEA ROMANA DE RADIODIFUZIUNE",
+    "cpv": [
+      "72413000-8"
+    ],
+    "published": "2026-10-08T13:37:26+03:00",
+    "deadline": "2026-10-09T11:00:00+03:00",
+    "value": "6611.57",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739288",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare de site (WWW - World Wide Web) pentru evenimentul Premiile Muzicale Radio România, conform caietului de sarcini. Locație: Sala Radio, București. Data evenimentului: 2 noiembrie 2026.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantii vor prezenta pretul total cu si fara TVA pentru aceste servicii cu incadrarea in valoarea estimata a achizitiei."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Ofertantii vor prezenta pretul pentru aceste servicii cu incadrarea in valoarea estimata a achizitiei. Se va incheia un contract de servicii. Clauzele contractuale vor fi negociate cu castigatorul. Garanţia de bună execuţie a contractului se constituie în cuantum 10% din valoarea contractului, fără TVA."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut cu respectarea stricta a cerintelor din caietul de sarcini."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CAIET DE SARCINI - SITE - PREMIILE MUZICALE 2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739288"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1551741"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180724",
+    "title": "Expertiza Tehnica iluminat platforma incercari motoare si Studiu Geotehnic pentru realizare platforma echipamente handling si iluminat suplimentar suprafete la AIHCB",
+    "authority": "RO26490194 - Compania Nationala Aeroporturi Bucuresti SA",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-08T12:21:54+03:00",
+    "deadline": "2026-10-30T15:00:00+02:00",
+    "value": "114250 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333594/",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experienta detinuta de expertul nominalizat Manager Proiect / Director de proiect / Sef proiect / Coordonator Contract",
+        "description": "Experienta detinuta in pozitia de anager Proiect / Director de proiect / Sef proiect / Coordonator Contract  in cadrul unor contracte de prestari servicii expertiza tehnica iluminat la nivelul specificat la pct. III.3.1. din Caietul de sarcini. Experienta specifica se va dovedi prin prezentarea urmatoarelor documente: \"Curriculum Vitae\", documente relevante/ recomandari emise de Beneficiar/ Angajator pentru fiecare contract prezentat din care sa reiasa experienta relevanta",
+        "weight": 45.0
+      },
+      {
+        "name": "Experienta detinuta de expertul nominalizat Inginer geotehnician",
+        "description": "Experienta detinuta in pozitia de  Inginer geotehnician  in cadrul unor contracte de prestari servicii studii geotehnce la nivelul specificat la pct. III.3.2. din Caietul de sarcini. Experienta specifica se va dovedi prin prezentarea urmatoarelor documente: \"Curriculum Vitae\", documente relevante/ recomandari emise de Beneficiar/ Angajator pentru fiecare contract prezentat din care sa reiasa experienta relevanta",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180724"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1097169",
+    "title": "Proiectare si executie Pod pe DN 24C km 138+078, peste curs de apă necadastrat la Rădăuți - Prut, jud. Botoșani",
+    "authority": "16054368 - COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+    "cpv": [
+      "45221110-6"
+    ],
+    "published": "2026-10-08T11:29:15+03:00",
+    "deadline": "2026-11-10T15:00:00+02:00",
+    "value": "5414321,78 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333563/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența deținută de Managerul de Proiect",
+        "description": "Autoritatea contractanta acorda punctaj pentru ofertele care prezinta experiența deținută în poziția de Manager de proiect/contract și/sau Adjunct Manager proiect/contract și/sau Coordonator proiect/contract și sau Adjunct Coordonator proiect/contract și sau Director proiect/contract și/sau Adjunct Director proiect/contract si/sau pozitie similara raportat la atributiile de indeplinit in contract în cadrul unor contracte de lucrări de construcție noua și/sau modernizare si/ sau lărgire și/sau consolidare și/sau reabilitare de poduri si/sau pasaje si/sau viaducte aferente autostrăzilor și/sau drumurilor expres și/sau drumurilor naționale si/sau drumurilor județene, in conformitate cu categoriile descrise în OG 43/1997 privind regimul drumurilor.",
+        "weight": 20.0
+      },
+      {
+        "name": "Experiența deținută de Șef Echipă Proiectare",
+        "description": "Autoritatea contractanta acorda punctaj pentru ofertele care prezinta experiența  deținută în poziția de Coordonator proiect/contract și/sau Adjunct Coordonator proiect/contract și/sau Manager proiect/contract și/sau Adjunct Manager proiect/contract și/sau Director proiect/contract și/sau Adjunct Director proiect/contract și/sau Project Manager și/sau Project Manager Adjunct și/sau Șef echipă proiectare și/sau Adjunct Șef Echipă proiectare și/ sau Șef Proiect și/ sau Adjunct Șef Proiect în cadrul unor contracte de elaborare și/sau revizuire și/sau actualizare și/sau completare de Studii de Fezabilitate și/sau Proiecte Tehnice pentru construcție noua și/sau modernizare si/ sau lărgire și/sau consolidare și/sau reabilitare de poduri si /sau pasaje si/sau viaducte aferente autostrăzilor și/sau drumurilor expres și/sau drumurilor naționale si/sau drumurilor județene, in conformitate cu categoriile descrise în OG 43/1997 privind regimul drumurilor.",
+        "weight": 15.0
+      },
+      {
+        "name": "Experiența deținută de Inginerul proiectant lucrari de arta",
+        "description": "Autoritatea contractanta acorda punctaj pentru ofertele care prezinta experiența deținută în poziția de Inginer proiectant de poduri si/sau inginer proiectant structuri si/sau inginer proiectant lucrari de arta raportat la atributiile de indeplinit in contract în cadrul unor contracte de elaborare și/sau revizuire și/sau actualizare și/sau completare de Studii de Fezabilitate și/sau Proiecte Tehnice pentru construcție noua și/sau modernizare si/ sau lărgire și/sau consolidare și/sau reabilitare de poduri si /sau pasaje si/sau viaducte aferente autostrăzilor și/sau drumurilor expres și/sau drumurilor naționale si/sau drumurilor județene.",
+        "weight": 15.0
+      },
+      {
+        "name": "Experiența deținută de Inginerul proiectant drumuri",
+        "description": "Autoritatea contractanta acorda punctaj pentru ofertele care prezinta experiența deținută în poziția de Inginer proiectant de drumuri raportat la atributiile de indeplinit in contract în cadrul unor contracte de elaborare și/sau revizuire și/sau actualizare și/sau completare de Studii de Fezabilitate și/sau Proiecte Tehnice pentru construcție noua și/sau modernizare si/ sau lărgire și/sau consolidare și/sau reabilitare de poduri si /sau pasaje si/sau viaducte aferente autostrăzilor și/sau drumurilor expres și/sau drumurilor naționale si/sau drumurilor județene.",
+        "weight": 5.0
+      },
+      {
+        "name": "Experiența deținută de Specialist geotehnică și fundații",
+        "description": "Autoritatea contractanta acordă punctaj pentru ofertele care prezintă experiența deținută în elaborarea de studii geotehnice și/sau părți de proiect specifice (calcule de stabilitate, proiectare fundații/structuri de sprijin etc.) aferente unor  Studii de Fezabilitate și/sau Proiecte Tehnice pentru lucrari de construcție noua și/sau modernizare si/ sau lărgire și/sau consolidare și/sau reabilitare de poduri si/sau pasaje si/sau viaducte aferente autostrăzilor și/sau drumurilor expres și/sau drumurilor naționale si/sau drumurilor județene, in conformitate cu categoriile descrise in OG 43/1997 privind regimul drumurilor.",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1097169"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180716",
+    "title": "Serviciul de evaluare imobile (terenuri și construcții) în vederea stabilirii valorii juste de piață pentru vânzare aparţinând S.R.T.F.C. Cluj",
+    "authority": "RO 11054545 - SNTFC ,,CFR CALATORI\" SA",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-08T11:15:04+03:00",
+    "deadline": "2026-10-22T15:00:00+03:00",
+    "value": "2300 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333557/",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": []
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180716"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1097204",
+    "title": "PROIECTARE SI EXECUTIE REDIMENSIONARE TRASEE ALIMENTARE CU AGENT TERMIC CORP L",
+    "authority": "2844227 - SPITALUL MUNICIPAL PLOIESTI",
+    "cpv": [
+      "45232140-5"
+    ],
+    "published": "2026-10-08T09:23:12+03:00",
+    "deadline": "2026-11-05T15:00:00+02:00",
+    "value": "297000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333547/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Planul de implementare a contractului (PIC)",
+        "description": "Corelare și realism al graficului general de realizare a lucrării, corelat cu metodologia de execuție, succesiunea activităților, resursele utilizate și modul concret de asigurare a accesului liber pe drumul auto (Secțiunea 8.1):",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența profesională a expertului „Responsabil/Manager de Contract” (RMC)",
+        "description": "Experiența profesională a expertului",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența profesională a expertului „Inginer instalații / Șef echipă proiectare",
+        "description": "Experiența profesională Inginer instalați",
+        "weight": 20.0
+      },
+      {
+        "name": "Durata de garanție acordată lucrărilor și echipamentelor (DGLE)",
+        "description": "Garantia lucrarii",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1097204"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180701",
+    "title": "\"Servicii de proiectare (PT inclusiv asistență tenică) și execuție lucrări pentru instalare centrală fotovoltaică Bacău-ReGBaSi",
+    "authority": "RO1589932 - R.A. ROMATSA - ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-10-08T07:31:51+03:00",
+    "deadline": "2026-10-30T15:00:00+02:00",
+    "value": "2466699 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333534/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Termenul de execuție și punere in funcțiune",
+        "description": "Termenul de execuție al lucrarilor cuprinse in obiectul contractului, inclusiv punerea in funcțiune",
+        "weight": 15.0
+      },
+      {
+        "name": "Perioada de garanție",
+        "description": "Perioada de garanție pentru întreaga lucrare",
+        "weight": 20.0
+      },
+      {
+        "name": "Timpul de intervenție și remediere a defecțiunilor la sistemul fotovoltaic în perioada de garanție a echipamentelor",
+        "description": "Timpul de intervenție și remediere a defecțiunilor la sistemul fotovoltaic în perioada de garanție a echipamentelor",
+        "weight": 15.0
+      },
+      {
+        "name": "Experiența șefului echipă proiectare",
+        "description": "Experiența șefului echipă proiectare",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180701"
+  },
+  {
     "source": "TED",
     "id": "692867-2026",
     "title": "România – Servicii de cadastru – Servicii de înregistrare sistematică în Sistemul Integrat de Cadastru și Carte Funciară a imobilelor din 92 UAT- uri, prin Programul Operațional Regional - Proiectul major privind „Creșterea gradului de acoperire și incluziune a sistemului de înregistrare a proprietăților în zonele rurale din România”",
