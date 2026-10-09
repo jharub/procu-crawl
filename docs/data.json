@@ -1,6 +1,49 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180796",
+    "title": "SERVICII DE PROIECTARE SI EXECUTIE LUCRARI IN CADRUL PROIECTULUI ,,MODERNIZARE DRUMURI DE INTERES LOCAL IN COMUNA BURJUC, JUDEȚUL HUNEDOARA”",
+    "authority": "4374261 - COMUNA  BURJUC",
+    "cpv": [
+      "45233120-6"
+    ],
+    "published": "2026-10-09T15:37:45+03:00",
+    "deadline": "2026-10-27T15:00:00+02:00",
+    "value": "5981873,5 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333711/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Gradul de adecvare al graficului gan.de real.a inv.pub.de tip GANTT, in care trebuie incluse atat activ.de proiectare si cele de executie a lucrarilor (durata, succesiunea si interrelationarea acestora), precum si evid.drumului critic, identif.pct.cheie de control (jaloanelor) si a resurselor alocate pentru real.activitatilor in cadrul Ctr., prin raportare la metodologia de proiect. si exec.",
+        "description": "Componenta tehnică",
+        "weight": 20.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii corespunzătoare pentru asigurarea serviciilor de proiectare care trebuie sa fie realizate la parametrii calitativi solicitați, inclusiv prezentarea si detalierea Planului de management al calității pentru activitatea de proiectare.",
+        "description": "Componenta tehnică",
+        "weight": 30.0
+      },
+      {
+        "name": "Gradul de utilizare a materialelor reciclate concretizat in cantitatea de material reciclat care este utilizat pentru executarea lucrarilor",
+        "description": "Componenta tehnică",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180796"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1180787",
     "title": "Contract de servicii de proiectare și execuție de lucrări - post de transformare și branșament electric",
     "authority": "4297908 - Inspectoratul pentru Situații de Urgență “Anghel Saligny” al Județului Vrancea",
