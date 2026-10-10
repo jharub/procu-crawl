@@ -1,6 +1,55 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1180802",
+    "title": "Proiectare, asistență tehnică din partea proiectantului și execuție lucrări pentru obiectivul «Modernizare sistem alimentare cu apă satul Grăjdana, comuna Tisău, județul Buzău»",
+    "authority": "4055734 - Comuna Tisau",
+    "cpv": [
+      "45232150-8"
+    ],
+    "published": "2026-10-10T08:20:40+03:00",
+    "deadline": "2026-10-28T15:00:00+02:00",
+    "value": "5777443,39 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333720/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de prestare a serviciilor de proiectare și execuție a lucrărilor",
+        "description": "Punctajul se acordă exclusiv pe baza elementelor enumerate mai jos, fără aprecieri globale de tip „foarte bine/bine/satisfăcător”.\nSubfactor\tPunctaj\nM1. Validarea proiectării și trasabilitatea deciziilor tehnice\t8 puncte\nM2. Metodologia de execuție, continuitatea serviciului și testarea\t9 puncte\nM3. Controlul calității, neconformități și trasabilitate în execuție\t5 puncte\nM4. Protecția mediului și limitarea impactului asupra comunității\t3 puncte",
+        "weight": 25.0
+      },
+      {
+        "name": "Planificarea, organizarea și corelarea activităților contractului",
+        "description": "Graficul de bază și descrierea organizării sunt cerințe minime ale propunerii tehnice. Punctajul se acordă numai pentru instrumente suplimentare de planificare și control, astfel:\nSubfactor\tPunctaj\nP1. Program integrat de proiectare și execuție și controlul termenelor\t8 puncte\nP2. Organizarea fronturilor și continuitatea lucrărilor\t5 puncte\nP3. Managementul riscurilor\t4 puncte\nP4. Corelarea resurselor, măsurarea progresului și raportarea digitală\t3 puncte",
+        "weight": 20.0
+      },
+      {
+        "name": "Experiența profesională specifică a personalului-cheie implicat în proiectare",
+        "description": "Experiența minimă de un proiect relevant este cerință de conformitate în caietul de sarcini și nu se punctează; punctajul se acordă exclusiv experienței suplimentare.\nExpert-cheie\tPunctaj\nCoordonator proiectare / șef de proiect\t4 puncte - 1 proiect relevant = 0 p; 2 proiecte relevante = 2 p; 3 sau mai multe = 4 p\nInginer proiectant rețele de alimentare cu apă\t4 puncte - 1 proiect relevant = 0 p; 2 proiecte relevante = 2 p; 3 sau mai multe = 4 p\nInginer proiectant construcții/structuri aferente rețelelor și traversărilor\t2 puncte - 1 proiect relevant = 0 p; 2 proiecte relevante = 1 p; 3 sau mai multe = 2 p",
+        "weight": 10.0
+      },
+      {
+        "name": "Garanția acordată lucrărilor",
+        "description": "Perioada de garanție ofertată\tPunctaj\n36-47 luni\t0 puncte\n48-59 luni\t2 puncte\n60 luni sau mai mult\t5 puncte",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180802"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1180796",
     "title": "SERVICII DE PROIECTARE SI EXECUTIE LUCRARI IN CADRUL PROIECTULUI ,,MODERNIZARE DRUMURI DE INTERES LOCAL IN COMUNA BURJUC, JUDEȚUL HUNEDOARA”",
     "authority": "4374261 - COMUNA  BURJUC",
