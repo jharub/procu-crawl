@@ -1,6 +1,47 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1552537",
+    "title": "Servicii de expertiză în domeniul auditului statutar pentru sprijinirea activităților de inspecție ale ASPAAS",
+    "authority": "24762322 AUTORITATEA PENTRU SUPRAVEGHEREA PUBLICA A ACTIVITATII DE AUDIT STATUTAR",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T17:42:56+03:00",
+    "deadline": "2026-10-16T16:09:17+03:00",
+    "value": "52288.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740250",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": []
+    },
+    "description": "Se intenționează achiziția de servicii de expertiză în domeniul auditului statutar, prestate de un expert/ experți extern/i, persoană fizică/ persoane fizice, pentru sprijinirea inspectorilor ASPAAS în desfășurarea activităților tehnice aferente inspecțiilor pentru asigurarea calității activității de audit statutar la auditorii financiari și firmele de audit, prin modalitatea - achiziție directă - selectie de oferte cu anunt,în conformitate cu dispozițiile art. 7, alin. (5) din Legea nr. 98/2016 privind achizițiile publice, cu modificările si completările ulterioare și cele ale Hotărârea Guvernului nr. 395/2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziţie publică/acordului-cadru din Legea nr. 98/2016 privind achiziţiile publice, cu modificările și completările ulterioare, precum și în conformitate cu specificațiile din documentația de achiziție anexată prezentului anunt, Cod CPV al achiziției : 71319000-7 ”Servicii de expertiză”. Valoarea estimată a achiziției este de 52.288,00 lei fară TVA,pentru un număr maxim estimat de 688 de ore prestate.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform anuntului nr. ASPAAS-CFCRUA 1287/13.10.2026 aprobat de conducerea ASPAAS, postat pe pagina principală a site-ului ASPAAS la  sectiunea Anunturi si la sectiunea Informatii de interes public – Achizitii publice – Anunturi"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Condițiile se regasesc in documentatia de atribuire atașată"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Criteriul de atribuire al achiziției directe este \"cel mai mic pret\"cu respectarea integrală a specificatiilor prevazute in documentația de atribuire, anexată prezentului anunt. Criteriul de atribuire se aplică exclusiv ofertelor declarate admisibile(acceptabile, conforme). În situația în care, la termenul-limită stabilit pentru depunerea ofertelor, au fost primite oferte admisibile, care îndeplinesc integral specificațiile tehnice și care se încadreaza în valoarea  maxima estimată de 76 lei/oră fara TVA, atribuirea serviciilor se poate realiza către unul sau mai mulți prestatori, în ordinea crescătoare a tarifelor orare ofertate, în limita necesarului total de 688 de ore și a valorii maxime estimate a achiziției. Conform anuntului nr. ASPAAS-CFCRUA 1287/13.10.2026 aprobat de conducerea ASPAAS, postat pe pagina principală a site-ului ASPAAS la  sectiunea Anunturi si la sectiunea Informatii de interes public – Achizitii publice – Anunturi"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Anunt 1287_13.10.2026-documentatie de atribuire.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740250"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552537"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1552531",
     "title": "Sistem supraveghere video, sistem antiefractie cu butoane de panica, sistem control acces, integrate in sistem BMS, pentru Judecătoria Dej, inclusiv servicii de proiectare, avizare și punere în funcțiune",
     "authority": "4565300 TRIBUNALUL CLUJ",
