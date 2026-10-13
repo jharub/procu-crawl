@@ -1,5 +1,1151 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552531",
+    "title": "Sistem supraveghere video, sistem antiefractie cu butoane de panica, sistem control acces, integrate in sistem BMS, pentru Judecătoria Dej, inclusiv servicii de proiectare, avizare și punere în funcțiune",
+    "authority": "4565300 TRIBUNALUL CLUJ",
+    "cpv": [
+      "35120000-1"
+    ],
+    "published": "2026-10-13T15:59:42+03:00",
+    "deadline": "2026-10-20T15:00:00+03:00",
+    "value": "181818.18",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740231",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Sistem supraveghere video, sistem antiefractie cu butoane de panica, sistem control acces, integrate in sistem BMS, pentru Judecătoria Dej, inclusiv servicii de proiectare, avizare și punere în funcțiune",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "cf documentatiei atasate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "cf documentatiei atasate"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie de atribuire sisteme Dej.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740231"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552531"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552530",
+    "title": "Sistem antiefracție, sistem control acces si extindere sistem supraveghere video pentru judecatoria Huedin, inclusiv servicii de proiectare, avizare și punere în funcțiune",
+    "authority": "4565300 TRIBUNALUL CLUJ",
+    "cpv": [
+      "35120000-1"
+    ],
+    "published": "2026-10-13T15:59:24+03:00",
+    "deadline": "2026-10-20T15:00:00+03:00",
+    "value": "49586.76",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740242",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Sistem antiefracție, sistem control acces si extindere sistem supraveghere video pentru judecatoria Huedin, inclusiv servicii de proiectare, avizare și punere în funcțiune, compus din următoarele:\nLOT 1. Sistem supraveghere video Judecătoria Huedin – EXTINDERE\nLOT 2. Sistem antiefracție Judecătoria Huedin\nLOT 3. Sistem control acces Judecătoria Huedin",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "cf documentatiei atasate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "cf documentatiei atasate"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut, raportat la valoarea cumulata a celor 3 loturi"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie de atribuire sisteme JUDECATORIA HUEDIN.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740242"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552530"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180918",
+    "title": "PROIECTARE ȘI EXECUȚIE ILUMINARE INTERIOR ȘI EXTERIOR, ALIMENTARE JT, SISTEM FOTOVOLTAIC LA SEDIUL A.B.A. ARGES-VEDEA",
+    "authority": "RO24427093 - ADMINISTRATIA NATIONALA APELE ROMANE ADMINISTRATIA BAZINALA DE APA ARGES VEDEA",
+    "cpv": [
+      "45315600-4"
+    ],
+    "published": "2026-10-13T15:02:26+03:00",
+    "deadline": "2026-11-02T15:00:00+02:00",
+    "value": "2520948,75 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333931/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180918"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180917",
+    "title": "Execuție lucrări de construcție (inclusiv dotări) pentru proiectul de investiții „Revitalizare spațiu urban din orașul Negrești, județul Vaslui, prin reconversia și refuncționalizarea unor terenuri neutilizate și degradate în orașul Negrești, județul Vaslui”",
+    "authority": "13407333 - ORASUL NEGRESTI",
+    "cpv": [
+      "45112700-2"
+    ],
+    "published": "2026-10-13T14:54:09+03:00",
+    "deadline": "2026-10-30T15:00:00+02:00",
+    "value": "5231184,39 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333929/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 70.0
+      },
+      {
+        "name": "Grad suplimentar de valorificare a deșeurilor",
+        "description": "Procentul de pregătire pentru reutilizare, reciclare și alte operațiuni de valorificare materială a deșeurilor nepericuloase provenite din activitățile de construcții și demolări",
+        "weight": 15.0
+      },
+      {
+        "name": "Utilizarea de recipiente și ambalaje reutilizabile/reciclabile pentru materialul vegetal",
+        "description": "Ponderea utilizării de recipiente și ambalaje reutilizabile/reciclabile pentru materialul vegetal",
+        "weight": 10.0
+      },
+      {
+        "name": "Garantie extinsă acordata dotărilor de tip mobilier urban",
+        "description": "Perioada de garanție extinsă acordată dotărilor de tip mobilier urban",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180917"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180915",
+    "title": "Proiectare si Executie lucrari pentru obiectivul “Reabilitare și extindere sistem alimentare cu apă, comuna Adunați, județul Prahova”",
+    "authority": "2843248 - Comuna Adunati (Consiliul local)",
+    "cpv": [
+      "45232150-8"
+    ],
+    "published": "2026-10-13T14:49:55+03:00",
+    "deadline": "2026-11-02T15:00:00+02:00",
+    "value": "1581681,48 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333927/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Expert inginer coordonator (manager de proiect)- pentru servicii de proiectare",
+        "description": "Expert inginer coordonator (manager de proiect)- pentru servicii de proiectare",
+        "weight": 10.0
+      },
+      {
+        "name": "Expert tehnic – Inginer Construcții pentru sisteme de alimentări cu apă și canalizări sau similar -pentru execuție lucrări",
+        "description": "Expert tehnic – Inginer Construcții pentru sisteme de alimentări cu apă și canalizări sau similar -pentru execuție lucrări",
+        "weight": 8.0
+      },
+      {
+        "name": "Perioada de garanție acordată lucrărilor",
+        "description": "Autoritatea contractantă acordă punctaj pentru perioada de garanție a lucrărilor ofertată suplimentar față de perioada minimă obligatorie de 36 de luni.",
+        "weight": 12.0
+      },
+      {
+        "name": "Valorificarea materială a deșeurilor nepericuloase rezultate din execuția lucrărilor",
+        "description": "Factorul urmărește reducerea cantității de deșeuri destinate eliminării și recuperarea materialelor, prin punctarea procentului asumat peste minimumul obligatoriu de 70% prevăzut în caietul de sarcini.\nSe evaluează procentul, calculat în masă, al deșeurilor nepericuloase din construcții și demolări generate în executarea contractului, pentru care ofertantul asigură pregătirea pentru reutilizare, reciclarea sau alte operațiuni de valorificare materială, inclusiv rambleierea prin înlocuirea altor materiale.\nMaterialele geologice naturale încadrate la codul 17 05 04 se exclud atât din cantitatea totală de deșeuri luată în calcul, cât și din cantitatea valorificată. Fiecare cantitate se contabilizează o singură dată.",
+        "weight": 10.0
+      },
+      {
+        "name": "Componenta tehnică-Organizarea si metodologia (Pom)",
+        "description": "Demonstrarea unei metodologii adecvate de implementare a contractului, precum si o planificare adecvata a resurselor umane si a activitatilor.",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180915"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552482",
+    "title": "Servicii de expertiza tehnica",
+    "authority": "4250697 Inspectoratul de Politie al Judetului Timis",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T14:38:54+03:00",
+    "deadline": "2026-10-16T08:00:00+03:00",
+    "value": "2975.21",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740183",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "I.P.J. TIMIS doreste sa achizitioneze servicii de expertiza tehnica conform caietului de sarcini atasat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta va fi transmisa Autoritatii contractante pe adresa de e-mail: adriana.alexandrescu@tm.politiaromana.ro, având caracter ferm si obligatoriu din punct de vedere al continutului pe toata perioada de valabilitate a ofertei. Pretul va fi exprimat în lei fara TVA.."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Plata se va efectua in functie de alocatiile bugetare cu aceasta destinatie, dupa primirea facturii si receptia produselor, in contul de trezorerie al furnizorului. Oferta va avea o valabilitate de cel putin 30 zile, avand caracter ferm si obligatoriu din punct de vedere al continutului pe toata perioada de valabilitate a ofertei. Pretul va fi exprimat in lei fara TVA, cu maxim 2 zecimale."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740183"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552482"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552478",
+    "title": "Servicii de măsurare/expertizare( intensitate câmp electromagnetic, noxe profesionale, risc contagiune TBC/HIV etc)",
+    "authority": "24511894 PENITENCIARUL ARAD",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T14:34:01+03:00",
+    "deadline": "2026-10-16T09:00:00+03:00",
+    "value": "10743.8",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740178",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": []
+    },
+    "description": "Servicii de măsurare/expertizare( intensitate câmp electromagnetic, noxe profesionale, risc contagiune TBC/HIV etc)",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta se trimite pe adresa de email achizitii.parad@anp.gov.ro pana la data si ora limita, termenul de livrare este de 5 zile lucratoare de la desemnarea castigatorului si efectuarea achizitiei prin SEAP."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Livrare in regim franco-depozit la sediul Penitenciarului Arad din Arad, Str. AL. Ioan Cuza, nr. 1.,. Produsul trebuie sa fie nou, sigilat în ambalajul original care sa asigure integritatea/ rigiditatea pe timpul transportului (polistiren, folie, etc) si a depozitarii. Livrarea fara documentele prevazute de legislatia în vigoare (factura fiscala, documente de conformitate, instructiuni de utilizare, etc.), poate duce la refuzul receptiei comenzii."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut/pachet"
+      }
+    ],
+    "documents": [
+      {
+        "name": "2026-10-13_001.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740178"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552478"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180908",
+    "title": "Proiectare, asistență tehnică și execuție de lucrări aferente obiectivului de investiții ,,Consolidare seismică, reabilitare și modernizare corp  C19 – Școala 29 din cadrul Colegiului Național Pedagogic Vasile Lupu Iași",
+    "authority": "4541580 - Municipiul Iasi",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-10-13T14:25:46+03:00",
+    "deadline": "2026-10-28T15:00:00+02:00",
+    "value": "829694,4 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333920/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "F2. Componenta tehnică 1 - Perioada de garanție acordată - 30 puncte",
+        "description": "Descriere: \nAutoritatea contractanta acordă punctaj pentru ofertele care prezintă o perioadă de garanție mai mare de 36 luni. Perioada de garanție se va prezenta obligatoriu în număr de luni.",
+        "weight": 30.0
+      },
+      {
+        "name": "F3. Componenta tehnica 2- 30 puncte   \nF.3.1 Manager de proiect pentru execuție lucrari similare.-20 puncte",
+        "description": "Experienţa experţilor-cheie, concretizată în numărul de proiecte/contracte similare în care respectivii experţi au îndeplinit acelaşi tip de activităţi ca cele pe care urmează să le îndeplinească pentru acest contract, totalizează 30 de puncte\n F.3.1 Manager de proiect pentru execuție lucrari similare.- punctaj maxim 20 puncte\n Cerinta minima: Experiență profesională deținută în poziția de manager de proiect în cel puțin un contract similar de execuție lucrări de reabilitare/ modernizare/ construcții cladiri civile noi sau existente. Ofertele care nu îndeplinesc cerința minimă vor fi declarate neconforme. Prin experiența similară se înțelege: Lucrări de construcții/ reabilitare/ modernizare/renovare cladiri pentru construcții civile cel puțin de nivel de importanță C și/sau oricare alte lucrări similare acestora și/sau lucrări superioare din punct de vedere al complexității și/sau scopului.",
+        "weight": 20.0
+      },
+      {
+        "name": "F.3.2 – Șef proiect pentru efectuare de servicii de proiectare.-10 puncte",
+        "description": "Cerința minimă: Experiență profesională deținută în poziția de șef proiect in cel putin un contract similar de proiectare aferentă lucrarilor de reabilitare/ modernizare/ construcții cladiri civile noi sau existente. Ofertele care nu indeplinesc cerinta minima vor fi declarate neconforme.",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180908"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552459",
+    "title": "Servicii de consultanță pentru întocmirea Cererii de finanțare, precum și a serviciilor privind elaborarea Studiilor de fezabilitate în vederea instalării unui sistem fotovoltaic pentru producerea și stocarea energiei electrice în regim de autoconsum pentru sediul central al DNA",
+    "authority": "14838148 DIRECTIA NATIONALA ANTICORUPTIE",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-10-13T14:02:55+03:00",
+    "deadline": "2026-10-15T16:00:00+03:00",
+    "value": "57850.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740146",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Obiectul achiziției publice îl constituie prestarea de prestarea de servicii de consultanță pentru întocmirea Cererii de finanțare, precum și a serviciilor privind elaborarea Studiilor de fezabilitate în vederea instalării unui sistem fotovoltaic pentru producerea și stocarea energiei electrice în regim de autoconsum pentru sediul central al Direcției Naționale Anticorupție, Str. Știrbei Vodă nr.78-81, sector 1, București în cadrul apelul finanțat prin Fondul pentru Modernizare: „Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice”.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Certificat constatator emis de Oficiul Național al Registrului Comerțului (valabil la data depunerii ofertei) care să certifice faptul că societatea comercială aparține categoriei profesionale impuse de îndeplinirea contractului, (copie cu mențiunea „conform cu originalul”, semnată și parafată);\n•\tDovada că dispune de personal specializat pentru activitatea de service. Cerință obligatorie, minimum 1 persoană autorizată ANRE in domeniul instalatiilor electrice. (CV pentru persoana desemnată pe contract și documente doveditoarea privind autorizarea ANRE in domeniul instalatiilor electrice);\n•\tFormularul nr. 1 - Declarație pe propria răspundere cu privire la conflictul de interese privind neîncadrarea în situațiile prevăzute la art. 59 și art. 60 din Legea nr. 98/2016 privind achizițiile publice;\n•\tFormularul nr.  2 – Declaraţie privind partea/ părţile din propunerea tehnică şi financiară care au caracter confidential; \n•\tFormularul nr.3 - Declarație pe propria răspundere privind condițiile de muncă și protecția muncii. Declarație prin care ofertantul să dovedească faptul că la elaborarea ofertei a ținut cont de obligațiile referitoare la condițiile de muncă și protecția muncii care sunt în vigoare la nivel național, precum și că le va respecta pe parcursul îndeplinirii contractului;\n•\tFormularul nr. 4-Împuternicire (dacă este cazul);\n•\tFormularul nr. 5 - Propunere Tehnică;\n•\tFormularul nr. 6 - Formular de ofertă financiară;\nNu se acceptă: oferte alternative, oferte parțiale sau subcontractanți.\nPrețul rămâne ferm și nu se actualizează/ajustează, pe toată perioada de derulare a contractului de achiziție publică.\nSe acceptă oferte doar de la operatori economici înscriși în SEAP.\nTermen de transmitere oferte:  2 zile de la publicarea anunțului publicitar în SEAP.\nValabilitatea ofertei: cel puțin 30 zile de la data depunerii."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata contractului\nContractul intră în vigoare la data semnării de către ambele părți și  încetează să mai producă efecte după îndeplinirea tuturor obligațiilor contractuale.\nPerioada pentru prestarea serviciilor este de:\na)\t pentru elaborarea Studiilor de fezabilitate în vederea instalării unui sistem fotovoltaic pentru producerea și stocarea energiei electrice în regim de autoconsum pentru sediul central al Direcției Naționale Anticorupție, Str. Știrbei Vodă nr.78-81, sector 1, București: maximum 7 zile de la data semnării contratului;\nb)\tpentru prestarea de servicii de consultanță în vederea întocmirii Cererii de finanțare, completarea dosarului și a altor documente necesare în vederea aplicării pentru obținerea finanțării cadrul apelul finanțat prin Fondul pentru Modernizare: „Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice”: până la data de 10.11.2026.\n\nValoarea estimată a achiziției este:\na)\tpentru servicii de consultanță pentru întocmirea Cererii de finanțare: valoarea maximă de 24.793 lei fără TVA,\nb)\tpentru elaborarea Studiului de fezabilitate în vederea instalării unui sistem fotovoltaic pentru producerea și stocarea energiei electrice în regim de autoconsum pentru sediul central al Direcției Naționale Anticorupție, Str. Știrbei Vodă nr.78-81, sector 1, București: valoarea maximă de 33.057 lei fără TVA,\n\nPlata serviciilor se va face doar sub condiția aprobării finanțării proiectului de către finanțator și virarea efectivă de către Agenția pentru Finanțarea Investițiilor Rurale (AFIR) a creditelor necesare achitării contravalorii acestora."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, conform art. 187 alin. (3) lit. d) din Legea nr. 98/2016."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Anunt de publicitate si Documentatie - SF SISTEM FOTOVOLTAIC - SEAP.doc",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740146"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552459"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180899",
+    "title": "RELUARE Achizitie servicii de proiectare D.A.L.I. – Consolidarea, restaurarea și punerea în valoare a clădirilor existente din ansamblul “Conacul Banloc”- LMI-TM-II-m-A-06177.01",
+    "authority": "4358029 - JUDETUL TIMIS",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-13T13:51:44+03:00",
+    "deadline": "2026-10-26T15:00:00+02:00",
+    "value": "1000000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333910/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "d.a.l.i"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Arhitect-- Șef de proiect atestat de Ministerul Culturii în specializarea C - șef de proiect complex - domeniul 1 - restaurare arhitectură, (conform Ordinului 2495/2010 actualizat, privind atestarea specialiștilor, experților și verificatorilor tehnici în domeniul protejării monumentelor istorice)",
+        "description": "Componenta tehnică",
+        "weight": 10.0
+      },
+      {
+        "name": "Proiectant pentru specialitate structură - specialist/expert atestat de Ministerul Culturii în specializarea D -  domeniul 4 - consolidare/restaurare, structuri istorice în cadrul unor contracte de prestări servicii de proiectare în care sa fi fost implicat ca specialist/proiectant în poziția pentru care a fost nominalizat",
+        "description": "Componenta tehnică",
+        "weight": 10.0
+      },
+      {
+        "name": "Proiectant pentru specialitatea instalații - specialist atestat de Ministerul Culturii - în specializarea D - inginerie instalații în cadrul unor contracte de prestări servicii de proiectare în care sa fi fost implicat ca specialist/proiectant în poziția pentru care a fost nominalizat",
+        "description": "Componenta tehnică",
+        "weight": 10.0
+      },
+      {
+        "name": "Inginer instalații și rețele electrice autorizat ANRE atestat ANRE, de tip B, sau echivalent, care să certifice capabilitatea ofertantului pentru proiectarea instalațiilor electrice, (conf. art. 8, alin 1, lit. f), conform Ordinului ANRE 45/2016 actualizat)",
+        "description": "Componenta tehnică",
+        "weight": 10.0
+      },
+      {
+        "name": "Inginer securitate la incendiu",
+        "description": "Componenta tehnică",
+        "weight": 10.0
+      },
+      {
+        "name": "Inginer peisagist/Arhitect peisagist",
+        "description": "Componenta tehnică",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180899"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1097309",
+    "title": "Servicii de proiectare, asistenta tehnica din partea proiectantului și executie lucrari pentru contractul CL 18",
+    "authority": "RO16730672 - ECOAQUA SA",
+    "cpv": [
+      "45232430-5"
+    ],
+    "published": "2026-10-13T13:01:01+03:00",
+    "deadline": "2026-12-08T15:00:00+02:00",
+    "value": "79270351 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333905/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Componenta tehnica:\na) Experiența experților implicați - Manager de proiect (contract lucrari) – Reprezentant Antreprenor –  cu o pondere de 10%, respectiv punctaj maxim de 10 puncte",
+        "description": "Descriere: Punctaj tehnic - Pt1\nManager de proiect (contract lucrari) – Reprezentant Antreprenor – implicat pe o pozitie similara (responsabil/ manager/ director de proiect) în cadrul a minim 1 proiect/ contract ce presupune executia/ proiectarea si executia de lucrari de constructii noi/ modernizare/ reabilitare/ extindere, pentru cel putin o statie de tratare a apei sau a unor retele de alimentare cu apa/aductiuni/conducte de transport/subtraversari de rauri sau canale/alte retele de fluide, similare celor din caietul de sarcini sau superioare din punct de vedere al complexității și/sau scopului cu cele care fac obiectul prezentei achizitii.",
+        "weight": 10.0
+      },
+      {
+        "name": "Componenta tehnica: d) Experiența experților implicați – Coordonator echipa de proiectare/ Sef proiect –  cu o pondere de 10%, respectiv punctaj maxim de 10 puncte",
+        "description": "Punctaj tehnic – Pt2 - Coordonator echipa de proiect/sef proiect) implicat pe o pozitie similara in cadrul a minim un proiect/contract ce presupune proiectarea/proiectarea si executia de lucrari de constructii noi/ modernizare/ reabilitare/ extindere pentru cel putin o statie de tratare a apei sau a unor retele de alimentare cu apa/aductiuni/conducte de transport/subtraversari de rauri sau canale/alte retele de fluide, similare celor din caietul de sarcini sau superioare din punct de vedere al complexității și/sau scopului cu cele care fac obiectul prezentei achizitii.",
+        "weight": 10.0
+      },
+      {
+        "name": "Componenta tehnica: b)\tFactorul de evaluare privind protectia mediului – Costuri anuale de operare garantate, cu o pondere de 30%, respectiv punctaj maxim de 30 puncte",
+        "description": "Punctaj tehnic - Pco",
+        "weight": 30.0
+      },
+      {
+        "name": "Componenta tehnica: c)Demonstrarea unei metodologii adecvate de implementare a contractului pentru obtinerea asigurarii ca lucrarile sunt realizate la parametrii calitativi solicitati, precum și o planificare adecvată a resurselor umane și a activităților  cu o pondere de 10%, respectiv punctaj maxim de 10 puncte",
+        "description": "Punctaj tehnic – Pt3",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1097309"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552432",
+    "title": "“Expertiză tehnică, conform cu Legea 10 in constructii si studiu geotehnic – Cladire Sediu SHICALH”",
+    "authority": "23706189 Administratia Bazinala de Apa Buzau Ialomita",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T12:41:11+03:00",
+    "deadline": "2026-10-20T12:00:00+03:00",
+    "value": "8000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740031",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Contract de prestare servicii - Expertiză tehnică, conform cu Legea 10 in constructii si studiu geotehnic – Cladire Sediu SHICALH, Municipiul Ploiesti, str. Industriei, nr 38 – județul Prahova, consta in evaluarea starii tehnice si functionale a cladirii si stabilirea masurilor necesare pentru aducerea constructiei la un nivel de siguranta si functionare corespunzator, in conformitate cu cerintele fundamentale privind calitatea in constructii, prevazute de legea nr 10/1995. Se stabileste starea tehnica, se evalueaza rezistenta si stabilitatea si se fundamenteaza masurile de interventie (inclusive reducerea riscului seismic). Finalizarea se concretizezaz intr -un raport de expertiza tehnica official, cu piese scrise si desenate.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Garanție de bună execuție\nNu este cazul\n\nTermen limită primire oferte:\nPana la data de 20.10.2026, ora 12:00.\n\nTermen limita primire solicitari de clarificare:\nPana la data de 15.10.2026, ora 12:00.\n\nTermen limita răspuns clarificari:\nRaspunsurile la eventualele solicitări de clarificări se vor publica pana la data de 16.10.2026, ora 15:00 pe site-ul Administrației Bazinale de Apă Buzău-Ialomița, sectiunea Achizitii Publice.\n\nConditii de participare: \nOferta va fi întocmită în conformitate cu cerințele din Caietul de Sarcini anexat anunțului publicitar. Operatorii economici ce depun oferta trebuie să dovedească o formă de înregistrare în condițiile legii din țara de rezidență, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situațiile de anulare a constituirii. Modalitate de îndeplinire: Ofertantii vor prezenta Certificat constatator eliberat de Oficiul Registrului Comerțului sau un document echivalent."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Se vor respecta conditiile obligatorii impuse de Autoritatea Contractanta in caietul de sarcini"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, cu respectarea cerințelor tehnice din Caietul de Sarcini."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS- expertiza+studiu geo sediu mecanizare SGA pH.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740031"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552432"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552317",
+    "title": "Servicii de proiectare si executie lucrari pentru Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti",
+    "authority": "9742496 Directia Generala de Asistenta Sociala si Protectia Copilului Arges",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-10-13T12:23:47+03:00",
+    "deadline": "2026-10-16T13:00:00+03:00",
+    "value": "74578.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740109",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Proiectare sistem de securitate Centru de zi și Locuințe Protejate nr.62,62A,62B este de  3000,00 lei fără TVA.\n-\t Achiziție și montaj sistem supraveghere video Centru de zi și Locuințe Protejate nr.62,62A,62B este de 30.251,00  lei fără TVA.\n-\tAchiziție și montaj sistem de alarmare la efracție Centru de zi și Locuințe Protejate nr.62,62A,62B este de 12.913,00 lei fără TVA.\n-\tProiectare sistem de securitate Centru de zi și Locuințe Protejate nr.65B-65C este de 2000,00 lei fără TVA.\n-\tAchiziție și montaj sistem supraveghere video Centru de zi și Locuințe Protejate nr.65B-65C este de 22.199,00 lei fără TVA.\n-\tAchiziție și montaj sistem de alarmare la efracție Centru de zi și Locuințe Protejate nr.65B-65C este de 4.215,00 lei fără TVA. IN CONFORMITATE CU CERINTELE DOCUMENTATIEI DE ATRIBUIRE ANEXATE SI IN CONFORMITATE CU CONTRACTUL CE URMEAZA A FI INCHEIAT PENTRU Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti, unitate subordonata DGASPC ARGES. Oferta financiară se va structura distinct pentru achizitie in parte: Proiectare sistem de securitate Centru de zi și Locuințe Protejate nr.62,62A,62B . Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti.\n•\tAchiziție și montaj sistem supraveghere video Centru de zi și Locuințe Protejate nr.62,62A,62B. Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti\n•\tAchiziție și montaj sistem de alarmare la efracție Centru de zi și Locuințe Protejate nr.62,62A,62B. Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti\n•\tProiectare sistem de securitate Centru de zi și Locuințe Protejate nr.65B-65C. Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti\n•\tAchiziție și montaj sistem supraveghere video Centru de zi și Locuințe Protejate nr.65B-65C. Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti\n•\tAchiziție și montaj sistem de alarmare la efracție Centru de zi și Locuințe Protejate nr.65B-65C. Complexul de Servicii pentru Persoane cu Dizabilitati Balilesti, deoarece  sunt cuprinse pe linii bugetare diferite, ofertantii vor avea in vedere ca oferta financiara sa nu depaseasca valoarea estimata comunicata",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "1. Modul de prezentare al propunerii tehnice Se vor prezenta informatiile necesare pentru elaborarea propunerii tehnice astfel incat aceasta sa permita identificarea cu usurinta a corespondentei cu specificatiile tehnice din caietul de sarcini . Propunerile tehnice care nu respecta cerintele specificate in caietul de sarcini vor fi respinse. Ofertantul va depune declarație prin care operatorul economic declară faptul că la elaborarea ofertei a ținut cont de de obligațiile relevante din domeniile mediului, social și al relațiilor de muncă - ( Formular nr. 4 din Sectiunea Formulare). 2. Modul de prezentare al propunerii financiare. Pretul ofertei (pretul unitar, pretul total) se va exprima obligatoriu cu doar doua zecimale. Ofertantul va prezenta Anexa \"Centralizator de preturi\" la formularul de oferta (Anexa 1 la Formularul nr. 3 din sectiunea Formulare). Oferta are caracter ferm si obligatoriu pe toata perioada de valabilitate. Nu este permisa depunerea de oferte alternative. Valabilitatea ofertei va fi de 3 luni de zile de la data limita de depunere a ofertelor. 3.Operatorul va depune odata cu oferta, Certificatul constatator emis de ONRC din care sa rezulte obiectul de activitate al firmei. Obiectul contractului trebuie sa aiba corespondent in codul CAEN din certificatul constatator emis de ONRC.Informatiile cuprinse in certificatul ONRC trebuie sa contina date reale/actuale la data prezentarii documentului. Doc. va fi prezentat in original, copie conf. cu originalul"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Se va incheia un contract de lucrari. Cuantumul GBE este de 10 % din prețul contractului fără TVA. GBE se constit. în termen de 5 zile lucratoare de la data semnării contractului de achizitie publica. Oferta care va depasi valoarea estimata va fi respinsa ca inacceptabila. Termenul de excutie: servicii de proiectare = maxim 35 de zile de la emiterea Ordinului de începere a serviciilor; executie lucrari = maxim 10 de zile de la emiterea Ordinului de începere lucrări."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "DOCUMENTATIE SEAP BALILESTI.7z.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740109"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552317"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180897",
+    "title": "Actualizare a documentatiei S.F.pentru realizarea obiectivului de investiții - Amenajare parc fotovoltaic pentru consum propriu in locatia ,,Depozit deseuri - inchis” in Municipiul Bacau, Jud Bacau",
+    "authority": "R4278337 - MUNICIPIUL BACAU",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-10-13T11:32:15+03:00",
+    "deadline": "2026-11-05T15:00:00+02:00",
+    "value": "125000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333878/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Factorul de evaluare „Experiența profesională a personalului desemnat pentru executarea contractului (experți cheie propuși) pentru realizarea activităților în cadrul Contractului (F2)” - Subfactor 2.1. Expert cheie - Proiectant de specialitate pentru retele si instalatii electrice-Coordonator/Sef proiect",
+        "description": "Experienţă similar în implicarea într-un proiect/contract pentru un obiectiv de investiții care a presupus activități de proiectare, elaborare sau actualizare de documentații tehnico-economice ori documentații tehnice pentru investiții în domeniul energetic, instalații electrice, centrale electrice din surse regenerabile, instalații de stocare a energiei, rețele electrice, stații/posturi de transformare sau lucrări de racordare, după caz, în funcție de specialitatea expertului.",
+        "weight": 10.0
+      },
+      {
+        "name": "Factorul de evaluare „Experiența profesională a personalului desemnat pentru executarea contractului (experți cheie propuși) pentru realizarea activităților în cadrul Contractului (F2)” - Subfactor 2.2. Expert cheie - Proiectant pentru specialitatea\nInstalatii curenti slabi si curenti tari",
+        "description": "Experiență profesională specifică în elaborarea a cel puțin unei documentații tehnico-economice la faza SF pentru proiecte de construcții, amenajare, reamenajare, modernizare sau alte obiective similare ca natură și complexitate cu prezentul obiectiv de investiții.",
+        "weight": 10.0
+      },
+      {
+        "name": "Factorul de evaluare „Experiența profesională a personalului desemnat pentru executarea contractului (experți cheie propuși) pentru realizarea activităților în cadrul Contractului (F2)” - Subfactor 2.3. Expert cheie - Inginer proiectant pentru specialitatea structură",
+        "description": "Experiență profesională specifică în elaborarea a cel puțin unei documentații tehnico-economice la faza SF pentru proiecte de construcții, amenajare, reamenajare, modernizare sau alte obiective similare ca natură și complexitate cu prezentul obiectiv de investiții.",
+        "weight": 10.0
+      },
+      {
+        "name": "Factorul de evaluare „Experiența profesională a personalului desemnat pentru executarea contractului (experți cheie propuși) pentru realizarea activităților în cadrul Contractului (F2)” - Subfactor 2.4. Expert cheie - Arhitect",
+        "description": "Experiență profesională specifică în elaborarea a cel puțin unei documentații tehnico-economice la faza SF pentru proiecte de construcții, amenajare, reamenajare, modernizare sau alte obiective similare ca natură și complexitate cu prezentul obiectiv de investiții",
+        "weight": 10.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului, precum si o planificare adecvata a resurselor umane si a activitatilor. (F3)\nGradul de adecvare al planului de lucru propus – durata, succesiunea logica si cronologica a activitatilor, identificarea punctelor de reper (jaloanelor) si a drumului critic – pentru realizarea activitatilor in cadrul Contractului prin raportare la m",
+        "description": "Se va puncta: metodologia de elaborare; activități și etape; obiective; termene; aprobări; documente scrise/desenate; organizarea resurselor; viziunea proprie; problemele specifice; măsurile de diminuare a riscurilor; metodologia pentru fiecare dintre cele 3 etape.",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180897"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180894",
+    "title": "Servicii de proiectare și execuție lucrări pentru obiectivul de investiții “COMPARTIMENTARE ȘI AMENAJARE MANSARDĂ, REABILITARE ȘI MODERNIZARE ȘCOALA GIMNAZIALĂ NR. 4, TOHANUL NOU, JUDEȚUL BRAȘOV”",
+    "authority": "4646897 - Orasul Zarnesti (Primaria Orasului Zarnesti)",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-10-13T11:16:04+03:00",
+    "deadline": "2026-11-02T15:00:00+02:00",
+    "value": "4097887,74 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333875/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experienta specifica: Manager de proiect/coordonator de echipă proiectare – P2.1",
+        "description": "Manager de proiect/coordonator de echipă proiectare – cu experiență în domeniul proiectării, responsabil cu integrarea tuturor proiectelor pe specializări (structura, instalații, etc.). \nExperiența specifica: implicarea ca Manager de proiect/coordonator de echipă proiectare, in cel puțin 1 contract de elaborare și/sau actualizare și/sau revizuirea documentației tehnice la faza studiu de fezabilitate și/ sau PT si/ sau DDE și/ sau DALI, pentru lucrări de construire si/sau de modernizare si/sau de reabilitare de constructii civile sau industriale cel puțin din categoria de importanță C.",
+        "weight": 7.0
+      },
+      {
+        "name": "Experienta specifica: Sef de șantier – P2.2",
+        "description": "Sef de șantier – studii superioare, specializarea construcții civile industriale si agricole sau echivalent.\nExperiența specifica: implicarea ca Sef de șantier in cel puțin 1 contract de execuție de lucrări de construire si/sau de modernizare si/sau de reabilitare de constructii civile sau industriale cel puțin din categoria de importanță C.",
+        "weight": 5.0
+      },
+      {
+        "name": "Experienta specifica: Inginer proiectant instalații termice/HVAC – P2.3",
+        "description": "Inginer proiectant instalații termice/HVAC – studii superioare, specializarea instalații termice/HVAC sau echivalent.\nExperiența specifica: implicarea ca Inginer proiectant instalații termice/HVAC, in cel puțin 1 contract de elaborare și/sau actualizare și/sau revizuirea documentației tehnice la faza studiu de fezabilitate și/ sau PT si/ sau DDE și/ sau DALI, pentru lucrări de construire si/sau de modernizare si/sau de reabilitare de constructii civile sau industriale cel puțin din categoria de importanță C.",
+        "weight": 4.0
+      },
+      {
+        "name": "Experienta specifica: Inginer proiectant instalații sanitare – P2.4",
+        "description": "Inginer proiectant instalații termice/HVAC – studii superioare, specializarea instalații sanitare sau echivalent.\nExperiența specifica: implicarea ca Inginer proiectant instalații sanitare, in cel puțin 1 contract de elaborare și/sau actualizare și/sau revizuirea documentației tehnice la faza studiu de fezabilitate și/ sau PT si/ sau DDE și/ sau DALI, pentru lucrări de construire si/sau de modernizare si/sau de reabilitare de constructii civile sau industriale cel puțin din categoria de importanță C.",
+        "weight": 4.0
+      },
+      {
+        "name": "Timpul de intervenție si remediere a defecțiunilor in perioada de garanție – P3",
+        "description": "Se va puncta timpul asumat de ofertant pentru intervenția și remedierea defecțiunilor apărute în perioada de garanție la echipamentele și instalațiile aferente obiectivului.",
+        "weight": 16.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului și o planificare adecvată a resurselor umane și a activităților – P4",
+        "description": "Factorul de evaluare: Demonstrarea unei metodologii adecvate de implementare a contractului și o planificare adecvată a resurselor umane și a activităților, este format din 4 Subfactori de evaluare",
+        "weight": 24.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180894"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552383",
+    "title": "Serviciilor de elaborare a Studiului de fezabilitate, documentației pentru obținerea avizelor și acordurilor, pentru realizarea obiectivului de investiții “ Instalarea de noi capacități de producere a energiei din surse solare pentru autoconsum, cu capacități de stocare, la sediul IPJ Dambovita",
+    "authority": "4279790 INSPECTORATUL DE POLITIE AL JUDETULUI DAMBOVITA",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-10-13T10:53:15+03:00",
+    "deadline": "2026-10-15T10:00:00+03:00",
+    "value": "49586.78",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740058",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": []
+    },
+    "description": "Elaborarea Studiului de fezabilitate, documentației pentru obținerea avizelor și acordurilor, pentru realizarea obiectivului de investiții “ Instalarea de noi capacități de producere a energiei din surse solare pentru autoconsum, cu capacități de stocare, la sediul Inspectoratului de Poliție Județean Dâmbovița” prin apelul de proiecte “Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară cu capacități de stocare integrate, pentru autoconsum pentru entități publice” CONFORM PREVEDERILOR CAIETULUI DE SARCINI.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Se vor respecta toate condițiile din caietul de sarcini. Oferta se va transmite pe email la achizitii@db.politiaromana.ro"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Toate aspectele și cerințele menționate în prezentul Caiet de Sarcini sunt obligatorii. Nu sunt acceptate oferte alternative. \nTermenul de livrare completă a Studiului de fezabilitate, documentației pentru obținerea avizelor și acordurilor este 03.11.2026."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Atribuirea contractului se va face pe baza criteriului de atribuire „preţul cel mai scăzut\", cu respectarea tuturor cerinţelor din Caietul de sarcini. Preţurile din propunerea financiară vor fi ferme şi nu se vor modifica pe toată perioada de derulare a contractului. Modul de departajare a ofertelor clasate pe primul loc cu preturi egale: In cazul în care doua sau mai multe oferte, conţin în cadrul propunerii financiare acelaşi preţ, atunci în vederea atribuirii contractului de achiziţie publică, se va solicita respectivilor ofertanţi pentru departajare, o noua propunere financiară în plic închis, caz în care contractul va fi atribuit ofertantului a cărui noua propunere financiara are preţul cel mai scăzut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "caiet sarcini SF.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740058"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552383"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180885",
+    "title": "Proiectare și execuție lucrări pentru obiectivul de investiție [ÎNFIINȚARE REȚEA APĂ UZATĂ ÎN LOCALITATEA UNGURENI, COMUNA UNGURENI, JUDEȚUL BOTOȘANI]",
+    "authority": "3571583 - COMUNA UNGURENI",
+    "cpv": [
+      "45232400-6"
+    ],
+    "published": "2026-10-13T09:20:27+03:00",
+    "deadline": "2026-10-29T15:00:00+02:00",
+    "value": "11703077,13 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333862/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Perioada de garanție a lucrărilor (P2)",
+        "description": "Autoritatea contractanta acorda punctaj pentru ofertele care prezintă o perioada suplimentara de garanție a lucrărilor (pana la 72 luni) față de garanția minim acceptata a lucrărilor de 36 de luni. Perioada de garanție suplimentara a lucrărilor se va prezenta obligatoriu in număr de luni.",
+        "weight": 24.0
+      },
+      {
+        "name": "Gradul de adecvare al graficului general de realizare a investiției publice, resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia de realizare a activităților contractului (P3)",
+        "description": "componentă tehnică",
+        "weight": 18.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii corespunzătoare pentru obținerea asigurării că activitățile contractului sunt realizate la parametrii calitativi solicitați (Planul de management al calității) (P4)",
+        "description": "componentă tehnică",
+        "weight": 9.0
+      },
+      {
+        "name": "Gestionarea deșeurilor de pe șantier (P5)",
+        "description": "Componentă tehnică: Factor de evaluare asociat prevederilor art. 187, alin. (4^1) din Legea nr. 98/2016 privind achizițiile publice, referitor la protecția mediului. Acest factor urmărește stimularea unei gestiuni eficiente și ecologice a deșeurilor de pe șantier, aliniată cu Protocolul UE de gestionare a deșeurilor din construcții și demolări și ierarhia deșeurilor.",
+        "weight": 9.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180885"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552325",
+    "title": "Expertiză tehnică pilon de telecomunicații - Vrancea-Marasesti",
+    "authority": "4267230 Serviciul de Telecomunicatii Speciale",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T09:10:31+03:00",
+    "deadline": "2026-10-15T13:00:00+03:00",
+    "value": "7750.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738928",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Serviciul de Telecomunicatii Speciale intenționează să achiziționeze un serviciu de elaborare expertiză tehnică pentru un pilon metalic de telecomunicații situat în localitatea Marasesti, județul Vrancea. Serviciul de expertiză tehnică a pilonului este necesar pentru instalarea unor echipamente STS pe turnul metalic. Proiectul de instalare, necesar pentru elaborarea expertizei se va pune la dispozitie ofertantului castigator, la data semnării contractului de prestări servicii. Locație: Amplasament în localitatea Marasesti, județul Vrancea, amplasament administrat de către Ministerul Afacerilor Interne; autoritatea contractanta va oferi ofertantului câstigător informatii referitoare la asigurarea accesului în site; Serviciu: Expertiza tehnică pilon metalic, fără efectuare de săpătură locală; Servicii solicitate: Vizită amplasament, efectuare măsuratori relevante, efectuare investigatii și preluare probe necesare, întocmire expertiză tehnică; Expertizarea va include și orice alte activități suplimentare necesare ale căror costuri vor fi incluse în costul expertizei. Înălțime: Pilon metalic cu înălțimea de 55m; Date acces site: Acces facil tot timpul anului; Altitudine: 69m.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Termenul de prestare a serviciului de expertiză și predare a expertizei este de 30 zile de la data semnării contractului. Raportul de expertiză tehnică va fi întocmit de către un expert tehnic autorizat. Serviciul se va finaliza prin predarea raportului de expertiză și a anexelor acestuia la sediul Autoritatii contractante din Splaiul Independenței nr. 323A, sector 6. Raportul de expertiză tehnică va avea următorul conținut cadru minim obligatoriu: generalități, descrierea structurii expertizate, analiza situației existente, analiza soluției propuse și evaluarea calitativă - rezultatele verificărilor prin calcul, recomandări, măsuri de intervenție, concluzii și recomandări, anexă - extras din breviarul de calcul, anexă - releveul/documentarul fotografic și descriptiv. Vor depune oferte numai operatorii economici care pot oferta și presta serviciul. Oferta trebuie să fie valabilă 30 zile de la data limită de depunere a acesteia. Odată cu oferta, se vor transmite: - lista cu personalul implicat in prestarea serviciilor care fac obiectul prezentei achizitii; - angajamente de confidențialitate pentru fiecare persoană nominalizată în lista respectivă (conform modelului anexat). Prețul serviciului va fi exprimat în lei, fără TVA."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Achiziția directă se va finaliza prin încheierea unui contract de prestări servicii si un acord de confidențialitate, ce vor intra în vigoare la data semnării de către părți. Plata se va face in termen de 30 de zile de la data receptiei ,cu ordin de plata intr-un cont de trezorerie indicat de furnizor. Plata se va face doar in baza facturii emisa si transmisa prin sistemul naţional RO e-Factura, potrivit prevederilor OUG nr. 120/2021, aprobată cu modificări prin Legea nr. 139/2022. In fiecare factura se va inscrie in mod obligatoriu codul CPV corespunzator prevazut in nomenclatorul de referinta in domeniul achizitiilor publice."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Angajament de confidentialitate neclasificate-1.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738928"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552325"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552323",
+    "title": "Expertiză tehnică pilon de telecomunicații - Galati-Vadeni",
+    "authority": "4267230 Serviciul de Telecomunicatii Speciale",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T09:10:16+03:00",
+    "deadline": "2026-10-15T13:00:00+03:00",
+    "value": "6200.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738926",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Serviciul de Telecomunicatii Speciale intenționează să achiziționeze un serviciu de elaborare expertiză tehnică pentru un pilon metalic de telecomunicații situat în sat Vadeni, comuna Cavadinesti, județul Galati. Serviciul de expertiză tehnică a pilonului este necesar pentru instalarea unor echipamente STS pe turnul metalic. Proiectul de instalare, necesar pentru elaborarea expertizei se va pune la dispozitie ofertantului castigator, la data semnării contractului de prestări servicii. Locație: Amplasament în sat Vadeni, comuna Cavadinesti, județul Galati, amplasament administrat de către Ministerul Afacerilor Interne; autoritatea contractanta va oferi ofertantului câstigător informatii referitoare la asigurarea accesului în site; Serviciu: Expertiza tehnică pilon metalic, fără efectuare de săpătură locală; Servicii solicitate: Vizită amplasament, efectuare măsuratori relevante, efectuare investigatii și preluare probe necesare, întocmire expertiză tehnică; Expertizarea va include și orice alte activități suplimentare necesare ale căror costuri vor fi incluse în costul expertizei. Înălțime: Pilon metalic cu înălțimea de 30m; Date acces site: Acces dificil pe timp de iarna din DN26; Altitudine: 100m.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Termenul de prestare a serviciului de expertiză și predare a expertizei este de 30 zile de la data semnării contractului. Raportul de expertiză tehnică va fi întocmit de către un expert tehnic autorizat. Serviciul se va finaliza prin predarea raportului de expertiză și a anexelor acestuia la sediul Autoritatii contractante din Splaiul Independenței nr. 323A, sector 6. Raportul de expertiză tehnică va avea următorul conținut cadru minim obligatoriu: generalități, descrierea structurii expertizate, analiza situației existente, analiza soluției propuse și evaluarea calitativă - rezultatele verificărilor prin calcul, recomandări, măsuri de intervenție, concluzii și recomandări, anexă - extras din breviarul de calcul, anexă - releveul/documentarul fotografic și descriptiv. Vor depune oferte numai operatorii economici care pot oferta și presta serviciul. Oferta trebuie să fie valabilă 30 zile de la data limită de depunere a acesteia. Odată cu oferta, se vor transmite: - lista cu personalul implicat in prestarea serviciilor care fac obiectul prezentei achizitii; - angajamente de confidențialitate pentru fiecare persoană nominalizată în lista respectivă (conform modelului anexat). Prețul serviciului va fi exprimat în lei, fără TVA."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Achiziția directă se va finaliza prin încheierea unui contract de prestări servicii si un acord de confidențialitate, ce vor intra în vigoare la data semnării de către părți. Plata se va face in termen de 30 de zile de la data receptiei ,cu ordin de plata intr-un cont de trezorerie indicat de furnizor. Plata se va face doar in baza facturii emisa si transmisa prin sistemul naţional RO e-Factura, potrivit prevederilor OUG nr. 120/2021, aprobată cu modificări prin Legea nr. 139/2022. In fiecare factura se va inscrie in mod obligatoriu codul CPV corespunzator prevazut in nomenclatorul de referinta in domeniul achizitiilor publice."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Angajament de confidentialitate neclasificate-1.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738926"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552323"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552322",
+    "title": "Expertiză tehnică pilon de telecomunicații - Galati-Sivita",
+    "authority": "4267230 Serviciul de Telecomunicatii Speciale",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T09:09:45+03:00",
+    "deadline": "2026-10-15T13:00:00+03:00",
+    "value": "6200.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738923",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Serviciul de Telecomunicatii Speciale intenționează să achiziționeze un serviciu de elaborare expertiză tehnică pentru un pilon metalic de telecomunicații situat în sat Sivita, comuna Tulucesti, județul Galati. Serviciul de expertiză tehnică a pilonului este necesar pentru instalarea unor echipamente STS pe turnul metalic. Proiectul de instalare, necesar pentru elaborarea expertizei se va pune la dispozitie ofertantului castigator, la data semnării contractului de prestări servicii. Locație: Amplasament în sat Sivita, comuna Tulucesti, județul Galati, amplasament administrat de către Ministerul Afacerilor Interne; autoritatea contractanta va oferi ofertantului câstigător informatii referitoare la asigurarea accesului în site; Serviciu: Expertiza tehnică pilon metalic, fără efectuare de săpătură locală; Servicii solicitate: Vizită amplasament, efectuare măsuratori relevante, efectuare investigatii și preluare probe necesare, întocmire expertiză tehnică; Expertizarea va include și orice alte activități suplimentare necesare ale căror costuri vor fi incluse în costul expertizei. Înălțime: Pilon metalic cu înălțimea de 50m; Date acces site: Acces usor din DN26; Altitudine: 47m.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Termenul de prestare a serviciului de expertiză și predare a expertizei este de 30 zile de la data semnării contractului. Raportul de expertiză tehnică va fi întocmit de către un expert tehnic autorizat. Serviciul se va finaliza prin predarea raportului de expertiză și a anexelor acestuia la sediul Autoritatii contractante din Splaiul Independenței nr. 323A, sector 6. Raportul de expertiză tehnică va avea următorul conținut cadru minim obligatoriu: generalități, descrierea structurii expertizate, analiza situației existente, analiza soluției propuse și evaluarea calitativă - rezultatele verificărilor prin calcul, recomandări, măsuri de intervenție, concluzii și recomandări, anexă - extras din breviarul de calcul, anexă - releveul/documentarul fotografic și descriptiv. Vor depune oferte numai operatorii economici care pot oferta și presta serviciul. Oferta trebuie să fie valabilă 30 zile de la data limită de depunere a acesteia. Odată cu oferta, se vor transmite: - lista cu personalul implicat in prestarea serviciilor care fac obiectul prezentei achizitii; - angajamente de confidențialitate pentru fiecare persoană nominalizată în lista respectivă (conform modelului anexat). Prețul serviciului va fi exprimat în lei, fără TVA."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Achiziția directă se va finaliza prin încheierea unui contract de prestări servicii si un acord de confidențialitate, ce vor intra în vigoare la data semnării de către părți. Plata se va face in termen de 30 de zile de la data receptiei ,cu ordin de plata intr-un cont de trezorerie indicat de furnizor. Plata se va face doar in baza facturii emisa si transmisa prin sistemul naţional RO e-Factura, potrivit prevederilor OUG nr. 120/2021, aprobată cu modificări prin Legea nr. 139/2022. In fiecare factura se va inscrie in mod obligatoriu codul CPV corespunzator prevazut in nomenclatorul de referinta in domeniul achizitiilor publice."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Angajament de confidentialitate neclasificate-1.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738923"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552322"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552321",
+    "title": "Expertiză tehnică pilon de telecomunicații - Botosani",
+    "authority": "4267230 Serviciul de Telecomunicatii Speciale",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T09:09:29+03:00",
+    "deadline": "2026-10-15T13:00:00+03:00",
+    "value": "6200.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738918",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Serviciul de Telecomunicatii Speciale intenționează să achiziționeze un serviciu de elaborare expertiză tehnică pentru un pilon metalic de telecomunicații situat în județul Botosani. Serviciul de expertiză tehnică a pilonului este necesar pentru instalarea unor echipamente STS pe turnul metalic. Proiectul de instalare, necesar pentru elaborarea expertizei se va pune la dispozitie ofertantului castigator, la data semnării contractului de prestări servicii. Locație: Amplasament în județul Botosani, amplasament administrat de către Societatea Nationala de Radiocomunicatii (SNR); autoritatea contractanta va oferi ofertantului câstigător informatii referitoare la asigurarea accesului în site; Serviciu: Expertiza tehnică pilon metalic, fără efectuare de săpătură locală; Servicii solicitate: Vizită amplasament, efectuare măsuratori relevante, efectuare investigatii și preluare probe necesare, întocmire expertiză tehnică; Expertizarea va include și orice alte activități suplimentare necesare ale căror costuri vor fi incluse în costul expertizei. Înălțime: Pilon metalic cu înălțimea de 50m; Date acces site: Acces usor de pe str. Calea Nationala din municipiul Botosani; Altitudine:170m.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Termenul de prestare a serviciului de expertiză și predare a expertizei este de 30 zile de la data semnării contractului. Raportul de expertiză tehnică va fi întocmit de către un expert tehnic autorizat. Serviciul se va finaliza prin predarea raportului de expertiză și a anexelor acestuia la sediul Autoritatii contractante din Splaiul Independenței nr. 323A, sector 6. Raportul de expertiză tehnică va avea următorul conținut cadru minim obligatoriu: generalități, descrierea structurii expertizate, analiza situației existente, analiza soluției propuse și evaluarea calitativă - rezultatele verificărilor prin calcul, recomandări, măsuri de intervenție, concluzii și recomandări, anexă - extras din breviarul de calcul, anexă - releveul/documentarul fotografic și descriptiv. Vor depune oferte numai operatorii economici care pot oferta și presta serviciul. Oferta trebuie să fie valabilă 30 zile de la data limită de depunere a acesteia. Odată cu oferta, se vor transmite: - lista cu personalul implicat in prestarea serviciilor care fac obiectul prezentei achizitii; - angajamente de confidențialitate pentru fiecare persoană nominalizată în lista respectivă (conform modelului anexat). Prețul serviciului va fi exprimat în lei, fără TVA."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Achiziția directă se va finaliza prin încheierea unui contract de prestări servicii si un acord de confidențialitate, ce vor intra în vigoare la data semnării de către părți. Plata se va face in termen de 30 de zile de la data receptiei ,cu ordin de plata intr-un cont de trezorerie indicat de furnizor. Plata se va face doar in baza facturii emisa si transmisa prin sistemul naţional RO e-Factura, potrivit prevederilor OUG nr. 120/2021, aprobată cu modificări prin Legea nr. 139/2022. In fiecare factura se va inscrie in mod obligatoriu codul CPV corespunzator prevazut in nomenclatorul de referinta in domeniul achizitiilor publice."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Angajament de confidentialitate neclasificate-1.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738918"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552321"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552319",
+    "title": "Servicii de elaborare a Studiului de fezabilitate (SF) și a documentațiilor tehnice conexe în vederea realizării unui sistem de panouri fotovoltaice și unități de stocare la sediul PÎCCJ",
+    "authority": "4364748 PARCHETUL DE PE LANGA INALTA CURTE DE CASATIE SI JUSTITIE",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-10-13T09:05:18+03:00",
+    "deadline": "2026-10-22T14:00:00+03:00",
+    "value": "70000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739989",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Obiectul contractului îl constituie elaborarea Studiului de fezabilitate (SF) și a documentațiilor tehnico-economice conexe necesare fundamentării realizării unui sistem de producere a energiei electrice din sursă solară, cu sistem integrat de stocare, destinat în principal autoconsumului, la sediul central al PÎCCJ.\nServiciile vor include:\na) elaborare Studiu de fezabilitate, cu respectarea HG nr. 907/2016, a legislației aplicabile și a cerințelor Ghidului solicitantului aferent programului de finanțare;\nb) analiza consumului de energie electrică al imobilului pentru ultimele 12 luni și fundamentarea dimensionării sistemului în raport cu necesarul de autoconsum;\nc) dimensionarea tehnico-economică a sistemului fotovoltaic, în funcție de suprafața disponibilă, condițiile de amplasament și restricțiile urbanistice;\nd) dimensionarea și configurarea sistemului de stocare, inclusiv stabilirea cerințelor privind climatizarea, protecția la incendiu, securitatea și încărcarea planșeului;\ne) analiza condițiilor tehnice de instalare pe terasa existentă, inclusiv orientarea, umbrirea și soluțiile de montaj care să nu afecteze hidroizolația și structura existentă;\nf) elaborare analiză, privind capacitatea portantă a terasei și a planșeului aferent, cu verificarea:\n•\tîncărcărilor permanente generate de panouri și echipamentele de stocare;\n•\tîncărcărilor din zăpadă și gheață;\n•\tacțiunii vântului;\n•\tacțiunii seismice;\nh) elaborarea documentațiilor necesare obținerii certificatului de urbanism și a avizelor/acordurilor solicitate prin acesta;\ni) analiza condițiilor de racordare la rețeaua electrică și emiterea Avizului Tehnic de Racordare (ATR);\nj) elaborarea documentației tehnico-economice necesare susținerii cererii de finanțare, inclusiv Deviz general și Analiza cost-beneficiu;\nk) acordarea de asistență tehnică autorității contractante pentru formularea răspunsurilor la eventualele solicitări de clarificări formulate de evaluatorii finanțării, până la semnarea contractului de finanțare;\nl) elaborarea Temei de proiectare și a Notei conceptuale, conform HG nr. 907/2016, în corelare cu soluția propusă prin studiul de fezabilitate.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertanții, terții susținători și subcontractanții nu trebuie să se afle în situațiile prevăzute la art. 164, 165 și 167 din Legea nr. 98/2016, cu modificările și completările ulterioare.\nModalitatea de îndeplinire: Completarea Formularelor nr. 2 și 3 și a anexelor aferente. Ofertanții vor declara, de asemenea, inexistența conflictului de interese, prin completarea Formularului nr. 1 și a anexei aferente, cu indicarea persoanelor relevante din cadrul autorității contractante și al operatorului economic.\n\nCapacitatea de exercitare a activității profesionale\n\nOperatorii economici trebuie să fie legal constituiți și să aibă dreptul de a presta serviciile care fac obiectul contractului.\nModalitatea de îndeplinire: Prezentarea, la solicitarea autorității contractante, a certificatului constatator emis de ONRC, din care să rezulte corespondența obiectului contractului cu activitățile autorizate (cod CAEN), sau a documentelor echivalente pentru operatorii economici străini.\n\nCapacitatea economică și financiară / experiența similară\n\nOfertanții vor prezenta lista serviciilor prestate în ultimii 3 ani anteriori datei-limită de depunere a ofertelor, din care să rezulte servicii de elaborare SF, DALI și/sau proiectare pentru sisteme fotovoltaice de minimum 75 kWp și sisteme de stocare a energiei, inclusiv în cadrul unor obiective de investiții care au cuprins asemenea servicii, în valoare cumulată de minimum 70.000 lei fără TVA, realizată prin maximum 3 contracte/comenzi.\n\nCapacitatea tehnică și profesională\n\nSe vor prezenta documente justificative privind experiența generală și specifică a experților-cheie, conform caietului de sarcini, inclusiv atestarea ANRE pentru specialistul în instalații electrice/energie și analiză energetică, precum și CV-uri în format Europass pentru experții non-cheie.\n\nStandarde de asigurare a calității\n\nModalitatea de îndeplinire: Completarea Formularului nr. 4 și anexarea certificatului ISO 9001."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Până la data de 22.10.2026, ora 14:00, ofertanții vor publica în Catalogul electronic SEAP oferta financiară, conform codului CPV 79314000-8 – Studiu de fezabilitate, cu următoarea denumire:\n„Servicii de elaborare a Studiului de fezabilitate (SF) și a documentațiilor tehnice conexe în vederea realizării unui sistem de panouri fotovoltaice și unități de stocare la sediul PÎCCJ”, cantitate: 1 buc., valoare .............lei fără TVA.\n\nDocumentele ofertei, semnate și în format PDF, se vor transmite la adresa de e-mail gut_laurentiu@mpublic.ro, după cum urmează:\nFormularul nr. 1 – Declarație privind conflictul de interese și anexă;\nFormularul nr. 2 – Declarație privind neîncadrarea în prevederile art. 164 din Legea nr. 98/2016;\nFormularul nr. 3 – Declarație privind neîncadrarea în prevederile art. 165 și 167 din Legea nr. 98/2016 și anexă;\nFormularul nr. 4 – Declarație privind respectarea obligațiilor din domeniul mediului, social și al relațiilor de muncă;\nFormularul nr. 5 – Declarație privind experiența similară;\nFormularul nr. 6 – Propunerea tehnică, întocmită conform caietului de sarcini;\nFormularul nr. 7 – Declarație de disponibilitate pentru expertul non-cheie;\nFormularul nr. 8 – Propunerea financiară;\nFormularul nr. 9 – Modelul de contract;\nDovada constituirii garanției de participare în cuantum de 700 lei, în condițiile prevăzute în documentația de atribuire.\n\nÎn completarea documentelor se vor transmite şi:\nCertificatul constatator emis de ONRC sau documente echivalente pentru ofertanții străini;\nDocumente justificative privind experiența similară declarată în Formularul nr. 5;\nAtestatul ANRE pentru activitățile de proiectare relevante, conform Ordinului ANRE nr. 134/2021;\nCertificatul ISO 9001 privind sistemul de management al calității; certificarea ISO 50001 privind managementul energiei este opțională."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "„cel mai bun raport calitate-preț”.\nPunctajul total fiind de 100 de puncte, după cum urmează:\n•\tComponenta economică – 60 puncte;\n•\tComponenta tehnică – 40 puncte.\nII.7.1. Componenta economică – 60 puncte\nPunctajul se acordă proporțional cu prețul ofertat:\nP financiar = (Preț minim ofertat / Preț ofertă evaluată) × 60\nOferta cu prețul cel mai scăzut primește 60 de puncte.\nII.7.2. Componenta tehnică – experiența personalului-cheie – 40 puncte\nSe va evalua experiența specifică a celor trei specialiști-cheie nominalizați pentru executarea contractului: Coordonator de proiect, Specialist în instalații electrice/energie și analiză energetică și Specialist în sisteme fotovoltaice cu capacitate mai mare de 75 kWp .\nPunctajul total al componentei tehnice reprezintă suma punctajelor obținute de cei 3 (trei) specialiști-cheie:\nP tehnic = P Coordonator de proiect + P Specialist instalații electrice/energie și analiză energetică + P Specialist sisteme fotovoltaice = 10p + 15p + 15p = 40 p"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie studiu de fezabilitate.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739989"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552319"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552316",
+    "title": "Servicii de proiectare si executie lucrari pentru Complexul de Servicii pentru Persoane cu Dizabilitati Barsestii de Jos",
+    "authority": "9742496 Directia Generala de Asistenta Sociala si Protectia Copilului Arges",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-10-13T08:58:00+03:00",
+    "deadline": "2026-10-16T13:00:00+03:00",
+    "value": "57978.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739827",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Proiectare sistem de securitate Centru de zi și Locuințe Protejate nr.109,109A,109B,109C,109D  este de  4000,00 lei fără TVA.\n-\t Achiziție și montaj sistem supraveghere video Centru de zi și Locuințe Protejate nr.109,109A,109B,109C,109D  este de 42710,00lei fără TVA.\n-\tAchiziție și montaj sistem de alarmare la efracție Centru de zi și Locuințe Protejate nr.109,109A,109B,109C,109D  este de 11268,00  lei fără TVA.\nIN CONFORMITATE CU CERINTELE DOCUMENTATIEI DE ATRIBUIRE ANEXATE SI IN CONFORMITATE CU CONTRACTUL CE URMEAZA A FI INCHEIAT PENTRU Complexul de Servicii pentru Persoane cu Dizabilitati Barsestii de Jos, unitate subordonata DGASPC ARGES. Oferta financiară se va structura distinct pentru achizitie in parte: •\tProiectare sistem de securitate Centru de zi și Locuințe Protejate nr.109,109A,109B,109C,109D . Complexul de Servicii pentru Persoane cu Dizabilitati Barsestii de Jos.\n •Achiziție și montaj sistem supraveghere video Centru de zi și Locuințe Protejate nr.109,109A,109B,109C,109D. Complexul de Servicii pentru Persoane cu Dizabilitati Barsestii de Jos\n•Achiziție și montaj sistem de alarmare la efracție Centru de zi și Locuințe Protejate nr.109,109A,109B,109C,109D. Complexul de Servicii pentru Persoane cu Dizabilitati Barsestii de Jos\t\n, deoarece  sunt cuprinse pe linii bugetare diferite, ofertantii vor avea in vedere ca oferta financiara sa nu depaseasca valoarea estimata comunicata.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "1. Modul de prezentare al propunerii tehnice Se vor prezenta informatiile necesare pentru elaborarea propunerii tehnice astfel incat aceasta sa permita identificarea cu usurinta a corespondentei cu specificatiile tehnice din caietul de sarcini . Propunerile tehnice care nu respecta cerintele specificate in caietul de sarcini vor fi respinse. Ofertantul va depune declarație prin care operatorul economic declară faptul că la elaborarea ofertei a ținut cont de de obligațiile relevante din domeniile mediului, social și al relațiilor de muncă - ( Formular nr. 4 din Sectiunea Formulare). 2. Modul de prezentare al propunerii financiare. Pretul ofertei (pretul unitar, pretul total) se va exprima obligatoriu cu doar doua zecimale. Ofertantul va prezenta Anexa \"Centralizator de preturi\" la formularul de oferta (Anexa 1 la Formularul nr. 3 din sectiunea Formulare). Oferta are caracter ferm si obligatoriu pe toata perioada de valabilitate. Nu este permisa depunerea de oferte alternative. Valabilitatea ofertei va fi de 3 luni de zile de la data limita de depunere a ofertelor. 3.Operatorul va depune odata cu oferta, Certificatul constatator emis de ONRC din care sa rezulte obiectul de activitate al firmei. Obiectul contractului trebuie sa aiba corespondent in codul CAEN din certificatul constatator emis de ONRC.Informatiile cuprinse in certificatul ONRC trebuie sa contina date reale/actuale la data prezentarii documentului. Doc. va fi prezentat in original, copie conf. cu originalul."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Se va incheia un contract de lucrari. Cuantumul GBE este de 10 % din prețul contractului fără TVA. GBE se constit. în termen de 5 zile lucratoare de la data semnării contractului de achizitie publica. Oferta care va depasi valoarea estimata va fi respinsa ca inacceptabila. Termenul de excutie: servicii de proiectare = maxim 35 de zile de la emiterea Ordinului de începere a serviciilor; executie lucrari = maxim 10 de zile de la emiterea Ordinului de începere lucrări."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "DOCUMENTATIE SEAP BARSESTI.7z.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739827"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552316"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180878",
+    "title": "Servicii de proiectare, asistenţă tehnică şi execuţie lucrări pentru obiectivul de investiţie imobiliară „Construirea unei piste C.I.S.M. în cazarma 997 Făgăraş” cod proiect 2025-I-997 Făgăraş",
+    "authority": "4240847 - Ministerul Apararii - Unitatea Militara 02444 Sibiu",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-10-13T08:49:20+03:00",
+    "deadline": "2026-11-06T15:00:00+02:00",
+    "value": "2147390,3 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333854/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180878"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552314",
+    "title": "Servicii de supervizare şi dirigenţie de şantier aferente realizării investiţiei „Reamenajare şi refuncţionalizare centrală termică zona Biblioteca Judeţeană „Bod Péter\", Sfântu Gheorghe\"",
+    "authority": "4201988 Judetul Covasna",
+    "cpv": [
+      "71247000-1"
+    ],
+    "published": "2026-10-13T08:46:33+03:00",
+    "deadline": "2026-10-21T00:00:00+03:00",
+    "value": "88846.75",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739982",
+    "match_reason": {
+      "cpv": [
+        "71247000"
+      ],
+      "keywords": []
+    },
+    "description": "In cadrul contractului se va achiziţiona serviciul de asistenţa tehnică, dirigenţie de şantier pentru supervizarea lucrărilor propuse în cadrul proiectului:\n-\tarhitectură şi rezistenţă\n-\tinstalaţii electrice\n-\tinstalaţii sanitare, de ventilaţie şi termice\n-\tinstalaţii curenţi slabi\n-\tinstalaţii de gaze naturale.\nBeneficiarul doreşte transformarea ansamblului centralei termice într-un complex cultural, multifuncţional care va adăposti o secţie nouă de multimedia şi artă al Bibliotecii Judeţene „Bőd Péter\".",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta se va publica în catalogul SEAP, cu preţul total de maximum 88.846,75 lei fără T.V.A., cel târziu până la data precizată la „termenul limită de. primire oferte\".\nOfertantul va prezenta atestatele emise conform Ordinului nr. 1496/2011 emis de Ministerul Dezvoltării Regionale şi Turismului pentru aprobarea procedurii de autorizare a diriginţilor de şantier.\nEchipa de dirigenţie/diriginte de şantier va prezenta atestate pentru cel puţin următoarele domenii şi subdomenii:\n-Diriginte de şantier autorizat Domeniul 2, Subdomeniul 2.2 - Construcţii civile, industriale şi agricole -Categoria de importanţă C\n-Diriginte de şantier autorizat Domeniul 8, Subdomeniul 8.1 Instalaţii electrice;\n-Diriginte de şantier autorizat Domeniul 8, Subdomeniul 8.2 Instalaţii sanitare, termoventilaţii; Subdomeniul 8.3 - Instalaţii gaze naturale.\nAtestatele/legitimaţiile se vor prezenta în copie cu menţiunea conform cu originalul.\nImportant: Autoritatea contractantă nu va admite modificarea ulterioară a listei de diriginti prezentate în oferta tehnică si în baza căruia s-a realizat evaluarea ofertei decât în cazuri excepţionale si cu prezentarea de experţi având aceeaşi calificare.\nSe va ataşa obligatoriu la ofertă:\n-Formular de ofertă,\n-Declaraţie privind însuşirea caietului de sarcini, -Declaraţie de disponibilitate."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata prezentului contract este perioada cuprinsă între data semnării acestuia şi până la realizarea integrală a obiectului contractului.\nDurata de prestare a serviciilor este estimată la 61 de luni, începând cu data emiterii ordinului de începere a serviciilor, corelat cu termenele stabilite în Contractul de achiziţie publică de lucrări, iar finalizarea prestării serviciilor se va face la recepţia finală a lucrărilor, cu următoarele etape:\n-\tEtapa pentru activităţile premergătoare începerii execuţiei lucrărilor -1 lună;\n-\tEtapa pentru activităţile desfăşurate pe parcursul execuţiei lucrărilor - 24 luni;\n-\tEtapa pentru activităţile desfăşurate în perioada de garanţie a lucrărilor - 36 luni (conform Acordului contractual pentru execuţia lucrării).\nÎn situaţia în care intervine o extindere a perioadei de implementare a proiectului sau o prelungire a termenelor de execuţie a lucrărilor de construcţie, perioada de prestare a serviciilor se va\nprelungii automat, valoarea contractului putând fi ajustată la solicitarea în scris după minim 12 luni de la începerea prestării serviciilor.\nPrezentul contract încetează să producă efecte la data îndeplinirii, de către ambele părţi contractante a obligaţiilor ce le revin conform contractului.\nIn cazul în care, din vina sa exclusivă, prestatorul nu îşi execută, execută cu întârziere sau execută necorespunzător obligaţiile asumate prin prezentul contract, atunci achizitorul are dreptul de a deduce din preţul contractului, ca penalităţi o sumă echivalentă cu o cotă procentuală din preţul contractului, respectiv 0,1% din preţul contractului fără TVA, pe fiecare zi întârziere până la îndeplinirea efectivă a obligaţiilor sau, dacă este cazul, până la rezilierea contractului.\nIn cazul în care achizitorul nu onorează facturile în termenul prevăzut, atunci acesta are obligaţia de a plăti, ca\npenalităţi, o sumă echivalentă cu o cotă % din plata neefectuată, stabilită la 0,1% pe zi de întârziere, până la îndeplinirea efectivă a obligațiilor"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Criteriul de atribuire: oferta cu preţul cel mai scăzut.\nAlin. (3^1) al art. 187 al Legii nr. 98/2016 cu modificările şi completările ulterioare, prevede următoarele: „Autoritatea contractantă poate utiliza criteriul preţul cel mai scăzut numai în situaţia în care achiziţionează produse, servicii sau lucrări a căror valoare estimată a contractului nu depăşeşte pragurile prevăzute la art. 7 alin.(1)”."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100739982"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552314"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180877",
+    "title": "Serviciul de expertiza tehnica pentru cerinta fundamentala A1 – rezistenta mecanica si stabilitate si stabilirea programului de urmarire a comportarii in exploatare  -SRTFC BUCURESTI",
+    "authority": "RO 11054545 - SNTFC ,,CFR CALATORI\" SA",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-13T08:44:38+03:00",
+    "deadline": "2026-10-28T15:00:00+02:00",
+    "value": "26917,8 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333853/",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180877"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1180876",
+    "title": "Proiectare, asistență tehnică și execuție de lucrări aferente obiectivului de investiții ,,Consolidare seismică, reabilitare și modernizare corp C16 – Casa Agronomului din cadrul Colegiului Național Pedagogic Vasile Lupu Iași”,",
+    "authority": "4541580 - Municipiul Iasi",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-10-13T08:42:53+03:00",
+    "deadline": "2026-11-02T15:00:00+02:00",
+    "value": "1673336 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100333852/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "F2. Componenta tehnică 1 - Perioada de garanție acordată - 30 puncte",
+        "description": "Descriere: \nAutoritatea contractanta acordă punctaj pentru ofertele care prezintă o perioadă de garanție mai mare de 36 luni. Perioada de garanție se va prezenta obligatoriu în număr de luni.",
+        "weight": 30.0
+      },
+      {
+        "name": "F3. Componenta tehnica 2- 30 puncte   \nF.3.1 Manager de proiect pentru execuție lucrari similare.-20 puncte",
+        "description": "F.3.1 Manager de proiect pentru execuție lucrari similare.- punctaj maxim 20 puncte\n Cerinta minima: Experiență profesională deținută în poziția de manager de proiect în cel puțin un contract similar de execuție lucrări de reabilitare/ modernizare/ construcții cladiri civile noi sau existente. Ofertele care nu îndeplinesc cerința minimă vor fi declarate neconforme. Prin experiența similară se înțelege: Lucrări de construcții/ reabilitare/ modernizare/renovare cladiri pentru construcții civile cel puțin de nivel de importanță C și/sau oricare alte lucrări similare acestora și/sau lucrări superioare din punct de vedere al complexității și/sau scopului.",
+        "weight": 20.0
+      },
+      {
+        "name": "F.3.2 – Șef proiect pentru efectuare de servicii de proiectare.-10 puncte",
+        "description": "Cerința minimă: Experiență profesională deținută în poziția de șef proiect in cel putin un contract similar de proiectare aferentă lucrarilor de reabilitare/ modernizare/ construcții cladiri civile noi sau existente. Ofertele care nu indeplinesc cerinta minima vor fi declarate neconforme.",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1180876"
+  },
+  {
     "source": "TED",
     "id": "704189-2026",
     "title": "România – Servicii de supraveghere a lucrărilor – Servicii de Supervizare “Modernizare DN71 Baldana – Targoviste – Sinaia, km 0+000 – km 44+130 largire la 4 benzi de circulatie si km 51+041 – km 109+905 drum la doua benzi, Sector 1: Baldana – Targoviste km 0+000 – km 44+130 largire la 4 benzi de circulatie”",
