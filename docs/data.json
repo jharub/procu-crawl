@@ -1,5 +1,333 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552772",
+    "title": "Achiziția directă a serviciilor de dirigenție de șantier șantier pentru obiectivul de investitii: ,,LUCRARI REPARATII CAPITALE I.Z.R.M BACAU\", municipiul Bacău, str. Oituz nr. 63, județul Bacău, în conformitate cu caietul de sarcini și proiectul nr. 27, faza P.Th. + D.E.",
+    "authority": "50306805 AUTORITATEA NATIONALA DE REGLEMENTARE IN DOMENIUL MINIER PETROLIER SI AL STOCARII GEOLOGICE A DIOXIDULUI DE CARBON",
+    "cpv": [
+      "71247000-1"
+    ],
+    "published": "2026-10-14T17:31:10+03:00",
+    "deadline": "2026-10-19T23:30:00+03:00",
+    "value": "42000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740591",
+    "match_reason": {
+      "cpv": [
+        "71247000"
+      ],
+      "keywords": []
+    },
+    "description": "Verificarea respectării proiectului și reglementărilor privind calitatea în construcții, a materialelor și documentelor de calitate, supravegherea lucrărilor ascunse, participarea la fazele determinante și la recepții, verificarea situațiilor de lucrări, întocmirea evidențelor și rapoartelor și îndeplinirea obligațiilor aferente perioadei de garanție, potrivit caietului de sarcini și contractului.\nDurata prestării: de la ordinul de începere a serviciilor, pe durata execuției lucrărilor și pentru obligațiile contractuale aferente recepției și perioadei de garanție, durata exactă și regimul activităților în garanție se vor preciza conform contract.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Documentele ofertei\n1. Propunere financiară: preț total în lei fără TVA, TVA distinct și total cu TVA, după caz.\n2. Propunere tehnică: metodologie de supraveghere, plan de lucru, raportare, personalul propus și disponibilitatea acestuia.\n3. Autorizații documente din care să rezulte dreptul de practică al specialiștilor propuși.\n4. Documente privind relația juridică sau angajamentul de disponibilitate a personalului propus; în cazul prestării personale, declarație corespunzătoare.\n5. Registrul de evidență a activității dirigintelui de șantier poate fi prezentat, dacă este disponibil și aplicabil; lipsa unei vize pentru un an fiscal anterior nu constituie, în sine, motiv automat de respingere. Autoritatea poate solicita documente justificative suplimentare ofertantului selectat, în condițiile legii.\n6. Declarație pe propria răspundere privind respectarea obligațiilor relevante din domeniile mediului, social și al relațiilor de muncă\nOfertantii au obligatia de a analiza documentația de atribuire și de a transmite propunerea tehnică și propunerea financiară conform tuturor formularelor și caietului de sarcini atașate în secțiunea \" Caiet de sarcini\". Obligatoriu se completează formularele atașate. Nu se acceptă copierea Caietului de sarcini. Propunerea financiară va fi întocmită în lei cu maxim doua zecimale și va include toate costurile posibile în legatură cu realizarea obiectului contractului. Lipsa Propunerii tehnice precum și a Formularului de Oferta atrage încadrarea ofertei în categoria ofertelor inacceptabile. Valoarea totală a ofertei nu trebuie să depășească valoarea estimată a contractului, în caz contrar oferta va fi considerată inacceptabila. Perioada de valabilitate a ofertelor este de 30 de zile. Limba de redactare: româna. Ofertantul declarat câștigător va pune la dispoziția Autorității contractante orice alte documente necesare. In cazul în care comisia de evaluare constată că anumite informații sunt incomplete sau lipsesc docum"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Ofertantul va asigura unul sau mai mulți diriginți de șantier autorizați ISC, care să acopere: (i) domeniul 2, subdomeniul 2.2 – construcții civile, industriale și agricole; (i) domeniul 8, subdomeniul 8.1 – instalații electrice; (ii) domeniul 8, subdomeniul 8.2 – instalații sanitare, termice și de climatizare (iii) domeniul 8 subdomeniul 8.3 – Instalații de gaze naturale"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS si Formulare servicii diriginte de santier.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740591"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552772"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552767",
+    "title": "Proiectare si executie lucrari extindere retea de canalizare menajera cu executie racorduri str. Primariei, Com. Breasta, jud. Dolj",
+    "authority": "RO 11400673 Compania de  Apa Oltenia SA",
+    "cpv": [
+      "45232411-6"
+    ],
+    "published": "2026-10-14T16:35:44+03:00",
+    "deadline": "2026-10-28T13:00:00+02:00",
+    "value": "844291.58",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740585",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Durata contractului:\nMaximum 6 luni de la semnarea contractului, conform cerințelor din caietul de sarcini.\n\nPerioada de garanție:\nMinimum 24 luni de la recepția la terminarea lucrărilor și punerea în funcțiune.\n\nCondiții principale:\nMaterialele și lucrările vor respecta standardele, normativele și legislația aplicabilă în vigoare. Ofertantul va prezenta documentele de calitate, conformitate și garanție pentru materialele utilizate.\n\nVizitarea amplasamentului:\nOfertanții sunt obligați să se informeze asupra condițiilor existente la amplasament și să își fundamenteze oferta pe baza condițiilor reale de execuție.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantul va demonstra experiență în executarea și/sau proiectarea și execuția unor lucrări similare de infrastructură edilitară, respectiv rețele de canalizare și/sau lucrări similare de rețele edilitare, realizate și finalizate în ultimii ani, prin prezentarea documentelor relevante min 3 contracte receptionate in ultimii 5 ani care sa aiba valoarea contractului.\nOfertantul va demonstra experiență în executarea și/sau proiectarea și execuția unor lucrări similare de infrastructură edilitară, respectiv rețele de canalizare și/sau lucrări similare de rețele edilitare, realizate și finalizate în ultimii ani, prin prezentarea documentelor relevante"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Obiectul achiziției:\nAchiziția serviciilor de proiectare și a lucrărilor de execuție pentru extinderea rețelei de canalizare menajeră pe str. Primăriei, comuna Breasta, județul Dolj.\n\nLucrările principale constau, în principal, în:\n\nproiectarea lucrărilor și elaborarea documentației tehnice necesare;\nextinderea rețelei de canalizare menajeră pe o lungime de aproximativ 810 ml;\nexecuția conductei de canalizare din PVC SN8, Dn 250 mm;\nexecuția căminelor de vizitare;\nrealizarea a aproximativ 37 de racorduri de canalizare din PVC SN8, Dn 160 mm;\nrealizarea subtraversărilor necesare, inclusiv prin foraj orizontal dirijat;\nefectuarea probelor de etanșeitate și a verificărilor aferente;\nexecutarea umpluturilor și compactărilor;\nreaducerea amplasamentului la starea inițială;\nîntocmirea documentației aferente finalizării și recepției lucrărilor.\nExecutantul are obligația de a constitui garanția de bună execuție în cuantum de 5% din valoarea contractului, fără TVA, în termen de maximum 5 zile lucrătoare de la data semnării contractului. Neconstituirea garanției în termenul stabilit constituie neîndeplinirea unei obligații esențiale și atrage rezilierea de drept a contractului, fără punere în întârziere, fără intervenția instanței și fără îndeplinirea altor formalități, autoritatea contractantă având dreptul de a atribui contractul unui alt operator economic. Termenul de execuție este de maximum 60 de zile calendaristice și are caracter ferm. Acesta poate fi prelungit numai în situații excepționale, obiectiv justificate, care nu sunt imputabile executantului și care fac imposibilă respectarea termenului contractual. Nu vor constitui motive de prelungire lipsa resurselor, organizarea necorespunzătoare a executantului sau alte cauze aflate sub controlul acestuia."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "PRET CEL MAI SCAZUT CU RESPECTAREA TUTUROR CONDITIILOR DE PARTICIPARE"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CAIET DE SARCINI.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740585"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552767"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552762",
+    "title": "Achizitie SERVICII DE PROIECTARE DOCUMENTAȚIE TEHNICĂ - Montare ascensor",
+    "authority": "4278370 TRIBUNALUL BACAU",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-14T15:51:28+03:00",
+    "deadline": "2026-10-21T12:00:00+03:00",
+    "value": "30000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740552",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "SERVICII DE PROIECTARE DOCUMENTAȚIE TEHNICĂ - Montare ascensor Secția a II a civilă și de contencios administrativ și fiscal Bacău str. Ștefan cel Mare nr. 4, municipiul Bacău – fazele:\n1.\tExpertiza tehnică pentru cerința rezistență și stabilitate - cod CPV - 1319000-7 – Servicii de expertiză;\n2.\tD.A.L.I.+studii de specialitate + documentațiile/cheltuielile necesare pentru obținerea avizelor, acordurilor și autorizațiilor prevăzute de lege + verificare D.A.L.I - cod CPV - 71322000-1 – Servicii de proiectare tehnică pentru construcția de lucrări publice,\n conform Caietului de sarcini anexat.\n\nNu se acceptă ofertele alternative. \nNu se acceptă oferte parţiale.\nClarificări se pot solicita la adresa de email angela.jitaru@just.ro.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Înainte de depunerea ofertei, este obligatorie vizitarea şi examinarea amplasamentului lucrării  - str. Ștefan cel Mare nr. 4 din municipiul Bacău, județul Bacău şi obţinerea tuturor informaţiilor care pot fi necesare în vederea elaborării şi depunerii ofertei.\nÎn acest scop, potenţialii ofertanţi  se vor adresa Compartimentului economico financiar şi administrativ al Tribunalului Bacău-telefon: 0234/207611sau e-mail: angela.jitaru@just.ro.\nCu ocazia vizitării amplasamentului ofertantul va semna împreună cu beneficiarul Procesul Verbal de vizitare a amplasamentului(formular nr.1), document care, obligatoriu,  va face parte din ofertă. \n\nSe organizează achiziţia, exclusiv prin Sistemul Electronic al Achiziţiilor Publice (SEAP)."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Procedura se finalizează prin: Contract de  achiziţie publică. \nDurata contractului: 30 de zile lucrătoare de la data semnării contractului de către ambele părți, dar nu mai târziu de data de 30 noiembrie 2026;.\nValoarea estimată a contractului este de 30.000,00  lei fără TVA.\nContractul se va încheia în limita fondurilor aprobate cu această destinaţie în bugetul autorităţii contractante pentru anul 2026.\nModificarea contractului de achiziție publică poate avea loc în condițiile art.221 din Legea nr. 98/2016 privind achiziţiile publice cu modificările şi completările ulterioare.\nCerinţe obligatorii:\nPreţul ofertei va cuprinde toate elementele solicitate prin Caietul de sarcini,va fi exprimt înlei, fărăTVA şi va rămâne valabil pe toată perioada derulării contractului.\nPreţul este ferm şi nu se poate ajusta sau modifica pe toată perioada de derulare a contractului.\nSe va prezenta oferta tehnică şi, respectiv oferta financiară,pentru toate cerințele specificate în Caietul de sarcini. \nOfertantul va prezenta obligatoriu formularul de ofertă însoţit de lista cuprinzând documentațiile.\nOfertanţii vor prezenta obligatoriu graficul de execuţie a documentațiilor  cu încadrarea în termenul de execuţie de până la 30 zile calendaristice de la semnarea contractului de ambele părţi, dar nu mai târziu de 30 noiembrie 2026."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Criteriul de atribuire ce se aplică: preţul cel mai scăzut, conform  art. 187, alin. 3, lit.d) din Legeanr. 98/2016 din 19 mai 2016 privind achiziţiile publice."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Solicitare oferte servicii de proiectare ascensor.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740552"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552762"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552750",
+    "title": "DSNT - ”Servicii de proiectare REABILITARE DF NEGRU TRONSON B.F.L.+NEGRU OBÂRȘIE, OS TAZLĂU”",
+    "authority": "RO1590120 REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-14T15:10:11+03:00",
+    "deadline": "2026-10-23T11:00:00+03:00",
+    "value": "269300.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740529",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "””Servicii de proiectare REABILITARE DF NEGRU TRONSON B.F.L.+NEGRU OBÂRȘIE, OS TAZLĂU” conform solicitarilor ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF NEGRU ”atasata prezentului anunt",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF NEGRU ” - atasata"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF NEGRU ” - atasata"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF NEGRU ” - atasata"
+      }
+    ],
+    "documents": [
+      {
+        "name": "DOCUMENTATIE - SERVICII PROIECTARE DF NEGRU-semnat.rar.p7m",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740529"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552750"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552745",
+    "title": "DSNT - ”Servicii de proiectare REABILITARE DF CRISTI 1+CRISTI 2+CRISTI PRELUNGIRE, OS TAZLĂU”",
+    "authority": "RO1590120 REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-14T15:09:22+03:00",
+    "deadline": "2026-10-23T11:00:00+03:00",
+    "value": "269000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740519",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "”Servicii de proiectare REABILITARE DF TRANSFORMARE CRISTI 1+CRISTI 2+CRISTI PRELUNGIRE, OS TAZLĂU” conform solicitarilor ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF CRISTI ”atasata prezentului anunt",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF CRISTI ” - atasata"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF CRISTI ” - atasata"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF CRISTI ” - atasata"
+      }
+    ],
+    "documents": [
+      {
+        "name": "DOCUMENTATIE - SERVICII DE PROIECTARE DF CRISTI-semnat.rar.p7m",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740519"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552745"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552744",
+    "title": "DSNT -Servicii de proiectare REABILITARE DF TRANSFORMARE CFF BRATU+BRATU PRELUNGIRE, OS TAZLĂU",
+    "authority": "RO1590120 REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-14T15:08:22+03:00",
+    "deadline": "2026-10-23T11:00:00+03:00",
+    "value": "189000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740513",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "”Servicii de proiectare REABILITARE DF TRANSFORMARE CFF BRATU+BRATU PRELUNGIRE, OS TAZLĂU” conform solicitarilor ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF BRATU ”atasata prezentului anunt",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF BRATU ” - atasata"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF BRATU ” - atasata"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "CONFORM SPECIFICATIILOR ”DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF BRATU ” - atasata"
+      }
+    ],
+    "documents": [
+      {
+        "name": "DOCUMENTATIE - SERVICII  PROIECTARE REABILITARE DF BRATU-semnat.rar.p7m",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740513"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552744"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552711",
+    "title": "Lucrări de sistematizare verticala in perimetrul comunei Șura Mare reglementate prin Plan Urbanistic Zonal aprobat prin Hotărârea Consiliului local nr. 93/2026 și Autorizația de construire nr.45 din 29.02.2026 categoria de importanta „C” normala",
+    "authority": "4241184 COMUNA SURA MARE (PRIMARIA SURA MARE)",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-10-14T14:13:16+03:00",
+    "deadline": "2026-10-21T14:06:34+03:00",
+    "value": "890240.22",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740484",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "plan urbanistic"
+      ]
+    },
+    "description": "Lucrări de amenajarea zonei integral prin îndepărtarea pământului vegetal din zona construcției și realizarea săpăturilor/umpluturilor aferente lucrării",
+    "requirements": [
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Costul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Informatii SEAP.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740484"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552711"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552696",
+    "title": "Supervizare proiectare și execuție lucrări pentru obiectivul de investiții „Modernizare DJ 653, lim. jud. Olt - Crângeni, km 66+120 - 73+845”",
+    "authority": "4652686 JUDETUL TELEORMAN",
+    "cpv": [
+      "71520000-9"
+    ],
+    "published": "2026-10-14T13:53:32+03:00",
+    "deadline": "2026-10-26T16:00:00+02:00",
+    "value": "20000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738829",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Se vor achiziționa servicii de Supervizare proiectare și execuție lucrări pentru obiectivul de investiții „Modernizare DJ 653, lim. jud. Olt - Crângeni, km 66+120 - 73+845”, conform caietului de sarcini, atașat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta se va depune pentru serviciile solicitate în caietul de sarcini."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform caietului de sarcini"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet_de_sarcini_Anexe.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100738829"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552696"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "SCN1180957",
     "title": "Execuție Lucrări aferente obiectivului de investiții “MODERNIZAREA PARCULUI CENTRAL AL ORAȘULUI VIDELE, JUDEȚUL TELEORMAN”",
