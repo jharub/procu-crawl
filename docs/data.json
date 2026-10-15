@@ -1,5 +1,170 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1097457",
+    "title": "Proiectare și execuție lucrări demolare parțială și supraetajare la P+5E a “Centrului de coordonare și monitorizare mărfuri și trafic” a mijlocului fix “Clădire Remiză PSI și Centrală termică la RĂDĂCINĂ MOL 1S”",
+    "authority": "11062831 - COMPANIA NATIONALA \"ADMINISTRATIA PORTURILOR MARITIME\" SA CONSTANTA",
+    "cpv": [
+      "45000000-7"
+    ],
+    "published": "2026-10-15T16:00:31+03:00",
+    "deadline": "2026-11-20T15:00:00+02:00",
+    "value": "17613080 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334120/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența profesională a experților Manager de proiect/contract",
+        "description": "Componenta tehnică",
+        "weight": 15.0
+      },
+      {
+        "name": "Experiența profesională a experților  Șef de proiect",
+        "description": "Componenta tehnică",
+        "weight": 15.0
+      },
+      {
+        "name": "Perioada de garanție a lucrărilor",
+        "description": "Componenta tehnică",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1097457"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552951",
+    "title": "prestare servicii Studiu de Fezabilitate pentru proiectul integrat \"Reducerea riscului la inundații pe r. Slănic - av. loc.Groșani \"",
+    "authority": "23706189 Administratia Bazinala de Apa Buzau Ialomita",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-10-15T15:56:00+03:00",
+    "deadline": "2026-10-23T12:00:00+03:00",
+    "value": "109090.91",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740822",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Contract de prestare servicii - studiului de fezabilitate pentru proiectul integrat \"Reducerea riscului la inundații pe r. Slănic - av. loc.Groșani \", consta in elaborare Studiu de Fezabilitate cu toate anexele aferente (studii topografice, geologice, hidrologice si alte studii tehnice si științifice, după caz/ expertize tehnice si de laborator si pentru (si) obtinerea aprobarii indicatorilor tehnico-economici ai proiectului.\nStudiu de fezabilitate va fundamenta și propune minimum două scenarii/opțiuni tehnico-economice diferite, recomandând, justificat și documentat, scenariul/opțiunea tehnico-economic(ă) optim(ă). \nStudiul de fezabilitate va fi întocmit conform Conținutului - cadru prevăzut în anexa nr. 5 din H.G. nr. 907/2016, cu modificările si completările ulterioare.\nCod CPV \n71322000-1 – Servicii de proiectare tehnică pentru construcția unei lucrări publice (Rev. 2)\n71241000-9 - Studii de fezabilitate, servicii de consultantă, analize (rev. 2)\nDurata contractului: de la data semnării contractului, până la îndeplinirea tuturor obligațiilor.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Condiții contract:\n- Conform specificațiilor din Caietul de Sarcini;\n\nGaranție de bună execuție\nNu este cazul\n\nTermen limită primire oferte:\nPana la data de 23.10.2026, ora 12:00.\n\nTermen limita primire solicitari de clarificare:\nPana la data de 19.10.2026, ora 12:00.\n\nTermen limita răspuns clarificari:\nRaspunsurile la eventualele solicitări de clarificări se vor publica pana la data de 21.10.2026, ora 15:00 pe site-ul Administrației Bazinale de Apă Buzău-Ialomița, sectiunea Achizitii Publice.\n\nConditii de participare: \nOferta va fi întocmită în conformitate cu cerințele din Caietul de Sarcini anexat anunțului publicitar. Operatorii economici ce depun oferta trebuie să dovedească o formă de înregistrare în condițiile legii din țara de rezidență, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situațiile de anulare a constituirii. Modalitate de îndeplinire: Ofertantii vor prezenta Certificat constatator eliberat de Oficiul Registrului Comerțului sau un document echivalent."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Se vor respecta conditiile obligatorii impuse de Autoritatea Contractanta in caietul de sarcini."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, cu respectarea cerințelor tehnice din Caietul de Sarcini."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS, Contract SF Grosani.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740822"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552951"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552945",
+    "title": "prestare servicii Studiu de Fezabilitate pentru proiectul integrat “Reducerea riscului la inundații pe râu Provița -aval confluenta Târșa”",
+    "authority": "23706189 Administratia Bazinala de Apa Buzau Ialomita",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-10-15T15:35:33+03:00",
+    "deadline": "2026-10-23T12:00:00+03:00",
+    "value": "45454.55",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740814",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Contract de prestare servicii - Studiu de Fezabilitate pentru proiectul integrat “Reducerea riscului la inundații pe râu Provița -aval confluenta Târșa”, consta in elaborare Studiu de Fezabilitate cu toate anexele aferente (studii topografice, geologice, hidrologice si alte studii tehnice si științifice, după caz/ expertize tehnice si de laborator si pentru (si) obtinerea aprobarii indicatorilor tehnico-economici ai proiectului.\nStudiu de fezabilitate va fundamenta și propune minimum două scenarii/opțiuni tehnico-economice diferite, recomandând, justificat și documentat, scenariul/opțiunea tehnico-economic(ă) optim(ă). \nStudiul de fezabilitate va fi întocmit conform Conținutului - cadru prevăzut în anexa nr. 5 din H.G. nr. 907/2016, cu modificările si completările ulterioare.\nCod CPV \n71322000-1 – Servicii de proiectare tehnică pentru construcția unei lucrări publice (Rev. 2)\n71241000-9 - Studii de fezabilitate, servicii de consultantă, analize (rev. 2)\nDurata contractului: de la data semnării contractului, până la îndeplinirea tuturor obligațiilor.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Garanție de bună execuție\nNu este cazul\n\nTermen limită primire oferte:\nPana la data de 23.10.2026, ora 12:00.\n\nTermen limita primire solicitari de clarificare:\nPana la data de 19.10.2026, ora 12:00.\n\nTermen limita răspuns clarificari:\nRaspunsurile la eventualele solicitări de clarificări se vor publica pana la data de 21.10.2026, ora 15:00 pe site-ul Administrației Bazinale de Apă Buzău-Ialomița, sectiunea Achizitii Publice.\n\nConditii de participare: \nOferta va fi întocmită în conformitate cu cerințele din Caietul de Sarcini anexat anunțului publicitar. Operatorii economici ce depun oferta trebuie să dovedească o formă de înregistrare în condițiile legii din țara de rezidență, din care să reiasă că operatorul economic este legal constituit, că nu se află în niciuna dintre situațiile de anulare a constituirii. Modalitate de îndeplinire: Ofertantii vor prezenta Certificat constatator eliberat de Oficiul Registrului Comerțului sau un document echivalent."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Se vor respecta conditiile obligatorii impuse de Autoritatea Contractanta in caietul de sarcini."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, cu respectarea cerințelor tehnice din Caietul de Sarcini."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS, cond contractuale SF Provita.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740814"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1552945"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1552914",
+    "title": "«Proiectare și execuție lucrări pentru obiectivul de investitii „Extindere rețea termoficare la Fundația Hospice Emanuel Oradea”»",
+    "authority": "RO31952982 TERMOFICARE ORADEA S.A.",
+    "cpv": [
+      "45232140-5"
+    ],
+    "published": "2026-10-15T14:35:27+03:00",
+    "deadline": "2026-10-23T15:00:00+03:00",
+    "value": "274900.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100740783",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "A se vedea Invitatia de participare nr. 15505 din data de 15.10.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "A se vedea Invitatia de participare nr. 15505 din data de 15.10.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "A se vedea Invitatia de participare nr. 15505 din data de 15.10.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Atribuirea contractului se realizeaza, stabilind oferta cea mai avantajoasa din punct de vedere economic, prin aplicarea criteriului de atribuire „cel mai bun raport calitate-preț” dintre ofertele declarate admisibile."
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (achizitie directa)::ADV1552914"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1552885",
     "title": "Servicii de proiectare și asistență tehnică din partea proiectantului pentru obiectivul de investiție   „CONSTRUCȚII HIDROEDILITARE, ALIMENTARE CU APA ȘI CANALIZARE MENAJERĂ A LOCALITĂȚILOR DOBÂRLĂU ȘI LUNCA MĂRCUȘULUI, ZONELE LA MOARĂ ȘI BELMEZ, COMUNA DOBÂRLĂU, JUDEȚUL COVASNA- ETAPA 1”",
