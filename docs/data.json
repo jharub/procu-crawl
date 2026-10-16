@@ -1,5 +1,79 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181091",
+    "title": "Servicii de proiectare, asistență tehnică din partea proiectantului și execuție lucrări pentru obiectivul de investiții EXTINDERE SISTEM DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CLINCENI, JUD. ILFOV",
+    "authority": "6506628 - PRIMARIA COMUNEI CLINCENI",
+    "cpv": [
+      "45231220-3"
+    ],
+    "published": "2026-10-16T22:30:54+03:00",
+    "deadline": "2026-11-02T15:00:00+02:00",
+    "value": "5192815,96 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334245/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 30.0
+      },
+      {
+        "name": "2.\tEXPERIENTA DETINUTA DE  MANAGER DE CONTRACT",
+        "description": "Experiența deținută în poziția de manager de contract în cadrul unor un contract/proiect de proiectare și execuție și/sau execuție construcție nouă și/sau modernizare și/sau reabilitare sisteme aferente transportului și/sau distribuției de gaze naturale,",
+        "weight": 5.0
+      },
+      {
+        "name": "3.\tCOMBATEREA ȘOMAJULUI",
+        "description": "Numărul de personal provenit din grupurile defavorizate/ vulnerabile, care au beneficiat de măsuri specifice, care vor fi  implicate în execuția contractului(cadrul) si  pe care operatorul economic le are in organizatia sa. (fac parte din organizatia operatorului economic).",
+        "weight": 10.0
+      },
+      {
+        "name": "4.\tDEMONSTRAREA UNEI METODOLOGII ADECVATE DE IMPLEMENTARE A \nCONTRACTULUI, PRECUM ȘI O PLANIFICARE ADECVATĂ A RESURSELOR UMANE ȘI A ACTIVITĂTILOR",
+        "description": "Informațiile prezentate în Propunerea Tehnică în secțiunile dedicate, vor face referire la : \n1. Subfactor Pt.2.1 = Resursele umane și materiale și realizările corespunzătoare fiecărei activităti; \n2. Subfactor Pt.2.2 = Încadrarea în timp, succesiunea și durata activitătilor propuse\nPt.2.1+pt2.2",
+        "weight": 10.0
+      },
+      {
+        "name": "5.\tPERIOADA DE GARANȚIE EXTINSĂ ACORDATĂ LUCRĂRILOR FAȚĂ DE \nPERIOADA MINIMĂ ACORDATĂ",
+        "description": "Ofertantul acordă o perioadă de garanție extinsă pentru lucrările executate, mai mare decât perioada minimă obligatorie solicitată prin documentația de atribuire.\nGaranția va fi fundamentată d.p.d.v tehnic, logistic și al resurselor prevăzute în ofertă, de natură să asigure satisfacerea cerințelor documentației de atribuire. \nÎn acest sens , A.C își rezervă dreptul de a analiza și verifica conformitatea termenuluiofertat d.p.d.v al îndeplinirii de catre operatorii economici a cerințelor solicitate prin caietul de sarcini, cu scopul protejarii acesteia împotriva ofertelor care prevăd termene nesustenabile/ care nu pot fi fundamentate. Nedemonstrarea și neargumentarea , prin prezentarea unui plan de asigurare a garanției va duce la neacordarea de punctaj aferent factorului de evaluare.",
+        "weight": 5.0
+      },
+      {
+        "name": "6.\tEXISTENȚA LA NIVEL DE ORGANIZAȚIE A CONTRACTULUI COLECTIV DE \nMUNCĂ",
+        "description": "Autoritatea contractantă va avea în vedere la acordarea punctajului aferent existenta la nivelul organizației ofertantului a contractului colectiv de muncă încheiat cu o organizație sindicală sau a contractului colectiv de muncă la nivel de sector de negociere colectivă",
+        "weight": 5.0
+      },
+      {
+        "name": "7.\tACHIZITII ECOLOGICE",
+        "description": "La acordarea punctajului aferent factorului de evaluare se vor lua în considerare aspecte de mediu, reprezentând utilizarea de utilaje ecologice, respectiv utilaje, mașini, autovehicule  electrice, care vor fi implicate efectiv în execuția contractului pe care operatorul economic ofertant le deține/are acces la.",
+        "weight": 10.0
+      },
+      {
+        "name": "8.EXPERIENTA PROFESIONALA – INGINER PROIECTANT INSTALATII GAZE NATURALE",
+        "description": "Experiența deținută în poziția de inginer proiectant instalații gaze naturale/proiectant sisteme de distribuție gaze naturale, în cadrul unuia sau mai multor contracte de proiectare și/sau de proiectare și execuție. Se punctează contractele în cadrul cărora specialistul a elaborat și/sau actualizat și/sau revizuit și/sau completat studii de fezabilitate și/sau DALI și/sau documentații tehnice pentru autorizarea executării lucrărilor (D.T.A.C.) și/sau proiecte tehnice de execuție pentru lucrări de înființare și/sau extindere și/sau modernizare și/sau reabilitare a sistemelor de distribuție a gazelor naturale și/sau a conductelor de gaze naturale",
+        "weight": 5.0
+      },
+      {
+        "name": "9.REINTEGRARE SOCIALA",
+        "description": "Se punctează numărul persoanelor private de libertate, aflate în executarea pedepsei în regim deschis sau semideschis, pe care ofertantul le va utiliza în executarea lucrărilor. Utilizarea se face în baza unui contract de prestări servicii încheiat cu o unitate subordonată Administrației Naționale a Penitenciarelor, conform Legii nr. 254/2013 și regulamentului de aplicare a acesteia.",
+        "weight": 10.0
+      },
+      {
+        "name": "10. INDICATOR FINANCIAR",
+        "description": "Factorul evaluează stabilitatea și performanța financiară a ofertantului. Se punctează productivitatea resursei umane și eficiența activității, pe baza datelor din situațiile financiare anuale aferente exercițiului financiar 2025.",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181091"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1553171",
     "title": "SERVICII DE PROIECTARE ȘI EXECUȚIE LUCRĂRI pentru obiectivul „MĂSURI DE PROTECȚIE A SPECIILOR DE FAUNĂ SĂLBATICĂ ÎN COMUNA VAMA BUZĂULUI, JUDEȚUL BRAȘOV”.",
