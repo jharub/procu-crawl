@@ -1,5 +1,87 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1553171",
+    "title": "SERVICII DE PROIECTARE ȘI EXECUȚIE LUCRĂRI pentru obiectivul „MĂSURI DE PROTECȚIE A SPECIILOR DE FAUNĂ SĂLBATICĂ ÎN COMUNA VAMA BUZĂULUI, JUDEȚUL BRAȘOV”.",
+    "authority": "4728300 Comuna Vama Buzaului",
+    "cpv": [
+      "45340000-2"
+    ],
+    "published": "2026-10-16T16:29:15+03:00",
+    "deadline": "2026-10-26T12:00:00+02:00",
+    "value": "715911.8",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741095",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Proiectarea și execuția unui sistem de protecție împotriva faunei sălbatice prin instalarea unui gard electric de protecție, din plasa de sârmă cu 2 fire electrice, cu lungimea de 4.338 ml și  înălțimea maximă de 120 cm, lucrare realizată prin înlocuirea unui gard de sârmă existent.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantul trebuie sa prezinte o oferta tehnica si financiara (conform conditiilor din caietul de sarcini), insotita de documente justificative si documentele solicitate in caietul de sarcini (formulare), certificat constatator emis de către Oficiul Registrului Comerţului, emis cu cel mult 30 de zile înainte de data deschiderii ofertei cf. art. 173 alin. (1) L 98/2016, din care sa reiasa si codul CAEN autorizat pentru indeplinirea acestui contract. Orice document lipsa duce la descalificarea ofertei depuse."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform caiet de sarcini"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS - masuri protectie specii fauna salbatica_16_10_2026_semnat.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741095"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1553171"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1553153",
+    "title": "Achizitia de Servicii privind Restaurarea, modernizarea și extinderea Operei Naționale Române din București",
+    "authority": "4221314 OPERA NATIONALA BUCURESTI",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-10-16T14:57:05+03:00",
+    "deadline": "2026-10-19T16:00:00+03:00",
+    "value": "145000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741073",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": []
+    },
+    "description": "Se vor achizitiona de catre ONB -Servicii de elaborare a studiului de fundamentare a notei conceptuale si temei de proiectare a obiectivului de investitii-„Restaurarea, modernizarea si extinderea Operei Nationale Romane din Bucuresti”, servicii descrise in Caietul de sarcini nr. 7279 / 16.10.2026, atasat la prezentul anunt",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatori economici de profil. Ofertantii nu trebuie sa se regaseasca în: - situatiile prevazute la art.164, 165, 167 din Legea nr. 98/2016. - situatiile prevazute la art. 59-60 din Legea nr. 98/2016. Aceștia vor completa o declarație. Ofertantii vor depune : -Certificate constatatoare privind plata impozitelor, taxelor și a contribuțiilor la bugetul general consolidat (bugetul local, buget de stat, etc), valabile la momentul transmiterii ofertei;\n-Certificatului constatator emis de Oficiul Registrului Comertului în raza caruia este situat sediul ofertantului. Din certificatul constatator trebuie sa reiasa obiectul contractului care trebuie sa aiba corespondent în codul CAEN din certificatul constatator emis de ONRC. \n-Propunerea tehnică care trebuie sa fie intocmita repectand cerinţele din Caietul de sarcini nr. 6153/ 07.09.2026 și Hotărârea nr. 1116/2023 pentru modificarea și completarea Hotărârii Guvernului nr. 907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice\n- Propunerea financiară, exprimată în lei fără TVA şi cu TVA: - termen de prestare: 30 zile de la emiterea ordinului de prestare. \n- In Caietul de sarcini: \n- la cap IV - DATE TEHNICE - ofertantii vor depune documentele aferente\n- la cap V - DURATA CONTRACTULUI se va citi cu privire la termenul de prestare-30 de zile de la emiterea ordinului, iar durata contractului va fi de la semnarea de catre ambele parti, valabilitatea fiind de 2 luni"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform clauzelor contractuale, dupa finalizarea achizitiei, ONB va semna un contract de prestari servicii unde garantia de buna executie va fi de 10% din valoarea contractului fara TVA"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS Restaurarea, modernizarea si extinderea ONB.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741073"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1553153"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "CN1097450",
     "title": "Servicii de proiectare şi Execuţie lucrări pentru obiectivul: “Creșterea producției de energie din resurse geotermale prin realizarea/modernizarea capacităților de producție și a rețelelor de transport – distribuție a energiei termice din energie geotermală”",
