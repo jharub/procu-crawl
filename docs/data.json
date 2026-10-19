@@ -1,6 +1,128 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1553379",
+    "title": "Achizitia de servicii de elaborare a documentatiei tehnico-economice,faza studiu de  fezabilitate (SF)",
+    "authority": "27259202 SERVICII PUBLICE ALEXANDRIA",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-10-19T16:00:06+03:00",
+    "deadline": "2026-10-23T12:00:00+03:00",
+    "value": "235000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741358",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Servicii de elaborare Studiu de fezabilitate (SF), conform caietului de sarcini atașat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform caietului de sarcini atasat."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform caietului de sarcini atasat."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Conform caietului de sarcini atasat."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini(studiu de fezabilitate + tema).pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741358"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1553379"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181135",
+    "title": "Servicii de actualizare/elaborare DTAC, DTOE, Proiect tehnic de execuție, Detalii de execuție, caiete de sarcini, documentații pentru avize și asistență tehnică din partea proiectantului pentru proiectul «Mobilitate urbană în stațiunea Cap Aurora, Municipiul Mangalia», cod SMIS 340966.",
+    "authority": "4515255 - MUNICIPIUL MANGALIA",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-19T15:18:20+03:00",
+    "deadline": "2026-11-09T15:00:00+02:00",
+    "value": "402000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334362/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "asistenta tehnica din partea proiectantului",
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 35.0
+      },
+      {
+        "name": "F2.1 – Trasabilitatea integrată a neconcordanțelor și a reviziilor",
+        "description": "componenta tehica",
+        "weight": 5.0
+      },
+      {
+        "name": "F2.2 – Clasificarea, prioritizarea și escaladarea problemelor",
+        "description": "componenta tehica",
+        "weight": 5.0
+      },
+      {
+        "name": "F3.1 – Puncte interne de control al proiectării",
+        "description": "componenta tehica",
+        "weight": 5.0
+      },
+      {
+        "name": "F3.2 – Verificarea construibilității și a mentenabilității",
+        "description": "componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "F4.1 – Analiza comparativă simplificată pe ciclul de viață",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "F4.2 – Analiza suplimentară de reziliență climatică (peste livrabilul L13)",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "F6.1 – Control integrat al problemelor de șantier și planificarea anticipată a deciziilor",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "F5.1 – Experiența expertului-cheie: Coordonator/șef de proiect",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "F5.2 – Experiența expertului-cheie: Proiectant infrastructură rutieră și mobilitate (drumuri/infrastructură de transport)",
+        "description": "Componenta tehnica",
+        "weight": 9.0
+      },
+      {
+        "name": "F5.3 – Experiența expertului-cheie: Proiectant drenaj, ape pluviale și rețele apă-canal",
+        "description": "Componenta tehnica",
+        "weight": 9.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181135"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1553282",
     "title": "Servicii de proiectare (D.A.L.I., D.T.A.C., D.T.O.E., P.T., D.E. și Asistență Tehnică) pentru obiectivul de investiții: „Instalarea echipamentelor CT și RMN la Spitalul Clinic de Recuperare Cluj-Napoca”",
     "authority": "4288063 SPITALUL CLINIC DE RECUPERARE CLUJ-NAPOCA",
