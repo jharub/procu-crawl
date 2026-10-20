@@ -1,5 +1,190 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1553626",
+    "title": "Servicii de proiectare faza Studiu de Fezabilitate pentru obiectivul „Reabilitare, modernizare și extindere sediu Baza de Reparații Nave Brăila”",
+    "authority": "4193222 INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-20T16:20:02+03:00",
+    "deadline": "2026-10-30T13:00:00+02:00",
+    "value": "200000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741661",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Autoritatea contractantă achiziționează servicii de proiectare, faza Studiu de Fezabilitate, pentru obiectivul „Reabilitare, modernizare și extindere sediu Baza de Reparații Nave Brăila” conform prevederilor caietului de sarcini şi anexele acestuia. Finanţarea se va realiza din fondurile agenției FRONTEX pentru contribuția PFR la categoria 1 a Corpului Permanent.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Toate documentele și cerințele necesare pentru întocmirea ofertei, respectiv caietul de sarcini, Anunțul de publicitate (Instrucțiunile pentru ofertanți), formularele, proiectul de contract, etc., sunt atașate prezentului anunț de publicitate. PERIOADA DE VALABILITATE A OFERTEI trebuie să fie de 90 zile, având caracter ferm și obligatoriu din punct de vedere al conţinutului pe toata perioada de valabilitate a ofertei. CONDITII DE PARTICIPARE: Operatorii economici interesati vor transmite oferte prin e-mail la adresa achizitii.igpf@mai.gov.ro/ achizitiidirecte@igpf.ro, pana la data limita de depunere a ofertelor. La subiectul e-mail-ului se va menționa numărul anunțului de publicitate(ex: ADV1111111). Ofertele transmise la alta adresă sau după data limita de depunere a ofertelor nu vor fi luate in considerare. IMPORTANT!!!! a) OFERTA va conţine formularele completate în forma ataşată prezentului anunț de publicitate (Instrucțiuni pentru ofertanți) precum şi orice alte documente considerate relevante de ofertanţi. b) PROPUNEREA TEHNICĂ va fi elaborată astfel încât să rezulte că sunt îndeplinite și asumate în totalitate cerințele prevăzute în documentația de atribuire (Caietul de sarcini, Anunțul de publicitate – Instrucțiuni pentru ofertanți, etc.). Prin asumare nu se întelege simpla declarație cu privire la respectarea cerințelor, ci prezentarea informațiilor tehnice detaliate care să permită verificarea modului concret în care cerințele sunt îndeplinite. Nu se acceptă o propunere tehnică parțială. Operatorii economici își vor asuma toate prevederile din caietul de sarcini, prin completarea Formularului nr. 12 – FORMATUL PENTRU OFERTA TEHNICĂ. (Formularul nr. 12 va fi transmis și în format editabil). c) PROPUNEREA FINANCIARĂ se elaborează în LEI, cu doua zecimale, conform Formularului nr. 2 – FORMULAR DE OFERTĂ. Propunerea financiară trebuie să fie fermă și conformă cu Caietul de sarcini și specificațiile tehnice."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata contractului : Durata de execuție a contractului este de 4 luni de la semnarea contractului de ultima parte.\nProiectul de contract este anexat documentației de atribuire."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie_semnat.7z.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741661"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1553626"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1097616",
+    "title": "Proiectare, asistență tehnică din partea proiectantului și lucrări de execuție pentru construirea depozitului ANABI din municipiul Deva, județul Hunedoara",
+    "authority": "36461480 - Agentia Nationala de Administrare a Bunurilor Indisponibilizate",
+    "cpv": [
+      "45213221-8"
+    ],
+    "published": "2026-10-20T16:19:08+03:00",
+    "deadline": "2026-11-26T15:00:00+02:00",
+    "value": "21461444,7 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334470/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "P2 Planul de management al calității lucrărilor executate",
+        "description": "Componenta tehnica",
+        "weight": 25.0
+      },
+      {
+        "name": "P3 Experiența Managerului de proiect/contract",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "P4 Experiența Proiectantului de structură",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "P5 Experiența Proiectantului instalațiilor sanitare",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "P6 Experiența Proiectantului instalațiilor termice și de ventilații",
+        "description": "Componenta tehnica",
+        "weight": 5.0
+      },
+      {
+        "name": "P7 Gradul de adecvare al graficului general",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1097616"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181189",
+    "title": "Sevicii de proiectare tehnică+asistența tehnica din partea proiectantului+Verificarea tehnica de calitate din partea proiectantului+Certificarea performantei energetice+Documentatiile tehnice in vederea obtinerii avizelor la obiectivul de investitie „Desfiintare constructii C20-Sera si C21-birouri si construire sectie detentie”",
+    "authority": "RO 24972170 - PENITENCIARUL  MIOVENI",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-20T16:02:22+03:00",
+    "deadline": "2026-11-02T15:00:00+02:00",
+    "value": "440500 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334467/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 32.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului, precum și o planificare adecvată a resurselor umane și a activităților",
+        "description": "Pentru factorul de evaluare ”Demonstrarea unei metodologii adecvate de implementare a contractului, precum și o planificare adecvată a resurselor umane și a activităților” a fost stabilit un subfactor care va fi utilizat de comisia de evaluare ca puncte de reper în aprecierea factorului.",
+        "weight": 20.0
+      },
+      {
+        "name": "Evaluarea experților",
+        "description": "„Experienţa experţilor cheie, concretizată în numărul de proiecte similare, în care respectivii experţi au îndeplinit acelaşi tip de activităţi ca cele pe care urmează să le îndeplinească în viitorul contract” se poate acorda un punctaj de 48 puncte.",
+        "weight": 48.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181189"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1553575",
+    "title": "S bransare la conducta de aliment apa, S proiectare specializata",
+    "authority": "RO 13267213 SPEEH HIDROELECTRICA SA",
+    "cpv": [
+      "45232100-3"
+    ],
+    "published": "2026-10-20T14:46:37+03:00",
+    "deadline": "2026-10-22T11:00:00+03:00",
+    "value": "39730.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741594",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Realizarea lucrarilor de bransament la conducta de alimentare cu apa si cu servicii  de proiectare inclusa  – pe o perioadă de 60 de zile– Cladire C.P.I.R. si MHC Cluj 1, Loc. Cluj Napoca, Parcul Rozelor FN, jud.Cluj, in conformitate cu cerintele caietului de sarcini.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta va cuprinde propunerea tehnica si respectiv propunerea financiara .Valabilitatea ofertei: 45 de zile. Oferta semnata si stampilata, va fi transmisa prin fax la nr.0264/427797 sau pe e-mail: bianca.sabo@hidroelectrica.ro"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Durata de realizare a  lucrarilor si serviciilor este de 60 de zile, de la data transmiterii comenzii . Plata: prin virament bancar cu OP in max. 30 de zile de la data emiterii facturii de catre prestator,in conformitate cu cerintele caietului de sarcini."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS+Formular CONTRACT+FORMULARE AD.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741594"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1553575"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "CN1097550",
     "title": "Servicii de urbanism \n“ Plan Urbanistic Zonal (PUZ) și Regulament Local de Urbanism (RLU) aferent Zonă Construită Protejată pentru Ansamblul Cetății Aradului”",
