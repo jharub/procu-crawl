@@ -1,5 +1,89 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1553883",
+    "title": "2026_A1_087 Servicii de expertiză tehnică pentru chillerul, ventiloconvectoarele și instalația de frig de la imobilul situat în B-dul Mircea Vodă nr. 44, sector 3, București",
+    "authority": "4221306 MINISTERUL FINANȚELOR",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-21T15:57:33+03:00",
+    "deadline": "2026-10-28T23:59:00+02:00",
+    "value": "23140.5",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741963",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Conform scrisorii de intenție nr. 740314/21.10.2026 și a documentației de atribuire publicate pe site-ul MF și anexate prezentului anunț.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform scrisorii de intenție nr. 740314/21.10.2026 și a documentației de atribuire publicate pe site-ul MF și anexate prezentului anunț."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform scrisorii de intenție nr. 740314/21.10.2026 și a documentației de atribuire publicate pe site-ul MF și anexate prezentului anunț."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "04_SI_Formulare_Tema SE.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741963"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1553883"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1553832",
+    "title": "Servicii de concepere, machetare, realizare și instalare a unui Colț expozițional referitor la IAS (Specii Invazive) din Marea Neagră în Centrul de vizitare Sulina”din cadrul proiectului IASON+",
+    "authority": "3722040 ADMINISTRATIA REZERVATIEI BIOSFEREI DELTA DUNARII",
+    "cpv": [
+      "79932000-6"
+    ],
+    "published": "2026-10-21T14:40:36+03:00",
+    "deadline": "2026-10-28T12:00:00+02:00",
+    "value": "82266.12",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741906",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cer ințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza ev aluării ofertelor.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cer ințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza ev aluării ofertelor."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cer ințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza ev aluării ofertelor."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Conform documentației de atribuire puse la dispoziție, ofertanții sunt rugați să respecte integral cer ințele tehnice, criteriile de calificare și condițiile contractuale prevăzute, acestea constituind baza ev aluării ofertelor."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie de atribuire.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100741906"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1553832"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "SCN1181253",
     "title": "AMENAJARE PARCURI SI LOCURI DE JOACA PRIN INFIINTAREA DE PARCURI SI LOCURI DE JOACA IN SATELE ANGHELESTI SI COPACESTI SI PRIN MODERNIZARE SI EXTINDERE LOC DE JOACA IN SAT RUGINESTI, COMUNA RUGINESTI",
