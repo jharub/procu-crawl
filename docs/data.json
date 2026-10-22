@@ -1,5 +1,132 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181327",
+    "title": "Achizitie servicii de proiectare si executie lucrari pentru lucrarea ,,INFIINTARE DISTRIBUTIE DE GAZE NATURALE IN COMUNA CIOCARLIA, JUDETUL CONSTATA,,",
+    "authority": "4514608 - COMUNA CIOCARLIA",
+    "cpv": [
+      "45231221-0"
+    ],
+    "published": "2026-10-22T21:29:13+03:00",
+    "deadline": "2026-11-23T15:00:00+02:00",
+    "value": "8157193,06 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334694/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Gradul de adecvare al graficului general de realizare a investiției publice și resursele alocate",
+        "description": "Gradul de adecvare al graficului general de realizare a investiției publice (durata, succesiunea activităților și inter-relaționarea acestora, inclusiv drumul critic, identificarea punctelor cheie de control – jaloanelor), precum și resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia prezentată (Punctaj maxim: 25 puncte)",
+        "weight": 25.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii corespunzătoare pentru asigurarea calității lucrărilor – Planul de management al calității (P3)",
+        "description": "Demonstrarea unei metodologii corespunzătoare pentru obținerea asigurării că lucrările sunt realizate la parametrii calitativi solicitați – Planul de management al calității lucrărilor executate (Punctaj maxim: 25 puncte).",
+        "weight": 25.0
+      },
+      {
+        "name": "Calificarea și experiența profesională a personalului desemnat pentru executarea contractului – experți-cheie propuși (P4)",
+        "description": "Evaluarea experienței profesionale relevante a experților-cheie propuși pentru realizarea activităților din cadrul Contractului: 1. Manager de proiect (maxim 5 puncte) și 2. Inginer proiectant instalații gaze naturale – autorizat ANRE tip PGD (maxim 5 puncte). Punctaj maxim factor: 10 puncte.",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181327"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554073",
+    "title": "Servicii de proiectare - Documentație pentru autorizarea de securitate la incendiu pentru obiectivul - Reabilitarea moderată a corpului de clădire C1 al Liceului Tehnologic „Matei Basarab”, Oraș Strehaia, județul Mehedinți, în vederea îmbunătățirii furnizării de servicii publice.",
+    "authority": "6044227 ORASUL STREHAIA",
+    "cpv": [
+      "71317100-4"
+    ],
+    "published": "2026-10-22T14:55:34+03:00",
+    "deadline": "2026-10-28T15:00:00+02:00",
+    "value": "57851.24",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100742222",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "conform documentatiei anexate",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "conform documentatiei anexate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform documentatiei anexate"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "conform documentatiei anexate"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie de atribuire.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100742222"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554073"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181313",
+    "title": "Proiectare si executie lucrari reparatii capitale sediu administrativ”  avand titlul proiectului „Reabilitare sediu administrativ O.C.P.I. Mehedinți”",
+    "authority": "9792729 - Oficiul de Cadastru si Publicitate Imobiliara Mehedinti",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-10-22T14:46:49+03:00",
+    "deadline": "2026-11-19T15:00:00+02:00",
+    "value": "5170088,5 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334680/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 60.0
+      },
+      {
+        "name": "Factorul de evaluare nr. 2 – Experiența expertului-cheie Manager de proiect",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "Factorul de evaluare nr. 3 – Calitatea graficului de execuție contract",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      },
+      {
+        "name": "Factor de evaluare nr.4 -Gestionarea deșeurilor de pe șantier",
+        "description": "Componente tehnica",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181313"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1554023",
     "title": "Achizitie licență perpetuă sotware CAD",
