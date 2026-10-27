@@ -1,5 +1,267 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181454",
+    "title": "Proiectare si executie respectiv – Servicii pentru elaborarea PTh si Executia lucrari in cadrul obiectivul de investitii “Reabilitarea si modernizarea gospodariilor de apa potabila in satele Ghergheasa si Salcioara din comuna Ghergheasa, judetul Buzau”",
+    "authority": "2407931 - COMUNA GHERGHEASA (PRIMARIA GHERGHEASA BUZAU)",
+    "cpv": [
+      "45232154-6"
+    ],
+    "published": "2026-10-27T15:04:29+02:00",
+    "deadline": "2026-11-16T15:00:00+02:00",
+    "value": "5908198,6 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100334972/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Perioada de garantie acordată lucrărilor – P2",
+        "description": "Perioada de garantie acordata lucrarii - Autoritatea Contractanta acorda punctaj pentru ofertele care prezinta o perioada de garantie a lucrarilor mai mare fata de perioada de garantie minim acceptata de 36 de luni, stabilită prin caietul de sarcini.",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența profesională specifică – COORDONATOR SERVICII DE PROIECTARE – P3",
+        "description": "Experiența deținută în poziția de Coordonator servicii proiectare și/sau Manager servicii proiectare în cel puţin un contract care să includă cel puţin o elaborare a unei documentaţii tehnico-economice (studii de fezabilitate, revizuire studii de fezabilitate, proiecte tehnice de execuţie, inclusiv detalii de execuţie, revizuire proiecte tehnice de execuţie, documentaţii de avizare a lucrărilor de intervenţii) având ca obiect proiectarea și/sau execuția de lucrări de construire/ reabilitare/ modernizare/ extindere gospodarii de apa și/sau statii de epurare și/sau rețele de canalizare și/sau de apă și/sau aducțiuni de apă și/sau lucrări de rețele tehnice edilitare supraterane/subterane similare sau superioare față de cele care fac obiectul prezentei proceduri.",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența profesională specifică – INGINER PROIECTANT CONSTRUCȚII HIDROTEHNICE – P4",
+        "description": "Experiența deținută în poziția de Inginer proiectant în cel puţin un contract care să includă cel puţin o elaborare a unei documentaţii tehnico-economice (studii de fezabilitate, revizuire studii de fezabilitate, proiecte tehnice de execuţie, inclusiv detalii de execuţie, revizuire proiecte tehnice de execuţie, documentaţii de avizare a lucrărilor de intervenţii) având ca obiect proiectarea și/sau execuția de lucrări de construire/ reabilitare/ modernizare/ extindere gospodarii de apa și/sau statii de epurare și/sau rețele de canalizare și/sau de apă și/sau aducțiuni de apă și/sau lucrări de rețele tehnice edilitare supraterane/subterane similare sau superioare față de cele care fac obiectul prezentei proceduri.",
+        "weight": 6.0
+      },
+      {
+        "name": "Experiența profesională specifică – MANAGER DE PROIECT – P5",
+        "description": "Experiența deținută în poziția de Coordonator proiect/ contract și/sau Manager proiect/ contract și/sau Director proiect/ contract și/sau Adjunct Director proiect/ contract și/sau Project Manager proiect/contract și/sau Șef Proiect în cadrul unui proiect/ contract având ca obiect proiectarea și/sau execuția de lucrări de construire/ reabilitare/ modernizare/ extindere gospodarii de apa și/sau statii de epurare și/sau rețele de canalizare și/sau de apă și/sau aducțiuni de apă și/sau lucrări de rețele tehnice edilitare supraterane/subterane similare sau superioare față de cele care fac obiectul prezentei proceduri.",
+        "weight": 10.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului și o planificare adecvată a resurselor umane și a activităților – P6",
+        "description": "Factorul de evaluare: Demonstrarea unei metodologii adecvate de implementare a contractului și o planificare adecvată a resurselor umane și a activităților, este format din 4 Subfactori de evaluare",
+        "weight": 24.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181454"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554755",
+    "title": "Servicii de proiectare in vederea realizarii unui sistem electronic de securitate integrat CTE Bucuresti Sud",
+    "authority": "RO15189596 Electrocentrale Bucuresti S.A.",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-10-27T14:49:39+02:00",
+    "deadline": "2026-11-02T23:59:00+02:00",
+    "value": "230000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743122",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare in vederea realizarii unui sistem electronic de securitate integrat CTE Bucuresti Sud\n\nOfertele transmise la alte adrese de e-mail sau care nu respectă cerințele menționate la capitolul „Informatii suplimentare” nu vor fi luate în considerare.\n\nDetalii privind conditiile tehnice, conditiile de receptie etc. se regasesc in Caietul de sarcini disponibil  pe site-ul www.elcen.ro in sectiunea Interes public/Achizitii/Achizitii publice/Anunțuri achiziții directe/2026",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Persoane juridice/fizice romane - Se va prezenta Certificat Constatator emis de Oficiul Registrului Comertului / Autorizatie de functionare / altele echivalente.. – document scanat transmis odata cu oferta\nPersoane juridice/fizice straine - Se vor prezenta documente care dovedesc o forma de inregistrare / atestare ori apartenenta din punct de vedere profesional conforme legii tarii de rezidenta a operatorului economic – document scanat transmis odata cu oferta"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Modelul de contract propus de entitatea contractanta este disponibil pe site-ul www.elcen.ro in sectiunea : Interes public/Achizitii/Achizitii publice/Anunțuri achiziții directe/2026"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Criteriul de atribuire este pretul cel mai scazut. \nCriteriul de atribuire se aplica numai ofertelor care indeplinesc cerintele tehnice si comerciale impuse de entitatea contractanta."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de Sarcini.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743122"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554755"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554750",
+    "title": "Servicii de proiectare in vederea realizarii unui sistem electronic de securitate integrat CTE Bucuresti Vest",
+    "authority": "RO15189596 Electrocentrale Bucuresti S.A.",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-10-27T14:41:41+02:00",
+    "deadline": "2026-11-02T23:59:00+02:00",
+    "value": "230000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743115",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare in vederea realizarii unui sistem electronic de securitate integrat CTE Bucuresti Vest\n\nOfertele transmise la alte adrese de e-mail sau care nu respectă cerințele menționate la capitolul „Informatii suplimentare” nu vor fi luate în considerare.\n\nDetalii privind conditiile tehnice, conditiile de receptie etc. se regasesc in Caietul de sarcini disponibil  pe site-ul www.elcen.ro in sectiunea Interes public/Achizitii/Achizitii publice/Anunțuri achiziții directe/2026",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Persoane juridice/fizice romane - Se va prezenta Certificat Constatator emis de Oficiul Registrului Comertului / Autorizatie de functionare / altele echivalente.. – document scanat transmis odata cu oferta\nPersoane juridice/fizice straine - Se vor prezenta documente care dovedesc o forma de inregistrare / atestare ori apartenenta din punct de vedere profesional conforme legii tarii de rezidenta a operatorului economic – document scanat transmis odata cu oferta"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Modelul de contract propus de entitatea contractanta este disponibil pe site-ul www.elcen.ro in sectiunea : Interes public/Achizitii/Achizitii publice/Anunțuri achiziții directe/2026"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Criteriul de atribuire este pretul cel mai scazut. \nCriteriul de atribuire se aplica numai ofertelor care indeplinesc cerintele tehnice si comerciale impuse de entitatea contractanta."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de Sarcini.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743115"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554750"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554740",
+    "title": "Servicii pentru intocmirea releveelor si actualizare carte funciara",
+    "authority": "17095927 DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI VASLUI",
+    "cpv": [
+      "71251000-2"
+    ],
+    "published": "2026-10-27T14:28:51+02:00",
+    "deadline": "2026-11-02T12:00:00+02:00",
+    "value": "8500.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743107",
+    "match_reason": {
+      "cpv": [
+        "71251000"
+      ],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "description": "Servicii pentru intocmirea releveelor si actualizare carte funciara, conform cerintelor din Fisa tehnica a serviciului atasata prezentului anunt.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantii interesati vor trimite ofertele, ce vor contine propunerea tehnica, propunerea financiara (inclusiv centralizatorul de preturi)  si datele  de identificare ale societatii in format electronic,  pe adresa de e-mail achizitii@dgaspc-vs.ro.  In titlul e-mailului se va indica obligatoriu nr. ADV-ului, sub rezerva neanalizarii ofertelor. Transmiterea notificarii echivaleaza cu acceptul furnizarii produselor/prestarii serviciilor, in cazul in care ofertantul este declarat castigator."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform cerintelor din fisa tehnica a serviciului"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Criteriul de atribuire va fi pretul cel mai scazut, ales dintre  ofertele admisibile care indeplinesc  cerintele tehnice si se incadreaza in valoarea estimata. In cazul in care exista doi sau mai multi ofertanti, cu pretul cel mai scazut egal, se va solicita in scris, doar acestora, postarea unui nou pret."
+      }
+    ],
+    "documents": [
+      {
+        "name": "1508.PDF",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743107"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554740"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554735",
+    "title": "Supervizare proiectare și execuție lucrări pentru obiectivul de investiții „Modernizare DJ 653, lim. jud. Olt - Crângeni, km 66+120 - 73+845”",
+    "authority": "4652686 JUDETUL TELEORMAN",
+    "cpv": [
+      "71520000-9"
+    ],
+    "published": "2026-10-27T14:16:46+02:00",
+    "deadline": "2026-11-09T16:00:00+02:00",
+    "value": "20000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100742906",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Se vor achiziționa servicii de Supervizare proiectare și execuție lucrări pentru obiectivul de investiții „Modernizare DJ 653, lim. jud. Olt - Crângeni, km 66+120 - 73+845”, conform caietului de sarcini, atașat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta se va depune pentru serviciile solicitate în caietul de sarcini."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform caietului de sarcini"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet_de_sarcini_Anexe.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100742906"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554735"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554732",
+    "title": "Contract de achizitie publica de servicii de intocmire a documentatiei faza P.U.D. pentru obiectivul de investitii \"Asigurarea de facilitati adiacente Santului si Valului Cetatii in zona strazii Radu Popescu Targoviste\"",
+    "authority": "4279944 MUNICIPIUL TARGOVISTE",
+    "cpv": [
+      "71410000-5"
+    ],
+    "published": "2026-10-27T14:08:57+02:00",
+    "deadline": "2026-11-06T23:59:00+02:00",
+    "value": "56500.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743094",
+    "match_reason": {
+      "cpv": [
+        "71410000"
+      ],
+      "keywords": [
+        "urbanism"
+      ]
+    },
+    "description": "Obiectul contractului consta in - Elaborarea Planului Urbanistic de Detaliu P.U.D. in baza unei documentatii de urbanism P.U.D. (art 83, alin. 1,2, a)-g) din Legea nr.169/2026. In conformitate cu prevederile Legii nr.169/2026 privind Codul amenajarii teritoriului, urbanismului si constructiilor, Planul Urbanistic de Detaliu stabileste reglementari cu privire la: regimul de construire, fuctiunea zonei, inaltimea maxima admisa, retragerile fata de limitele laterale si posterioare ale parcelei, conformarea arhitectural-volumetrica, modul de ocupare a terenului (POT si CUT). Continutul documentatiilor necesare obtinerii avizelor/acordurilor solicitate prin C.U. trebuie sa respecte prevederile Ghidului privind metodologia de elaborare si continutul cadru al Planului Urbanistic de Detaliu. - Documentatii in vederea obtinerii tuturor avizelor şi a acordurilor, revizuirea, după caz, a documentaţiilor tehnice, confortm mentiunilor din certificatul de urbanism nr. 35394 din 31.03.2026; - Studiu geotehnic – verificat Af, topografic (ridicare topo) vizat O.C.P.I., studiu de circulatie intocmit de un specialist RUR-G7, Plan de incadrare in zona ortofotoplan vizat O.C.P.I., - Participarea prestatorului la sedinta Consiliului Local de aprobare a documentatiei precum si in cadrul comisiilor/sedintelor de avizare din partea detinatorilor de utilitati si a altor avizatori in functie de modul de desfasurare a fiecareia, prezenta fizica sau online; - Reviziurea, dupa caz, a documentatiilor tehnice, in functie de conditiile impuse de entitatea finantatoare si de modificarile legislative esentiale privind continutul – cadru al documentatiei tehnico-economice.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform documentelor atasate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform documentelor atasate"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "documentatie PUD.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743094"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554732"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1554695",
     "title": "Achizitie serviciu de proiectare a rețelei de gaz",
