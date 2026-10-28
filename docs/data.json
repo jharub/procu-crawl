@@ -1,5 +1,219 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181513",
+    "title": "Proiectare si Execuție Lucrări pentru obiectivul de investiție “ REABILITARE STRADA VASILE GOLDIȘ, MUNICIPIUL BRAȘOV, JUDEȚUL BRAȘOV”",
+    "authority": "4384206 - MUNICIPIUL BRASOV",
+    "cpv": [
+      "45233120-6"
+    ],
+    "published": "2026-10-28T16:29:03+02:00",
+    "deadline": "2026-11-13T15:00:00+02:00",
+    "value": "19761620,15 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335101/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Factor tehnic: Experientă Personal - Subfactor 1",
+        "description": "Experienta specifică a Managerului de Proiect",
+        "weight": 20.0
+      },
+      {
+        "name": "Factor tehnic: Experientă Personal - Subfactor 2",
+        "description": "Experienta specifică a Sefului de echipa de proiectare",
+        "weight": 13.0
+      },
+      {
+        "name": "Factor tehnic: Experientă Personal - Subfactor 3",
+        "description": "Experienta similara a Proiectantului CFDP Pondere: 12%",
+        "weight": 12.0
+      },
+      {
+        "name": "Factor tehnic: Perioada de garantie a lucrarilor",
+        "description": "Autoritatea contractantă acordă punctaj pentru ofertarea unei perioade de garanție a lucrărilor mai mari decât perioada minimă acceptată de 5 ani.",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181513"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181512",
+    "title": "Proiectare si Execuție lucrări pentru obiectivul de investiție\n“ EXTINDEREA STRĂZII 13 DECEMBRIE (DRUM DE CATEGORIA III) PE TRONSONUL DE LA INTERSECȚIA CU STRADA ORIZONTULUI PÂNĂ LA INTERSECȚIA CU STRADA VASILE GOLDIȘ, MUNICIPIUL BRAȘOV, JUDEȚUL BRAȘOV”",
+    "authority": "4384206 - MUNICIPIUL BRASOV",
+    "cpv": [
+      "45233120-6"
+    ],
+    "published": "2026-10-28T16:28:08+02:00",
+    "deadline": "2026-11-13T15:00:00+02:00",
+    "value": "15918227,48 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335100/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Factor tehnic: Experientă Personal - Subfactor 1",
+        "description": "Experienta specifică a Managerului de Proiect",
+        "weight": 20.0
+      },
+      {
+        "name": "Factor tehnic: Experientă Personal - Subfactor 2",
+        "description": "Experienta specifică a Sefului de echipa de proiectare",
+        "weight": 13.0
+      },
+      {
+        "name": "Factor tehnic: Experientă Personal - Subfactor 3",
+        "description": "Experienta similara a Proiectantului CFDP Pondere: 12%",
+        "weight": 12.0
+      },
+      {
+        "name": "Factor tehnic: Perioada de garantie a lucrarilor",
+        "description": "Autoritatea contractantă acordă punctaj pentru ofertarea unei perioade de garanție a lucrărilor mai mari decât perioada minimă acceptată de 5 ani.",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181512"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181504",
+    "title": "Servicii de proiectare și lucrari de executie  pentru asigurarea necesarului de putere electrică – instalare spor de putere la CRCPSA Timișoara",
+    "authority": "22084517 - INSPECTORATUL GENERAL PENTRU IMIGRARI",
+    "cpv": [
+      "45310000-3"
+    ],
+    "published": "2026-10-28T15:22:04+02:00",
+    "deadline": "2026-11-18T15:00:00+02:00",
+    "value": "1192144,98 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335092/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența expertului cheie:– Componenta tehnică 1: Pondere: 30%",
+        "description": "Componenta tehnică 1: Pondere: 30%",
+        "weight": 30.0
+      },
+      {
+        "name": "Termenul de execuție a lucrărilor",
+        "description": "Componenta tehnică 2\nPondere: 30%",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181504"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554953",
+    "title": "Achizitie servicii expertizare cazane centrale termice",
+    "authority": "4226338 INSPECTORATUL DE POLITIE AL JUDETULUI VASLUI",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-28T14:16:37+02:00",
+    "deadline": "2026-10-30T12:00:00+02:00",
+    "value": "16500.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743376",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": []
+    },
+    "description": "Prestare servicii de tehnica a cazanelor de apa calda aflate in exploatarea Inspectoratului de Politie Judetean Vaslui, conform caietului de sarcini atasat prezentului anunt.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantii interesati vor transmite oferta la adresa de e-mail: logistica_vs@yahoo.com, pana la data mentionata, ora 12.00, ulterior castigatorii urmand sa posteze serviciile in SICAP"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Serviciile vor respecta specificatiile caietului de sarcini și vor fi finalizate in termen de 10 zile de la finalizarea achizitiei in SEAP."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut/ tip produs in lei fara T.V.A."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini achizitie servicii expertizare cazane centrale.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743376"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554953"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1554944",
+    "title": "REPARATII CAPITALE TROTUARE DIN COMUNA APATA",
+    "authority": "4777205 COMUNA APATA (Primaria Comunei Apata)",
+    "cpv": [
+      "71322500-6"
+    ],
+    "published": "2026-10-28T13:46:06+02:00",
+    "deadline": "2026-11-09T12:00:00+02:00",
+    "value": "35000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743362",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de elaborare expertiza tehnica, elaborare DTAC+DTOE, verificare proiect faza DTAC",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Sa se prezinte documente justificative cu experiente similare"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "cel mai mic pret"
+      }
+    ],
+    "documents": [
+      {
+        "name": "cerere oferta DTAC TROTUARE.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743362"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1554944"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1554905",
     "title": "Servicii de expertiză tehnică faza DALI+PT în vederea realizării lucrării „Reabilitare Canton C7 Oltenița-Surlari-Dorobanțu, SGA Călărași”, județul Călărași.",
