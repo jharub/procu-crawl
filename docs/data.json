@@ -1,5 +1,225 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181558",
+    "title": "Servicii de proiectare, execuție lucrări de construcții și asistență din partea proiectantului, inclusiv furnizarea și montajul utilajelor și echipamentelor pentru obiectivul de investiții „Construirea unui ambulatoriu nou, clădire cu consum de energie aproape zero, cu relocarea ambulatoriului existent și implementarea programelor de screening; desființarea corpurilor C3 și C2 – Spitalul Municipal",
+    "authority": "4253731 - Primaria Turnu Magurele",
+    "cpv": [
+      "45215140-0"
+    ],
+    "published": "2026-10-29T16:36:59+02:00",
+    "deadline": "2026-11-23T15:00:00+02:00",
+    "value": "13821480,72 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335193/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența specifică a managerului de proiect",
+        "description": "Experiența specifică a managerului de proiect   cu o valoare de 4 puncte din totalul de 100 de puncte, și cu o pondere de 4% din totalul criteriului de atribuire",
+        "weight": 4.0
+      },
+      {
+        "name": "Experiența specifică a șefului de proiect / Arhitect cu drept de semnatura",
+        "description": "Experiența specifică a Șefului de șantier  / Arhitect cu drept de semnatura , cu o valoare de 8 puncte din totalul de 100 de puncte, și cu o pondere de 8% din totalul criteriului de atribuire",
+        "weight": 8.0
+      },
+      {
+        "name": "Experiența specifică a  inginerului structurist",
+        "description": "Experiența specifică a inginerului structurist  , cu o valoare de 5 puncte din totalul de 100 de puncte, și cu o pondere de 5% din totalul criteriului de atribuire",
+        "weight": 5.0
+      },
+      {
+        "name": "Experiența specifică a inginerului instalații HVAC (încălzire, ventilare, climatizare)",
+        "description": "Experiența specifică a inginerului instalații HVAC (încălzire, ventilare, climatizare) , cu o valoare de 5 puncte din totalul de 100 de puncte, și cu o pondere de 5% din totalul criteriului de atribuire",
+        "weight": 5.0
+      },
+      {
+        "name": "Experiența specifică a inginerului instalatii  sanitare",
+        "description": "Experiența specifică a inginerului instalații sanitare , cu o valoare de 3 puncte din totalul de 100 de puncte, și cu o pondere de 3% din totalul criteriului de atribuire",
+        "weight": 3.0
+      },
+      {
+        "name": "Experiența specifică a inginerului instalatii electrice",
+        "description": "Experiența specifică a inginerului instalații electrice, cu o valoare de 5 puncte din totalul de 100 de puncte, și cu o pondere de 5% din totalul criteriului de atribuire",
+        "weight": 5.0
+      },
+      {
+        "name": "Experiența specifică a inginerului aparatura medicala",
+        "description": "Experiența specifică a inginerului aparatura medicala , cu o valoare de 4 puncte din totalul de 100 de puncte, și cu o pondere de 4% din totalul criteriului de atribuire",
+        "weight": 4.0
+      },
+      {
+        "name": "Experiența specifică a expertului in protectie radiologica",
+        "description": "Experiența specifică a expertului in protectie  radiologica  , cu o valoare de 3 puncte din totalul de 100 de puncte, și cu o pondere de 3% din totalul criteriului de atribuire",
+        "weight": 3.0
+      },
+      {
+        "name": "Metodologia de proiectare si Graficul Gantt",
+        "description": "Metodologia și graficul Gantt sunt elemente obligatorii ale propunerii tehnice. Prin metodologie, ofertantul demonstrează că cunoaște obiectivul de investiții și etapele de proiectare și de execuție, iar metodologia este adaptată acestui obiectiv.",
+        "weight": 18.0
+      },
+      {
+        "name": "Perioada de garantie",
+        "description": "Perioada de garantie",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181558"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181557",
+    "title": "Studiu de fezabilitate pentru soluție integrata de securitate și monitorizare cu drone controlate de inteligenta artificiala",
+    "authority": "11062831 - COMPANIA NATIONALA \"ADMINISTRATIA PORTURILOR MARITIME\" SA CONSTANTA",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-10-29T16:20:46+02:00",
+    "deadline": "2026-11-10T15:00:00+02:00",
+    "value": "250000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335192/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "P2. Experiența specifică suplimentară a experților cheie",
+        "description": "Componenta tehnica 1",
+        "weight": 35.0
+      },
+      {
+        "name": "P3. Calitatea metodologiei și a planului de lucru",
+        "description": "Componenta tehnica 2",
+        "weight": 25.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181557"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1555206",
+    "title": "Servicii de elaborare documentații tehnice pentru autorizare, proiect tehnic de execuție (PTE), detalii de execuție (DE), documentație pentru achiziția lucrărilor și asistență tehnică din partea proiectantului pentru obiectivul „Înființare spații de joacă în comuna Aiton, județul Cluj",
+    "authority": "4378743 COMUNA  AITON",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-29T15:54:03+02:00",
+    "deadline": "2026-11-05T14:00:00+02:00",
+    "value": "41472.66",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743713",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "asistenta tehnica din partea proiectantului",
+        "proiectare"
+      ]
+    },
+    "description": "Comuna Aiton intenționează să achiziționeze servicii de proiectare și asistență tehnică pentru realizarea obiectivului de investiții „Înființare spații de joacă în comuna Aiton, județul Cluj”, pentru amplasamentele din localitățile Aiton și Rediu.\nServiciile cuprind analizarea documentațiilor existente, întocmirea sau completarea DTAC și DTOE, elaborarea documentațiilor pentru avize, a proiectului tehnic de execuție, a detaliilor de execuție, a caietelor de sarcini, listelor de cantități, fișelor tehnice și documentației economice necesare achiziției lucrărilor.\nPrestatorul va asigura asistența tehnică din partea proiectantului pe durata execuției lucrărilor, inclusiv clarificări tehnice, participarea la fazele determinante și la recepția la terminarea lucrărilor.\nVerificarea tehnică prin verificatori de proiecte atestați se contractează distinct de beneficiar.\nTermenul de elaborare a documentațiilor este de 90 de zile calendaristice de la emiterea ordinului de începere și predarea documentelor necesare.\nAsistența tehnică se asigură pe durata execuției lucrărilor, estimată la șase luni, inclusiv în perioadele de prelungire aprobate, conform contractului.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Documente privind operatorul economic\n1.\tCertificat constatator emis de ONRC, din care să rezulte datele de identificare ale operatorului economic, starea acestuia și activitățile autorizate relevante pentru serviciile ofertate. Se acceptă documentul electronic emis de ONRC.\n2.\tDeclarație pe propria răspundere privind neîncadrarea în situațiile de excludere prevăzute la art. 164, 165 și 167 din Legea nr. 98/2016, cu modificările și completările ulterioare.\n3.\tDeclarație privind evitarea conflictului de interese, potrivit art. 59 și 60 din Legea nr. 98/2016.\n4.\tDeclarație privind respectarea cerințelor caietului de sarcini, prin care ofertantul confirmă că a analizat documentația și își asumă prestarea tuturor serviciilor solicitate.\nB. Documente privind capacitatea profesională\n5.\tLista personalului de specialitate propus pentru prestarea serviciilor, cu indicarea responsabilului de proiect și a specialiștilor implicați, în funcție de specialitățile necesare.\n6.\tDocumente privind calificarea și dreptul de exercitare a profesiei, pentru specialiștii pentru care legislația impune asemenea condiții, inclusiv diplome, atestate sau alte documente relevante.\n7.\tDeclarație privind disponibilitatea personalului propus, prin care ofertantul confirmă că dispune de resursele umane necesare realizării serviciilor în termenul ofertat."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Propunerea tehnică\n8.\tPropunere tehnică, din care să rezulte modul de îndeplinire a tuturor cerințelor caietului de sarcini.\nAceasta va cuprinde cel puțin:\n•\tDescrierea metodologiei de elaborare a documentațiilor de proiectare;\n•\tModalitatea de analizare și corelare a studiului de fezabilitate, certificatelor de urbanism și documentațiilor existente;\n•\tModul de elaborare sau completare a DTAC și DTOE, după caz;\n•\tModalitatea de întocmire a proiectului tehnic, detaliilor de execuție, listelor de cantități și fișelor tehnice;\n•\tModul de asigurare a asistenței tehnice din partea proiectantului;\n•\tModalitatea de respectare a cerințelor de siguranță aplicabile spațiilor de joacă, inclusiv SR EN 1176 și SR EN 1177, în edițiile aplicabile sau echivalente;\n•\tModalitatea de asigurare a personalului de specialitate necesar.\n9.\tGrafic de prestare a serviciilor, cu încadrarea în termenul de 90 de zile calendaristice pentru elaborarea documentațiilor de proiectare.\n10.\tDeclarație de asumare a asistenței tehnice pe durata execuției lucrărilor, inclusiv participarea la fazele determinante, soluționarea problemelor tehnice și participarea la recepția la terminarea lucrărilor, potrivit caietului de sarcini.\nD. Propunerea financiară\n11.\tFormular de ofertă financiară, semnat de reprezentantul legal sau de persoana împuternicită, cu precizarea prețului total exprimat în lei fără TVA și a TVA aferente.\n12.\tCentralizator financiar, cu evidențierea distinctă a valorii serviciilor de proiectare și a serviciilor de asistență tehnică din partea proiectantului.\nPrețul ofertat va include toate cheltuielile necesare prestării serviciilor conform caietului de sarcini, cu excepția taxelor legale de avizare și autorizare suportate de beneficiar, potrivit documentației."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut, dintre ofertele care îndeplinesc integral cerințele caietului de sarcini și condițiile de participare.\nOfertele vor fi analizate din punctul de vedere al documentelor solicitate, al conformității tehnice și al valorii financiare."
+      }
+    ],
+    "documents": [
+      {
+        "name": "doc. pt SEAP.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743713"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1555206"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181552",
+    "title": "Proiect tehnic de închidere și ecologizare a obiectivului minier Puț 5 - iazurilor nr. 2, 3 și 3A, județul Harghita",
+    "authority": "RO 14923006 - CONVERSMIN     S.A.",
+    "cpv": [
+      "71323000-8"
+    ],
+    "published": "2026-10-29T15:34:57+02:00",
+    "deadline": "2026-11-10T15:00:00+02:00",
+    "value": "288868 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335186/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181552"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1555199",
+    "title": "Servicii de expertiză tehnica judiciară-expert in \"evaluarea proprietatii imobiliare\" pentru Serviciul Juridic Contencios si Avizare Juridica",
+    "authority": "4193117 DIRECTIA GENERALA REGIONALA A FINANTELOR PUBLICE BUCURESTI",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-10-29T15:27:29+02:00",
+    "deadline": "2026-11-02T10:00:00+02:00",
+    "value": "2500.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743706",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Servicii de expertiză tehnica judiciară in specialitatea \"evaluare proprietati imobiliare\", în vederea formulării eventualelor obiecțiuni la raportul de expertiză tehnică judiciara întocmit într-un dosar.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Oferta trebuie sa contina: 1.Datele de identificare ale societatii (adresa, numar de înmatriculare, CUI, Cont trezorerie), precum si datele de contact ale persoanei desemnate sa se implice în relatiile cu DGRFPB. 2.Termenul de prestare este de 5 zile de la datat atribuirii in SEAP. 3.Pretul serviciilor, exprimat în lei, fara TVA . 4.Perioada de valabilitate a ofertei. 5.Ofertele vor fi depuse pe e-mail la adresa: achizitii.publice.mb@anaf.ro. 6.Operatorii economici vor depune impreuna cu oferta, o Declaraţie pe proprie răspundere privind:a) neîncadrarea în prevederile art 164,165 coroborat cu art 166(2) art 167 din legea nr. 98/2016 privind achizițiile publice; b) neînregistrarea de obligații de plată restante bugetului general consolidat. \nOfertele care nu respecta cerintele solicitate de catre autoritatea contractantă prin anunt vor fi declarate neconforme fara a mai solicita clarificari!!!"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Achizitia se va finaliza prin factura fiscala."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut"
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (achizitie directa)::ADV1555199"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1555144",
     "title": "LUCRARI DE CONSOLIDARE A FALEZELOR IN ZONA LOCALITATII TUZLA, JUDETUL CONSTANTA",
