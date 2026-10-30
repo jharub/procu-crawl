@@ -1,5 +1,292 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181608",
+    "title": "Servicii de elaborare documentații tehnice: Temă de proiectare,  Audit Energetic și  Documentația de avizare a Lucrărilor de Intervenții (DALI) pentru obiectivul de investiții ,,Obținerea autorizației de securitate la incendiu pentru imobilul cu destinația centru multifuncțional de servicii socio-medicale”",
+    "authority": "14206842 - DIRECTIA DE ASISTENTA SOCIALA BRASOV",
+    "cpv": [
+      "79930000-2"
+    ],
+    "published": "2026-10-30T15:22:20+02:00",
+    "deadline": "2026-11-10T15:00:00+02:00",
+    "value": "569421,49 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335273/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "dali"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența profesională Șef proiect",
+        "description": "Calificarea educațională și/sau profesională: Arhitect cu drept de semnătură OAR. Pentru personalul nerezident studii universitare finalizate cu diplomă de licență corespunzătoare emisă în țara de rezidență, înscris în Tabloul Naţional al Arhitecţilor în condițiile Legii 184/2001, republicată.",
+        "weight": 10.0
+      },
+      {
+        "name": "Inginer construcții civile",
+        "description": "Calificarea educațională și/sau profesională: Studii universitare finalizate cu diplomă de licență în domeniul ingineriei civile.",
+        "weight": 10.0
+      },
+      {
+        "name": "Inginer proiectant instalații electrice",
+        "description": "Calificarea educațională și/sau profesională: Absolvent de studii superioare tehnice specializarea instalații electrice sau echivalentul acestora, studii absolvite cu diplomă de licență / diploma de absolvire sau echivalent. Inginerul instalații electrice, persoană fizică română sau străină, va deține autorizarea ANRE tip IIA, pentru proiectare de instalaţii electrice conform prevederilor Regulamentului aprobat prin Ordinul ANRE nr. 66/2023.",
+        "weight": 10.0
+      },
+      {
+        "name": "Proiectant cu autorizație de proiectare a sistemelor și instalațiilor de ventilare pentru evacuarea fumului și gazelor fierbinți, cu excepția celor de tip natural organizat",
+        "description": "Calificarea educațională și/sau profesională: Absolvent de studii superioare tehnice având autorizație de proiectare a sistemelor şi instalaţiilor de ventilare pentru evacuarea fumului şi gazelor fierbinţi, cu excepţia celor de tip natural-organizat",
+        "weight": 10.0
+      },
+      {
+        "name": "Proiectant cu autorizație de proiectare a sistemelor și instalațiilor de semnalizare, alarmare și alertare în caz de incendiu",
+        "description": "Calificarea educațională și/sau profesională: Absolvent de studii superioare tehnice având autorizație\npentru proiectantul cu autorizație de proiectare a sistemelor și instalațiilor de semnalizare, alarmare și alertare în caz de incendiu",
+        "weight": 10.0
+      },
+      {
+        "name": "Proiectant cu autorizație pentru proiectare a sistemelor și instalațiilor de limitare și stingere",
+        "description": "Calificarea educațională și/sau profesională: Absolvent de studii superioare tehnice având autorizație\npentru proiectantul cu autorizație pentru proiectare a sistemelor și instalațiilor de limitare și stingere.",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181608"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1555334",
+    "title": "Proiectare și execuție lucrări de reparații și modernizare a instalațiilor electrice, inclusiv realizarea sistemelor fotovoltaice cu stocare, la Complexul Sportiv Național Orșova și Centrul Olimpic Năvodari",
+    "authority": "4203849 FEDERATIA ROMANA DE CANOTAJ",
+    "cpv": [
+      "45310000-3"
+    ],
+    "published": "2026-10-30T15:10:14+02:00",
+    "deadline": "2026-11-10T10:00:00+02:00",
+    "value": "871300.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743882",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Federația Română de Canotaj intenționează să achiziționeze lucrări de reparații și modernizare a instalațiilor electrice, inclusiv prin realizarea unor sisteme fotovoltaice cu stocare a energiei electrice, la Complexul Sportiv Național Orșova și Centrul Olimpic Năvodari.\nContractul are ca obiect proiectarea și execuția lucrărilor, incluzând elaborarea documentațiilor tehnice necesare, furnizarea echipamentelor și materialelor, instalarea și integrarea sistemelor fotovoltaice cu stocare în instalațiile electrice existente, efectuarea verificărilor și probelor, punerea în funcțiune și recepția lucrărilor, în conformitate cu cerințele caietului de sarcini.\nAchiziția este structurată în două loturi distincte:\nLotul 1 – Complexul Sportiv Național Orșova: lucrări de modernizare a instalațiilor electrice și realizarea unui sistem fotovoltaic cu puterea instalată de minimum 103,40 kWp și capacitatea nominală de stocare de minimum 102,4 kWh. Valoarea estimată: 538.800 lei fără TVA.\nLotul 2 – Centrul Olimpic Năvodari, str. Taberei nr. 1, județul Constanța: lucrări de modernizare a instalațiilor electrice și realizarea unui sistem fotovoltaic cu puterea instalată de minimum 50,15 kWp și capacitatea nominală de stocare de minimum 100 kWh. Valoarea estimată: 332.500 lei fără TVA.\nValoarea totală estimată a achiziției este de 871.300 lei fără TVA.\nOperatorii economici pot depune oferte pentru unul sau pentru ambele loturi, evaluarea și atribuirea urmând să se realizeze separat pentru fiecare lot.\nLucrările vor fi executate cu respectarea cerințelor tehnice, a condițiilor de calitate și a obligațiilor prevăzute în caietul de sarcini.",
+    "requirements": [
+      {
+        "name": "Conditii contractuale",
+        "description": "Contractul se va încheia pentru fiecare lot atribuit, în conformitate cu oferta declarată câștigătoare și cu prevederile caietului de sarcini.\nExecutarea contractului va cuprinde serviciile de proiectare, furnizarea echipamentelor și materialelor necesare, execuția lucrărilor de reparații și modernizare a instalațiilor electrice, instalarea și integrarea sistemelor fotovoltaice cu stocare, efectuarea probelor și verificărilor, punerea în funcțiune și recepția lucrărilor.\nContractantul va avea obligația respectării cerințelor tehnice, a normelor de calitate, securitate și sănătate în muncă, precum și a reglementărilor aplicabile lucrărilor executate.\nTermenele de proiectare și execuție, condițiile de recepție, obligațiile privind garanția lucrărilor și echipamentelor, precum și celelalte condiții contractuale vor fi cele prevăzute în caietul de sarcini și în contractul încheiat cu operatorul economic desemnat câștigător.\nPlata se va efectua în baza documentelor justificative și a facturilor emise, în condițiile stabilite prin contract și cu respectarea legislației aplicabile."
+      }
+    ],
+    "documents": [
+      {
+        "name": "CAIET DE SARCINI LUCRARI DE REPARATII SI MODERNIZARE INSTALATII ELECTRICE.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743882"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1555334"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181606",
+    "title": "Servicii de proiectare, verificare tehnică, asistență tehnică din partea proiectantului și execuția lucrărilor pentru proiectul „ÎNFIINȚAREA SISTEMULUI PUBLIC DE ALIMENTARE CU APĂ ȘI COLECTAREA APELOR UZATE MENAJERE, ÎN AGLOMERAREA COADA LACULUI, ORAȘUL DĂRMĂNEȘTI, JUDEȚUL BACĂU”",
+    "authority": "4352921 - ORASUL DARMANESTI (PRIMARIA DARMANESTI)",
+    "cpv": [
+      "45231300-8"
+    ],
+    "published": "2026-10-30T14:55:36+02:00",
+    "deadline": "2026-11-20T15:00:00+02:00",
+    "value": "23821156,48 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335271/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "2.1. Demonstrarea unei abordări și a unei metodologii corespunzătoare pentru realizarea activităților de proiectare și obținerea rezultatelor în cadrul Contractului în ceea ce privesc serviciile de proiectare ofertate",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 10.0
+      },
+      {
+        "name": "2.2. Demonstrarea unei metodologii corespunzătoare pentru obținerea asigurării că activitățile de proiectare și rezultatele acestora sunt realizate la parametrii calitativi solicitați (Planul de management/gestionare a calității în cadrul Contractului)",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 10.0
+      },
+      {
+        "name": "2.3. Experiența experților cheie, concretizată în numărul de proiecte în care respectivii experți au îndeplinit același tip de activități ca cele pe care urmează să le îndeplinească în viitorul contract – Șeful de Proiect – inginer specializarea inginerie civilă",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 5.0
+      },
+      {
+        "name": "2.4. Experiența experților cheie, concretizată în numărul de proiecte în care respectivii experți au îndeplinit același tip de activități ca cele pe care urmează să le îndeplinească în viitorul contract – Inginerul proiectant specializarea construcții și alimentări cu apă și canalizări (inginerie sanitară / hidrotehnică / hidroenergetică)",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 5.0
+      },
+      {
+        "name": "2.5. Gradul de adecvare al graficului general de realizare a investiției publice (durata, succesiunea activităților și inter-relaționarea acestora, inclusiv drumul critic, identificarea punctelor cheie de control (jalonelor), resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia de executare a lucrărilor)",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 10.0
+      },
+      {
+        "name": "2.6. Demonstrarea unei metodologii corespunzătoare pentru obținerea asigurării că lucrările sunt realizate la parametrii calitativi solicitați (Planul de management al calității lucrărilor executate)",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 10.0
+      },
+      {
+        "name": "2.7. Experiența experților cheie, concretizată în numărul de proiecte în care respectivii experți au îndeplinit același tip de activități ca cele pe care urmează să le îndeplinească în viitorul contract – Managerului de contract – inginer specializarea inginerie civilă – (Coordonator colectiv de execuție) reprezentant al Antreprenorului",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 5.0
+      },
+      {
+        "name": "2.8. Experiența experților cheie, concretizată în numărul de proiecte în care respectivii experți au îndeplinit același tip de activități ca cele pe care urmează să le îndeplinească în viitorul contract – Șeful de Șantier – inginer specializarea inginerie civilă",
+        "description": "Componenta tehnica (descriere conform Caiet de sarcini)",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181606"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181605",
+    "title": "Servicii de supervizare a lucrărilor pentru execuția obiectivelor de investiții din cadrul proiectului integrat ”Promovarea patrimoniului cultural și istoric al municipiului Bârlad”",
+    "authority": "4539912 - MUNICIPIUL BARLAD",
+    "cpv": [
+      "71247000-1"
+    ],
+    "published": "2026-10-30T14:54:51+02:00",
+    "deadline": "2026-11-16T15:00:00+02:00",
+    "value": "450000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335270/",
+    "match_reason": {
+      "cpv": [
+        "71247000"
+      ],
+      "keywords": []
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "F2. Experiența profesională specifică a expertului cheie principal cu rol: Reprezentant Supervizor / Coordonator / manager / șef de proiect",
+        "description": "Componenta tehnică",
+        "weight": 33.0
+      },
+      {
+        "name": "F3.1. Experiența profesională specifică a expertului cheie principal cu rol: Diriginte de șantier – Drumuri, poduri, tunele, piste de aviație, transport pe cablu – de interes local (subdomeniul 3.3)",
+        "description": "Componenta tehnică",
+        "weight": 9.0
+      },
+      {
+        "name": "F3.2. Experiența profesională specifică a expertului cheie principal cu rol: Diriginte de șantier – Lucrări tehnico-edilitare de alimentări cu apă și de canalizare (subdomeniul 6.1)",
+        "description": "Componenta tehnică",
+        "weight": 9.0
+      },
+      {
+        "name": "F3.3. Experiența profesională specifică a expertului cheie principal cu rol: Diriginte de șantier – Instalații electrice (subdomeniul 8.1)",
+        "description": "Componenta tehnică",
+        "weight": 9.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181605"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1555325",
+    "title": "Servicii de elaborare documentatie in scopul obtinerii autorizatiei ISU , aferent proiect SMIS 325044",
+    "authority": "4905592 ORASUL ABRUD",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-10-30T14:24:43+02:00",
+    "deadline": "2026-11-05T14:00:00+02:00",
+    "value": "44586.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100743871",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de elaborare documentatie in scopul obtinerii autorizatiei ISU , aferent obiectiv\"Reabilitare si modernizare cladire existenta (corp principal Scoala Gimnaziala ), desfiintare centrala termica, construire anexa si depozit de lemne, amenajare teren sport si incinta\", COD SMIS 325044, in conformitate cu prevederile Orinului 180/2022 pentru aprobarea Normelor metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă-anexa 12",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "- Depunerea ofertei privind : elaborare documentatie in conformitate cu prevederie ordinulu 180/2022 -Anexa 12 (verificata de verificatori de proiecte atestati - cerinta Ci si Cc , inclusiv referatele verificatorilor de proiecte atestați pentru cerința „securitate la incendiu“ ) cu termen de realizare 30 zile de la data emiterii ordinului de incepere a serviciilor, pana la data limita din cadrul prezentului anunt (05.11.2026,ora 14,00) la sediul Primariei Orasului Abrud/ sau in cadrul platformei SEAP( in acest caz fiecare operator economic va informa autoritatea contractanta la adresa de e-mail : boncutiu_mihaela @yahoo.com -pana in data limita de depunere oferte, ora 16.00)/ sau pe adresa de e-mail: boncutiu_mihaela@yahoo.com."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Elaborare documentatie in termen de 30zile de la emiterea orinului de incepere, conform clauze contractuale  acceptate de ambele parti"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (achizitie directa)::ADV1555325"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181595",
+    "title": "Servicii de elaborare/actualizare în format GIS a Planului Urbanistic General și a Regulamentului Local de Urbanism pentru UAT Comuna Gogoșu, județul Dolj",
+    "authority": "4554009 - COMUNA GOGOSU( CONSILIUL LOCAL)",
+    "cpv": [
+      "71410000-5"
+    ],
+    "published": "2026-10-30T13:48:56+02:00",
+    "deadline": "2026-11-11T15:00:00+02:00",
+    "value": "375455,55 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335259/",
+    "match_reason": {
+      "cpv": [
+        "71410000"
+      ],
+      "keywords": [
+        "urbanism"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența similară a experților cheie",
+        "description": "Componenta tehnica",
+        "weight": 30.0
+      },
+      {
+        "name": "Metodologia de elaborare",
+        "description": "Componenta tehnica",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181595"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1555300",
     "title": "Servicii de studii, proiectare si asistenta tehnica pentru parc fotovoltaic de cca 400 kw cu stocare integrata si sistem de pompe de caldura",
