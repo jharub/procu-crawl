@@ -1,5 +1,91 @@
 [
   {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1555733",
+    "title": "Elaborare documentații pentru lucrări de alimentare cu apă – puț forat la obiectivul de investiții ”Reabilitare Casa Memorială Alexandru Macedonski” situat în comuna Goiești, sat Popeasa",
+    "authority": "4417150 CONSILIUL JUDETEAN DOLJ",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-11-03T15:41:54+02:00",
+    "deadline": "2026-11-11T14:00:00+02:00",
+    "value": "19000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744403",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Elaborare documentații pentru lucrări de alimentare cu apă – puț forat la obiectivul de investiții ”Reabilitare Casa Memorială Alexandru Macedonski” situat în comuna Goiești, sat Popeasa - conform cerintelor tehnice din caietul de sarcini nr. 17376/14.10.2026",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform documentatiei de atribuire care este pusa la dispozitia operatorilor economici in  SEAP. Data limita de primire a ofertelor este 11.11.2026   ora  14:00. \nAdresa la care se depun ofertele: \n\n- CONSILIUL JUDEŢEAN DOLJ – Str. Olteţ, nr.4, Craiova, județul Dolj,– Registratură.\n\nSAU\n\nPe e-mail :   cjdoljachizitii@yahoo.com"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Achizitia se va realiza pe baza unui contract de servicii.Modelul de contract este publicat in cadrul documentatiei de atribuire."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "DOCUMENTATIE DE ATRIBUIRE.rar.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744403"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1555733"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1555722",
+    "title": "Servicii integrate de proiectare si consultanta pentru obiectivul \"Imbunatatirea infrastructurii verzi in Municipiul Calafat-Parcul Poporului\"",
+    "authority": "4554424 Municipiul Calafat",
+    "cpv": [
+      "71242000-6"
+    ],
+    "published": "2026-11-03T15:20:41+02:00",
+    "deadline": "2026-11-06T11:19:33+02:00",
+    "value": "60000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744261",
+    "match_reason": {
+      "cpv": [
+        "71242000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii integrate de proiectare si consultanta pentru obiectivul \"Imbunatatirea infrastructurii verzi in Municipiul Calafat-Parcul Poporului\". Obiectul contractului il constituie serviciile necesare pregatirii si depunerii cererii de finantare in conformitate cu cerintele Ghidului Solicitantului si anexelor specifice, publicat pe  site-ul https://flagdunareadolj.ro/ghiduri-2021-2027",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform conditii specificate in Caietul de sarcini"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform specificatii Caiet sarcini"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "CS.rar.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744261"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1555722"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "SCN1181711",
     "title": "Instalare sistem panouri fotovoltaice – proiectare și execuție, la dormitoarele de  personal CF  din Stația Mangalia – SRTFC Constanța",
