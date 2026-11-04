@@ -11,6 +11,7 @@ si actualizeaza baza de date a site-ului static (docs/data.json - vezi site_data
 
 from __future__ import annotations
 
+import html
 import json
 import os
 
@@ -35,19 +36,22 @@ def _save_seen(seen: set[str]) -> None:
 
 
 def _format_item(item: dict) -> str:
+    # Mesajul pleaca cu parse_mode=HTML: orice "&" sau "<" neescapat dintr-un titlu
+    # face Telegram sa refuze tot mesajul ("can't parse entities").
+    esc = html.escape
     lines = [
-        f"<b>{item['title'][:200]}</b>",
-        f"Sursa: {item['source']}",
+        f"<b>{esc(item['title'][:200])}</b>",
+        f"Sursa: {esc(item['source'])}",
     ]
     if item.get("authority"):
-        lines.append(f"Autoritate: {item['authority']}")
+        lines.append(f"Autoritate: {esc(item['authority'])}")
     if item.get("deadline"):
-        lines.append(f"Termen: {item['deadline']}")
+        lines.append(f"Termen: {esc(str(item['deadline']))}")
     if item.get("value"):
-        lines.append(f"Valoare estimata: {item['value']}")
+        lines.append(f"Valoare estimata: {esc(str(item['value']))}")
     if item.get("cpv"):
-        lines.append(f"CPV: {', '.join(str(c) for c in item['cpv'])}")
-    lines.append(item.get("url", ""))
+        lines.append(f"CPV: {esc(', '.join(str(c) for c in item['cpv']))}")
+    lines.append(esc(item.get("url", "")))
     return "\n".join(lines)
 
 
