@@ -1,5 +1,48 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181772",
+    "title": "Proiectare si Executie lucrari pentru investitia : „Înființare sistem de canalizare în sat Nisipari, comuna Castelu, județul Constanța”",
+    "authority": "4515735 - COMUNA CASTELU (CONSILIUL LOCAL CASTELU)",
+    "cpv": [
+      "45232400-6"
+    ],
+    "published": "2026-11-04T18:37:21+02:00",
+    "deadline": "2026-11-23T15:00:00+02:00",
+    "value": "17103680,91 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335571/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Demonstrarea unei abordări și a unei metodologii corespunzătoare pentru realizarea activităților și obținerea rezultatelor în cadrul Contractului",
+        "description": "Componenta tehnică",
+        "weight": 24.0
+      },
+      {
+        "name": "Gradul de adecvare al graficului general de realizare a investiției publice (durata, succesiunea activităților și inter-relaționarea acestora, inclusiv drumul critic, identificarea punctelor cheie de control (jaloanelor)), resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia prezentată",
+        "description": "Componenta tehnică",
+        "weight": 20.0
+      },
+      {
+        "name": "Performanța de mediu",
+        "description": "Componenta tehnică",
+        "weight": 16.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181772"
+  },
+  {
     "source": "SICAP (achizitie directa)",
     "id": "ADV1555917",
     "title": "Servicii de proiectare faza DATC/PTh pentru obiectivul:Amplasare statie incinta stocare si distributie carburant (bazin motorina)",
