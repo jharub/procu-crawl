@@ -1,6 +1,220 @@
 [
   {
     "source": "SICAP (achizitie directa)",
+    "id": "ADV1556203",
+    "title": "Achizitia de servicii de elaborare a documentatiei tehnico-economice,faza studiu de fezabilitate (SF)",
+    "authority": "27259202 SERVICII PUBLICE ALEXANDRIA",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-11-05T16:39:35+02:00",
+    "deadline": "2026-11-12T12:00:00+02:00",
+    "value": "235000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744986",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "Servicii de elaborare Studiu de fezabilitate (SF), conform caietului de sarcini atașat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform caietului de sarcini atasat."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform caietului de sarcini atasat."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Conform caietului de sarcini atasat."
+      }
+    ],
+    "documents": [
+      {
+        "name": "RASPUNS+CAIET DE SARCINI+DOC..pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744986"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1556203"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181819",
+    "title": "Servicii de Elaborare PTE+DDE, asistență tehnică din partea proiectantului și execuție lucrări pentru obiectivul de investiții „Înființare distribuție gaze naturale în comuna Ghimpați, județul Giurgiu”",
+    "authority": "5123748 - Primaria Ghimpati Giurgiu",
+    "cpv": [
+      "45231221-0"
+    ],
+    "published": "2026-11-05T16:01:39+02:00",
+    "deadline": "2026-11-20T15:00:00+02:00",
+    "value": "8069098,37 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335664/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Termenul de execuție",
+        "description": "Vizează reducerea perioadei de ocupare a domeniului public și de afectare a traficului/accesului, precum și punerea mai rapidă în funcțiune a infrastructurii. Termenul maxim acceptat este 15 luni de la ordinul de începere a lucrărilor.",
+        "weight": 20.0
+      },
+      {
+        "name": "Experiența Managerului de proiect",
+        "description": "Experiența suplimentară a persoanei care coordonează integrat proiectarea și execuția poate reduce riscurile de necorelare între proiectare, avizare, execuție, resurse și termene. Cerința minimă este participarea în minimum 1 proiect/contract comparabil, care asigură conformitatea fără punctaj.",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența Coordonatorului de proiectare",
+        "description": "Coordonatorul influențează direct calitatea PTE+DDE, corelarea racordului de înaltă presiune, SRMP și rețelei de distribuție, precum și soluționarea observațiilor verificatorilor și avizatorilor. Cerința minimă este minimum 1 proiect/contract comparabil, fără punctaj.",
+        "weight": 15.0
+      },
+      {
+        "name": "Performanța de mediu a utilajelor principale de șantier",
+        "description": "Vizează reducerea emisiilor locale în perioada de execuție. Se evaluează utilajele mobile nerutiere principale asumate în planul de resurse pentru excavare/săpare, încărcare/manipulare, compactare și, după caz, generare/compresie, care utilizează motoare cu ardere internă. Utilajele cu emisii zero se consideră conforme nivelului maxim.",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181819"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181818",
+    "title": "Prestarea Serviciilor de elaborare Studiu de Fezabilitate, Studiu Topografic, Studiu Geotehnic, Documentatie CU si Documentatie Avize si Acorduri, Proiect DTAC si PTE, aferente obiectivului de investiții„ Asfaltarea retelei de drumuri locale, în Zona Banu Mărăcine si Zona Pepiniera, Comuna Carcea jud. Dolj”",
+    "authority": "16346370 - COMUNA CARCEA",
+    "cpv": [
+      "71322500-6"
+    ],
+    "published": "2026-11-05T16:00:49+02:00",
+    "deadline": "2026-11-16T15:00:00+02:00",
+    "value": "247933,88 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335663/",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": [
+        "studiu de fezabilitate",
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 60.0
+      },
+      {
+        "name": "Experienta profesionala  a Managerului de proiect (P2)",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      },
+      {
+        "name": "Experienta profesionala  specifica a  Inginerului proiectant lucrări de drumuri (P3)",
+        "description": "Componenta tehnica",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181818"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1556191",
+    "title": "Servicii de expertiza contabilitate si fiscalitate",
+    "authority": "RO13328043 COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" S.A.",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-11-05T15:44:15+02:00",
+    "deadline": "2026-11-10T23:59:00+02:00",
+    "value": "30000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744908",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": []
+    },
+    "description": "Servicii de expertiza contabilitate si fiscalitate",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform documentelor atasate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Comanda"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documente servicii de expertiza contabilitate fiscalitate 2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100744908"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1556191"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1181808",
+    "title": "Servicii de elaborare a documentației tehnico-economice la stadiul  PT + DDE, asistență tehnică din partea proiectantului, execuție lucrări în cadrul proiectului cu titlul „ DOTAREA SI REABILITAREA AMBULATORIULUI DIN CADRUL SPITALULUI CLINIC MUNICIPAL DE URGENTA MOINESTI IN VEDEREA IMPLEMENTARII DE PROGRAME DE SCREENING”",
+    "authority": "4278710 - Spitalul Clinic Municipal de Urgenta Moinesti",
+    "cpv": [
+      "45215140-0"
+    ],
+    "published": "2026-11-05T15:40:12+02:00",
+    "deadline": "2026-11-26T15:00:00+02:00",
+    "value": "4842010,2 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335651/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului, precum și o planificare adecvată a resurselor umane și a activităților",
+        "description": "Componenta tehnica",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența experților – implicați – Manager de proiect (contract)",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența experților – implicați – Șef/coordonator/director proiect",
+        "description": "Componenta tehnica",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181808"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
     "id": "ADV1556139",
     "title": "DALI PENTRU OBIECTIVUL „REABILITARE ȘI MODERNIZARE SISTEM DE SUPRAVEGHERE VIDEO ÎN MUNICIPIUL MOTRU”",
     "authority": "5455844 MUNICIPIUL MOTRU",
