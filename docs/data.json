@@ -1,6 +1,60 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1181887",
+    "title": "Servicii de proiectare (PT, DDE si asistenta tehnica din partea proiectantului) si executie lucrari pentru realizarea obiectivului: \"REABILITARE SI EXTINDERE STATIE DE EPURARE IN COMUNA PAULESTI, JUDETUL PRAHOVA\"",
+    "authority": "2843981 - COMUNA  PAULESTI",
+    "cpv": [
+      "45232420-2"
+    ],
+    "published": "2026-11-06T17:47:28+02:00",
+    "deadline": "2026-11-23T15:00:00+02:00",
+    "value": "13217240,34 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100335788/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Componenta tehnică - Subfactor \"Demonstrarea unei abordări și a unei metodologii corespunzătoare pentru realizarea activităților și obținerea rezultatelor în cadrul Contractului\"",
+        "description": "Componenta tehnica",
+        "weight": 9.0
+      },
+      {
+        "name": "Componenta tehnică - Subfactor \"Demonstrarea unei metodologii corespunzătoare pentru obținerea asigurării că lucrările sunt realizate la parametrii calitativi solicitați (Planul de management al calității serviciilor prestate si lucrărilor executate)\"",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "Componenta tehnică - Subfactor \"Experienta profesionala specifica a Coordonatorului de proiectare (Sef de proiect) - Pex1\"",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "Componenta tehnică - Subfactor \"Experienta profesionala specifica a Sefului de santier - Pex2\"",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "Caracteristici de mediu - numarul utilajelor si autovehiculelor cu propulsie integral electrica alocate contractului",
+        "description": "Componenta de mediu",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1181887"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1181873",
     "title": "PROCEDURA CU CLAUZA SUSPENSIVA- Achizitie lucrari (proiectare si executie) pentru proiectul - \"Centru de expertiză în boli rare Spital Clinic Dr C I Parhon Iasi\" și verificarea proiectarii- pe loturi",
     "authority": "4540895 - SPITALUL CLINIC DR. C. I. PARHON",
