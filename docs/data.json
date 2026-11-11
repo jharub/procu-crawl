@@ -1,5 +1,445 @@
 [
   {
+    "source": "TED",
+    "id": "786324-2026",
+    "title": "România – Lucrări de reparaţii generale şi de renovare – Servicii de proiectare și execuție de lucrări pentru Consolidare Cămin studenţesc B, Cod SMIS 357231",
+    "authority": "UNIVERSITATEA DUNAREA DE JOS",
+    "cpv": [
+      "45453000",
+      "45453000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-12-15+02:00",
+    "value": "24497052.28",
+    "url": "https://ted.europa.eu/en/notice/-/detail/786324-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::786324-2026"
+  },
+  {
+    "source": "TED",
+    "id": "786551-2026",
+    "title": "România – Lucrări de construcţii de poduri rutiere – Proiectare si Execuție Lucrări pentru obiectivul de investiție “RECONSTRUIRE POD PESTE PÂRÂUL TIMIȘUL SEC ȘI GRUPUL DE LINII CF TRIAJ PE STR. TIMIȘUL SEC, MUNICIPIUL BRAȘOV”",
+    "authority": "MUNICIPIUL BRASOV",
+    "cpv": [
+      "45221111",
+      "45221111",
+      "71322000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-12-07+02:00",
+    "value": "55879382.47",
+    "url": "https://ted.europa.eu/en/notice/-/detail/786551-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::786551-2026"
+  },
+  {
+    "source": "TED",
+    "id": "786644-2026",
+    "title": "România – Lucrări de arhitectură peisagistică a spaţiilor verzi – Proiectare si excutie lucrari aferente obiectivului de investitii Modernizarea infrastructurii verzi „Insula Salcioara” – Baza de Agrement Ostroveni",
+    "authority": "MUNICIPIUL RAMNICU VALCEA",
+    "cpv": [
+      "45112710",
+      "45112710",
+      "45112720",
+      "45223300",
+      "45262600",
+      "45316100",
+      "71322000",
+      "71330000",
+      "71356200"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-12-11+02:00",
+    "value": "26113936.16",
+    "url": "https://ted.europa.eu/en/notice/-/detail/786644-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::786644-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787076-2026",
+    "title": "România – Lucrări de construcţii de clădiri pentru transportul rutier – Servicii de proiectare și execuție lucrări pentru obiectivul ”CONSTRUIRE AUTOBAZA DE TRANSPORT, ORAȘUL BUFTEA, JUDEȚUL ILFOV”",
+    "authority": "Primaria Orasului Buftea",
+    "cpv": [
+      "45213310",
+      "45213310",
+      "35120000",
+      "39300000",
+      "45100000",
+      "45213314",
+      "45233226",
+      "45310000",
+      "45331000",
+      "45332400",
+      "71000000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "29366591.07",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787076-2026",
+    "match_reason": {
+      "cpv": [
+        "71000000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::787076-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787087-2026",
+    "title": "România – Lucrări de construcţii de canalizare de ape reziduale – Servicii proiectare – fazele PT, DE, Asistență tehnică și execuție lucrări aferente proiectului: „EXTINDERE SISTEM DE ALIMENTARE CU APA POTABILA SI SISTEME PENTRU COLECTAREA APELOR UZATE MENAJERE IN SATELE PETRU RARES, DIMITRIE CANTEMIR, RADU VODA, COMUNA IZVOARELE, JUDETUL GIURGIU “",
+    "authority": "Comuna Izvoarele (Primaria Izvoarele Giurgiu)",
+    "cpv": [
+      "45232400",
+      "45232400",
+      "45232150",
+      "71322000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "26276089.07",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787087-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::787087-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787449-2026",
+    "title": "România – Servicii de supraveghere a lucrărilor – Servicii de supervizare aferente proiectului „CORIDOR DE MOBILITATE „MAGISTRALA VERDE” ÎN TIMIȘOARA – BD. 16 DECEMBRIE 1989 – CALEA ȘAGULUI ” - Cod SMIS 356962, finanțat prin Programul Regional Vest 2021-2027",
+    "authority": "Municipiul Timisoara",
+    "cpv": [
+      "71520000",
+      "71520000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-12-16+02:00",
+    "value": "3506126.64",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787449-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::787449-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787568-2026",
+    "title": "România – Staţie electrică de transformare – Modernizare statii de transformare din gestiunea DELGAZ Grid, dupa cum urmeaza: Lot 1 - Modernizare stații de transformare Siret, Bucecea, Dorohoi Cod SMIS: 127729 Lot 2 - Modernizare statie de transformare 110/20 kV Vicov Cod SMIS 141868",
+    "authority": "DELGAZ GRID S.A.",
+    "cpv": [
+      "45232221",
+      "45232221",
+      "45232221",
+      "45232200",
+      "71323100",
+      "71340000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787568-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::787568-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787690-2026",
+    "title": "România – Lucrări de construcţii de unităţi spitaliceşti – Servicii de proiectare (PT+DDE), asistenţă tehnică din partea proiectantului şi execuţie lucrări pentru obiectivul de investiţie „Construire Corp nou – Departament Sănătatea mamei și copilului Spitalul Clinic Judeţean de Urgenţă Sf. Apostol Andrei Constanţa”",
+    "authority": "CONSILIUL JUDETEAN CONSTANTA",
+    "cpv": [
+      "45215140",
+      "45215140",
+      "71311100",
+      "71322000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787690-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::787690-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787741-2026",
+    "title": "România – Servicii de inginerie – SERVICII DE PROIECTARE PENTRU ELABORARE DE DOCUMENTAȚII TEHNICO - ECONOMICE",
+    "authority": "SECTOR 3 (PRIMARIA SECTOR 3 BUCURESTI)",
+    "cpv": [
+      "71300000",
+      "71300000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "136985000",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787741-2026",
+    "match_reason": {
+      "cpv": [
+        "71300000",
+        "71300000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::787741-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787779-2026",
+    "title": "România – Lucrări de construcţii de linii de tramvai – Contract servicii de proiectare asistenta tehnica din partea proiectului si lucrari de executie reabilitare sistem rutier: Lot 1, Lot 2.",
+    "authority": "MUNICIPIUL BUCURESTI",
+    "cpv": [
+      "45234126",
+      "45234126",
+      "45234126",
+      "45234128",
+      "45310000",
+      "71322500",
+      "71356200",
+      "45234128",
+      "45310000",
+      "71322500",
+      "71356200"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787779-2026",
+    "match_reason": {
+      "cpv": [
+        "71322500",
+        "71322500"
+      ],
+      "keywords": []
+    },
+    "key": "TED::787779-2026"
+  },
+  {
+    "source": "TED",
+    "id": "787833-2026",
+    "title": "România – Lucrări de construcţii de intersecţii cu sens giratoriu – Elaborare Proiect Tehnic si Executie Lucrari pentru Autostrada de centura Bucuresti, km 0+000 – km 100+900, sector Centura Nord km 0+000 - 52+770 (Asigurarea tuturor relatiilor de trafic in nodul rutier pe DN7 (km 9+400) cu Autostrada A0)",
+    "authority": "COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+    "cpv": [
+      "45233128",
+      "45233128",
+      "71322500"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-12-03+02:00",
+    "value": "41037682",
+    "url": "https://ted.europa.eu/en/notice/-/detail/787833-2026",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": []
+    },
+    "key": "TED::787833-2026"
+  },
+  {
+    "source": "TED",
+    "id": "788023-2026",
+    "title": "România – Servicii de proiectare tehnică pentru construcţia de lucrări publice – Servicii de elaborare DTAC, Proiect tehnic și detalii de execuție (PT +DDE), inclusiv verificare si asistenta tehnica din partea proiectantului pentru proiectul Regenerarea unor zone degradate și a unor spații verzi din UAT MUNICIPIUL TURDA - PARC TINERETULUI",
+    "authority": "MUNICIPIUL TURDA",
+    "cpv": [
+      "71322000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-12-02+02:00",
+    "value": "519220",
+    "url": "https://ted.europa.eu/en/notice/-/detail/788023-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::788023-2026"
+  },
+  {
+    "source": "TED",
+    "id": "788026-2026",
+    "title": "România – Servicii de consultanţă în domeniul ingineriei şi al construcţiilor – Contract - Servicii de supervizare și dirigenție de șantier pentru obiectivele de investiții: LOT 1 - Modernizare Depoul de Tramvaie Colentina; LOT 2 - Modernizare Depoul de Tramvaie Titan",
+    "authority": "MUNICIPIUL BUCURESTI",
+    "cpv": [
+      "71310000",
+      "71310000",
+      "71310000",
+      "71520000",
+      "71520000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-12-22+02:00",
+    "value": "8327663.81",
+    "url": "https://ted.europa.eu/en/notice/-/detail/788026-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::788026-2026"
+  },
+  {
+    "source": "TED",
+    "id": "788265-2026",
+    "title": "România – Lucrări de construcţii de unităţi spitaliceşti – Proiectare și execuție lucrări pentru obiectivul de investiție „CONSTRUIRE IMOBIL CU FUNCȚIUNEA DE SPITAL, FUNCȚIUNI COMPLEXE ȘI ORGANIZARE EXECUTARE LUCRĂRI, ÎN BULEVARDUL TIMIȘOARA NR. 101E, SECTOR 6, BUCUREȘTI”",
+    "authority": "SECTORUL 6 AL MUNICIPIULUI BUCURESTI",
+    "cpv": [
+      "45215140",
+      "45215140",
+      "33100000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "348849509.35",
+    "url": "https://ted.europa.eu/en/notice/-/detail/788265-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::788265-2026"
+  },
+  {
+    "source": "TED",
+    "id": "788435-2026",
+    "title": "România – Lucrări de construcţii de căi ferate – Serv. de elab. a docum. tehnico,economice, faza PT+PAC+DDE+asistenta tehnica din partea proiectantului pe parcursul executiei lucr.+Certificat de performanta energetica pt cladirile aferente depoului+docum. pt obtinerea avizelor si autorizatiei de securitate la incendiu+docum. avize si EXECUTIE lucrari in cadrul proiectului-Componenta:Modernizare depou tramvaie în Mun. Craiova, cod SMIS 334142",
+    "authority": "Municipiul Craiova",
+    "cpv": [
+      "45234100",
+      "45234100",
+      "45234127",
+      "45310000",
+      "71314300",
+      "71322000",
+      "71322500",
+      "71335000",
+      "71356200"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "67227620",
+    "url": "https://ted.europa.eu/en/notice/-/detail/788435-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322500"
+      ],
+      "keywords": []
+    },
+    "key": "TED::788435-2026"
+  },
+  {
+    "source": "TED",
+    "id": "788716-2026",
+    "title": "România – Servicii de supraveghere a lucrărilor – Servicii de supervizare a lucrărilor de execuție a obiectivului: „Revitalizarea turismului în Galați, prin valorificarea durabilă a elementelor de patrimoniu cultural și natural de pe Faleza Dunării”.",
+    "authority": "Municipiul Galati",
+    "cpv": [
+      "71520000",
+      "71520000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "2026-11-24+02:00",
+    "value": "1800000",
+    "url": "https://ted.europa.eu/en/notice/-/detail/788716-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::788716-2026"
+  },
+  {
+    "source": "TED",
+    "id": "789010-2026",
+    "title": "România – Servicii de transport rutier – “Servicii de închiriere vehicule si utilaje și urmărire prin GPS a acestora\" - 8 loturi",
+    "authority": "DISTRIBUȚIE ENERGIE ELECTRICĂ ROMANIA S.A.",
+    "cpv": [
+      "60100000",
+      "60100000",
+      "60100000",
+      "60100000",
+      "60100000",
+      "60100000",
+      "60100000",
+      "60100000",
+      "60100000",
+      "71700000",
+      "71700000",
+      "71700000",
+      "71700000",
+      "71700000",
+      "71700000"
+    ],
+    "published": "2026-11-12+01:00",
+    "deadline": "",
+    "value": "19437346",
+    "url": "https://ted.europa.eu/en/notice/-/detail/789010-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::789010-2026"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182046",
+    "title": "Execuție lucrări aferente obiectivului de investiții „Reabilitare Scuar Petöfi Șándor”, Municipiul Blaj, jud. Alba",
+    "authority": "RO 4563007 - Municipiul Blaj",
+    "cpv": [
+      "45112711-2"
+    ],
+    "published": "2026-11-11T20:31:58+02:00",
+    "deadline": "2026-11-27T15:00:00+02:00",
+    "value": "3697884,82 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336080/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182046"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "SCN1182029",
     "title": "Imbunatatirea calitatii vietii populatiei in orasul Campeni-componenta Scoala generala Campeni- Expertiza tehnica constructie aflata in stadiu partial de executie",
