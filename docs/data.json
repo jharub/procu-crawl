@@ -1,5 +1,402 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182088",
+    "title": "Proiectare si executie\"Terasa verde si fatada verde Parking Motilor\"",
+    "authority": "4305857 - Municipiul Cluj-Napoca",
+    "cpv": [
+      "45112713-6"
+    ],
+    "published": "2026-11-12T14:27:38+02:00",
+    "deadline": "2026-12-03T15:00:00+02:00",
+    "value": "8297133 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336164/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "arhitectura"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 70.0
+      },
+      {
+        "name": "Experienta similara detinuta de coordonator de proiect",
+        "description": "Experienta detinuta in pozitia de coordonator de proiect si/ sau Director Proiect si/ sau Coordonator Proiect si/ sau Adjunct Director Proiect si/ sau Adjunct Manager Proiect si/ sau Adjunct Coordonator Proiect sau similar in cadrul unor contracte de executie lucrări si/sau proiectare si executie lucrări de acoperisuri verzi (cerinta minima 1 lucrare)",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182088"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1557304",
+    "title": "Republicare anunț proiect tehnic reparații vile cazare (solicitare anulare anunț ADV1557160 - eliminare detalii de execuție)",
+    "authority": "3503619 MEMORIALUL IPOTESTI-CENTRUL NATIONAL DE STUDII ,,MIHAI EMINESCU\"",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-11-12T14:11:09+02:00",
+    "deadline": "2026-11-17T09:00:00+02:00",
+    "value": "165289.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746344",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "1. Tip anunț: Invitație de participare ACHIZIȚIE DIRECTĂ\n2. Autoritate contractantă\nDenumire: Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu”\nCod Unic de Înregistrare (CUI): 3503619\nAdresă: Sat Ipotești, Comuna Mihai Eminescu, Județul Botoșani, cod poștal 717253\nDate de contact: Tel. 0371020346 / E-mail: m.ipotesti@gmail.com\n3. Obiectul achiziției\nDenumire contract: Servicii de proiectare (Elaborare DTAC – Documentația Tehnică pentru Autorizarea Executării Lucrărilor de Construire și Proiect Tehnic – PT), inclusiv suportarea costurilor aferente taxelor și serviciilor de know-how necesare pentru obținerea autorizației de construire, precum și Asistență Tehnică din partea proiectantului pentru obiectivul de investiții „Reparații capitale vile de cazare (Bungalow) la Memorialul Ipotești – Centrul național de studii Mihai Eminescu” (7 vile independente, regim de înălțime P+M).\nCod CPV Principal: 71322000-1 – Servicii de proiectare tehnică pentru construcția de lucrări publice\nCoduri CPV Secundare:71318000-0 – Servicii de consultanță și asistență tehnică\nDescriere succintă: Elaborarea DTAC și PT pe baza D.A.L.I. aprobat prin HCJ Botoșani nr. 76/26.03.2026, structurată obligatoriu pe 7 obiecte de construcție distincte (pentru a permite execuția etapizată), acoperirea costurilor taxelor și serviciilor de know-how pentru obținerea autorizației de construire, precum și asigurarea asistenței tehnice pe durata execuției lucrărilor.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "6. Condiții de participare (Cerințe minime)\nCapacitatea de exercitare a activității profesionale: Certificat Constatator emis de ONRC din care să reiasă obiectul de activitate autorizat corespunzător codurilor CPV ale achiziției.\nExperiență similară: Servicii similare (proiectare, verificare sau asistență tehnică pentru construcții civile) duse la bun sfârșit în ultimii 3 ani.\nEchipa minimă de specialiști: Arhitect cu drept de semnătură OAR, inginer structură (rezistență), ingineri instalații (sanitare, termice, electrice).\nVizitarea amplasamentului: Autoritatea contractantă informează că, dată fiind locația de execuție a lucrărilor, pentru înțelegerea obiectivului propus prin documentația de atribuire, operatorii economici interesați în depunerea ofertelor trebuie să efectueze o vizită de amplasament, procesul verbal de vizitare fiind necesar a fi prezentat în cadrul propunerii tehnice și va fi contrasemnat de către reprezentantul Beneficiarului.\nMotive de excludere:\nDeclarație privind neîncadrarea în prevederile art. 60 din Legea 98/2016 privind achizițiile publice.\nDeclarație privind neîncadrarea în prevederile art. 164 din Legea 98/2016 privind achizițiile publice.\nDeclarație privind neîncadrarea în prevederile art. 165 coroborat cu art. 166 din Legea 98/2016 privind achizițiile publice.\nDeclarație privind neîncadrarea în prevederile art. 167 din Legea 98/2016 privind achizițiile publice"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "4. Valoarea estimată și condiții financiare\nValoare totală estimată: 165.289,00 lei fără TVA (respectiv 200.000,00 lei cu TVA 21%).\nNotă: Valoarea ofertată pentru Faza I va include în mod obligatoriu și costul tuturor taxelor și serviciilor de tip know-how necesare pentru obținerea autorizației de construire.\nPlafonare bugetară obligatorie (sub sancțiunea declarării ofertei ca neconformă):\nEtapa / Faza serviciilor\tValoare fără TVA\tValoare cu TVA (21%)\nFaza I (DTAC, Proiectare PT, inclusiv taxe/know-how autorizație de construire)\tMinimum 155.289,00 lei\tMinimum 187.900,00 lei\nFaza II (Asistență Tehnică din partea proiectantului)\tMaximum 10.000,00 lei\tMaximum 12.100,00 lei\nTOTAL ESTIMAT ACHIZIȚIE\t165.289,00 lei\t200.000,00 lei\nModalitate de plată: Etapizat, prin OP în cont de Trezorerie, în termen de 30 de zile de la emiterea facturii electronice (RO e-Factura), în baza proceselor-verbale de recepție fără obiecțiuni.\n5. Durata contractului / Termene de prestare\nFaza I (DTAC, PT și demersuri/taxe obținere autorizație de construire): Maximum 28 de zile calendaristice de la data emiterii ordinului de începere a serviciilor.\nFaza II (Asistență Tehnică): Pe toată durata execuției lucrărilor, până la recepția la terminarea acestora (cu clauză de suspendare de drept în cazul nealocării fondurilor de execuție în termen de 12 luni de la recepția PT)."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "7. Criteriul de atribuire și modul de prezentare a ofertei\nCriteriu de atribuire: Prețul cel mai scăzut, cu respectarea strictă a cerințelor din Caietul de Sarcini și a plafonului maxim pentru Faza II.\nData și ora limită de depunere a ofertelor: 17.11.2026, ora 09:00.\nModul de transmitere a ofertelor: Ofertele (Propunerea Tehnică, Propunerea Financiară defalcată pe faze și documentele de calificare) se vor transmite pe adresa de e-mail m.ipotesti@gmail.com până la termenul limită menționat mai sus.\nPostare în catalogul SEAP: Ofertantul desemnat câștigător va posta oferta financiară în catalogul electronic SEAP, la solicitarea Autorității Contractante"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet sarcini PT.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746344"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1557304"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098279",
+    "title": "Servicii de proiectare și execuție de lucrări pentru Consolidare Cămin studenţesc B, Cod SMIS  357231",
+    "authority": "3127522 - UNIVERSITATEA DUNAREA DE JOS",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-11-12T13:00:33+02:00",
+    "deadline": "2026-12-15T15:00:00+02:00",
+    "value": "24497052,28 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336135/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Garanţie extinsă a lucrării",
+        "description": "Componenta tehnică",
+        "weight": 15.0
+      },
+      {
+        "name": "Experienţă Expert cheie – Manager de contract",
+        "description": "Componenta tehnică - Calitatea şi experienţa profesională a personalului desemnat pentru executarea contractului (experţi cheie propuşi) pentru realizarea activităţilor în cadrul contractului - Se va puncta experienţa profesională a Managerului de contract.\n\nExperiență în ocuparea unei poziții prin prisma căreia a avut responsabilități şi sarcini de manager / coordonator contract în cadrul a minim 1 contract ce a inclus lucrări de construire/ reabilitare / modernizare / extindere clădiri civile cuprinse cel puțin în categoria de importanță C, conform prevederilor H.G. nr. 766/1997, cu modificările și completările ulterioare.",
+        "weight": 10.0
+      },
+      {
+        "name": "Experienţă Expert cheie - Arhitect - şef, specialitate arhitectură",
+        "description": "Componenta tehnică - Calitatea şi experienţa profesională a personalului desemnat pentru executarea contractului (experţi cheie propuşi) pentru realizarea activităţilor în cadrul contractului - Se va puncta experienţa profesională a Arhitect - şef, specialitate arhitectură în cadrul echipei de proiectare.\n\nExperienţa profesională specifică demonstrată prin deţinerea calităţii de Arhitect - şef, specialitate arhitectură, in echipă proiectare în contracte în care a prestat activităţi similare cu cele ce fac obiectul achiziţiei. Prin activităţi similare cu cele ce fac obiectul achiziţiei se înţelege servicii de elaborare şi/sau actualizare şi/sau revizuire documentaţii tehnico – economice pentru lucrări de construcţie şi/sau reabilitare şi/sau modernizare aferente unor clădiri civile cuprinse cel puțin în categoria de importanță C, conform prevederilor H.G. nr. 766/1997, cu modificările și completările ulterioare.",
+        "weight": 8.0
+      },
+      {
+        "name": "Experienţa Expertului cheie - Inginer proiectant structuri de rezistenta",
+        "description": "Componenta tehnică - Calitatea şi experienţa profesională a personalului desemnat pentru executarea contractului (experţi cheie propuşi) pentru realizarea activităţilor în cadrul contractului - Se va puncta experiența specifică a Inginerului proiectant structuri de rezistenta în cadrul echipei de proiectare.\n\nExperiența profesională specifică deținută în cadrul unei poziții/funcții similare prin prisma căreia a avut responsabilități și sarcini de Inginer proiectant structuri de rezistenta sau similare, atât in contracte de servicii de proiectare cât și în cadrul unor contracte de lucrări cu componentă de proiectare  care au avut ca obiect lucrari de construire/reabilitare/modernizare/extindere constructii civile (cladiri) cuprinse cel putin in categoria de importanta C conform prevederilor Hotărârii Guvernului nr. 766/1997 cu modificările și completările ulterioare.",
+        "weight": 7.0
+      },
+      {
+        "name": "Experiența Expertului cheie - Inginer proiectant instalaţii sanitare",
+        "description": "Componenta tehnică - Calitatea şi experienţa profesională a personalului desemnat pentru executarea contractului (experţi cheie propuşi) pentru realizarea activităţilor în cadrul contractului - Se va puncta experiența profesională a Inginerului proiectant instalaţii sanitare.\n\nExperiența profesională specifică in ocuparea unei pozitii prin prisma careia a avut responsabilitati si sarcini de Inginer proiectant instalaţii sanitare sau similare, atât in contracte de servicii de proiectare cât și în cadrul unor contracte de lucrări cu componentă de proiectare care au avut ca obiect lucrari de construire/reabilitare/modernizare/extindere constructii civile (cladiri) cuprinse cel putin in categoria de importanta C conform prevederilor Hotărârii Guvernului nr. 766/1997 cu modificările și completările ulterioare.",
+        "weight": 5.0
+      },
+      {
+        "name": "Experiența Expertului cheie - Inginer proiectant instalatii termice, ventilație și climatizare",
+        "description": "Componenta tehnică - Calitatea şi experienţa profesională a personalului desemnat pentru executarea contractului (experţi cheie propuşi) pentru realizarea activităţilor în cadrul contractului - Se va puncta experiența profesională a Inginerului proiectant instalatii termice, ventilație și climatizare.\n\nExperiența profesională specifică in ocuparea unei pozitii prin prisma careia a avut responsabilitati si sarcini de Inginer proiectant instalatii termice, ventilație și climatizare sau similare, atât in contracte de servicii de proiectare cât și în cadrul unor contracte de lucrări cu componentă de proiectare care au avut ca obiect lucrari de construire/reabilitare/modernizare/extindere constructii civile (cladiri) cuprinse cel putin in categoria de importanta C conform prevederilor Hotărârii Guvernului nr. 766/1997 cu modificările și completările ulterioare.",
+        "weight": 5.0
+      },
+      {
+        "name": "Gestionarea deșeurilor de pe șantier",
+        "description": "Componenta tehnică",
+        "weight": 5.0
+      },
+      {
+        "name": "Gradul de adecvare al graficului general de realizare a investiției (durata, succesiunea activităților și inter-relaționarea acestora, inclusiv drumul critic, identificarea punctelor cheie de control, resursele alocate pentru realizarea activităților și subactivităților în cadrul Contractului prin raportarea la metodologia prezentată.",
+        "description": "Componenta tehnică",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098279"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1557233",
+    "title": "Clarificare privind Anuntul publicitate nr. ADV1556022/05.11.2026",
+    "authority": "4652686 JUDETUL TELEORMAN",
+    "cpv": [
+      "71241000-9"
+    ],
+    "published": "2026-11-12T11:40:58+02:00",
+    "deadline": "2026-11-12T16:00:00+02:00",
+    "value": "147000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100745909",
+    "match_reason": {
+      "cpv": [
+        "71241000"
+      ],
+      "keywords": []
+    },
+    "description": "Clarificare privind Anuntul publicitate nr. ADV1556022/05.11.2026",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Clarificare privind Anuntul publicitate nr. ADV1556022/05.11.2026"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Clarificare privind Anuntul publicitate nr. ADV1556022/05.11.2026"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Clarificare privind Anuntul publicitate nr. ADV1556022/05.11.2026"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Raspuns_Clarificare.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100745909"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1557233"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1557228",
+    "title": "EXPERTIZA TEHNICA HALA STATIE SPALARE AUTOBAZA FERENTARI",
+    "authority": "1589886 Societatea de Transport Bucuresti STB SA – Societate în Insolvență/ In Insolvency/ en Procedure Collective",
+    "cpv": [
+      "71319000-7"
+    ],
+    "published": "2026-11-12T11:35:08+02:00",
+    "deadline": "2026-11-17T23:59:00+02:00",
+    "value": "127000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746260",
+    "match_reason": {
+      "cpv": [
+        "71319000"
+      ],
+      "keywords": [
+        "expertiza tehnica"
+      ]
+    },
+    "description": "Societatea de Transport București STB S.A. intenționează achiziționarea cf. Art. 12 din Legea 99/2016 de “EXPERTIZA TEHNICA HALA STATIE SPALARE AUTOBAZA FERENTARI\"- conform Caietului de sarcini atașat.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform prevederilor Caietului de sarcini atasat."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Achiziția se va finaliza prin comandă/contract, având la baza oferta desemnată câștigătoare si condițiile Caietului de sarcini atasat."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Prețul cel mai scăzut."
+      }
+    ],
+    "documents": [
+      {
+        "name": "SVA 444 - EXPERTIZA TEHNICA HALA STATIE SPALARE AUTOBAZA FERENTARI - 12.10.2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746260"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1557228"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1557219",
+    "title": "Servicii de coordonare în materie de sănătate și securitate potrivit prevederilor Hotărârii Guvernului nr. 300/2006 privind cerințele minime de securitate și sănătate pentru șantierele temporare sau mobile, pentru lucrări aferente obiectivului de investiţii \"Servicii de proiectare si executie lucrar",
+    "authority": "3127522 UNIVERSITATEA DUNAREA DE JOS",
+    "cpv": [
+      "71317000-3"
+    ],
+    "published": "2026-11-12T11:18:04+02:00",
+    "deadline": "2026-11-17T14:00:00+02:00",
+    "value": "90000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746249",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de coordonare în materie de sănătate și securitate potrivit prevederilor Hotărârii Guvernului nr. 300/2006 privind cerințele minime de securitate și sănătate pentru șantierele temporare sau mobile, pentru lucrări aferente obiectivului de investiţii \"Servicii de proiectare si executie lucrari pentru Consolidare Corp F\", campus Stiinței, str. Domnească, nr. 111, cod SMIS 330906",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Adresa la care se transmit ofertele:  Universitatea “Dunărea de Jos” din Galaţi, Str. Domnească Nr. 47, Galaţi, România, cod poştal 800008, Registratură sau la adresa de mail nicoleta.chiriac@ugal.ro"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Plata serviciilor se va efectua etapizat, în baza rapoartelor de lucru recepționate, proporțional cu stadiul fizic al lucrărilor confirmate, conform condițiilor prevăzute în caietul de sarcini, în termen de maximum 30 de zile de la emiterea facturii."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Oferta desemnată câștigătoare va fi stabilită pe criteriul: “prețul cel mai scăzut”"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Invitatie depunere oferte Coordonator SSM Corp F.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746249"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1557219"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182072",
+    "title": "Servicii de proiectare, asistență tehnică și execuție lucrări pentru obiectivul de investiții\n”CONSOLIDARE ȘI REABILITARE BLOC DIN LOCALITATEA CHIEȘD NR.600, JUDEȚUL SĂLAJ”",
+    "authority": "4291980 - COMUNA CHIESD",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-11-12T10:09:29+02:00",
+    "deadline": "2026-12-02T15:00:00+02:00",
+    "value": "19919463,64 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336111/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 75.0
+      },
+      {
+        "name": "Organizare si metodologia",
+        "description": "Punctajul privind organizarea și metodologia propusă (Pom) se va obține prin însumarea punctelor acordate pentru fiecare subfactor de evaluare menționat mai jos. Punctajul maxim pentru acest factor de evaluare (Pom) este de 15 puncte.",
+        "weight": 15.0
+      },
+      {
+        "name": "Garanţia tehnică suplimentară acordată lucrărilor",
+        "description": "Garanţia tehnică suplimentară acordată lucrărilor",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182072"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182067",
+    "title": "Pachet de soft-uri pentru facilitatea lucrului în BIM",
+    "authority": "12859080 - Ministerul Apararii - Centrul de Studii si Proiectare Constructii Militare",
+    "cpv": [
+      "48321000-4"
+    ],
+    "published": "2026-11-12T09:50:12+02:00",
+    "deadline": "2026-11-24T15:00:00+02:00",
+    "value": "375206,61 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336105/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182067"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1557160",
+    "title": "Proiect tehnic reparații capitale vile cazare",
+    "authority": "3503619 MEMORIALUL IPOTESTI-CENTRUL NATIONAL DE STUDII ,,MIHAI EMINESCU\"",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-11-12T09:12:12+02:00",
+    "deadline": "2026-11-17T09:00:00+02:00",
+    "value": "165289.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746172",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "1. Tip anunț: Invitație de participare ACHIZIȚIE DIRECTĂ\n2. Autoritate contractantă\n•\tDenumire: Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu”\n•\tCod Unic de Înregistrare (CUI): 3503619\n•\tAdresă: Sat Ipotești, Comuna Mihai Eminescu, Județul Botoșani, cod poștal 717253\n•\tDate de contact: Tel. 0371020346 / E-mail: m.ipotesti@gmail.ro\n3. Obiectul achiziției\n•\tDenumire contract: Servicii de proiectare (Elaborare DTAC- Documentația Tehnică pentru Autorizarea Executării Lucrărilor de Construire și Proiect Tehnic – PT, Detalii de Execuție – DE), Asistență Tehnică din partea proiectantului pentru obiectivul de investiții „Reparații capitale vile de cazare (Bungalow) la Memorialul Ipotești – Centrul național de studii Mihai Eminescu” (7 vile independente, regim de înălțime P+M).\n•\tCod CPV Principal: 71322000-1 – Servicii de proiectare tehnică pentru construcția de lucrări publice\n•\tCoduri CPV Secundare: 71318000-0 – Servicii de consultanță și asistență tehnică\n•\tDescriere succintă: Elaborarea DTAC și PT + DE pe baza D.A.L.I. aprobat prin HCJ Botoșani nr. 76/26.03.2026, structurată obligatoriu pe 7 obiecte de construcție distincte (pentru a permite execuția etapizată), asigurarea asistenței tehnice pe durata execuției lucrărilor",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "6. Condiții de participare (Cerințe minime)\n•\tCapacitatea de exercitare a activității profesionale: Certificat Constatator emis de ONRC din care să reiasă obiectul de activitate autorizat corespunzător codurilor CPV ale achiziției.\n•\tExperiență similară: Servicii similare (proiectare, verificare sau asistență tehnică pentru construcții civile) duse la bun sfârșit în ultimii 3 ani.\n•\tEchipa minimă de specialiști: Arhitect cu drept de semnătură OAR, inginer structură (rezistență), ingineri instalații (sanitare, termice, electrice) .\n•\tVizitarea amplasamentului : Autoritatea contractantă informează că, dată fiind locația de execuție a lucrărilor, pentru înțelegerea obiectivului propus prin documentația de atribuire, operatorii economici interesați în depunerea ofertelor trebuie să efectueze o vizită de amplasament, procesul verbal de vizitare fiind necesar a fi prezentat în cadrul propunerii tehnice și va fi contrasemnat de către reprezentantul Beneficiarului.\n\nCompletare:\n\nMotive de excludere:\nDeclarație privind neîncadrarea în prevederile art.60 din Legea 98/2016 privind achizițiile publice. \nDeclarație privind neîncadrarea în prevederile art.164 din Legea 98/2016 privind achizițiile publice. \nDeclarație privind neîncadrarea în prevederile art.165 coroborat cu art 166 din Legea 98/2016 privind achizițiile publice. \nDeclarație privind neîncadrarea în prevederile art.167 din Legea 98/2016 privind achizițiile publice."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "4. Valoarea estimată și condiții financiare\n•\tValoare totală estimată: 165.289,00 lei fără TVA (respectiv 200.000,00 lei cu TVA 21%).\n•\tPlafonare bugetară obligatorie (sub sancțiunea declarării ofertei ca neconformă):\nEtapa / Faza serviciilor\tValoare fără TVA\tValoare cu TVA (21%)\nFaza I  (DTAC, Proiectare PT+DE)\tMinimum 155.289,00 lei\tMinimum 187.900,00 lei\nFaza II (Asistență Tehnică din partea proiectantului)\tMaximum 10.000,00 lei\tMaximum 12.100,00 lei\nTOTAL ESTIMAT ACHIZIȚIE\t165.289,00 lei\t200.000,00 lei\n\n•\tModalitate de plată: Etapizat, prin OP în cont de Trezorerie, în termen de 30 de zile de la emiterea facturii electronice (RO e-Factura), în baza proceselor-verbale de recepție fără obiecțiuni.\n5. Durata contractului / Termene de prestare\n•\tFaza I  (DTAC, PT + DE ): Maximum 28 de zile calendaristice de la data emiterii ordinului de începere a serviciilor.\n•\tFaza II (Asistență Tehnică): Pe toată durata execuției lucrărilor, până la recepția la terminarea acestora (cu clauză de suspendare de drept în cazul nealocării fondurilor de execuție în termen de 12 luni de la recepția PT)."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "7. Criteriul de atribuire și modul de prezentare a ofertei\n•\tCriteriu de atribuire: Prețul cel mai scăzut, cu respectarea strictă a cerințelor din Caietul de Sarcini și a plafonului maxim pentru Faza II.\n•\tData și ora limită de depunere a ofertelor: 17.11.2026, ora 09:00.\n•\tModul de transmitere a ofertelor: Ofertele (Propunerea Tehnică, Propunerea Financiară defalcată pe faze și documentele de calificare) se vor transmite pe adresa de e-mail m.ipotesti@gmail.com până la termenul limită menționat mai sus.\n•\tPostare în catalogul SEAP: Ofertantul desemnat câștigător va posta oferta financiară în catalogul electronic SEAP , la solicitarea Autorității Contractante."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet sarcini_PT vile cazare_v2.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100746172"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1557160"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182059",
+    "title": "Serviciul de proiectare reparatie si refacere terasa Cladire Administrativa la Depoul Suceava",
+    "authority": "RO 11054545 - SNTFC ,,CFR CALATORI\" SA",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-11-12T08:57:18+02:00",
+    "deadline": "2026-11-25T15:00:00+02:00",
+    "value": "15000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336095/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182059"
+  },
+  {
     "source": "TED",
     "id": "786324-2026",
     "title": "România – Lucrări de reparaţii generale şi de renovare – Servicii de proiectare și execuție de lucrări pentru Consolidare Cămin studenţesc B, Cod SMIS 357231",
