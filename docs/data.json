@@ -1,6 +1,104 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1182103",
+    "title": "Servicii de proiectare, asistenta tehnică și execuție lucrări pentru\nrealizarea obiectivului\n„MODERNIZARE SISTEM DE ALIMENTARE CU APĂ POTABILĂ ȘI ÎNFIINȚARE SISTEM DE CANALIZARE ÎN COMUNA CRÂNGU, JUDEȚUL TELEORMAN",
+    "authority": "4568594 - Comuna Crangu",
+    "cpv": [
+      "45231300-8"
+    ],
+    "published": "2026-11-12T17:28:03+02:00",
+    "deadline": "2026-12-02T15:00:00+02:00",
+    "value": "9119202,65 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336182/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Termenul de execuție",
+        "description": "Durata de execuție a lucrărilor",
+        "weight": 20.0
+      },
+      {
+        "name": "Experiența Șefului de proiect/Managerului de proiect",
+        "description": "Experiența profesională specifică  în coordonarea integrată a proiectării și execuției.",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența Inginerului proiectant/Coordonatorului de proiectare",
+        "description": "Experiența profesională specifică suplimentară în proiectarea și coordonarea documentațiilor tehnice.",
+        "weight": 15.0
+      },
+      {
+        "name": "Performanța de mediu a utilajelor principale de șantier",
+        "description": "Reducerea emisiilor generate de utilajele și mijloacele de transport utilizate efectiv în executarea lucrărilor",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182103"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182102",
+    "title": "Servicii de proiectare pentru întocmirea documentației tehnice necesare lucrărilor de reparații și sistematizare rutieră, obținerea avizelor și asistență tehnică pe parcursul executării lucrărilor",
+    "authority": "4244792 - MUNICIPIUL SUCEAVA",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-11-12T17:00:05+02:00",
+    "deadline": "2026-11-25T15:00:00+02:00",
+    "value": "92000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336181/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "P1 - Demonstrarea unei metodologii adecvate de implementare a contractului",
+        "description": "Factorul tehnic P1 – Demonstrarea unei metodologii adecvate de implementare a contractului a fost selectat pentru a permite evaluarea capacității ofertanților de a organiza în mod realist și profesionist activitățile de proiectare.",
+        "weight": 22.0
+      },
+      {
+        "name": "P2. Factor tehnic - Resursele (umane și materiale) și realizarile corespunzatoare fiecarei activitati",
+        "description": "Factorul tehnic P2 - Resursele (umane și materiale) și realizarile corespunzatoare fiecarei activitati - a fost selectat pentru a permite justificarea cu realizările fiecărei activități, arătând cum contribuie la atingerea obiectivelor și la optimizarea proceselor.",
+        "weight": 22.0
+      },
+      {
+        "name": "P3  - Experiența profesională a experților cheie - Experiența profesională specifică - Șef echipă de proiectare",
+        "description": "Factorul tehnic P3  - Experiența profesională a experților cheie - Experiența profesională specifică - Șef echipă de proiectare",
+        "weight": 8.0
+      },
+      {
+        "name": "P4 - Experiența profesională a experților cheie - Experiența profesională specifică - Inginer proiectant drumuri",
+        "description": "Factor tehnic P4 - Experiența profesională a experților cheie - Experiența profesională specifică - Inginer proiectant drumuri",
+        "weight": 8.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182102"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1182088",
     "title": "Proiectare si executie\"Terasa verde si fatada verde Parking Motilor\"",
     "authority": "4305857 - Municipiul Cluj-Napoca",
