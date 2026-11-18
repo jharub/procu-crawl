@@ -1,5 +1,689 @@
 [
   {
+    "source": "TED",
+    "id": "800247-2026",
+    "title": "România – Lucrări de construcţii de conducte de apă şi de canalizare a apelor reziduale la mare distanţă – CL 7 - Aducțiuni apă brută Gura Râului, Aducțiune Săliște -Tilisca",
+    "authority": "APA CANAL SIBIU SA",
+    "cpv": [
+      "45231300",
+      "45231300",
+      "42961200",
+      "45000000",
+      "45221211",
+      "45232150",
+      "45232152",
+      "45233120",
+      "71322000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800247-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::800247-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800328-2026",
+    "title": "România – Lucrări de construcţii de instituţii şcolare – Proiectarea și execuția lucrărilor de creștere a eficienței energetice și de consolidare pentru obiectivul de investiții „Implementarea conceptului de economie circulară și eficiență energetică în școlile gimnaziale din Municipiul Buzău” — trei loturi",
+    "authority": "MUNICIPIUL BUZAU",
+    "cpv": [
+      "45214200",
+      "45214200",
+      "45214200",
+      "45214200",
+      "45112700",
+      "45261000",
+      "45261215",
+      "45262100",
+      "45262690",
+      "45262700",
+      "45310000",
+      "45312100",
+      "45321000",
+      "45330000",
+      "45331000",
+      "45343000",
+      "45421000",
+      "71220000",
+      "71322000",
+      "45112700",
+      "45261000",
+      "45261215",
+      "45262100",
+      "45262690",
+      "45262700",
+      "45310000",
+      "45312100",
+      "45321000",
+      "45330000",
+      "45331000",
+      "45343000",
+      "45421000",
+      "71220000",
+      "71322000",
+      "45112700",
+      "45261000",
+      "45261215",
+      "45262100",
+      "45262690",
+      "45262700",
+      "45310000",
+      "45312100",
+      "45321000",
+      "45330000",
+      "45331000",
+      "45343000",
+      "45421000",
+      "71220000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-22+02:00",
+    "value": "37685633.76",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800328-2026",
+    "match_reason": {
+      "cpv": [
+        "71220000",
+        "71322000",
+        "71220000",
+        "71322000",
+        "71220000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::800328-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800336-2026",
+    "title": "România – Lucrări de construcţii de clădiri pentru transportul rutier – Servicii de proiectare și execuție lucrări pentru obiectivul ”CONSTRUIRE AUTOBAZA DE TRANSPORT, ORAȘUL BUFTEA, JUDEȚUL ILFOV”",
+    "authority": "Primaria Orasului Buftea",
+    "cpv": [
+      "45213310",
+      "45213310",
+      "35120000",
+      "39300000",
+      "45100000",
+      "45213314",
+      "45233226",
+      "45310000",
+      "45331000",
+      "45332400",
+      "71000000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-03+02:00",
+    "value": "29761056.07",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800336-2026",
+    "match_reason": {
+      "cpv": [
+        "71000000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::800336-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800395-2026",
+    "title": "România – Servicii de proiectare tehnică pentru infrastructura de transport – Achiziția serviciilor de elaborare documentație tehnică Studiu de Fezabilitate pentru obiectivul de investiții \"DRUM EXPRES A1 – PITEȘTI – MIOVENI\"",
+    "authority": "JUDETUL ARGES",
+    "cpv": [
+      "71322500",
+      "71322500"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800395-2026",
+    "match_reason": {
+      "cpv": [
+        "71322500",
+        "71322500"
+      ],
+      "keywords": []
+    },
+    "key": "TED::800395-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800462-2026",
+    "title": "România – Servicii de asistenţă tehnică – Servicii de asistenta tehnica - dirigentie de santier pentru obiectivul de investitii: “Reabilitare si modernizare DJ 102I, Valea Doftanei, judetul Prahova – Bradet, judetul Brasov”",
+    "authority": "COMPANIA NATIONALA DE INVESTITII SA",
+    "cpv": [
+      "71356200",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800462-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::800462-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800625-2026",
+    "title": "România – Servicii de cadastru – Servicii de realizare a documentatiilor cadastrale individuale si de reevaluare a imobilelor afectate de lucrarea de utilitate publica -“Reabilitarea liniei C.F. Frontieră-Curtici-Simeria, parte componentă a Coridorului IV paneuropean, pentru circulaţia trenurilor cu viteza maximă de 160 km/h, Tronsonul 2: km 614-Gurasada și Tronsonul 3: Gurasada-Simeria”",
+    "authority": "Compania Nationala de Cai Ferate \"CFR\" - SA",
+    "cpv": [
+      "71354300",
+      "71354300",
+      "71324000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800625-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::800625-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800793-2026",
+    "title": "România – Lucrări de construcţii de autostrăzi şi de drumuri – Proiectare si executie „Nod Rutier Pantelimon (A0 - km 48) sectorul A0 Nord”",
+    "authority": "COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+    "cpv": [
+      "45233100",
+      "45233100",
+      "45221111",
+      "45233126",
+      "45233128",
+      "71322500"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-10+02:00",
+    "value": "162816652.76",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800793-2026",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": []
+    },
+    "key": "TED::800793-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800878-2026",
+    "title": "România – Servicii de consultanţă în domeniul ingineriei şi al construcţiilor – Consultanță și supervizare a proiectării și execuției lucrărilor aferente obiectivului de investiţii: ”Modernizarea liniei de cale ferată București Nord – Aeroport Internațional Henri Coandă București, Faza I: Racord c.f. la Terminalul T1, Aeroport Internațional Henri Coandă București",
+    "authority": "Compania Nationala de Cai Ferate \"CFR\" - SA",
+    "cpv": [
+      "71310000",
+      "71310000",
+      "71520000",
+      "79341000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800878-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::800878-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800935-2026",
+    "title": "România – Lucrări de construcţii de clădiri multifuncţionale – 705 Pitești - Lucrări de investiții şi intervenții în cazarma 705 Piteşti, cod lucrare 2017 – C/I/RK – 705 Pitesti",
+    "authority": "MINISTERUL APARARII - UNITATEA MILITARA 02523",
+    "cpv": [
+      "45211350",
+      "45211350",
+      "71000000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800935-2026",
+    "match_reason": {
+      "cpv": [
+        "71000000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::800935-2026"
+  },
+  {
+    "source": "TED",
+    "id": "800987-2026",
+    "title": "România – Lucrări de construcţii complete sau parţiale şi lucrări publice – Proiectare, asistenta tehnica din partea proiectantului si executia de lucrari pentru obiectivul de investitii „Realizarea unei clădiri noi pentru secțiile Pneumologie și Boli infecțioase la Spitalul Județean de Urgență Miercurea-Ciuc”",
+    "authority": "COMPANIA NATIONALA DE INVESTITII SA",
+    "cpv": [
+      "45200000",
+      "45200000",
+      "71000000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/800987-2026",
+    "match_reason": {
+      "cpv": [
+        "71000000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::800987-2026"
+  },
+  {
+    "source": "TED",
+    "id": "801130-2026",
+    "title": "România – Servicii de proiectare tehnică pentru construcţia de lucrări publice – 646 Brasov - Servicii de proiectare și asistență tehnică pentru obiective din cazarma 646 Brasov",
+    "authority": "MINISTERUL APARARII - UNITATEA MILITARA 02523",
+    "cpv": [
+      "71322000",
+      "71322000",
+      "71322000",
+      "71356200",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/801130-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::801130-2026"
+  },
+  {
+    "source": "TED",
+    "id": "801422-2026",
+    "title": "România – Servicii de supraveghere a lucrărilor – Acord Cadru - Servicii de Dirigentie de santier, SSM si Supervizare pentru investitiile derulate la nivelul Sectorului 4 al Municipiului Bucuresti",
+    "authority": "SECTOR 4 (PRIMARIA SECTORULUI 4 BUCURESTI)",
+    "cpv": [
+      "71520000",
+      "71520000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/801422-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::801422-2026"
+  },
+  {
+    "source": "TED",
+    "id": "801722-2026",
+    "title": "România – Servicii de proiectare tehnică pentru construcţia de lucrări publice – Servicii de elaborare DTAC, Proiect tehnic și detalii de execuție (PT +DDE), inclusiv verificare tehnica din partea proiectantului pentru proiectul Coridor pietonal și velo pe malul drept al Arieșului, Turda, Cluj, România",
+    "authority": "MUNICIPIUL TURDA",
+    "cpv": [
+      "71322000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-07+02:00",
+    "value": "1441835",
+    "url": "https://ted.europa.eu/en/notice/-/detail/801722-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::801722-2026"
+  },
+  {
+    "source": "TED",
+    "id": "801742-2026",
+    "title": "România – Lucrări de renovare – Servicii de elaborare Proiect tehnic cu detalii de execuție, asistenta tehnica din partea proiectantului pe parcursul derulării lucrărilor și executie lucrari în cadrul proiectului “ Renovare integrată a corpurilor F, G, H la Spitalul Judetean de Urgenta Dr. Pompei Samarian Calarasi”",
+    "authority": "Consiliul Judetean Calarasi",
+    "cpv": [
+      "45453100",
+      "45453100",
+      "45262690",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/801742-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::801742-2026"
+  },
+  {
+    "source": "TED",
+    "id": "801839-2026",
+    "title": "România – Servicii de supraveghere a lucrărilor – Servicii de dirigenție de șantier și servicii de supervizare pentru investițiile derulate de Municipiul Craiova, Lotul 1,Lotul 2,Lotul 3",
+    "authority": "Municipiul Craiova",
+    "cpv": [
+      "71520000",
+      "71520000",
+      "71520000",
+      "71520000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-03+02:00",
+    "value": "149472000",
+    "url": "https://ted.europa.eu/en/notice/-/detail/801839-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::801839-2026"
+  },
+  {
+    "source": "TED",
+    "id": "802038-2026",
+    "title": "România – Lucrări de construcţii de conducte de apă şi de canalizare a apelor reziduale la mare distanţă – Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Mureș, Lot 1 -3",
+    "authority": "COMPANIA AQUASERV S.A",
+    "cpv": [
+      "45231300",
+      "45231300",
+      "45231300",
+      "45231300",
+      "42961200",
+      "45111291",
+      "45232152",
+      "45262210",
+      "45262310",
+      "71322000",
+      "42961200",
+      "45111291",
+      "45232152",
+      "45262210",
+      "45262310",
+      "71322000",
+      "42961200",
+      "45111291",
+      "45232152",
+      "45262210",
+      "45262310",
+      "71322000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-03+02:00",
+    "value": "75888633.01",
+    "url": "https://ted.europa.eu/en/notice/-/detail/802038-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::802038-2026"
+  },
+  {
+    "source": "TED",
+    "id": "802082-2026",
+    "title": "România – Lucrări de modificare a clădirilor – Proiectare, asistență tehnică și execuție lucrări aferente obiectivului de investiții: MODERNIZARE, REABILITARE ENERGETICĂ CENTRUL DE ÎNVĂȚĂMÂNT, CERCETARE ȘI SERVICII MEDICO-FARMACEUTICE ”UNIVERSITY TOWER”",
+    "authority": "Universitatea de Medicina, Farmacie, Stiinte si Tehnologie \" George Emil Palade\" din Targu Mures",
+    "cpv": [
+      "45262700",
+      "45262700",
+      "71322000",
+      "71328000",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-04+02:00",
+    "value": "33242872.13",
+    "url": "https://ted.europa.eu/en/notice/-/detail/802082-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::802082-2026"
+  },
+  {
+    "source": "TED",
+    "id": "802310-2026",
+    "title": "România – Servicii de supraveghere a lucrărilor – Servicii de Supervizare ,,Executie Lucrari Drum Expres Arad – Oradea Lot 1”",
+    "authority": "COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+    "cpv": [
+      "71520000",
+      "71520000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-10+02:00",
+    "value": "18874800",
+    "url": "https://ted.europa.eu/en/notice/-/detail/802310-2026",
+    "match_reason": {
+      "cpv": [],
+      "keywords": []
+    },
+    "key": "TED::802310-2026"
+  },
+  {
+    "source": "TED",
+    "id": "802325-2026",
+    "title": "România – Servicii de proiectare tehnică pentru construcţia de lucrări publice – Servicii de proiectare pentru obiectivul de investiții „Consolidare și reabilitare Palat Administrativ – Corp A\".",
+    "authority": "JUDETUL VRANCEA(CONSILIUL JUDETEAN)",
+    "cpv": [
+      "71322000",
+      "71322000",
+      "71356200",
+      "79311100"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/802325-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::802325-2026"
+  },
+  {
+    "source": "TED",
+    "id": "802425-2026",
+    "title": "România – Servicii de proiectare specializată – Servicii de întocmire documentații tehnico-economice necesare implementării proiectelor",
+    "authority": "ASOCIATIA DE DEZVOLTARE INTERCOMUNITARA PENTRU GESTIONAREA INTEGRATA A DESEURILOR MUNICIPALE IN MUNICIPIUL BUCURESTI",
+    "cpv": [
+      "79930000",
+      "79930000",
+      "71242000",
+      "71322000",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "1335352500",
+    "url": "https://ted.europa.eu/en/notice/-/detail/802425-2026",
+    "match_reason": {
+      "cpv": [
+        "71242000",
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::802425-2026"
+  },
+  {
+    "source": "TED",
+    "id": "802947-2026",
+    "title": "România – Lucrări de construcţii de drumuri – Proiectare si executie „VARIANTA DE OCOLIRE HOREZU”",
+    "authority": "ORASUL HOREZU - CONSILIUL LOCAL HOREZU",
+    "cpv": [
+      "45233120",
+      "45233120",
+      "71322500",
+      "71328000",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "166897309.36",
+    "url": "https://ted.europa.eu/en/notice/-/detail/802947-2026",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": []
+    },
+    "key": "TED::802947-2026"
+  },
+  {
+    "source": "TED",
+    "id": "802948-2026",
+    "title": "România – Lucrări de construcţii de clădiri – Contractarea lucrărilor (proiectare și execuție) la obiectivul ,,Creșterea eficienței energetice la Spitalul Județean Dâmbovița – Spitalul de pediatrie Gura Ocniței – Pavilion A, B și C”",
+    "authority": "Consiliul Judetean Dambovita",
+    "cpv": [
+      "45210000",
+      "45210000",
+      "71311100",
+      "71322000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/802948-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::802948-2026"
+  },
+  {
+    "source": "TED",
+    "id": "803188-2026",
+    "title": "România – Lucrări de construcţii de staţii de epurare – VN-CL-08.1 INFIINTARE SISTEM DE ALIMENTARE CU APA SI CANALIZARE IN LEPSA GRESU UAT TULNICI; STATIE DE EPURARE GUGESTI; INFIINTARE SISTEM APA IN SIHLEA, UAT SIHLEA SI COMPLETARE SURSA IN SOVEJA",
+    "authority": "Compania de Utilitati Publice S.A. Focsani",
+    "cpv": [
+      "45252100",
+      "45252100",
+      "45232150",
+      "45232400",
+      "71322000"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "",
+    "value": "",
+    "url": "https://ted.europa.eu/en/notice/-/detail/803188-2026",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::803188-2026"
+  },
+  {
+    "source": "TED",
+    "id": "803658-2026",
+    "title": "România – Lucrări de construcţii de unităţi spitaliceşti – Proiectare, execuţie lucrări și asistenţă tehnică din partea proiectantului pentru obiectivul de investitii: “Amenajare centru de cercetare producție ATMP Hub Terapie celulară avansată (Nextgen) Refuncționalizare clădire existentă corp C3 Institutul Clinic Fundeni”",
+    "authority": "INSTITUTUL CLINIC FUNDENI",
+    "cpv": [
+      "45215140",
+      "45215140",
+      "38000000",
+      "71320000",
+      "71356200"
+    ],
+    "published": "2026-11-18+01:00",
+    "deadline": "2026-12-07+02:00",
+    "value": "51408205.94",
+    "url": "https://ted.europa.eu/en/notice/-/detail/803658-2026",
+    "match_reason": {
+      "cpv": [
+        "71320000"
+      ],
+      "keywords": []
+    },
+    "key": "TED::803658-2026"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098474",
+    "title": "Proiectare (inclusiv asistență din partea proiectantului) și execuție lucrări pentru obiectivul de investiții „Consolidare și Reabilitare clădire Teatrul „Alexandru Davila” Pitești\"",
+    "authority": "4229440 - Teatrul Al. Davila Pitesti",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-11-17T17:32:08+02:00",
+    "deadline": "2026-12-22T15:00:00+02:00",
+    "value": "25397063,2 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336583/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului și o planificare adecvată a resurselor și a activităților (MPR)",
+        "description": "Componenta tehnică",
+        "weight": 15.0
+      },
+      {
+        "name": "Gradul de adecvare a planificării propuse pentru implementarea contractului (GAP)",
+        "description": "Componenta tehnică",
+        "weight": 15.0
+      },
+      {
+        "name": "Perioada de garanție acordată în raport cu lucrările executate (PGL)",
+        "description": "Componenta tehnică",
+        "weight": 9.0
+      },
+      {
+        "name": "Experiența profesională a expertului Responsabil/ manager de contract (E1-MC)",
+        "description": "Componenta tehnică",
+        "weight": 9.0
+      },
+      {
+        "name": "Experiența profesională a expertului Proiectant construcții civile (E2-PCC)",
+        "description": "Componenta tehnică",
+        "weight": 5.0
+      },
+      {
+        "name": "Utilizarea unor produse de finisaj interior care îndeplinesc criteriile de acordare a etichetei ecologice a Uniunii Europene (EU Ecolabel) sau cerințe echivalente – FEM",
+        "description": "Componenta tehnică",
+        "weight": 7.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098474"
+  },
+  {
     "source": "SICAP (anunt de participare)",
     "id": "SCN1182308",
     "title": "Studiu de fezabilitate (SF) și proiect de canalizare cladire administrativa CDD Brașov",
@@ -63955,48 +64639,5 @@
       "keywords": []
     },
     "key": "TED::649912-2026"
-  },
-  {
-    "source": "SICAP (achizitie directa)",
-    "id": "ADV1548687",
-    "title": "Servicii de elaborare a studiului de fundamentare a notei conceptuale si temei de proiectare a ob de investitii-„Restaurarea, modernizarea si extinderea Operei Nationale Romane din Bucuresti”",
-    "authority": "4221314 OPERA NATIONALA BUCURESTI",
-    "cpv": [
-      "71241000-9"
-    ],
-    "published": "2026-09-18T18:39:20+03:00",
-    "deadline": "2026-09-24T11:00:00+03:00",
-    "value": "145000.0",
-    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735477",
-    "match_reason": {
-      "cpv": [
-        "71241000"
-      ],
-      "keywords": [
-        "proiectare"
-      ]
-    },
-    "description": "Se vor achizitiona de catre ONB -Servicii de elaborare a studiului de fundamentare a notei conceptuale si temei de proiectare a obiectivului de investitii-„Restaurarea, modernizarea si extinderea Operei Nationale Romane din Bucuresti”, servicii descrise in Caietul de sarcini nr. 615\n3/ 07.09.2026, atasat la prezentul anunt",
-    "requirements": [
-      {
-        "name": "Conditii de participare",
-        "description": "Operatori economici de profil. Ofertantii nu trebuie sa se regaseasca în:\n- situatiile prevazute la art.164, 165, 167 din Legea nr. 98/2016.\n-  situatiile prevazute la art. 59-60 din Legea nr. 98/2016. \nAceștia vor completa o declarație.\nOfertantii vor depune :\n-Certificate constatatoare privind plata impozitelor, taxelor și a contribuțiilor la bugetul general consolidat (bugetul local, buget de stat, etc), valabile la momentul transmiterii ofertei;\n-Certificatului constatator emis de Oficiul Registrului Comertului în raza caruia este situat sediul ofertantului. Din certificatul constatator trebuie sa reiasa obiectul contractului care trebuie sa aiba corespondent în codul CAEN din certificatul constatator emis de ONRC. \n-Propunerea tehnică care trebuie sa fie intocmita repectand cerinţele din Caietul de sarcini nr. 6153/ 07.09.2026 și Hotărârea nr. 1116/2023 pentru modificarea și completarea Hotărârii Guvernului nr. 907/2016 privind etapele de elaborare și conținutul-cadru al documentațiilor tehnico-economice aferente obiectivelor/proiectelor de investiții finanțate din fonduri publice\n- Propunerea financiară, exprimată în lei fără TVA şi cu TVA"
-      },
-      {
-        "name": "Conditii contractuale",
-        "description": "conform clauzelor contractuale"
-      },
-      {
-        "name": "Criteriul de atribuire",
-        "description": "pretul cel mai scazut"
-      }
-    ],
-    "documents": [
-      {
-        "name": "Caiet de sarcini 6153 DIN 07.09.2026.pdf",
-        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100735477"
-      }
-    ],
-    "key": "SICAP (achizitie directa)::ADV1548687"
   }
 ]
