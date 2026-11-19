@@ -1,5 +1,482 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098496",
+    "title": "Acord-cadru având ca obiect „Servicii specializate de întreținere și menținere în funcțiune a iluminatului public, iluminatului arhitectural din parcuri, scuaruri, sere, parcări, locuri de joaca, locuri de odihna și recreere, precum și revizie, reparare si mentenanță preventivă”",
+    "authority": "4204038 - Sectorul 2 al Municipiului Bucuresti",
+    "cpv": [
+      "50232100-1"
+    ],
+    "published": "2026-11-19T16:07:24+02:00",
+    "deadline": "2026-12-21T15:00:00+02:00",
+    "value": "13133886,8 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336752/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectural"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 80.0
+      },
+      {
+        "name": "2. Timp de intervenție redus (20%)",
+        "description": "Timp de intervenție redus (20%).",
+        "weight": 20.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098496"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098488",
+    "title": "Servicii de proiectare, asistență tehnică din partea proiectantului si execuție lucrări pentru obiectivul de investiții “RENOVARE INTEGRATA -LICEUL TEHNOLOGIC ,,CLISURA DUNARII –MOLDOVA NOUA - CORP A”",
+    "authority": "3227955 - ORASUL MOLDOVA NOUA (Primaria orasului Moldova Noua)",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-11-19T16:07:19+02:00",
+    "deadline": "2027-01-11T15:00:00+02:00",
+    "value": "29071186,88 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336749/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența personalului cheie",
+        "description": "Componenta tehnică - Experienta deținută de Managerul de proiect.\nÎn extinderea cerinței minime obligatorii din Caietul de sarcini privind nominalizarea unui Manager de proiect, se va acorda punctaj suplimentar pentru numărul de contracte/proiecte suplimentare în cadrul cărora expertul propus a deținut atribuții și responsabilități de Manager de proiect.\nExpertul propus trebuie să fi exercitat rolul de Manager de proiect, Coordonator de proiect/contract sau Director de contract în cadrul a cel puțin unui contract/proiect ce a avut ca obiect execuția de lucrări similare pentru obiective de investiții din categoria clădirilor civile, cu o clasă/categorie de importanță cel puțin egală cu C (sau superioară), în conformitate cu prevederile HG nr. 766/1997, cu modificările și completările ulterioare.\nPrin lucrări similare se înțeleg lucrări de construcții noi și/sau consolidări și/sau reabilitări și/sau modernizări și/sau extinderi și/sau reparații capitale.",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența personalului cheie",
+        "description": "Componenta tehnică - Experienta deținută de Șef echipă proiectare.\nÎn extinderea cerinței minime obligatorii din Caietul de sarcini privind nominalizarea unui Șef echipă proiectare, se va acorda punctaj suplimentar pentru numărul de contracte/proiecte suplimentare în cadrul cărora expertul propus a deținut atribuții și responsabilități de Șef echipă proiectare.\nExpertul propus trebuie să fi exercitat rolul de Sef echipa /Coordonator/Director echipa  proiectare în cadrul a cel puțin unui contract/proiect ce a avut ca obiect proiectarea de lucrări similare pentru obiective de investiții din categoria clădirilor civile, cu o clasă/categorie de importanță cel puțin egală cu C (sau superioară), în conformitate cu prevederile HG nr. 766/1997, cu modificările și completările ulterioare.\nPrin lucrări similare se înțeleg lucrări de construcții noi și/sau consolidări și/sau reabilitări și/sau modernizări și/sau extinderi și/sau reparații capitale.",
+        "weight": 10.0
+      },
+      {
+        "name": "Experiența personalului cheie",
+        "description": "Componenta tehnică - Experienta deținută de Inginer Proiectant construcții civile.\nÎn extinderea cerinței minime obligatorii din Caietul de sarcini privind nominalizarea unui  Inginer Proiectant construcții civile, se va acorda punctaj suplimentar pentru numărul de contracte/proiecte suplimentare în cadrul cărora expertul propus a deținut atribuții și responsabilități de  Inginer Proiectant construcții civile.\nExpertul trebuie să fi participat  la implementarea a cel puțin un contract/proiect în care a avut atribuții și responsabilități de Inginer Proiectant construcții civile,  care a inclus în obiect activitati similare de proiectare  pentru obiective de investitie ce conțin construcții civile cel puțin din categoria clădirilor civile, cu o clasă/categorie de importanță cel puțin egală cu C (sau superioară), în conformitate cu prevederile HG nr. 766/1997, cu modificările și completările ulterioare.",
+        "weight": 5.0
+      },
+      {
+        "name": "Garanția suplimentara a lucrărilor este de 3 ani (36 luni)",
+        "description": "Componenta tehnică",
+        "weight": 15.0
+      },
+      {
+        "name": "Gradul de adecvare al organizării propuse pentru realizarea activităților în cadrul Contractului",
+        "description": "Acest factor permite aprecierea modului în care ofertantul a identificat și a organizat aceste interdependențe, precum și a mecanismelor propuse pentru coordonarea activităților pe parcursul derulării contractului. Evaluarea se va realiza în funcție de gradul de detaliere și adecvare a organizării propuse pentru realizarea serviciilor de proiectare și a lucrărilor de execuție.",
+        "weight": 15.0
+      },
+      {
+        "name": "Reducerea impactului asupra mediului",
+        "description": "Componenta Mediu\nPentru îndeplinirea contractului, autoritatea contractantă stabilește ca număr de referință de 4 autobasculante/autoutilitare (cu masa maximă autorizată ≥ 3.5 tone) destinate transportului de materiale și moloz.",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098488"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098479",
+    "title": "Servicii de elaborare: DALI+DTAC+PT+DE pentru: Reabilitare și modernizare drumuri județene din județul Bistrița-Năsăud: DJ 173, km 3+527-15+245, Bistrița-Budacu de Sus; DJ 172G, km 24+838-35+399, DJ 154 – Monariu – Jelna(DJ173), km 38+888-43+298, Orheiu Bistriței (DJ173) – Satu Nou; DJ 173C, km 6+185-9+125, Budacu de Jos-Buduș",
+    "authority": "4347550 - Judetul Bistrita-Nasaud",
+    "cpv": [
+      "71322500-6"
+    ],
+    "published": "2026-11-19T16:06:35+02:00",
+    "deadline": "2026-12-29T15:00:00+02:00",
+    "value": "2370400 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336730/",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": [
+        "dali",
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența profesională",
+        "description": "Componenta tehnică",
+        "weight": 32.0
+      },
+      {
+        "name": "Metodologia și abordarea corespunzătoare proiectului",
+        "description": "Componenta tehnică",
+        "weight": 28.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098479"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182403",
+    "title": "Servicii de proiectare, asistență tehnică din partea proiectantului și execuție a lucrărilor pentru obiectivul de investiții „Reabilitare corp administrativ Colegiul Național I.C. Brătianu”",
+    "authority": "4317967 - MUNICIPIUL PITESTI - CONSILIUL LOCAL AL MUNICIPIULUI PITESTI",
+    "cpv": [
+      "45212314-0"
+    ],
+    "published": "2026-11-19T15:52:02+02:00",
+    "deadline": "2026-12-07T15:00:00+02:00",
+    "value": "3304166,26 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336725/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Șef proiect sau o funcție echivalentă atestat de Ministerul Culturii",
+        "description": "Componenta tehnică",
+        "weight": 30.0
+      },
+      {
+        "name": "Garanția extinsă a lucrării",
+        "description": "Componenta tehnică",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182403"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1558486",
+    "title": "«Studiu de fezabilitate pentru obiectivul de investiții „Extindere rețea de transport pe str. Vlădeasa și Alexandru Roman”»",
+    "authority": "RO31952982 TERMOFICARE ORADEA S.A.",
+    "cpv": [
+      "79314000-8"
+    ],
+    "published": "2026-11-19T12:22:20+02:00",
+    "deadline": "2026-12-02T15:00:00+02:00",
+    "value": "29000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100747813",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "studiu de fezabilitate"
+      ]
+    },
+    "description": "A se vedea Invitatia de participare nr. 17736 din data de 19.11.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "A se vedea Invitatia de participare nr. 17736 din data de 19.11.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "A se vedea Invitatia de participare nr. 17736 din data de 19.11.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Atribuirea contractului se realizeaza, determinand (stabilind) oferta cea mai avantajoasa din punct de vedere economic, prin aplicarea criteriului de atribuire „pretul cel mai scăzut” dintre ofertele declarate admisibile."
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (achizitie directa)::ADV1558486"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182400",
+    "title": "Servicii de proiectare pentru elaborarea documentaţiilor tehnico-economice faza DTAC, DTOE + PT+DE, verificare tehnică a proiectului și asistență tehnică din partea proiectantului pentru obiectivul de investiții „Eficiență energetică în clădiri publice – Clădire cantină-sală de evenimente”,\ncod smis 319635",
+    "authority": "4331031 - Oras Zlatna",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-11-19T11:50:05+02:00",
+    "deadline": "2026-12-09T15:00:00+02:00",
+    "value": "335000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336722/",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experienţa profesională a expertului cheie șef de proiect",
+        "description": "Componenta tehnică - Coordonator echipa de proiectare -Arhitect cu drept de semnatura OAR",
+        "weight": 30.0
+      },
+      {
+        "name": "Experiența profesională a\nexpertului cheie",
+        "description": "Componenta tehnică-Inginer proiectant structura de rezistenta",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182400"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1558466",
+    "title": "PROIECTARE ŞI EXECUŢIE LUCRĂRI DE DESFIINŢARE A CONSTRUCŢIILOR AFERENTE FOSTELOR GOSPODĂRII VINEROIU CONSTANTIN ŞI FECHETĂ CONSTANTINA, INCLUSIV ECOLOGIZAREA TERENULUI, SITUATE ÎN SATUL HOTĂROASA",
+    "authority": "RO30267310 Societatea COMPLEXUL ENERGETIC OLTENIA SA",
+    "cpv": [
+      "45110000-1"
+    ],
+    "published": "2026-11-19T11:48:45+02:00",
+    "deadline": "2026-11-26T10:00:00+02:00",
+    "value": "97500.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100747787",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Având în vedere reducerii cheltuielilor cu taxele, pe care societatea este obligata sa le plateasca anual bugetului local, a devenit necesara demolarea integrală a construcțiilor aferente fostelor gospodarii Vineroiu Constantin si Fecheta Constantina, amplasamentele si construcțiile aferente fiind devenite proprietate a CE Oltenia ca urmare a unor convenții. Astfel, se solicita achiziţia lucrărilor privind elaborarea documentației tehnice pentru autorizarea execuției lucrărilor C1, C2, a proiectului tehnic de execuție, execuția propriu-zisa a lucrărilor de demolare imobil, elevațiilor de beton si ecologizarea terenului, respectiv elaborarea referatului de prezentare de proiectant cu privire la modul în care a fost executată lucrarea.\n\tSolicitarile de clarificari se vor face cu cel putin 2 zile inainte de data limita de depunere a ofertelor, iar entitatea contractanta va raspunde in mod clar si complet o singura data doar la solicitările de clarificări adresate de operatorii economici până la termenul limită stabilit, cu o zi inainte de data limita depunere a ofertelor stabilita prin invitatia de participare.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform documentatie de atribuire."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Plăţile se fac în termen de 60 de zile calendaristice de la data înregistrării facturii fiscale de catre beneficiar. Stabilirea penalităţilor pentru neîndeplinirea sau îndeplinirea defectuoasă a obligaţiilor contractuale: nerespectarea clauzelor sau termenelor de comun acord asumate atrage răspunderea părţii în culpă şi poate obliga la plata de penalităţi, astfel: În cazul în care, din vina sa exclusivă, contractantul nu reuşeşte să-şi îndeplinească obligaţiile asumate, privind livrarea produsului, inclusiv obligaţiile referitoare la livrarea în termenul convenit, EC are dreptul de a percepe penalităţi calculate prin aplicarea dobânzii legale penalizatoare prevăzută la art.3, alin.(21) din OG nr.13/2011 privind dobânda legală renumeratorie şi penalizatoare pentru obligaţii băneşti, precum şi pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, aprobată prin Legea 43/2012, asupra valorii neîndeplinite, până la îndeplinirea conformă a obligaţiilor.Penalităţile nu vor putea depăşi contravaloarea obligaţiilor contractuale neîndeplinite. În cazul în care entitatea contractantă nu onorează la plată facturile în termenul prevăzut din contract, achizitorul are dreptul de a percepe penalități calculate prin aplicarea dobânzii legale penalizatoare prevăzută la art.3, alin.(21) din OG nr.13/2011. Cuantumul Penalităţilor nu poate depăşi valoarea facturilor neonorate la plată."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "anunt documentatie CEO.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100747787"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1558466"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1558462",
+    "title": "Contract de prestări servicii de elaborare a documentațiilor tehnico - economice necesare în vederea obţinerii certificatului de urbanism, avizelor, acordurilor, autorizaţiilor, precum şi verificarea tehnică de calitate faza proiect tehnic şi detalii de execuţie, inclusiv asistenţa tehnică din parte",
+    "authority": "4540186 Directia Generala Regionala a Finantelor Publice  Iasi",
+    "cpv": [
+      "71322000-1"
+    ],
+    "published": "2026-11-19T11:43:21+02:00",
+    "deadline": "2026-11-26T16:30:00+02:00",
+    "value": "123966.94",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100747783",
+    "match_reason": {
+      "cpv": [
+        "71322000"
+      ],
+      "keywords": [
+        "urbanism",
+        "proiectare"
+      ]
+    },
+    "description": "Contract de prestări servicii de elaborare a documentațiilor tehnico - economice necesare în vederea obţinerii certificatului de urbanism, avizelor, acordurilor, autorizaţiilor, precum şi verificarea tehnică de calitate faza proiect tehnic şi detalii de execuţie, inclusiv asistenţa tehnică din partea proiectantului, pentru realizarea obiectivului de investiţii\n„REABILITARE TERMICĂ U.F.M. ONEŞTI”",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform caiet de sarcini si scrisoare de intentie"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform caiet de sarcini si scrisoare de intentie"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Scrisoare de intentie, caioet de sarcini, formulare, draft de contract.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100747783"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1558462"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1558449",
+    "title": "Servicii de proiectare şi execuţie lucrări necesar pentru implementarea obiectivului de investiții „Realizare branșamente și instalații de utilizare energie electrică, apă potabilă, canalizare menajeră și gaze naturale la imobilul din Aleea Aeroport, nr. 2/A, municipiul Arad, județul Arad”",
+    "authority": "3861889 INSPECTORATUL PENTRU SITUATII DE URGENTA VASILE GOLDIS AL JUDETULUI ARAD",
+    "cpv": [
+      "45200000-9"
+    ],
+    "published": "2026-11-19T11:05:28+02:00",
+    "deadline": "2026-11-23T15:00:00+02:00",
+    "value": "146000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100747766",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Inspectoratul pentru Situații de Urgență „Vasile Goldiș” al județului Arad, cu sediul în mun. Arad, str. Andrei Șaguna, nr. 66-72, jud. Arad, tel. 0257/25.12.12,  e-mail: contact@isuar.igsu.ro, intenționează să achiziționeze direct, pe bază de contract, prin selecție de oferte, realizarea bransamentelor (proiectare si executie) la retelele de utilitati (energie electrică, apă potabilă, canalizare menajeră și gaze naturale la imobilul din Aleea Aeroport, nr. 2/A, municipiul Arad, județul Arad), conform caietului de sarcini și anexelor atașate prezentului anunț.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Ofertantul va face dovada modalității de asigurare a accesului la specialiștii necesari și obligatorii, în vederea verificării nivelului de calitate corespunzător cerințelor fundamentale aplicabile lucrărilor şi serviciilor cuprinse în obiectul contractului, în conformitate cu prevederile legale. Astfel, în cadrul propunerii tehnice, ofertantul va prezenta următoarele documente pentru asigurarea capacităţii tehnice:\n- atestat tip B conform Ordinului A.N.R.E. nr. 66/2023;\n- autorizație de tip PDSB, conform Ordinului A.N.R.E. nr. 17/2026;\n- autorizație de tip EDSB, conform Ordinului A.N.R.E. nr. 17/2026.\nOferta va fi întocmită cu respctarea condițiilor din Invitația de participare de la punctu 7 „Condiții referitoare la prezentarea ofertei”.\nÎn cadrul propunerii tehnice ofertantul va prezenta o echipă formată din personal specializat/atestat/autorizat, având cel puţin următoarea componenţă:\n- electrician pentru proiectare instalaţii electrice – autorizaţie IIA;\n- electrician pentru execuţie instalaţii electrice – autorizaţie IIB;\n- personal autorizat pentru proiectare sisteme de distribuție a gazelor naturale, sisteme de distribuție închise, precum și instalații aferente activității de producere/stocare biogaz/biometan ce funcționează în regim de medie, redusă și joasă presiune;\n- personal autorizat pentru execuție sisteme de distribuție a gazelor naturale, sisteme de distribuție închise, precum și instalații aferente activității de producere/stocare biogaz/biometan ce funcționează în regim de medie, redusă și joasă presiune;\n- inginer proiectant pentru branșamente apă și canalizare;\n- responsabil tehnic cu execuția pentru branșamente apă și canalizare.\nPentru echipa formată din personal specializat/atestat/autorizat se vor atașa documentele menționate în Caiteul de Sarcini la cap. D „CAPACITATEA PROFESIONALĂ”\n\nOfertele vor fi transmise OBLIGATORIU la adresa de e-mail a autorității"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Constituire Garanție de bună execuție se va face conform modelului de contract atasat.\nOfertantul a cărui ofertă va fi stabilită ca fiind câștigătoare va fi invitat să posteze în SEAP propunerea financiară, astfel cum aceasta a fost transmisă prin e-mail anterior termenului limită stabilit. Achizitia se va finaliza on-line prin intermediul SEAP. Oferta are caracter ferm, preţul rămânând ferm. Plata se va efectua cu OP în cont de trezorerie, în termen de 60 zile cu respectarea condițiilor contractuale."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut. dintre ofertele admisibile. \nAvând în vedere criteriul de atribuire „prețul cel mai scăzut”, responsabilii achiziției au posibilitatea de a analiza doar oferta cu prețul cel mai mic ofertat, iar în cazul în care aceasta corespunde necesităților autorității contractante, atribuirea se va face fără a mai analiza celelalte oferte. Pe cale de consecință, în cazul în care oferta cu prețul cel mai scăzut nu îndeplinește cerințele autorității contractante, responsabilii achiziției vor proceda la analizarea ofertei care prețul imediat următor (din punct de vedere crescător)."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie de atribuire.rar.p7s",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100747766"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1558449"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182396",
+    "title": "Servicii de proiectare - faza DTAC si Proiect Tehnic, verificare tehnica de calitate a documentatiei tehnice, asistenţă tehnică din partea proiectantului si executia lucrarilor pentru reałizarea obiectivului de investiţii „Amenajare și utilare a spațiilor din curtea Școlii Gimnaziale Mihai Drăgan”>>",
+    "authority": "R4278337 - MUNICIPIUL BACAU",
+    "cpv": [
+      "45111291-4"
+    ],
+    "published": "2026-11-19T10:13:39+02:00",
+    "deadline": "2026-12-14T15:00:00+02:00",
+    "value": "6557144,86 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336704/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Calificare si experienta profesionala - Arhitect",
+        "description": "Experiența profesională similara a ARHITECTULUI ”– are o pondere de 8 % în totalul criteriului de atribuire, căruia îi corespunde un maximum de 8 puncte",
+        "weight": 8.0
+      },
+      {
+        "name": "Calificare si experienta profesionala - Proiectant de specialitate instalații electrice",
+        "description": "Experiența profesională similara a Proiectantului de specialitate instalații electrice– are o pondere de 8 % în totalul criteriului de atribuire, căruia îi corespunde un maximum de 8 puncte",
+        "weight": 8.0
+      },
+      {
+        "name": "Calificare si experienta profesionala - Specialist în amenajarea și planificarea peisagistica",
+        "description": "Experiența profesională similara a Specialistului în amenajarea și planificarea peisagistica – are o pondere de 8 % în totalul criteriului de atribuire, căruia îi corespunde un maximum de 8 puncte",
+        "weight": 8.0
+      },
+      {
+        "name": "Calificare si experienta profesionala - Proiectant de specialitate – structurist (inginer CCIA)",
+        "description": "Experiența profesională similara a Proiectantului de specialitate – structurist (inginer CCIA)  – are o pondere de 8 % în totalul criteriului de atribuire, căruia îi corespunde un maximum de 8 puncte",
+        "weight": 8.0
+      },
+      {
+        "name": "Calificare si experienta profesionala  - Proiectant de specialitate cai ferate drumuri si posuri– structurist (inginer CFDP)",
+        "description": "Experiența profesională similara a Proiectantului de specialitate cai ferate drumuri si posuri– structurist (inginer CFDP)  – are o pondere de 8 % în totalul criteriului de atribuire, căruia îi corespunde un maximum de 8 puncte",
+        "weight": 8.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului, precum si o planificare adecvata a resurselor umane si a activitatilor",
+        "description": "Gradul de adecvare al graficului general de realizare a investiției publice (durata, succesiunea activităților și inter-relaționarea acestora, inclusiv drumul critic, identificarea punctelor cheie de control (jaloanelor)), resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia de prestare a serviciilor de PROIECTARE\n10 %",
+        "weight": 10.0
+      },
+      {
+        "name": "Demonstrarea unei metodologii adecvate de implementare a contractului, precum si o planificare adecvata a resurselor umane si a activitatilor",
+        "description": "Gradul de adecvare  al graficului general de realizare a investiției publice (durata, succesiunea activităților și inter-relaționarea acestora, inclusiv drumul critic, identificarea punctelor cheie de control (jaloanelor)), resursele alocate pentru realizarea activităților în cadrul Contractului prin raportare la metodologia de EXECUTIE A  LUCRARILOR  10%",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182396"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182379",
+    "title": "Proiectare, asistență tehnică și execuție lucrări aferente obiectivelor de investiții: Lot 1 ”Depozit materiale diverse șantier Valea Mare”, Lot 2 ”Hală reparații și întreținere utilaje de tip service”",
+    "authority": "4317967 - MUNICIPIUL PITESTI - CONSILIUL LOCAL AL MUNICIPIULUI PITESTI",
+    "cpv": [
+      "45213250-0"
+    ],
+    "published": "2026-11-19T08:11:33+02:00",
+    "deadline": "2026-12-10T15:00:00+02:00",
+    "value": "3753504,34 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336684/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experienta profesionala\nȘef echipă proiectare / Șef Proiect / Coordonator Proiect / Director Proiect  sau Manager Proiect",
+        "description": "Componenta tehnică",
+        "weight": 30.0
+      },
+      {
+        "name": "Garanția extinsă a lucrării",
+        "description": "Componenta tehnică",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182379"
+  },
+  {
     "source": "TED",
     "id": "803836-2026",
     "title": "România – Lucrări de construcţii complete sau parţiale şi lucrări publice – Proiectare, executie lucrari si asistenta tehnica din partea proiectantului pentru obiectivul de investitii: „Corp nou DS + P + 5E in incinta Spitalului Judetean de Urgenta Dr. Pompei Samarian Calarasi”",
