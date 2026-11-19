@@ -1,6 +1,54 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1182413",
+    "title": "Proiectare si Executie \"EXTINDERE TRASEU PISTE PENTRU BICICLETE IN ORASUL BREZOI, JUDETUL VALCEA”.",
+    "authority": "2541894 - UAT ORAS BREZOI",
+    "cpv": [
+      "45233162-2"
+    ],
+    "published": "2026-11-19T16:53:07+02:00",
+    "deadline": "2026-12-07T15:00:00+02:00",
+    "value": "7413303,2 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100336759/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "P2 – TERMENUL DE PROIECTARE ȘI EXECUȚIE",
+        "description": "Termenul de finalizare a contractului va fi exprimat în luni.\nTermenul maxim acceptat pentru proiectarea și execuția lucrărilor este de 14 luni, din care maximum 2 luni pentru proiectare și 12 luni pentru execuția lucrărilor.\nTermenul minim luat în considerare pentru acordarea punctajului este de 8 luni.\nOfertele care prevăd un termen de proiectare și execuție mai mare de 14 luni vor fi declarate neconforme.\nPentru un termen ofertat mai mic de 8 luni nu se acordă punctaj suplimentar față de punctajul maxim de 15 puncte.",
+        "weight": 15.0
+      },
+      {
+        "name": "P3 – TERMENUL DE GARANȚIE ACORDAT LUCRĂRILOR",
+        "description": "Componentă tehnică.\nTermenul minim de garanție acceptat pentru lucrările executate este de 36 luni, calculat de la data recepției la terminarea lucrărilor, fără obiecțiuni.\nOfertele care prevăd o perioadă de garanție mai mică de 36 luni vor fi declarate neconforme.\nTermenul maxim luat în considerare pentru acordarea punctajului este de 60 luni. Pentru perioade de garanție mai mari de 60 luni nu se acordă punctaj suplimentar.",
+        "weight": 15.0
+      },
+      {
+        "name": "P4 – EXPERIENȚA MANAGERULUI DE CONTRACT/MANAGERULUI DE PROIECT",
+        "description": "Componentă tehnică.\n  Experiența specifică a Managerului de contract/Managerului de proiect reprezintă participarea persoanei propuse, în calitatea de Manager de contract/Manager de proiect/coordonator al tuturor activităților/director de contract/șef contract sau o poziție echivalentă, în cadrul unor contracte care au avut ca obiect proiectare și execuție de lucrări și/sau execuție de lucrări de construire/extindere/reabilitare/modernizare",
+        "weight": 15.0
+      },
+      {
+        "name": "•\tP5 – EXPERIENȚA PROIECTANTULUI ȘEF/ȘEFULUI ECHIPEI DE PROIECTARE",
+        "description": "Componentă tehnică.\n   Experiența specifică reprezintă participarea expertului propus în poziția de Proiectant șef/Șef echipă de proiectare în cadrul unor contracte de servicii de proiectare și/sau contracte de lucrări care au inclus proiectarea și care au avut ca obiect elaborarea și/sau actualizarea și/sau revizuirea unor documentații tehnico-economice, respectiv:\n•\tstudiu de fezabilitate și/sau;\n•\tproiect pentru autorizarea executării lucrărilor și/sau;\n•\tdocumentație de avizare a lucrărilor de intervenții și/sau;\n•\tproiect tehnic de execuție,\npentru lucrări de construire/extindere/reabilitare/modernizare infrastructura rutiera.",
+        "weight": 15.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182413"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "CN1098496",
     "title": "Acord-cadru având ca obiect „Servicii specializate de întreținere și menținere în funcțiune a iluminatului public, iluminatului arhitectural din parcuri, scuaruri, sere, parcări, locuri de joaca, locuri de odihna și recreere, precum și revizie, reparare si mentenanță preventivă”",
     "authority": "4204038 - Sectorul 2 al Municipiului Bucuresti",
