@@ -1,5 +1,559 @@
 [
   {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182591",
+    "title": "Proiectare și execuție lucrări pentru obiectivul „Lucrări de reparații și refacere a stratului de uzură al pardoselilor din beton, reabilitarea circuitelor de alimentare cu apă și înlocuirea gurilor de scurgere tip Geiger”",
+    "authority": "RO 27430581 - ADMINISTRATIA PIETELOR  FOCSANI  SA",
+    "cpv": [
+      "45262300-4"
+    ],
+    "published": "2026-11-25T17:49:39+02:00",
+    "deadline": "2026-12-10T15:00:00+02:00",
+    "value": "945000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100337140/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 50.0
+      },
+      {
+        "name": "Durata de execuție a lucrărilor",
+        "description": "Componenta tehnică – durata de execuție a lucrărilor, exprimată în zile calendaristice.",
+        "weight": 25.0
+      },
+      {
+        "name": "Experiența șefului de șantier",
+        "description": "Componenta tehnică – experiența profesională specifică a șefului de șantier nominalizat pentru executarea contractului, evaluată în funcție de numărul de proiecte/contracte eligibile în care acesta a coordonat personal lucrări relevante de betonare.",
+        "weight": 25.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182591"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1559563",
+    "title": "«Elaborare Proiect tehnic și Documentaţie Tehnică Pentru Autorizarea Executării Lucrărilor de Desfiinţare (D.T.A.D.) a unor imobile (SALA CAZANE) aflate în patrimoniul TERMOFICARE ORADEA S.A.»",
+    "authority": "RO31952982 TERMOFICARE ORADEA S.A.",
+    "cpv": [
+      "71221000-3"
+    ],
+    "published": "2026-11-25T13:33:37+02:00",
+    "deadline": "2026-12-14T15:00:00+02:00",
+    "value": "265000.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749000",
+    "match_reason": {
+      "cpv": [
+        "71221000"
+      ],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "description": "A se vedea Invitatia de participare nr. 18029 din data de 25.11.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "A se vedea Invitatia de participare nr. 18029 din data de 25.11.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "A se vedea Invitatia de participare nr. 18029 din data de 25.11.2026, publicata impreuna cu documentatia aferenta achizitiei pe site-ul entitatii contractante www.termoficareoradea.ro, sectiunea Achizitii publice - Invitatii de participare"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Atribuirea contractului se realizeaza, determinand (stabilind) oferta cea mai avantajoasa din punct de vedere economic, prin aplicarea criteriului de atribuire „pretul total cel mai scăzut” dintre ofertele declarate admisibile."
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (achizitie directa)::ADV1559563"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1559561",
+    "title": "Servicii de elaborarea și verificare tehnică As-Built și Autorizației de securitate la incendiu - I.P.J. Calarasi",
+    "authority": "3797115 INSPECTORATUL DE POLITIE JUDETEAN CALARASI",
+    "cpv": [
+      "71220000-6"
+    ],
+    "published": "2026-11-25T13:28:33+02:00",
+    "deadline": "2026-12-02T11:00:00+02:00",
+    "value": "90082.65",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749111",
+    "match_reason": {
+      "cpv": [
+        "71220000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii privind elaborarea și verificare tehnică a documentației As-Built și a documentației pentru obținerea autorizației de securitate la incendiu - conform Caiet de sarcini nr. 3490 din 16.11.2026.\n\nDocumentațiile complementare (Expertiza tehnică; Audit energetic; D.A.L.I., PTh și Detalii de execuție, Dispoziții de șantier) vor fi puse la dispoziția operatorilor economici pe baza solicitărilor acestora la adresa: emil.bancu@cl.politiaromana.ro.",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Conform anunțului de publicitate. Ofertele se transmit pe adresa: emil.bancu@cl.politiaromana.ro. Oferta va conține prețul unitar al produselor/serviciilor/lucrărilor, precum și valoarea totală fără TVA. Pretul va fi exprimat în lei, fără TVA, cu maximum două zecimale. Propunerea tehnică va conține specificațiile produselor/serviciilor/lucrărilor ofertate, din care să rezulte îndeplinirea cerințelor minime din anunțul de publicitate și din documentele atașate acestuia. Oferta depusă trebuie să îndeplinească în totalitate specificațiile tehnice minime obligatorii, așa cum au fost acestea stabilite prin anunțul de publicitate și documentele atașate. Oferta va include descrierea completă a produselor/serviciilor/lucrărilor ofertate (marca, tipul, caracteristicile, specificații tehnice, etc), precum și termenul de furnizare/prestare/execuție. Oferta va avea caracter ferm și obligatoriu din punct de vedere al conținutului, pe toată perioada de valabilitate. Valabilitatea ofertei trebuie să fie de minimum 30 de zile. Operatorul economic care nu va oferta întreaga cantitate de produse/servicii/lucrări nu i se va lua în considerare oferta. Nu se acceptă oferte a căror valoare financiară depășește valoarea estimată. Nu se acceptă oferte alternative."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Oferta dvs. trebuie să includă valoarea totală pentru Servicii de elaborarea și verificare tehnică As-Built și Autorizației de securitate la incendiu - conform anunțului de publicitate, inclusiv costurile de transport, manipulare, cu materialele și orice alte costuri adiacente prevăzute sau nu de Caietul de sarcini nr. 3490 din 16.11.2026. Prestarea serviciilor se va face conform Caiet de sarcini nr. 3490 din 16.11.2026. Ofertantul declarat câștigător are obligația de a publica în platforma SEAP produsele/serviciile/lucrările achiziționate, precum și obligația de a emite factura electronică prin intermediul sistemului național privind factura electronică RO e-Factura. Plata se va efectua prin ordin de plată (OP), în contul deschis la Trezoreria Statului, în termen de 30 de zile calendaristice de la data recepției produselor/serviciilor/lucrărilor, după caz, și a emiterii facturii electronice."
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Criteriul de atribuire este \"prețul cel mai scăzut\", stabilirea ofertei câștigătoare urmând a se realiza prin compararea prețurilor prezentate în cadrul ofertelor admisibile. Pentru stabilirea ofertei câștigătoare se va avea în vedere prețul ofertat pentru pachetul de produse/servicii/lucrări, urmând a fi declarat câștigător ofertantul care prezintă cel mai mic preț și ale cărui produse/servicii/lucrări îndeplinesc cerințele stabilite în prezentul anunț de publicitate."
+      }
+    ],
+    "documents": [
+      {
+        "name": "Caiet de sarcini nr. 3490 din 16.11.2026.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749111"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1559561"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1559558",
+    "title": "Servicii de proiectare pentru obiectivul de investiții „Refacere drum forestier Păltinoasa” , jud. Prahova",
+    "authority": "RO1590120 REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+    "cpv": [
+      "71322500-6"
+    ],
+    "published": "2026-11-25T13:16:08+02:00",
+    "deadline": "2026-12-03T14:00:00+02:00",
+    "value": "155324.7",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749114",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare/elaborare a documentațiilor tehnico-economice pentru obiectivul de investiții „Refacere drum forestier Păltinoasa” , jud. Prahova (studii de teren, expertiză tehnică, CU, D.A.A., D.A.L.I., DTAC, DTOE, P.T.) asistență tehnică",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Se vor respecta in totalitate cerintele prevazute in documentul 'Informatii pentru elaborarea ofertei ', incarcat in documentatia de atribuire la prezentul anunt."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform contract"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie proiectare DF Paltionoasa.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749114"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1559558"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1559549",
+    "title": "Servicii de proiectare la obiectivul de investitii \"Refacere drum forestier Bisca fara Cale\" - D.S. Prahova",
+    "authority": "RO1590120 REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+    "cpv": [
+      "71322500-6"
+    ],
+    "published": "2026-11-25T13:03:06+02:00",
+    "deadline": "2026-12-03T14:00:00+02:00",
+    "value": "244527.4",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749094",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare la obiectivul de investitii \"Refacere drum forestier Bisca fara Cale\"",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Se vor respecta in totalitate cerintele prevazute in documentul Instructiuni pentru ofertanti din cadrul documentatiei atasate prezentului anunt."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform draft contract"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie servicii de proiectare Refacere DF Bisca fara Cale.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749094"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1559549"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098703",
+    "title": "servicii de proiectare și execuție de lucrări, operare, întreținere și reparații în garanție și post garanție având ca obiect “Modernizarea sistemului benzi bagaje Terminal Extindere Plecări AIHCB – BHS NORD”",
+    "authority": "RO26490194 - Compania Nationala Aeroporturi Bucuresti SA",
+    "cpv": [
+      "45311100-1"
+    ],
+    "published": "2026-11-25T13:01:02+02:00",
+    "deadline": "2027-02-02T15:00:00+02:00",
+    "value": "197204795,58 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100337130/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Timpul de decizie nivelul 1 automat a sistemului EDS HB",
+        "description": "Timpul de decizie nivelul 1 automat a sistemului EDS HB",
+        "weight": 10.0
+      },
+      {
+        "name": "Detecția articolelor interzise",
+        "description": "Detecția articolelor interzise",
+        "weight": 10.0
+      },
+      {
+        "name": "Extra-Garantie acordata “produselor livrate”",
+        "description": "Extra-Garantie acordata “produselor livrate”",
+        "weight": 35.0
+      },
+      {
+        "name": "Amprenta de carbon pe ciclul de viață (LCA) – Motoare",
+        "description": "Amprenta de carbon pe ciclul de viață (LCA) – Motoare",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098703"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098698",
+    "title": "Servicii pentru supervizarea și managementul contractului de proiectare și execuție lucrări și dirigenție de șantier pentru “Amenajare centru de cercetare producție ATMP Hub Terapie celulară avansată (Nextgen) Refuncționalizare clădire existentă corp C3 Institutul Clinic Fundeni”",
+    "authority": "RO 4204003 - INSTITUTUL CLINIC FUNDENI",
+    "cpv": [
+      "71247000-1"
+    ],
+    "published": "2026-11-25T13:00:02+02:00",
+    "deadline": "2027-01-11T15:00:00+02:00",
+    "value": "2500000 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100337101/",
+    "match_reason": {
+      "cpv": [
+        "71247000"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Componenta tehnica - Experiența personalului-cheie",
+        "description": "Subfactorul tehnic 1.1.: Expert-cheie 1 – Coordonator Echipa/ Manager de Proiect",
+        "weight": 10.0
+      },
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Componenta tehnica - Experiența personalului-cheie",
+        "description": "Subfactorul tehnic 1.2.: Expert-cheie 2 – Coordonator supervizare proiectare – Arhitect diplomat",
+        "weight": 5.0
+      },
+      {
+        "name": "Componenta tehnica - Experiența personalului-cheie",
+        "description": "Subfactorul tehnic 1.3.: Expert-cheie 3 – Proiectant specializare instalații HVAC / Specialist instalații HVAC",
+        "weight": 5.0
+      },
+      {
+        "name": "Componenta tehnica - Experiența personalului-cheie",
+        "description": "Subfactorul tehnic 1.4.: Expert-cheie 4 - Diriginte de șantier autorizat domeniu 2 - domeniu Construcții Civile, Industriale și Agricole; Subdomeniul 2.3 Construcții Civile, Industriale și Agricole - categoria de importanță B (ordin 1496/2011)",
+        "weight": 5.0
+      },
+      {
+        "name": "Componenta tehnica - Experiența personalului-cheie",
+        "description": "Subfactorul tehnic 1.5.: Expert-cheie 5 – Specialist echipamente medicale",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul tehnic 2 „Metodologia pentru realizarea serviciilor ce fac obiectul contractului”",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "3.\tFactorul tehnic 3 „Programul de lucru pentru realizarea serviciilor ce fac obiectul contractului”",
+        "description": "Componenta tehnica",
+        "weight": 12.0
+      },
+      {
+        "name": "4.\tFactorul tehnic 4 „Personalul utilizat pentru realizarea serviciilor și organizarea acestuia”",
+        "description": "Componenta tehnica",
+        "weight": 6.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098698"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1559535",
+    "title": "Servicii de proiectare pentru obiectivul de investiții „Refacere drum forestier Vărbilău Ștefești” , jud. Prahova",
+    "authority": "RO1590120 REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+    "cpv": [
+      "71322500-6"
+    ],
+    "published": "2026-11-25T12:38:11+02:00",
+    "deadline": "2026-12-03T14:00:00+02:00",
+    "value": "201932.99",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749090",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare/elaborare a  documentațiilor tehnico-economice pentru obiectivul de investiții „Refacere drum forestier Vărbilău Ștefești” , jud. Prahova (studii de teren, expertiză tehnică, CU, D.A.A., D.A.L.I., DTAC, DTOE, P.T.) asistență tehnică",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Se vor respecta in totalitate cerintele prevazute in documentul 'Informatii pentru elaborarea ofertei ', incarcat in documentatia de atribuire la prezentul anunt."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform draft contract"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie proiectare DF Varbilau Stefesti.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749090"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1559535"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098724",
+    "title": "Proiectare (proiect tehnic de execuție și detalii de execuție), asistență tehnică din partea proiectantului și execuție lucrări pentru obiectivul de investiții „Consolidarea și reabilitarea energetică a blocului de locuințe A1 — zona centrală din municipiul Buzău”.",
+    "authority": "4233874 - MUNICIPIUL BUZAU",
+    "cpv": [
+      "45453000-7"
+    ],
+    "published": "2026-11-25T09:24:44+02:00",
+    "deadline": "2027-01-04T15:00:00+02:00",
+    "value": "13231424,16 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100337087/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare",
+        "asistenta tehnica din partea proiectantului"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Factorul tehnic 1 — Demonstrarea unei metodologii adecvate de implementare a contractului și planificarea adecvată a resurselor și a activităților",
+        "description": "Subfactorul 1.1 — Metodologia de proiectare și de execuție, corelată cu particularitățile obiectivului DETALIERE IN CAIETUL DE SARCINI",
+        "weight": 15.0
+      },
+      {
+        "name": "Factorul tehnic 1 — Demonstrarea unei metodologii adecvate de implementare a contractului și planificarea adecvată a resurselor și a activităților",
+        "description": "Subfactorul 1.2 — Resursele propuse și planificarea activităților.\n DETALIERE IN CAIETUL DE SARCINI",
+        "weight": 15.0
+      },
+      {
+        "name": "Factorul tehnic 2 — experiența profesională specifică a experților-cheie",
+        "description": "Șef de șantier\nExecuția, ca șef de șantier sau șef de șantier adjunct, a lucrărilor de consolidare și de creștere a eficienței energetice a clădirilor rezidențiale, publice sau similare, cel puțin C / CC2.\nDETALIERE IN CAIETUL DE SARCINI",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul tehnic 2 — experiența profesională specifică a experților-cheie",
+        "description": "Manager de proiect / Coordonator de proiect\nParticiparea, ca manager, coordonator sau șef de proiect, la un proiect privind proiectarea în vederea consolidării și creșterii eficienței energetice a clădirilor rezidențiale, publice sau similare.DETALIERE IN CAIETUL DE SARCINI",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul tehnic 2 — experiența profesională specifică a experților-cheie",
+        "description": "Arhitect\nParticiparea, ca arhitect, la un proiect privind proiectarea în vederea consolidării și creșterii eficienței energetice a clădirilor rezidențiale, publice sau similare.\nDETALIERE IN CAIETUL DE SARCINI",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul tehnic 2 — experiența profesională specifică a experților-cheie",
+        "description": "Expert inginer structuri\nParticiparea, ca inginer proiectant de structuri, la un proiect privind proiectarea consolidării și a creșterii eficienței energetice a clădirilor rezidențiale, publice sau similare, cel puțin C / CC2, pe baza unei expertize tehnice.DETALIERE IN CAIETUL DE SARCINI",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul tehnic 2 — experiența profesională specifică a experților-cheie",
+        "description": "Expert instalații sanitare și termice.\nParticiparea, ca inginer proiectant de instalații sanitare și/sau termice, la un proiect privind proiectarea în vederea consolidării și creșterii eficienței energetice a clădirilor rezidențiale, publice sau similare.\nDETALIERE IN CAIETUL DE SARCINI",
+        "weight": 5.0
+      },
+      {
+        "name": "Factorul tehnic 2 — experiența profesională specifică a experților-cheie",
+        "description": "Expert inginer instalații electrice\nParticiparea, ca inginer proiectant de instalații electrice, la un proiect privind proiectarea în vederea consolidării și creșterii eficienței energetice a clădirilor rezidențiale, publice sau similare.\nDETALIERE IN CAIETUL DE SARCINI",
+        "weight": 5.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098724"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1559416",
+    "title": "Servicii de proiectare Construire drum forestier Buda -DS Bacau",
+    "authority": "RO1590120 REGIA NATIONALA A PADURILOR - ROMSILVA RA",
+    "cpv": [
+      "71322500-6"
+    ],
+    "published": "2026-11-25T09:00:48+02:00",
+    "deadline": "2026-12-02T10:00:00+02:00",
+    "value": "114087.67",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100748935",
+    "match_reason": {
+      "cpv": [
+        "71322500"
+      ],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "description": "Servicii de proiectare \"Construire drum forestier Buda\" conform solicitarilor din caietul de sarcini atasat. Formularul de oferta trebuie sa contina pretul unitar si cantitatea conform anexei la caietului de sarcini. - Declaratie privind neincadrarea in prevederile art. 60 din Legea 98/2016 (respectarea regulilor referitoare la conflictul de interese). Operatorul economic va depune in cadrul ofertei certificat constatator emis de ONRC, din care sa reiasa ca operatorul economic este legal constituit, ca nu se afla în niciuna dintre situatiile de anulare a constituirii precum si faptul ca are capacitatea profesionala de a realiza activitatile care fac obiectul contractului. Propunere tehnica (descrierea modului de prestare a serviciilor in conformitate cu cerintele din caietul de sarcini). Operatorii economici participanti la procedura de atribuire vor da o declaratie prin care sa dovedeasca faptul ca, la elaborarea ofertei, au tinut cont de obligatiile relevante din domeniile mediului, social si al relatiilor de munca, care sunt la nivel national si european, precum si ca le vor respecta pe parcursul îndeplinirii contractului de furnizare. Oferta va respecta intrutotul caietul de sarcini atasat la prezentul anunt. Oferta se va intocmi conform cerintelor mentionate in caietul de sarcini. Operatorul economic va fi atestat conform Ordinul ministrului agriculturii, padurilor si dezvoltarii rurale nr. 576/2009, cu modificarile ulterioare (Ordinul nr.1733/2015).",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "Operatorii economici vor transmite oferta (documentele prevazute la ”Conditii de participare” prin e-mail (investitii@bacau.rosilva.ro), pana la data de 02.12.2026 ora 10:00. Achizitorul are deplina decizie in selectarea ofertantului castigator, fara a fi obligat sa prezinte justificari celorlalti participanti ofertanti la actiunea de achizitie a serviciilor definite mai sus. Finalizarea achizitiei se va face in SICAP prin intermediul catalogului electronic. Ofertantii vor publica in catalogul SICAP valoarea propunerii financiare, pana la data de 02.12.2026 ora 10:00 sub denumirea si codul CPV din cadrul prezentului anunt (in functie de acestea se va realiza filtrarea informatiilor din catalogul SICAP de catre autoritatea contractanta). Nepublicarea in SICAP a valorii ofertate in termenul comunicat mai sus de autoritatea contractanta, atrage respingerea ofertei depusa la sediu. Se vor lua in considerare doar ofertele transmise pe adresa de e-mail mentionata in anunt - (investitii@bacau.rosilva.ro)."
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "Conform atasament"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "Pretul cel mai scazut"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Documentatie Servicii de proiectare Construire drum forestier Buda.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100748935"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1559416"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "CN1098716",
+    "title": "Servicii de întocmire a documentațiilor tehnico-economice, fazele DALI, DTAC și PT + DE pentru obiectivul \"Casa Săsească Livezile\", din cadrul proiectului \"Sprijin pentru pregătirea documentațiilor tehnico-economice pentru proiecte care vizează următoarea perioadă de programare – Regiune atractivă rural\", finanțat prin Programul Regional Nord-Vest 2021-2027, cod SMIS 365475",
+    "authority": "4347550 - Judetul Bistrita-Nasaud",
+    "cpv": [
+      "92522200-8"
+    ],
+    "published": "2026-11-25T08:34:11+02:00",
+    "deadline": "2026-12-28T15:00:00+02:00",
+    "value": "186200 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100337077/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "dali"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "EXPERIENȚA SIMILARĂ ȘEF PROIECT COMPLEX",
+        "description": "Componenta tehnică",
+        "weight": 35.0
+      },
+      {
+        "name": "EXPERIENȚA SIMILARA ȘEF PROIECT SPECIALITATE - CONSOLIDARE/RESTAURARE STRUCTURI ISTORICE",
+        "description": "Componenta tehnică",
+        "weight": 25.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::CN1098716"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
+    "id": "SCN1182562",
+    "title": "Servicii de proiectare și lucrari de executie  pentru asigurarea necesarului de putere electrică – instalare spor de putere la CRCPSA Timișoara",
+    "authority": "22084517 - INSPECTORATUL GENERAL PENTRU IMIGRARI",
+    "cpv": [
+      "45310000-3"
+    ],
+    "published": "2026-11-25T08:10:46+02:00",
+    "deadline": "2026-12-16T15:00:00+02:00",
+    "value": "1192144,98 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100337073/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "proiectare"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 40.0
+      },
+      {
+        "name": "Experiența expertului cheie:– Componenta tehnică 1: Pondere: 30%",
+        "description": "Componenta tehnică 1: Pondere: 30%",
+        "weight": 30.0
+      },
+      {
+        "name": "Termenul de execuție a lucrărilor",
+        "description": "Componenta tehnică 2\nPondere: 30%",
+        "weight": 30.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182562"
+  },
+  {
     "source": "TED",
     "id": "817553-2026",
     "title": "România – Lucrări de construcţii de intersecţii cu sens giratoriu – Elaborare Proiect Tehnic si Executie Lucrari pentru Autostrada de centura Bucuresti, km 0+000 – km 100+900, sector Centura Nord km 0+000 - 52+770 (Asigurarea tuturor relatiilor de trafic in nodul rutier pe DN7 (km 9+400) cu Autostrada A0)",
