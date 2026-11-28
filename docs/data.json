@@ -1,6 +1,90 @@
 [
   {
     "source": "SICAP (anunt de participare)",
+    "id": "SCN1182732",
+    "title": "”Realizare spații verzi - parcuri în orașul Nădlac prin reconversia unor terenuri degradate - COD SMIS 2021: 366766”",
+    "authority": "3518822 - ORASUL NADLAC",
+    "cpv": [
+      "45112711-2"
+    ],
+    "published": "2026-11-27T20:40:56+02:00",
+    "deadline": "2026-12-14T15:00:00+02:00",
+    "value": "4970940,15 RON",
+    "url": "https://e-licitatie.ro/pub/procedure/view/100337361/",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "requirements": [
+      {
+        "name": "Pretul ofertei",
+        "description": "Componenta financiara",
+        "weight": 60.0
+      },
+      {
+        "name": "„Experiența profesională specifică a „Managerului de contract/ proiect”",
+        "description": "Experiența specifică a Managerului de contract/ proiect (funcție de titulatura deținută în proiect) înseamnă participarea în calitatea solicitată (coordonator al tuturor activităților de execuție de lucrări al unei investiții), în minimum 1 (un) contract de supervizare/coordonare de execuție lucrări și/sau contract de supervizare/coordonare de proiectare și execuție lucrări de construcție nouă și/sau lărgire și/sau extindere și/sau reabilitare și/ sau modernizare parcuri urbane/spații verzi urbane și/sau alte tipuri de lucrări similare și/sau superioare din punct de vedere al complexității și scopului (inclusiv proiecte de regenerare urbană).",
+        "weight": 15.0
+      },
+      {
+        "name": "“Durata de garanție extinsă acordată lucrărilor”",
+        "description": "Componenta tehnica\nAutoritatea contractanta acorda punctaj pentru ofertele care vor oferta o perioada de garantie a lucrarilor suplimentara fata de perioada de garantie minim acceptata de 36 de luni.",
+        "weight": 15.0
+      },
+      {
+        "name": "“Recipiente și ambalaje din materiale reciclabile/ reutilizabile/ biodegradabile aferente produselor utilizate pentru amenajarea spațiilor publice verzi”",
+        "description": "Componenta de mediu \nÎn conformitate cu prevederile Ordinului nr. 1946/ 2024 se vor avea în vedere următoarele: Pentru\nrecipientele reutilizabile, ofertanții trebuie să prezinte o descriere a sistemului de preluare, de\nasemenea, o copie a acordului semnat cu pepiniera, dacă nu au activități de pepinieră. Pentru\nrecipientele reciclabile/biodegradabile, ofertanții trebuie să prezinte documente justificative (acorduri cu furnizorii, declarații de conformitate, etc.) din care să rezulte ca recipientele plantelor vor fi reciclabile/ biodegradabile, precum și modalitatea de colectare și transport către instalațiile de colectare specializate, în vederea reciclării.\nCriteriul vizează modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje așa cum sunt definite în Directiva 94/62/CE, modificată prin Directiva 2004/12/CE, respectiv Legea 249/28.10.2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje.",
+        "weight": 10.0
+      }
+    ],
+    "documents": [],
+    "key": "SICAP (anunt de participare)::SCN1182732"
+  },
+  {
+    "source": "SICAP (achizitie directa)",
+    "id": "ADV1560076",
+    "title": "Materiale și echipamente pentru dotarea atelierelor Facultății de Construcții, Cadastru și Arhitectură (FCCA)",
+    "authority": "4287939 Universitatea din Oradea",
+    "cpv": [
+      "43800000-1"
+    ],
+    "published": "2026-11-27T18:55:30+02:00",
+    "deadline": "2026-12-03T09:00:00+02:00",
+    "value": "19500.0",
+    "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749732",
+    "match_reason": {
+      "cpv": [],
+      "keywords": [
+        "arhitectura"
+      ]
+    },
+    "description": "conform documentatiei atasate",
+    "requirements": [
+      {
+        "name": "Conditii de participare",
+        "description": "conform documentatiei atasate"
+      },
+      {
+        "name": "Conditii contractuale",
+        "description": "conform documentatiei atasate"
+      },
+      {
+        "name": "Criteriul de atribuire",
+        "description": "max 15 zile de la receptie"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Invitatie_si_Caiet_de_sarcini_dotare_ateliere_FCCA.pdf",
+        "url": "https://e-licitatie.ro/pub/notices/adv-notices/view/100749732"
+      }
+    ],
+    "key": "SICAP (achizitie directa)::ADV1560076"
+  },
+  {
+    "source": "SICAP (anunt de participare)",
     "id": "SCN1182714",
     "title": "Proiectare si execuție lucrări privind instalaţia de racordare ṣi instalaţia de utilizare în vederea realizării branṣamentului electric pentru obiectivul de investiţii „ÎNFIINŢARE CENTRALĂ FOTOVOLTAICĂ ÎN ORAṢUL ODOBEṢTI, JUDEŢUL VRANCEA”",
     "authority": "R 4297827 - ORASUL ODOBESTI (CONSILIUL LOCAL al ORASULUI ODOBESTI)",
